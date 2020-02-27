@@ -1,0 +1,402 @@
+﻿<doc id='N0480'>
+<head>
+<title>Are you a tiger mom ?</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>22/10/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Are you a tiger mom ?</s>
+<s id='vn1'>Bạn có phải là một " con hổ mẹ " ?</s>
+<a id='ev1'>1-2,3;2-1;3-5;4-7,8;5-9;</a>
+</spair>
+<spair id='2'>
+<s id='en2'>Experts say most parents are too lenient with their kids .</s>
+<s id='vn2'>Nhiều chuyên gia cho rằng hầu hết bố mẹ đều quá dễ dãi , nuông chiều con cái .</s>
+<a id='ev2'>1-1,2,3;2-5;3-6,7;4-8,9;5-10;6-11;7-12,13;10-17,18;</a>
+</spair>
+<spair id='3'>
+<s id='en3'>But some fall into the opposite camp .</s>
+<s id='vn3'>Nhưng cũng có một số người hoàn toàn trái ngược .</s>
+<a id='ev3'>1-1;2-4,5;4-7,8;6-9,10;</a>
+</spair>
+<spair id='4'>
+<s id='en4'>16 signs you 're too strict with your kids</s>
+<s id='vn4'>16 dấu hiệu cho thấy bạn quá khắt khe với con</s>
+<a id='ev4'>1-1;2-2,3;3-6;5-4,5,7;6-8,9;7-10;9-11;</a>
+</spair>
+<spair id='5'>
+<s id='en5'>If this is you , it may be time to change your discipline style .</s>
+<s id='vn5'>Nếu bạn cũng như thế thì có lẽ đã đến lúc phải thay đổi kiểu kỹ luật của mình rồi đấy .</s>
+<a id='ev5'>1-1;4-2;6-4,6;7-3;8-7;9-8;10-9,10,12;11-13,14;12-18,20;13-16,17;14-15;</a>
+</spair>
+<spair id='6'>
+<s id='en6'>If your 4-year-old gets sassy at the dinner table , do you wash her mouth out with soap , give her a time-out , or take away a prized position ?</s>
+<s id='vn6'>Nếu bé con 4 tuổi của bạn hỗn láo ngay tại bàn ăn tối thì bạn có rửa miệng cho nó bằng xà phòng , cho nó nghỉ ăn , hay không cho nó ngồi chỗ đó nữa ?</s>
+<a id='ev6'>1-1;2-6,7;3-4,5;5-8,9;6-10,11;8-13,14;9-12;12-16;13-18;14-20;15-19;17-22;18-23,24;20-26;21-27;23-28;25-31;26,27-32,33;30-36;</a>
+</spair>
+<spair id='7'>
+<s id='en7'>What about your fifth grader who is not doing well in school and refuses to do his homework -- do you take away his television or video privileges ?</s>
+<s id='vn7'>Còn nếu đứa con lớp năm của bạn học kém ở trường và không chịu làm bài tập ở nhà thì bạn có không cho nó coi ti-vi hoặc vi-đi-ô không ?</s>
+<a id='ev7'>3-7,8;4-6;5-3,4,5,6;8,10-10;9-9;11-11;12-12;13-13;14-14,15;16-16;18-17,18,19,20;21-22;22,23-23,24,25;25-28;26-29;27-30;</a>
+</spair>
+<spair id='8'>
+<s id='en8'>And what do you do when your teen starts missing curfew ?</s>
+<s id='vn8'>Và bạn sẽ làm gì nếu con mình ở tuổi teen bắt đầu không tuân thủ theo nguyên tắc ?</s>
+<a id='ev8'>1-1;2-5;3,5-4;4-2;7-7;8-10,11;9-12,13;10-14,15,16;11-17,18,19;</a>
+</spair>
+<spair id='9'>
+<s id='en9'>Discipline dilemmas plague all parents .</s>
+<s id='vn9'>Bậc cha mẹ nào cũng phiền toái với những tình thế khó xử về kỹ luật của mình .</s>
+<a id='ev9'>1-14,15,16;2-9,10,11,12,13;3-6,7;5-1,2,3;</a>
+</spair>
+<spair id='10'>
+<s id='en10'>How can you tell if you are taking your discipline techniques too far or not far enough ?</s>
+<s id='vn10'>Làm sao bạn có thể biết được là đã quá khắt khe với con hay là chưa đủ nghiêm khắc ?</s>
+<a id='ev10'>1-1,2;2-4,5;3-3;4-6;7-7,8;9-14;10-11,12;12-10;14-15;15-17;16-19,20;17-18;</a>
+</spair>
+<spair id='11'>
+<s id='en11'>That classic parenting dilemma is at the heart of controversy about Amy Chua 's memoir , The Battle Hymn of the Tiger Mother .</s>
+<s id='vn11'>Tình thế tiến thoái lưỡng nan của người làm bố mẹ cổ điển là tâm điểm bất đồng về truyện ký của tác giả Amy Chua , The Battle Hymn of the Tiger Mother .</s>
+<a id='ev11'>2-12,13;3-8,9,10,11;4-1,2,3,4,5,6;8-15,16;10-17,18;12-25;13-26;15-20,21,22,23,24;17-28;18-29;19-30;20-31;21-32;22-33;23-34;</a>
+</spair>
+<spair id='12'>
+<s id='en12'>In the book , Chua calls her eldest daughter " garbage " for being disrespectful in front of guests , throws away a homemade birthday card because it was n't up to snuff , bans sleepovers , and refuses to accept anything other than straight A 's from her two daughters .</s>
+<s id='vn12'>Trong tác phẩm này , Chua gọi con gái lớn của mình là " rác rưởi , đồ vô dụng " vì tội vô lễ trước mặt khách , bà quăng tấm thiệp sinh nhật tự làm của em đi vì nó không đẹp , cấm em không được ngủ qua đêm ở nhà người lạ , không chấp thuận được điều gì ngoài điểm A của 2 con gái .</s>
+<a id='ev12'>1-1;2-4;3-2,3;5-6;6-7;7-11,12;8-10;9-8,9;11-15,16,18,19,20;13-22;15-23,24,25;17-26,27;19-28;21-31;24-36,37,38,39;25-34,35;26-32,33;27-41;28-42;30-43;33-44;35-46;36-50,51,52;39-58;41-59,60;42-62,63;46-66;47-67;50-68;51-69,70;</a>
+</spair>
+<spair id='13'>
+<s id='en13'>That 's left many parents wondering if they are too strict , or perhaps too lenient , with their own children - and what effect it will have on their children when they grow up .</s>
+<s id='vn13'>Điều này làm cho nhiều bậc làm cha mẹ phải hoang mang không biết là mình có quá nghiêm khắc , hoặc quá dễ dãi với con - và con cái mình sẽ bị ảnh hưởng thế nào khi chúng trưởng thành .</s>
+<a id='ev13'>1-1,2;4-5;5-6,7,8,9;6-10,11,12;10-18;11-19,20;13-22;15-23;16-24,25;18-26;21-27;24-37,38;25-35,36;27-33;30-32;31-30,31;32-39;33-40;34,35-41,42;</a>
+</spair>
+<spair id='14'>
+<s id='en14'>" In America , we tend not to be strict enough and everyone wants to be friends with kids , " says Elizabeth J. Short , PhD , a psychology professor and the associate director of the Schubert Center at Case Western Reserve University in Cleveland .</s>
+<s id='vn14'>Tiến sĩ Elizabeth J. Short , giáo sư tâm lý học và phó giám đốc của Trung tâm Schubert ở Trường Đại học Case Western Reserve , Cleveland cho biết " Ở Mỹ , chúng tôi thường không khắt khe với trẻ con và ai cũng muốn làm bạn với chúng . " .</s>
+<a id='ev14'>2-32;3-33;5-35,36;7-38;10-39,40;13-51;14-47;17-48,49;19-42,43;22-29,30;23-3;24-4;25-5;30-9,10,11;31-7,8;32-12;34-13;35-14,15;36-16;38-19;39-17,18;40-20;41-24;42-25;43-26;44-21,22,23;46-28;</a>
+</spair>
+<spair id='15'>
+<s id='en15'>But being too strict is risky because it could undermine the kids .</s>
+<s id='vn15'>Nhưng hành vi quá nghiêm khắc cũng rất nguy hiểm bởi nó có thể ngấm ngầm làm hại đứa trẻ .</s>
+<a id='ev15'>1-1;3-4;4-5,6;5-8;6-9,10;7-11;8-12;9-13,14;10-15,16,17,18;12-19,20;</a>
+</spair>
+<spair id='16'>
+<s id='en16'>" They are eager to please their parents and worried about parental approval , so you end up with kids that are anxious and indecisive , " Short says .</s>
+<s id='vn16'>Short cũng cho hay " Bọn trẻ rất muốn làm vui lòng bố mẹ và lo lắng về sự đồng ý của bố mẹ , thế nên bạn làm cho chúng không còn hồi hộp và do dự nữa . " .</s>
+<a id='ev16'>2-6,7;4-8,9;6-10,11;8-13,14;9-15;10-16,17;12-23,24;13-19,20,21;15-26,27;16-28;18-29;20-31;22-33;23-34,35;24-36;25-37,38;28-1;29-2,3,4;</a>
+</spair>
+<spair id='17'>
+<s id='en17'>" Or sometimes they know there is no way they can hit the bar you have set , so they do n't even try . "</s>
+<s id='vn17'>" Hoặc đôi khi chúng biết chẳng có cách nào đạt được mục tiêu bạn đặt ra , nên chúng thậm chí là chẳng cố gắng làm gì . "</s>
+<a id='ev17'>2-2;3-3,4;4-5;5-6;6-8;8-7;9-9;12-11,12;14-13,14;15-15;17-16,17;19-19;20-20;22-24;23-21,22;24-25,26;</a>
+</spair>
+<spair id='18'>
+<s id='en18'>Here are 16 signs that you are too strict with your kids , and what you can do about it .</s>
+<s id='vn18'>Dưới đây là 16 dấu hiệu cho thấy bạn quá khắt khe với con , và điều bạn có thể làm ngay bây giờ .</s>
+<a id='ev18'>1-1,2;2-3;3-4;4-5,6;5-7,8;6-9;8-10;9-11,12;10-13;12-14;14-16;15-17;16-18;17-19,20;</a>
+</spair>
+<spair id='19'>
+<s id='en19'>1 . You set too many rules .</s>
+<s id='vn19'>1 . Bạn đưa ra quá nhiều luật .</s>
+<a id='ev19'>1-1;3-3;4-4,5;5-6;6-7;7-8;</a>
+</spair>
+<spair id='20'>
+<s id='en20'>" It is a sign that you are too strict if you set so many rules that you can't possibly enforce them all ," says Nancy Darling , PhD , a psychology professor at Oberlin College in Oberlin , Ohio .</s>
+<s id='vn20'>Tiến sĩ Nancy Darling , nhà giáo sư tâm lý học ở Trường Đại học Oberlin , Oberlin , Ohio cho biết " Đây là dấu hiệu cho thấy bạn quá nghiêm khắc nếu đặt ra quá nhiều luật đến nỗi không tài nào thực hiện được .</s>
+<a id='ev20'>3,4-25;6-28,29;7-30;9-31;11-34;13-35;14-37;16-39;19-42;20-43,44;21-45,46,47;26-3;27-4;32-9,10,11;33-6,7,8;34-12;36-16;38-18;40-20;</a>
+</spair>
+<spair id='21'>
+<s id='en21'>Instead , set fewer rules and reinforce them very consistently .</s>
+<s id='vn21'>Thay vì vậy , hãy nên đưa ra ít nguyên tắc hơn và củng cố chúng thường xuyên .</s>
+<a id='ev21'>1-1,2,3;3-5;4-9;5-10,11;6-13;7-14,15;8-16;10-17,18;</a>
+</spair>
+<spair id='22'>
+<s id='en22'>" Follow-through is really important , " .</s>
+<s id='vn22'>" Thực hiện được mới thực sự là quan trọng . " .</s>
+<a id='ev22'>2-2,3;3-8;4-6,7;5-9,10;</a>
+</spair>
+<spair id='23'>
+<s id='en23'>2 . Your threats are over the top .</s>
+<s id='vn23'>2 . Bạn hăm doạ con quá đáng .</s>
+<a id='ev23'>1-1;3-3;4-4,5;6-7;8-8;</a>
+</spair>
+<spair id='24'>
+<s id='en24'>" Saying ' I am going to destroy all your toys ' or 'throw you out of the house ' won't work because if your kid says 'fine' , all you can do is back down , " Darling says .</s>
+<s id='vn24'>Darling chia sẻ thêm những câu nói kiểu " Mẹ sẽ đập hết đồ chơi của con " hoặc " quăng con ra đường " sẽ chẳng có tác dụng gì đâu bởi nếu con bạn trả lời là " Vâng . Mẹ cứ làm đi " , thì giờ bạn nên kiềm chế , rút lui , " .</s>
+<a id='ev24'>4-10;6-11;8-12;9-13;10-16;11-14,15;13-19;14-21;15-22;16-23,24;21-26,27;22-29,30;23-33;24-34;25-36;26-35;27-37,38;28-41;32-52;33-53,54;35-56,57;39-1;40-2,3,4,5,6,7,8;</a>
+</spair>
+<spair id='25'>
+<s id='en25'>" What you have done is make an empty threat , and taught your child to misbehave , " she says .</s>
+<s id='vn25'>" Cách hăm doạ của bạn chỉ là lối doạ suông , và dạy cho bé cư xử không đúng đắn , " .</s>
+<a id='ev25'>2-2;3-6;7-7;10-9,10,11;12-13;13-14;15-16;17-17,18,19,20,21;</a>
+</spair>
+<spair id='26'>
+<s id='en26'>" It 's a problem when you can't back down and know that you have made a mistake because you do n't even believe in what you are doing anymore . "</s>
+<s id='vn26'>" Thật rắc rối nếu bạn không chịu chấp thuận và không biết mình mắc lỗi bởi thậm chí bạn không còn tin vào điều mình đang làm nữa . "</s>
+<a id='ev26'>2-2;5-3,4;6-5;7-6;8-7;9-9,10;11-11;12-13;14-14;18-15,16;19-17;20-20;22-21;23-18,19;24-23;25-24;26-25;27-26;28,29-27,28;30-29;</a>
+</spair>
+<spair id='27'>
+<s id='en27'>3 . Your rules overstep your parental boundaries .</s>
+<s id='vn27'>3 . Quy tắc của bạn vượt khuôn khổ của bố mẹ .</s>
+<a id='ev27'>1-1;3-5,6;4-3,4;5-7;7-10,11,12;8-8,9;</a>
+</spair>
+<spair id='28'>
+<s id='en28'>" Parents can and should set rules about how a child does in school , treats other people , and safety issues , " Darling says .</s>
+<s id='vn28'>Darling cho biết " Bố mẹ có thể và nên đặt cho con nhiều nguyên tắc về cách hoạt động , học tập ở trường , vấn đề an toàn và cư xử với người khác . " .</s>
+<a id='ev28'>2-5,6;3-7,8;4-9;5-10;6-11;7-14,15,16;8-17;9-18;11-13;12-19,20;13-24;14-22,23,25;17-36;18-35;20-31;21-29,30;22-27,28;25-1;26-2,3;</a>
+</spair>
+<spair id='29'>
+<s id='en29'>Rules about safety and moral issues are OK , but rules about personal issues may not be appropriate , she says .</s>
+<s id='vn29'>Các luật lệ về an toàn và vấn đề đạo đức lúc nào cũng được hoan nghênh , nhưng đối với các vấn đề cá nhân thì có lẽ không phù hợp .</s>
+<a id='ev29'>1-1,2,3;2-4;3-5,6;4-7;5-10,11;6-8,9;8-16,17;10-19;12-20,21;13-25,26;14-23,24;15-28,29;16-30;18-31,32;</a>
+</spair>
+<spair id='30'>
+<s id='en30'>It is not always so black and white , because parents and kids do n't always agree about which issues are personal and which are related to safety or morals .</s>
+<s id='vn30'>Không phải lúc nào cũng trắng đen rạch ròi bởi bố mẹ và con cái không phải lúc nào cũng thống nhất với nhau chuyện gì là riêng tư và chuyện gì là an toàn và thuộc về đạo đức .</s>
+<a id='ev30'>3-1,2;4-3,4;5-5;6-7;8-6;10-10;11-11,12;12-13;13-14,15;15-16;16-20;17-21,22;18-23;19-26;20-25;22-28,29;23-30;24-31,32;25-33;26-37,38;28-34,35;29-36;30-39,40;</a>
+</spair>
+<spair id='31'>
+<s id='en31'>" Sometimes what the parents say is about safety or morality , kids say is personal . " .</s>
+<s id='vn31'>" Đôi khi bố mẹ cho là an toàn và đạo đức thì con cái lại nghĩ rằng đó là việc cá nhân . " .</s>
+<a id='ev31'>2-2,3;5-4,5;6-6,7;9-8,9;10-10;11-11,12;13-14,15;14-16,17,18;15-20;16-21,22,23;</a>
+</spair>
+<spair id='32'>
+<s id='en32'>For instance , music with violent or demeaning lyrics may strike parents as something to set rules about to avoid bad influences , but their teens may say it 's just their personal taste .</s>
+<s id='vn32'>Chẳng hạn như , nhạc bạo lực hoặc âm lời thô thiển có thể làm cho bố mẹ bị sốc và không muốn cho con nghe nhằm tránh ảnh hưởng xấu , nhưng giới thanh thiếu niên lại có thể cho rằng đó chỉ là sở thích cá nhân .</s>
+<a id='ev32'>2-1,2,3;4-5;6-6,7;7-8;8-11,12;9-10;10-13,14;11-15,16;12-17,18;19-24;20-27,28;21-31;22-29,30;24-33;26-34,35,36,37;27-39,40;28-42;29-43;31-44;33-48,49;34-46,47;</a>
+</spair>
+<spair id='33'>
+<s id='en33'>4 . Your love is conditional ( or your words sound that way ) .</s>
+<s id='vn33'>4 . Tình yêu bạn dành cho con có điều kiện ( hoặc ngôn lời của bạn nghe có vẻ như thế ) .</s>
+<a id='ev33'>4-3,4;6-6,7,8,9,10,11;8-13;9-16,17;10-14,15;11-18;</a>
+</spair>
+<spair id='34'>
+<s id='en34'>" Say , " I always love you , but I expect you to behave in this way " or , " I know you can do better , " " Darling says .</s>
+<s id='vn34'>Darling khuyên bạn nên nói với con " Mẹ lúc nào cũng yêu con , nhưng mẹ muốn con cư xử theo cách này " , hoặc " Mẹ biết con có thể làm được tốt hơn mà " .</s>
+<a id='ev34'>5-9;6-12;7-13;8-14;10-16;11-17;12-18;13-19;15-20,21;16-22;17-24;18-23;20-27;23-29;24-30;25-31;26-32,33;27-34,35;28-36,37;32-1;33-2,3,4,5;</a>
+</spair>
+<spair id='35'>
+<s id='en35'>" Do n't say , " You are garbage if you do n't behave in this way . " "</s>
+<s id='vn35'>Đừng nói với trẻ " Con là thứ vô dụng nếu không làm như thế này . "</s>
+<a id='ev35'>2,3-1;4-2;7-6;8-7;9-8,9,10;10-11;13-12;16-16;17-13,14,15;</a>
+</spair>
+<spair id='36'>
+<s id='en36'>The latter is attacking your child 's core .</s>
+<s id='vn36'>Kiểu nói này có thể công kích nhân cách của trẻ .</s>
+<a id='ev36'>1-3;2-1,2;4-6,7;6-11;7-10;8-8,9;</a>
+</spair>
+<spair id='37'>
+<s id='en37'>5 . You do n't watch your words .</s>
+<s id='vn37'>5 . Bạn không giữ gìn , để ý lời nói của mình .</s>
+<a id='ev37'>1-1;3-3;4-5,6;5-4;7-12,13;8-10,11;</a>
+</spair>
+<spair id='38'>
+<s id='en38'>It 's not just how you say it ; it is what you say .</s>
+<s id='vn38'>Điều quan trọng không phải chỉ là cách bạn nói mà là lời bạn nói ra .</s>
+<a id='ev38'>1-1,2,3;3-4,5;4-6;5-8;6-9;7-10;8,10-11;11-12;13-14;14-15;</a>
+</spair>
+<spair id='39'>
+<s id='en39'>Even if your tone is measured , your words matter .</s>
+<s id='vn39'>Cho dù là giọng của bạn có êm ái , dịu dàng đi nữa thì ngôn từ của bạn mới là vấn đề .</s>
+<a id='ev39'>1-1,2;3-5,6;4-4;6-8,9,11,12;8-18,19;9-16,17;10-22,23;</a>
+</spair>
+<spair id='40'>
+<s id='en40'>" Calm voices can say humble things , " .</s>
+<s id='vn40'>" Giọng nói dịu dàng , điềm tĩnh có thể nói điều ôn hoà , khiêm tốn . " .</s>
+<a id='ev40'>2-4,5;3-2,3,7,8;4-9,10;5-11;6-13,14,16,17;7-12;</a>
+</spair>
+<spair id='41'>
+<s id='en41'>" Content is more important than the way it is said . "</s>
+<s id='vn41'>" Nội dung quan trọng hơn nhiều so với cách truyền đạt lời nói . "</s>
+<a id='ev41'>2-2,3;5-4,5;6-6,7;7-9;8-10;11-11,12,13,14;</a>
+</spair>
+<spair id='42'>
+<s id='en42'>6 . You do n't put in the time .</s>
+<s id='vn42'>6 . Bạn không dành thời gian cùng con .</s>
+<a id='ev42'>1-1;3-3;5-4;6-5;9-6,7;</a>
+</spair>
+<spair id='43'>
+<s id='en43'>When you do ask your child to do something difficult , work alongside them instead of ordering them to do it .</s>
+<s id='vn43'>Khi yêu cầu trẻ làm một việc gì đó khó khăn , hãy nên đồng hành với chúng thay vì ra lệnh và bắt chúng tự làm lấy .</s>
+<a id='ev43'>1-1;4-2,3;6-4;7-7;8-5;9-8,9;10-10,11;12-13,14;13-15,16;14-18;15-19,20;17-21,22;18-25;20-27;</a>
+</spair>
+<spair id='44'>
+<s id='en44'>" Good parenting is about putting the time in " .</s>
+<s id='vn44'>" Bố mẹ tốt sẽ cùng con làm mọi thứ đấy . " .</s>
+<a id='ev44'>2-4;3-2,3;5-6;6-8;8-9,10,11;</a>
+</spair>
+<spair id='45'>
+<s id='en45'>7 . You are always the cop , nag , monitor , or reminder .</s>
+<s id='vn45'>7 . Bạn luôn làm mật thám , cằn nhằn , theo dõi ; hoặc nhắc nhở .</s>
+<a id='ev45'>1-1;3-3;5-4;7-6,7;9-9,10;11-12,13;13-15;14-16,17;</a>
+</spair>
+<spair id='46'>
+<s id='en46'>If these are the mainstays of your relationship to the exclusion of many other things that one could and should do as a parent , you may be too strict , " says Ron Taffel , PhD , a New York child psychologist and the author of several books on parenting , including Childhood Unbound .</s>
+<s id='vn46'>ngoài những điều mà các bậc bố mẹ khác có thể làm , nếu mối quan hệ của bạn thường như thế thì có lẽ là bạn quá nghiêm khắc rồi đấy , Tiến sĩ Ron Taffel , nhà tâm lý trẻ em ở New York và là tác giả của một số sách dạy làm bố mẹ , như quyển Childhood Unbound .</s>
+<a id='ev46'>1-1;2-2,3;8-15,16,17;20-24,25;26-27;28-31;29-28;30-29,30;34-36;35-37;37-34,35;40-45;41-46;42-42,43;43-39,40,41;45-48;46-49,50;47-51;48-52,53;49-54;51-56,57,58;54-62;55-63;</a>
+</spair>
+<spair id='47'>
+<s id='en47'>8 . Your child leaves you out .</s>
+<s id='vn47'>8 . Con trẻ không muốn đến gần bạn .</s>
+<a id='ev47'>1-1;4-3,4;5-7,8;6-9;7-5,6;</a>
+</spair>
+<spair id='48'>
+<s id='en48'>" If your child talks to you less and less about the things that matter , this could be a sign that you are too strict , " Taffel says .</s>
+<s id='vn48'>Theo Taffel , " Nếu trẻ ngày càng nói chuyện với bạn ít dần về những điều quan trọng thì có lẽ đây là dấu hiệu cho thấy bạn quá khắt khe với con " .</s>
+<a id='ev48'>2-5;4-6;5-9,10;6-11;7-12;8,10-13;11-15;12-16;13-17;15-18,19;17-23;19-20,21,24;21-25,26;22-27,28;23-29;25-30;26-31,32;29-2;30-1;</a>
+</spair>
+<spair id='49'>
+<s id='en49'>" You can win the battle , but lose the war .</s>
+<s id='vn49'>" Bạn có thể thắng trận đấy , nhưng đã mất cuộc chiến .</s>
+<a id='ev49'>2-2;3-3,4;4-5;6-6;8-9;9-11;11-12,13;</a>
+</spair>
+<spair id='50'>
+<s id='en50'>You can get your child to do things that you like them to do , but they are not opening up to you about the things that make them anxious or uneasy . "</s>
+<s id='vn50'>Bạn có thể bắt con làm những gì bạn thích , nhưng chúng không nói cho bạn biết về điều làm chúng lo âu hoặc làm chúng không thoải mái tí nào . "</s>
+<a id='ev50'>1-1;2-2,3;5-5;7-6;8-7;9-8;10-9;11-10;16-12;17-13;19-14;23-17,18;24-19;26-20;28-21;29-22;30-23,24;31-25;32-28,29,30;</a>
+</spair>
+<spair id='51'>
+<s id='en51'>9 . Your children do n't bring their friends over anymore .</s>
+<s id='vn51'>9 . Con của bạn không dẫn bạn về nhà nữa .</s>
+<a id='ev51'>3-4,5;4-3;6-6;7-7;9-8;10-9;11-11;</a>
+</spair>
+<spair id='52'>
+<s id='en52'>" Kids want rules and all kids will gravitate to a house with rules , but if you spend your time reminding children about the rules , criticizing your child in front of other kids , and asking too many probing questions , your kids may stop bringing their friends by , " Taffel says .</s>
+<s id='vn52'>Taffel chia sẻ " Trẻ nhỏ nào cũng thích có nguyên tắc và chuộng gia đình có nguyên tắc , nhưng nếu bạn cứ luôn miệng nhắc con về luật này , luật nọ , chỉ trích , mắng mỏ con trước mặt những đứa trẻ khác , và hỏi quá nhiều câu hỏi thăm dò , thì ắt là con bạn có thể sẽ chẳng dẫn bạn bè về nhà nữa đâu .</s>
+<a id='ev52'>2-5;3-8,9;4-11,12;5-13;9-14;12-15,16;13-17;14-18,19;16-21;17-22;18-23;21-25;22-27;23-28;24-29;26-30,31,33,34;28-36,37,39,40;30-41;32-42;33-44;34-47;35-45,46;38-50;39-51;40-52;41-55,56;42-53,54;44-62;45-61;46-63,64;48-66,67;50-68,69;54-1;55-2,3;</a>
+</spair>
+<spair id='53'>
+<s id='en53'>" If children do ask for return play dates , and other kids talk to you and approach you , you have made your house a home that kids want to be in . "</s>
+<s id='vn53'>" Nếu trẻ con xin lại chơi lần sau , và nhiều đứa trẻ khác nói chuyện với bạn và đến gần bên bạn , thì bạn đã làm ngôi nhà mình trở thành chỗ mà bọn trẻ muốn ở rồi đó . "</s>
+<a id='ev53'>2-2;3-3,4;5-5;7-6;8-7;9-8,9;11-11;12-15;13-12,13,14;14-16,17;15-18;16-19;17-20;18-21,22;19-24;21-27;22-28;23-29;24-32;25-30,31;27-35;28-36;29-37,38;30-39;32-41;33-40;</a>
+</spair>
+<spair id='54'>
+<s id='en54'>10 . Your child is seen , not heard .</s>
+<s id='vn54'>10 . Bạn chỉ quan sát con , bạn chưa từng lắng nghe con .</s>
+<a id='ev54'>1-1;3-3;4-7;6-5,6;8-10;9-11,12,13;</a>
+</spair>
+<spair id='55'>
+<s id='en55'>" In the 21st century - with kids Twittering , tweeting and Facebooking -- they expect to be heard , " Taffel says .</s>
+<s id='vn55'>" Vào thế kỷ 21 - khi mà trẻ tiếp xúc với Twitter , tweet và Facebook – thì chúng có nhu cầu muốn được người khác lắng nghe mình " Taffel cho biết .</s>
+<a id='ev55'>2-2;4-5;5-3,4;8-9;9-13;11-15;12-16;13-17;15-20;17-24;18-25,26;19-29;22-32;23-33,34;</a>
+</spair>
+<spair id='56'>
+<s id='en56'>" You are too strict if you do n't give kids two or three minutes in the spotlight a day to state their opinion , " .</s>
+<s id='vn56'>" Bạn quả là quá nghiêm khắc nếu không cho trẻ 2 đến 3 phút một ngày để bày tỏ ý kiến của mình . " .</s>
+<a id='ev56'>3-4;4-5;6-8;7-2,9;10-10;11-11;12-12;14-14;15-15;16-13;19-16;20-17;21-18;23-23,24;</a>
+</spair>
+<spair id='57'>
+<s id='en57'>" You do n't have to agree with them or do what they are saying , but you should allow them the time to say it . "</s>
+<s id='vn57'>" Chẳng cần phải đồng ý hoặc làm điều con nói đâu , nhưng bạn nên cho con thời gian để nói ra điều mình suy nghĩ . "</s>
+<a id='ev57'>6-4;7-5,6;10-7;11-8;12,13-9;17-14;18-15;19,20-16;21-17;22-18;23-19;24-21;25-22;26-24;</a>
+</spair>
+<spair id='58'>
+<s id='en58'>11 . Your child is all work and no play .</s>
+<s id='vn58'>11 . Ham học – Bỏ chơi .</s>
+<a id='ev58'>1-1;7-3,4;9-6;10-7;</a>
+</spair>
+<spair id='59'>
+<s id='en59'>" Kids need comfort time and downtime to synthesize what they have learned , " Taffel says .</s>
+<s id='vn59'>Theo Taffel " Trẻ con cần thời gian thư giãn thoải mái và nghỉ ngơi để tổng hợp những gì đã học được . " .</s>
+<a id='ev59'>2-4,5;3-6;4-9,10,11,12;5-7,8;7-14,15;8-16;9-17,18;10-19,20;12-21;13-22,23;16-2;17-1;</a>
+</spair>
+<spair id='60'>
+<s id='en60'>" If they are filled with skills , knowledge , and information that they can't use and are just learning for the sake of learning , their brains end up like sponges absorbing things , but they have no idea what it all means . "</s>
+<s id='vn60'>" Nếu cứ nhồi nhét vào đầu trẻ toàn những kỹ năng , kiến thức , và thông tin mà chúng không sử dụng được và học là chỉ để học mà thôi , thì bộ não dần dần cũng như những miếng bọt biển thấm vào nhiều thứ , mà không biết chúng có ý nghĩa gì . "</s>
+<a id='ev60'>2-2;5-4,5;6-6;7-10,11,12;9-14,15;11-17;12-18,19;13-20;14-21;15-22;16-23,24,25;17-26;18-28;19-29;20-27;21-30;25-31;28-36,37;29-38,39;31-40,41;32-42,43,44,45;34-47,48,49;36-51;37-54;38-55;39-52;40-53;44-56,57;</a>
+</spair>
+<spair id='61'>
+<s id='en61'>12 . You are the only one .</s>
+<s id='vn61'>12 . Bạn là người duy nhất .</s>
+<a id='ev61'>1-1;3-3;4-4;6-6,7;7-5;</a>
+</spair>
+<spair id='62'>
+<s id='en62'>" Find out what other parents are doing , " .</s>
+<s id='vn62'>" Bạn hãy tìm hiểu xem các bậc cha mẹ khác làm gì nhé . "</s>
+<a id='ev62'>2-2,3,4;4-13;5-11;6-7,8,9;8-12;11-16;</a>
+</spair>
+<spair id='63'>
+<s id='en63'>" When no other parents are doing the same exact thing as you such as not allowing your children to go online even with parental supervision , you may be too strict . "</s>
+<s id='vn63'>" Nếu chẳng một ai làm giống như bạn , chẳng hạn như cấm con không được online thậm chí ngay khi có sự quản lý của bố mẹ , thì có lẽ là bạn quá khắt khe . "</s>
+<a id='ev63'>2-2;3-3;5-4,5;7-6;9-7,8;14-11,12;15-13;16-16;17-14;19-15;20-17;22-18;23-21,22;25-28,29;26-24,25,26;28-35;29-32,33;31-36;32-37,38;</a>
+</spair>
+<spair id='64'>
+<s id='en64'>13 . You forbid anything .</s>
+<s id='vn64'>13 . Bạn cấm con bất cứ thứ gì .</s>
+<a id='ev64'>1-1;3-3;4-4,5;5-6,7,8,9;</a>
+</spair>
+<spair id='65'>
+<s id='en65'>" You don't encourage something , but you also don't forbid it , " Short says .</s>
+<s id='vn65'>Short cho hay " Bạn không khuyến khích con một thứ gì , nhưng cũng không cấm . " .</s>
+<a id='ev65'>2-5;3-6;4-7,8;5-10,11,12;7-14;9-15;10-16;11-17;15-1;16-2,3;</a>
+</spair>
+<spair id='66'>
+<s id='en66'>" Say , 'I 'd rather you did n't do this for these reasons , but if you choose to do it anyway , I may keep a closer watch on you because of my concerns . " "</s>
+<s id='vn66'>Hãy nói với trẻ " Mẹ muốn con đừng làm việc đó bởi những lý do này , nhưng nếu con thích làm , thì mẹ sẽ canh chừng con nhiều hơn vì mẹ lo lắng . "</s>
+<a id='ev66'>2-1,2;4-6;6-7,8;9-9;10-10,11;11-12;12-13;13-17;14-14,15,16;16-19;17-20;18-21;19-22,23;22-25;25-26;26-27;27-28,29;29-31,32;32-30;33-33;35-34;36-35,36;</a>
+</spair>
+<spair id='67'>
+<s id='en67'>14 . The rules are the rules , no questions asked .</s>
+<s id='vn67'>14 . Nguyên tắc là nguyên tắc , không hỏi han gì hết .</s>
+<a id='ev67'>1-1;4-3,4;5-5;7-6,7;9-9;10-10;11-11;</a>
+</spair>
+<spair id='68'>
+<s id='en68'>" You have to have rules in place , so your children know they can be broken , " Short says .</s>
+<s id='vn68'>" Bạn phải đưa ra nguyên tắc , luật lệ đúng nơi đúng chỗ , vì vậy con bạn biết là các nguyên tắc ấy có thể bị phá vỡ . " Short cho biết .</s>
+<a id='ev68'>2-2;3,4-3;5-4,5;6-6,7,9,10;8-11,12,13,14;10-17;11-19;12-18;13-20;14-22,23,24,25;15-26,27;17-28,29,30;20-33;21-34,35;</a>
+</spair>
+<spair id='69'>
+<s id='en69'>" There have to be clear , consistent rules because it helps with predictability and expectations , but there also needs to be some wiggle room in special situations . "</s>
+<s id='vn69'>" Nguyên tắc phải rạch ròi , nhất quán bởi có thể giúp người ta hiểu và đoán được chuyện gì xảy ra sau đó , nhưng cũng cần linh động , mềm dẻo trong những trường hợp đặc biệt . "</s>
+<a id='ev69'>3,4-4;6-5,6;8-8,9,10;9-2,3;12-13;14-18,19,20,21;18-27;20-28;21-29;25-30,31,33,34;27-35;28-39,40;29-36,37,38;</a>
+</spair>
+<spair id='70'>
+<s id='en70'>For example , if your child has a midnight curfew but the designated driver is drunk , they need to feel comfortable phoning home to ask for leniency , she says .</s>
+<s id='vn70'>Chẳng hạn như , nếu trẻ có lệnh giới nghiêm là phải ở nhà trước 12 giờ đêm nhưng tài xế đưa con bạn về bị say rượu thì chúng cần cảm thấy thoải mái khi gọi điện về nhà xin tha thứ .</s>
+<a id='ev70'>2-1,2,3;4-5;6-6;7-7;9-16,17,18;10-8,9,10;11-19;14-20,21;16-27,28;18-30;19-31;21-32,33;22-34,35;23-36,37,38;24-40;27-41;28-42,43;</a>
+</spair>
+<spair id='71'>
+<s id='en71'>15 . If you are authoritarian , not authoritative .</s>
+<s id='vn71'>15 . Nếu bạn độc đoán , mà không quyết đoán .</s>
+<a id='ev71'>1-1;3-3;4-4;6-5,6;8-9;9-10,11;</a>
+</spair>
+<spair id='72'>
+<s id='en72'>There 's a difference , .</s>
+<s id='vn72'>Có sự khác biệt đấy .</s>
+<a id='ev72'>1-1;4-2,3,4;</a>
+</spair>
+<spair id='73'>
+<s id='en73'>Authoritative parents set clear expectations and can be hard on their kids , but they do it out of warmness and concern for a child 's betterment whereas authoritarian parents say " It 's my way or the highway . "</s>
+<s id='vn73'>Những bố mẹ quyết đoán thường cho con trẻ hiểu kỳ vọng của mình một cách rõ ràng và có thể là nghiêm khắc với con , nhưng họ làm điều ấy bằng tình thương và quan tâm đến sự cải thiện , phát triển tốt hơn của trẻ trong khi bố mẹ độc đoán lại có cách thực hiện khác " Đó là cách của bố ( mẹ ) hoặc đường lối của bố ( mẹ ) . "</s>
+<a id='ev73'>1-4,5,6;2-1,2,3;4-17,18;5-11,12;7-20,21;9-23,24;12-26;14-28;15-29;16-30;17-31;20-33,34,35;21-36;22-37,38;25-49;27-40,41,42,44,45,46,47;28-50,51;29-54,55;30-52,53;31-59,60;33-63;34-64;35-66,67,69;36-65;39-72,73;</a>
+</spair>
+<spair id='74'>
+<s id='en74'>Authoritarian parents are " controlling and not warm " .</s>
+<s id='vn74'>Họ " kiểm soát mà không thiện cảm " .</s>
+<a id='ev74'>1-1;5-3,4;7-6;8-7,8;</a>
+</spair>
+<spair id='75'>
+<s id='en75'>" An authoritative parent is age-appropriately controlling and also warm . "</s>
+<s id='vn75'>" Bố mẹ quyết đoán kiểm soát con mình phù hợp từng độ tuổi với tất cả sự nhiệt tình và yêu thương . "</s>
+<a id='ev75'>3-4,5,6,7;4-2,3;6-10,11,12,13,14;7-18,19,20;8-21;10-22,23;</a>
+</spair>
+<spair id='76'>
+<s id='en76'>16 . You are as cold as ice .</s>
+<s id='vn76'>16 . Bạn lạnh như băng .</s>
+<a id='ev76'>1-1;3-3;6-4;7-5;8-6;</a>
+</spair>
+<spair id='77'>
+<s id='en77'>" Nobody cares if parents are tough as long as they are warm , " Short says .</s>
+<s id='vn77'>Short chia sẻ " Chẳng ai để ý là bố mẹ có khó khăn hay không miễn là họ thân thiện " .</s>
+<a id='ev77'>2-5,6;3-7,8;5-10,11;7-13,14;11-19;13-20,21;16-1;17-2,3;</a>
+</spair>
+<spair id='78'>
+<s id='en78'>" It 's when you are tough and cold that is really the problem . "</s>
+<s id='vn78'>" Vấn đề quan trọng ở đây là khi nào bạn khó khăn và lạnh lùng . "</s>
+<a id='ev78'>4-9;5-11;7-12,13;8-14;9-15,16;10-7;11-8;12-4,5;14-2,3;</a>
+</spair>
+</text>
+</doc>

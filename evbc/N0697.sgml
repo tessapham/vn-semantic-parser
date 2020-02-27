@@ -1,0 +1,442 @@
+﻿<doc id='N0697'>
+<head>
+<title>I Have a Dream</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>22/10/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>I Have a Dream</s>
+<s id='vn1'>Tôi Có Một Giấc mơ</s>
+<a id='ev1'>1-1;2-2;3-3;4-4,5;</a>
+</spair>
+<spair id='2'>
+<s id='en2'>I am happy to join with you today in what will go down in history as the greatest demonstration for freedom in the history of our nation .</s>
+<s id='vn2'>Hôm nay tôi vui mừng được cùng các bạn tham dự một sự kiện mà sẽ đi vào lịch sử là cuộc tuần hành vì tự do vĩ đại nhất trong lịch sử đất nước chúng ta .</s>
+<a id='ev2'>1-3;3-4,5;4-6;6-7;7-8,9;8-1,2;9-10,11;10-12,13,14;11-16;12-17;13-18;15-19,20;16-21;18-28,29,30;19-22,23,24;20-25;21-26,27;22-31;24-32,33;26-36,37;27-34,35;</a>
+</spair>
+<spair id='3'>
+<s id='en3'>Five score years ago , a great American , in whose symbolic shadow we stand today , signed the Emancipation Proclamation .</s>
+<s id='vn3'>Một trăm năm trước đây , có một người Mỹ vĩ đại mà dưới tượng đài của Người là nơi chúng ta đang tề tựu hôm nay , đã ký vào Tuyên ngôn giải phóng nô lệ .</s>
+<a id='ev3'>1-1;2-2;3-3;4-4,5;6-7,8;7-11,12;8-9,10;10-14;11-13;12-15,16;14-21,22;15-23,24,25;16-26,27;18-29,30;20-34,35,36,37;21-32,33;</a>
+</spair>
+<spair id='4'>
+<s id='en4'>This momentous decree came as a great beacon light of hope to millions of Negro slaves who had been seared in the flames of withering injustice .</s>
+<s id='vn4'>Văn kiện trọng đại này quả là một nguồn hy vọng sáng ngời cho hàng triệu nô lệ da đen từng bị thiêu đốt trong ngọn lửa bất công cay nghiệt .</s>
+<a id='ev4'>1-5;2-3,4;3-1,2;5-7;6-8;8-9,10,11;9-12,13;12-14;13-15,16;15-19,20;16-17,18;18-21;20-22,23,24;21-25;23-26,27;25-30,31;26-28,29;</a>
+</spair>
+<spair id='5'>
+<s id='en5'>It came as a joyous daybreak to end the long night of their captivity .</s>
+<s id='vn5'>Đó chính là ánh bình minh hạnh phúc cứu họ ra khỏi đêm dài trong vòng xiềng xích .</s>
+<a id='ev5'>1-1;2-2;3-3;5-7,8;6-4,5,6;8-9,10,11,12;10-14;11-13;12-15;14-16,17,18;</a>
+</spair>
+<spair id='6'>
+<s id='en6'>But one hundred years later , the Negro still is not free .</s>
+<s id='vn6'>Nhưng một trăm năm sau đó , người da đen vẫn chưa được tự do .</s>
+<a id='ev6'>1-1;2-2;3-3;4-4;5-5,6;8-8,9,10;9-11;10-13;11-12;12-14,15;</a>
+</spair>
+<spair id='7'>
+<s id='en7'>One hundred years later , the life of the Negro is still sadly crippled by the manacles of segregation and the chains of discrimination .</s>
+<s id='vn7'>Một trăm năm sau đó , cuộc sống của người da đen vẫn bị trì trệ thảm hại bởi gông cùm của nạn kỳ thị chủng tộc và xiềng xích của nạn phân biệt đối xử .</s>
+<a id='ev7'>1-1;2-2;3-3;4-4,5;7-7,8;8-9;9-10;10-11,12;12-13;13-17,18;14-14,15,16;15-19;17-20,21;18-22;19-23,24,25,26,27;20-28;22-29,30;23-31;24-32,33,34,35,36;</a>
+</spair>
+<spair id='8'>
+<s id='en8'>One hundred years later , the Negro lives on a lonely island of poverty in the midst of a vast ocean of material prosperity .</s>
+<s id='vn8'>Một trăm năm sau đó , người da đen vẫn sống trên một ốc đảo đói nghèo giữa một đại dương ngồn ngộn của cải vật chất .</s>
+<a id='ev8'>1-1;2-2;3-3;4-4,5;7-7,8,9;8-10,11;9-12;10-13;12-14,15;14-16,17;17-18;19-19;20-22,23;21-20,21;23-26,27;24-24,25;</a>
+</spair>
+<spair id='9'>
+<s id='en9'>One hundred years later , the Negro is still languished in the corners of American society and finds himself an exile in his own land .</s>
+<s id='vn9'>Một trăm năm sau đó , người da đen vẫn vất vưởng bên lề xã hội Hoa Kỳ và đành tự xem mình là kẻ tha hương ngay trên mảnh đất của chính mình .</s>
+<a id='ev9'>1-1;2-2;3-3;4-4,5;7-7,8,9;9-10;10-11,12;11-13;13-14;15-17,18;16-15,16;17-19;18-20;19-21,23;21-25,26,27;22-29;23-32;24-33,34;25-30,31;</a>
+</spair>
+<spair id='10'>
+<s id='en10'>And so we 've come here today to dramatize a shameful condition .</s>
+<s id='vn10'>Và vì thế , hôm nay chúng ta đến đây là để lột tả một thân phận tủi nhục .</s>
+<a id='ev10'>1-1;2-2,3;3-7,8;5-9;6-10;7-5,6;8-12;9-13,14;10-15;11-18,19;12-16,17;</a>
+</spair>
+<spair id='11'>
+<s id='en11'>In a sense we 've come to our nation 's capital to cash a check .</s>
+<s id='vn11'>Hiểu theo một nghĩa nào đó , chúng ta đến thủ đô để được thanh toán một tấm séc .</s>
+<a id='ev11'>1-2;2-3;3-4,5,6;4-8,9;6-10;11-11,12;12-13;13-14,15,16;14-17;15-18,19;</a>
+</spair>
+<spair id='12'>
+<s id='en12'>When the architects of our republic wrote the magnificent words of the Constitution and the Declaration of Independence , they were signing a promissory note to which every American was to fall heir .</s>
+<s id='vn12'>Những người dựng nền cộng hoà cho chúng ta đã viết những lời hoa mỹ trong Hiến pháp và Tuyên ngôn độc lập cũng tức là họ đã ký một giấy nợ và mọi công dân Mỹ đều có quyền đòi nợ .</s>
+<a id='ev12'>3-1,2,3;5-7,8,9;6-4,5,6;7-10,11;9-14,15;10-12,13;11-16;13-17,18;14-19;16-20,21;18-22,23;20-27;22-28,29;23-30;24-32;25-31;28-34;29-35,36,37;33-40,41,42;</a>
+</spair>
+<spair id='13'>
+<s id='en13'>This note was a promise that all men , yes , black men as well as white men , would be guaranteed the " unalienable Rights " of " Life , Liberty and the pursuit of Happiness . "</s>
+<s id='vn13'>Giấy nợ này hứa hẹn rằng tất cả mọi người , vâng , người da đen cũng như người da trắng , đều được đảm bảo những " quyền bất khả nhượng " - " quyền sống , quyền được tự do và mưu cầu hạnh phúc " .</s>
+<a id='ev13'>1-3;2-1,2;5-4,5;6-6;7-7,8;8-9,10;10-12;12-15,16;13-14;14,15,16-17,18;17-20,21;18-19;20-23;22-24,25,26;25-30,31,32;26-29;30-36,37;32-39,40,41,42;33-43;35-44,45;37-46,47;</a>
+</spair>
+<spair id='14'>
+<s id='en14'>It is obvious today that America has defaulted on this promissory note , insofar as her citizens of color are concerned .</s>
+<s id='vn14'>Rõ ràng là đến hôm nay nước Mỹ vẫn chưa trả món nợ này cho người Mỹ da màu .</s>
+<a id='ev14'>2-3;3-1,2;4-5,6;6-7,8;8-10;11-12,13;15-15;17-16,17;19-18,19;</a>
+</spair>
+<spair id='15'>
+<s id='en15'>Instead of honoring this sacred obligation , America has given the Negro people a bad check , a check which has come back marked " insufficient funds . "</s>
+<s id='vn15'>Thay vì phải trả món nợ thiêng liêng này , đất nước Hoa Kỳ đã trao cho người da đen một tấm séc không hợp lệ , một tấm séc bị trả lại với dòng chữ " không đủ tiền bảo chứng " .</s>
+<a id='ev15'>1-1;2-2;3-5,6;4-9;5-7,8;6-3,4;8-11,12,13,14;9-15;10-16;11-17;12-19,20;13-18;14-21;15-24,25,26;16-22,23;18-28;19-29,30;21-31;22-33;24-35,36;26-38,39;27-40,41,42;</a>
+</spair>
+<spair id='16'>
+<s id='en16'>But we refuse to believe that the bank of justice is bankrupt .</s>
+<s id='vn16'>Nhưng chúng ta vẫn không tin rằng ngân hàng công lý đã bị phá sản .</s>
+<a id='ev16'>1-1;2-2,3;4-5;5-6;6-7;8-8,9;10-10,11;12-12,13,14,15;</a>
+</spair>
+<spair id='17'>
+<s id='en17'>We refuse to believe that there are insufficient funds in the great vaults of opportunity of this nation .</s>
+<s id='vn17'>Chúng ta vẫn không tin rằng cái kho cơ hội ngút ngàn của đất nước này mà lại thiếu tiền .</s>
+<a id='ev17'>1-1,2;3-4;4-5;5-6;8-19,20;9-7,8;12-11,12;15-9,10;16-13;17-16;18-14,15;</a>
+</spair>
+<spair id='18'>
+<s id='en18'>And so , we 've come to cash this check , a check that will give us upon demand the riches of freedom and the security of justice .</s>
+<s id='vn18'>Và vì thế , chúng ta đến đây để được thanh toán tấm séc này , một tấm séc làm cho chúng ta được tự do và bảo đảm về công lý .</s>
+<a id='ev18'>1-1;2-2,3;4-5,6;6-7;7-9,10;8-11,12;9-15;10-13,14;12-17;13-18,19;16-20,21;17-22,23;23-24,25,26;24-27;26-28,29;27-30;28-31,32;</a>
+</spair>
+<spair id='19'>
+<s id='en19'>We have also come to this hallowed spot to remind America of the fierce urgency of Now .</s>
+<s id='vn19'>Chúng ta cũng đến chốn thiêng liêng này để nhắc cho nước Mỹ biết rằng THỜI ĐIỂM NÀY vô cùng cấp bách .</s>
+<a id='ev19'>1-1,2;3-3;4-4;6-8;7-5,6,7;9-9;10-10,11;11-12,13;14-19,20;15-21,22;17-16,17,18;</a>
+</spair>
+<spair id='20'>
+<s id='en20'>This is no time to engage in the luxury of cooling off or to take the tranquilizing drug of gradualism .</s>
+<s id='vn20'>Bây giờ không phải là lúc nhởn nhơ khuây khoả hoặc cứ cầu an , làm việc gì cũng từ từ .</s>
+<a id='ev20'>3-3,4;4-1,2;9-7,8;11-9,10;13-11;17-12,13,14;20-16,17,18,19,20,21;</a>
+</spair>
+<spair id='21'>
+<s id='en21'>Now is the time to make real the promises of democracy .</s>
+<s id='vn21'>Bây giờ là lúc phải làm cho lời hứa thực thi dân chủ trở thành hiện thực .</s>
+<a id='ev21'>1-1,2;2-3;4-4;5-5;6-6;7-10,11;9-8,9;11-12,13;</a>
+</spair>
+<spair id='22'>
+<s id='en22'>Now is the time to rise from the dark and desolate valley of segregation to the sunlit path of racial justice .</s>
+<s id='vn22'>Bây giờ là lúc phải vực mình ra khỏi bóng tối và thung lũng tiêu điều của nạn kỳ thị chủng tộc để bước lên con đường ngập tràn ánh nắng của sự công bình đối với mọi chủng tộc .</s>
+<a id='ev22'>1-1,2;2-3;4-4;5-5;6-6,7;7-8,9;9-10,11;10-12;11-15,16;12-13,14;14-18,19,20,21,22;15-23;17-28,29,30,31;18-24,25,26,27;20-38,39,40;21-33,34,35;</a>
+</spair>
+<spair id='23'>
+<s id='en23'>Now is the time to lift our nation from the quicksands of racial injustice to the solid rock of brotherhood .</s>
+<s id='vn23'>Bây giờ là lúc phải đưa đất nước chúng ta từ vũng lầy của sự bất bình đẳng chủng tộc tiến lên một khối đá vững chắc của tình huynh đệ .</s>
+<a id='ev23'>1-1,2;2-3;4-4;5-5;6-6;7-9,10;8-7,8;9-11;11-12,13;12,14-14,15,17,18;13-19,20;15-22;17-26,27;18-24,25;19-28;20-29,30,31;</a>
+</spair>
+<spair id='24'>
+<s id='en24'>Now is the time to make justice a reality for all of God 's children .</s>
+<s id='vn24'>Bây giờ là lúc phải biến công lý thành hiện thực cho tất cả con cái của Chúa .</s>
+<a id='ev24'>1-1,2;2-3;4-4;5-5;6-6;7-7,8;9-9,10,11;10-12;11-13,14;13-18;14-17;15-15,16;</a>
+</spair>
+<spair id='25'>
+<s id='en25'>It would be fatal for the nation to overlook the urgency of the moment .</s>
+<s id='vn25'>Thật tai hại nếu đất nước này không xem thời điểm này là một thời điểm cấp bách .</s>
+<a id='ev25'>1-1;4-2,3;6-7;7-5,6;9-8,9,10,11;11-17,18;14-14,15,16;</a>
+</spair>
+<spair id='26'>
+<s id='en26'>This sweltering summer of the Negro 's legitimate discontent will not pass until there is an invigorating autumn of freedom and equality .</s>
+<s id='vn26'>Mùa hè ngột ngạt vì những nỗi bất bình chính đáng của người da đen sẽ không kết thúc nếu chưa có một mùa thu tiếp thêm sinh khí của sự tự do và bình đẳng .</s>
+<a id='ev26'>2-3,4;3-1,2;4-5;6-14,15;7-12;8-10,11;9-6,7,8,9;10-16;11-17;12-18,19;13-20,21;14-22;16-23;17-26,27,28,29;18-24,25;19-30;20-31,32,33;21-34;22-35,36;</a>
+</spair>
+<spair id='27'>
+<s id='en27'>Nineteen sixty-three is not an end , but a beginning .</s>
+<s id='vn27'>Năm một nghìn chín trăm sáu mươi ba không phải là năm kết thúc , mà đúng ra là năm khởi đầu .</s>
+<a id='ev27'>1-1,2,3,4,5;2-6,7,8;4-9,10;5-11;6-12,13,14;8-16;9-18;10-20,21,22;</a>
+</spair>
+<spair id='28'>
+<s id='en28'>And those who hope that the Negro needed to blow off steam and will now be content will have a rude awakening if the nation returns to business as usual .</s>
+<s id='vn28'>Và những ai hi vọng rằng người da đen cần được bày tỏ cảm nghĩ của mình và bây giờ mãn nguyện rồi ắt phải giật mình thức tỉnh nếu đất nước này lại vẫn cứ như mọi khi .</s>
+<a id='ev28'>1-1;2-2;3-3;4-4,5;5-6;6-7;7-8,9;8-10;9-11;10-12,13;12-14,15;13-18;14-19;15-20;17-21,22;18-23,24;19-25;21-26,27;22-28,29;23-30;24-33;25-31,32;26-34;29-37;30-38,39;</a>
+</spair>
+<spair id='29'>
+<s id='en29'>And there will be neither rest nor tranquillity in America until the Negro is granted his citizenship rights .</s>
+<s id='vn29'>Và đất Mỹ sẽ không có lúc nào lắng dịu hoặc bình yên nếu người da đen chưa được bảo đảm quyền công dân đích thực .</s>
+<a id='ev29'>1-1;3-4;5-5,6,7,8;6-9,10;7-11;8-12,13;10-2,3;11-14;12-15;13-16,17;15-19,20,21;17-22,23,24;18-25,26;</a>
+</spair>
+<spair id='30'>
+<s id='en30'>The whirlwinds of revolt will continue to shake the foundations of our nation until the bright day of justice emerges .</s>
+<s id='vn30'>Cơn lốc bạo loạn sẽ tiếp tục làm lung lay nền móng của đất nước chúng ta cho đến khi nào ánh bình minh của công lý hé rạng .</s>
+<a id='ev30'>2-1,2;4-3,4;5-5;6-6,7;7-8;8-9,10;10-11,12;11-13;12-16,17;13-14,15;14-18,19,20,21;16-22,23,24;18-25;19-26,27;20-28,29;</a>
+</spair>
+<spair id='31'>
+<s id='en31'>But there is something that I must say to my people , who stand on the warm threshold which leads into the palace of justice : In the process of gaining our rightful place , we must not be guilty of wrongful deeds .</s>
+<s id='vn31'>Nhưng có một điều tôi phải nói với đồng bào tôi , những người đang đứng trước cái ngưỡng ấm áp dẫn vào lâu đài công lý : Trên con đường đi tìm vị trí đích thực cho mình , chúng ta không được làm bất cứ điều gì sai trái .</s>
+<a id='ev31'>1-1;2-2;4-3,4;6-5;7-6;8-7;9-8;10-11;11-9,10;13-13,14;14-15,16;17-20,21;18-18,19;20-22;21-23;23-24,25;25-26,27;27-29;29-30,31,32;31-33;32-38,39;33-36,37;34-35;36-41,42;38-43;40-44,45,46,47;41-48;42-50,51;</a>
+</spair>
+<spair id='32'>
+<s id='en32'>Let us not seek to satisfy our thirst for freedom by drinking from the cup of bitterness and hatred .</s>
+<s id='vn32'>Đừng vì cố thoả mãn niềm khao khát tự do mà phải uống bằng một cái tách đắng cay và căm hờn .</s>
+<a id='ev32'>3-1;4-2,3;6-4,5;8-6,7,8;10-9,10;12-12,13;13-14;15-15,16,17;17-18,19;18-20;19-21,22;</a>
+</spair>
+<spair id='33'>
+<s id='en33'>We must forever conduct our struggle on the high plane of dignity and discipline .</s>
+<s id='vn33'>Bao giờ chúng ta cũng phải đấu tranh thật nghiêm túc và có kỷ luật .</s>
+<a id='ev33'>1-3,4;3-1,2;6-6,7,8;9,10-9;12-10,11;13-12;14-13,14,15;</a>
+</spair>
+<spair id='34'>
+<s id='en34'>We must not allow our creative protest to degenerate into physical violence .</s>
+<s id='vn34'>Chúng ta không được để cho cuộc tuần hành phản kháng chưa từng có này hoá ra lại là một cuộc bạo động .</s>
+<a id='ev34'>1-1,2;3-3;4-5,6;6-7,8,9;7-10,11;9-16,17;12-21,22,23;</a>
+</spair>
+<spair id='35'>
+<s id='en35'>Again and again , we must rise to the majestic heights of meeting physical force with soul force .</s>
+<s id='vn35'>Xin nhắc lại là , chúng ta phải vươn tới đỉnh cao chót vót của sự kết hợp sức mạnh thể xác với sức mạnh tâm hồn .</s>
+<a id='ev35'>1,2,3-1,2,3;5-6,7;6-8;7-9,10;10-13,14;11-11,12;12-15;13-16,17,18;14-21,22;15-19,20;16-23;17-26,27;18-24,25;</a>
+</spair>
+<spair id='36'>
+<s id='en36'>The marvelous new militancy which has engulfed the Negro community must not lead us to a distrust of all white people , for many of our white brothers , as evidenced by their presence here today , have come to realize that their destiny is tied up with our destiny .</s>
+<s id='vn36'>Không thể để cho cái tinh thần chiến đấu mới nhưng phi thường , từng lan toả khắp cộng đồng người da đen , thúc đẩy chúng ta hoài nghi tất cả những người da trắng , bởi trong số những ngưởi da trắng anh em với chúng ta , đã có không ít người nhận ra rằng số phận của họ gắn chặt với số phận của chúng ta , bằng chứng là hôm nay họ cũng có mặt nơi đây .</s>
+<a id='ev36'>2-1,2,3,4;3-10;4-5,6,7,8,9;7-12,13;9-21,22,23;10-15,16,17,18,19,20;13-25,26;14-27,28;17-29,30;19-31,32;20-35,36;21-33,34;23-38,39,40;24-41;26-47,48,49;27-42,43,44;28-45,46;31-51,52,53,54;33-77;34-56,57;35-81,82;36-75,76;42-58;43-61,62;44-59,60;46-63,64;48-65;49-68,69,70;50-66,67;</a>
+</spair>
+<spair id='37'>
+<s id='en37'>And they have come to realize that their freedom is inextricably bound to our freedom .</s>
+<s id='vn37'>Và họ đã nhận ra rằng tự do của họ gắn bó keo sơn với tự do của chúng ta .</s>
+<a id='ev37'>1-1;2-2;3-3;4-5;6-4;7-6;8-9,10;9-7,8;11-11,12,13,14;13-15;14-18,19,20;15-16,17;</a>
+</spair>
+<spair id='38'>
+<s id='en38'>We cannot walk alone .</s>
+<s id='vn38'>Chúng ta không thể đi một mình .</s>
+<a id='ev38'>1-1,2;2-3,4;3-5;4-6,7;</a>
+</spair>
+<spair id='39'>
+<s id='en39'>And as we walk , we must make the pledge that we shall always march ahead .</s>
+<s id='vn39'>Và khi chúng ta cất bước , chúng ta phải thề rằng chúng ta luôn tiến về phía trước .</s>
+<a id='ev39'>1-1;2-2;3-3,4;4-5,6;6-8,9;7-10;10-11;11-12;12-13,14;14-15;15-16,17;16-18,19;</a>
+</spair>
+<spair id='40'>
+<s id='en40'>We cannot turn back .</s>
+<s id='vn40'>Chúng ta không thể quay lại .</s>
+<a id='ev40'>1-1,2;2-3,4;3-5;4-6;</a>
+</spair>
+<spair id='41'>
+<s id='en41'>There are those who are asking the devotees of civil rights , " When will you be satisfied ?"</s>
+<s id='vn41'>Có nhiều người hỏi những người ủng hộ dân quyền rằng " Khi nào bạn sẽ hài lòng ? " .</s>
+<a id='ev41'>1-1;3-2,3;6-4;8-5,6,7,8;10-9;11-10;14-13,14;15-16;16-15;18-17,18;</a>
+</spair>
+<spair id='42'>
+<s id='en42'>We can never be satisfied as long as the Negro is the victim of the unspeakable horrors of police brutality .</s>
+<s id='vn42'>Không bao giờ chúng ta có thể hài lòng nếu người da đen vẫn còn sợ những hành động bạo tàn của cảnh sát đến nỗi không nói nên lời .</s>
+<a id='ev42'>1-4,5;3-1,2,3;4-6,7;5-8,9;10-11,12,13;13-16;16-20,21;17-17,18,19;18-22;19-23,24;20-25,26,27,28,29,30;</a>
+</spair>
+<spair id='43'>
+<s id='en43'>We can never be satisfied as long as our bodies , heavy with the fatigue of travel , cannot gain lodging in the motels of the highways and the hotels of the cities .</s>
+<s id='vn43'>Không bao giờ chúng ta có thể hài lòng nếu thân xác chúng ta mệt nhoài vì đi đường xa mà vẫn không được vào nghỉ trong khách sạn ven xa lộ hoặc khách sạn ở khu đô thị .</s>
+<a id='ev43'>1-4,5;3-1,2,3;4-6,7;5-8,9;9-13,14;10-11,12;12-15,16;16-17;17-18,19,20;19-22,23,24;21-26;22-27;24-28,29;27-31,32;28-33;30-34,35;31-36;33-37,38,39;</a>
+</spair>
+<spair id='44'>
+<s id='en44'>We cannot be satisfied as long as the negro 's basic mobility is from a smaller ghetto to a larger one .</s>
+<s id='vn44'>Chúng ta chưa thể hài lòng khi mà cơ bản là người da đen chỉ được phép di chuyển từ khu ổ chuột này sang khu ổ chuột khác to hơn thôi .</s>
+<a id='ev44'>1-1,2;2-3,4;4-5,6;9-12,13,14;11-8,9,10;12-16,17,18,19;14-20;16-21,22,23;18-25;20-30,31,32;21-26,28;</a>
+</spair>
+<spair id='45'>
+<s id='en45'>We can never be satisfied as long as our children are stripped of their self-hood and robbed of their dignity by signs stating : " For Whites Only . "</s>
+<s id='vn45'>Không bao giờ chúng ta có thể hài lòng nếu con em chúng ta bị tước đoạt hết nhân cách cũng như phẩm giá của mình bởi những tấm biển mang dòng chữ " Dành riêng cho người da trắng " .</s>
+<a id='ev45'>1-4,5;3-1,2,3;4-6,7;5-8,9;9-13,14;10-11,12;12-15,16,17;15-18,19,20;16-21,22;19-25,26;20-23,24;21-27;22-28,29,30;23-31,32,33;26-37;27-38,39,40;28-35,36;</a>
+</spair>
+<spair id='46'>
+<s id='en46'>We cannot be satisfied as long as a Negro in Mississippi cannot vote and a Negro in New York believes he has nothing for which to vote .</s>
+<s id='vn46'>Chúng ta chưa thể hài lòng khi mà một người da đen ở Mississippi không được bầu cử hoặc một người da đen ở New York cho rằng anh ta chẳng việc gì phải đi bầu .</s>
+<a id='ev46'>1-1,2;2-3,4;4-5,6;5,7-7;8-9;9-10,11,12;10-13;11-14;12-15,16;13-17,18;14-19;16-21,22,23;17-24;18-25;19-26;20-27,28;21-30;23-31,32,33;26-34,35;27-36;</a>
+</spair>
+<spair id='47'>
+<s id='en47'>No , no , we are not satisfied , and we will not be satisfied until " justice rolls down like waters , and righteousness like a mighty stream . "</s>
+<s id='vn47'>Không , không , chúng ta chưa hài lòng và chúng ta cũng sẽ không hài lòng cho đến khi " Công lý tuôn trào như thác , công bình cuồn cuộn như sông " .</s>
+<a id='ev47'>1-1;3-3;5-5,6;7-7;8-8,9;10-10;11-11,12;12-13,14;13-15;15-16,17;16-18,19,20;18-22,23;19-24,25;21-26;22-27;25-29,30;26-33;28-31,32;29-34;</a>
+</spair>
+<spair id='48'>
+<s id='en48'>I am not unmindful that some of you have come here out of great trials and tribulations .</s>
+<s id='vn48'>Tôi không quên rằng một số bạn đã vượt qua bao gian nan thử thách cam go để đến đây .</s>
+<a id='ev48'>1-1;3-2;4-3;5-4;6-5,6;8-7;9-8;10-19;11-20;12-9,10;14-16,17;15-14,15;17-11,12,13;</a>
+</spair>
+<spair id='49'>
+<s id='en49'>Some of you have come fresh from narrow jail cells .</s>
+<s id='vn49'>Một số bạn vừa mới ra khỏi những xà lim chật hẹp .</s>
+<a id='ev49'>1-1,2;3-3;5-6;6-4,5;7-7;8-11,12;10-8,9,10;</a>
+</spair>
+<spair id='50'>
+<s id='en50'>And some of you have come from areas where your quest for freedom left you battered by the storms of persecution and staggered by the winds of police brutality .</s>
+<s id='vn50'>Và một số bạn đến đây từ nơi mà những đòi hỏi về quyền tự do đã làm các bạn phải hứng chịu những đợt truy bức dồn dập và xiểng niểng vì hàng loạt ngón đòn tàn bạo của cảnh sát .</s>
+<a id='ev50'>1-1;2-2,3;4-4;6-5;7-7;9-8;11-10,11,12;13-14,15,16;14-17,18;15-19,20;16-21,22,23;19-24,25,26,27;21-28,29;22-30;23-31,32;24-33;26-34,35,36,37;28-41,42;29-38,39;</a>
+</spair>
+<spair id='51'>
+<s id='en51'>Continue to work with the faith that unearned suffering is redemptive .</s>
+<s id='vn51'>Hãy tiếp tục làm việc và tin tưởng rằng những nỗi oan ức của bạn sẽ giúp cho bạn được hưởng ơn cứu chuộc .</s>
+<a id='ev51'>1-1,2,3;3-4,5;6-7,8;7-9;9-10,11,12,13;10-20;11-21,22,23,24;</a>
+</spair>
+<spair id='52'>
+<s id='en52'>Go back to Mississippi , go back to Alabama , go back to South Carolina , go back to Georgia , go back to Louisiana , go back to the slums and ghettos of our northern cities , knowing that somehow this situation can and will be changed .</s>
+<s id='vn52'>Hãy nhìn lại Mississippi , nhìn lại Alabama , nhìn lại South Carolina , nhìn lại Georgia , nhìn lại Louisiana , nhìn lại những khu ổ chuột ở các thành phố miền bắc nước ta để biết rằng bằng một cách nào đó thì tình cảnh này có thể thay đổi và sẽ thay đổi .</s>
+<a id='ev52'>1-1;2-2,3;4-4;6,7,8-6,7;9-8;11,12-10,11;14-12;15-13;17,18,19-15,16;20-17;22,23,24-19,20;25-21;27,28,29-23,24;31-25,26,27,28;35-35,36;36-33,34;37-30,31,32;39-38,39;41-41,42,43,44;42-48;43-46,47;44-49,50;45-53;46-54;48-55,56;</a>
+</spair>
+<spair id='53'>
+<s id='en53'>Let us not wallow in the valley of despair , I say to you today , my friends .</s>
+<s id='vn53'>Xin đừng mãi ngủ yên trong thung lũng tuyệt vọng , đó là điều mà tôi muốn nói với các bạn hôm nay .</s>
+<a id='ev53'>1-1;3-2;4-3,4,5;5-6;7-7,8;9-9,10;11-16;12-17,18;13-19;15-22,23;18-20,21;</a>
+</spair>
+<spair id='54'>
+<s id='en54'>And so even though we face the difficulties of today and tomorrow , I still have a dream .</s>
+<s id='vn54'>Và vì thế , cho dù hôm nay và ngày mai chúng ta còn phải đối mặt với nhiều khó khăn thì tôi vẫn có một ước mơ .</s>
+<a id='ev54'>1-1;2-2,3;4-5,6;5-12,13;6-14,15,16,17;8-19,20,21;10-7,8;11-9;12-10,11;14-23;15-24;16-25;17-26;18-27,28;</a>
+</spair>
+<spair id='55'>
+<s id='en55'>It is a dream deeply rooted in the American dream .</s>
+<s id='vn55'>Đó là một ước mơ không thể tách rời khỏi giấc mộng Mỹ Quốc .</s>
+<a id='ev55'>1-1;2-2;3-3;4-4,5;5-6,7;6-8,9;7-10;9-13,14;10-11,12;</a>
+</spair>
+<spair id='56'>
+<s id='en56'>I have a dream that one day this nation will rise up and live out the true meaning of its creed : " We hold these truths to be self-evident , that all men are created equal . "</s>
+<s id='vn56'>Tôi ước mơ một ngày kia đất nước này sẽ thức tỉnh và sống đúng ý nghĩa đức tin của nó : " Chúng tôi khẳng định những chân lý này là hiển nhiên , mọi người sinh ra đều bình đẳng . "</s>
+<a id='ev56'>1-1;4-2,3;5-6;6-4;7-5;8-9;9-7,8;10-10;11,12-11,12;13-13;14-14;17-15;18-16,17;20-20,21;21-18,19;24-24,25;25-26,27;26-31;27-28,29,30;29-32;30-33,34;33-36;34-37;36-38,39,40;37-41,42;</a>
+</spair>
+<spair id='57'>
+<s id='en57'>I have a dream that one day on the red hills of Georgia , the sons of former slaves and the sons of former slave owners will be able to sit down together at the table of brotherhood .</s>
+<s id='vn57'>Tôi ước mơ một ngày kia trên ngọn đồi đỏ rực ở Georgia , con cháu của những người nô lệ năm xưa cùng con cháu của các chủ nô ngày trước sẽ quây quần bên nhau quanh chiếc bàn của tình huynh đệ .</s>
+<a id='ev57'>1-1;4-2,3;5-6;6-4;7-5;8-7;10-10,11;11-8,9;12-12;13-13;16-15,16;17-17;18-22,23;19-18,19,20,21;20-24;22-25,26;23-27;24-31,32;25-30;26-28,29;27-33;29-34,35;32-38;33-36,37;36-39,40;37-41;38-42,43,44;</a>
+</spair>
+<spair id='58'>
+<s id='en58'>I have a dream that one day even the state of Mississippi , a state sweltering with the heat of injustice , sweltering with the heat of oppression , will be transformed into an oasis of freedom and justice .</s>
+<s id='vn58'>Tôi ước mơ một ngày kia , kể cả bang Mississippi là bang hừng hực không khí áp bức và bất công cũng sẽ biến thành một ốc đảo của tự do và công bằng .</s>
+<a id='ev58'>1-1;4-2,3;5-6;6-4;7-5;8-8,9;10-10;12-11;15-13;16-14,15;19-16,17;21-21,22;23-18,19;24-23;30-24;32-25,26;34-27;35-28,29;36-30;37-31,32;38-33;39-34,35;</a>
+</spair>
+<spair id='59'>
+<s id='en59'>I have a dream that my four little children will one day live in a nation where they will not be judged by the color of their skin but by the content of their character .</s>
+<s id='vn59'>Tôi ước mơ một ngày kia , 4 đứa con nhỏ bé của tôi sẽ sống trong một đất nước mà chúng được đánh giá theo tính cách mỗi đứa , chứ không còn bị xét đoán qua màu da của chúng nữa .</s>
+<a id='ev59'>1-1;4-2,3;6-13,14;7-8;8-11,12;9-9,10;10-15;11-4;12-5;13-16;14-17;15-18;16-19,20;17-21;18-22;22-23,24,25;25-39;27-42;28-40;34-29,30;35-27,28;</a>
+</spair>
+<spair id='60'>
+<s id='en60'>I have a dream today !</s>
+<s id='vn60'>Hôm nay tôi có một ước mơ !</s>
+<a id='ev60'>1-3;2-4;3-5;4-6,7;5-1,2;</a>
+</spair>
+<spair id='61'>
+<s id='en61'>I have a dream that one day , down in Alabama , with its vicious racists , with its governor having his lips dripping with the words of " interposition " and " nullification " -- one day right there in Alabama little black boys and black girls will be able to join hands with little white boys and white girls as sisters and brothers .</s>
+<s id='vn61'>Tôi ước mơ một ngày kia , ở tận Alabama , nơi nhan nhản những kẻ phân biệt chủng tộc , nơi có một gã thống đốc mà cặp môi sẵn sàng tuôn ra những chữ " can thiệp " và " vô hiệu hoá " - một ngày nào đó ngay tại Alabama , các em trai và em gái da đen sẽ nối vòng tay lớn với các em trai và em gái da trắng như anh chị em một nhà .</s>
+<a id='ev61'>1-1;4-2,3;5-6;6-4;7-5;9,10-8,9;11-10;15-12,13,14;16-15,16,17,18,19,20;20-24,25,26,27;23-29,30;24-31,32,33,34;27-35,36;30-38,39;32-41;34-43,44,45;37-48;38-49;40-50,51;42-54;45-56,57,58;46-59;47-62,63;48-60,61;49-64;53-65;54-66,67;55-69;58-70,71,72;60-76,77;61-74,75;62-78;63-80,81;65-79;</a>
+</spair>
+<spair id='62'>
+<s id='en62'>I have a dream today !</s>
+<s id='vn62'>Hôm nay tôi có một ước mơ !</s>
+<a id='ev62'>1-3;2-4;3-5;4-6,7;5-1,2;</a>
+</spair>
+<spair id='63'>
+<s id='en63'>I have a dream that one day every valley shall be exalted , and every hill and mountain shall be made low , the rough places will be made plain , and the crooked places will be made straight ; " and the glory of the Lord shall be revealed and all flesh shall see it together . "</s>
+<s id='vn63'>Tôi ước mơ một ngày kia mọi thung lũng đều được nâng lên , mọi đồi núi đều được san bằng , những nơi gồ ghề sẽ thành bằng phẳng và những nơi cong vẹo sẽ thành thẳng tắp ; " và vinh quang của Chúa sẽ hiện ra và tất cả mọi người sẽ cùng nhau chiêm ngưỡng " .</s>
+<a id='ev63'>1-1;4-2,3;5-6;6-4;7-5;8-7;9-8,9;10-10;12-11,12,13;15-15;16-16,17;18-23,24,25,26;19-27;21-28;22-29,30;29-18,19;30-20,21;34-34,35;35-32,33;36-36;38-37;39-38,39;42-42;44-43,44;45-45;47-46;48-47;50-48,49;51-50;52-51,52,53,54;54-55;55-58,59;57-56,57;</a>
+</spair>
+<spair id='64'>
+<s id='en64'>This is our hope , and this is the faith that I go back to the South with .</s>
+<s id='vn64'>Đây là niềm hi vọng của chúng ta , và đây chính là niềm tin mà tôi mang theo trên đường về miền Nam .</s>
+<a id='ev64'>1-1;2-2;3-6,7,8;4-3,4,5;6-10;7-11;8-12,13;10-14,15;11-16;12-17;13-18,19,20,21;17-23,24;18-22;</a>
+</spair>
+<spair id='65'>
+<s id='en65'>With this faith , we will be able to hew out of the mountain of despair a stone of hope .</s>
+<s id='vn65'>Với niềm tin này , chúng ta sẽ đẽo được một hòn đá hy vọng trong cả một tảng núi tuyệt vọng .</s>
+<a id='ev65'>1-1;2-4;3-2,3;5-6,7;6-8;10-9;11-10;14-17,18,19,20;16-21,22;18-11,12,13;20-14,15;</a>
+</spair>
+<spair id='66'>
+<s id='en66'>With this faith , we will be able to transform the jangling discords of our nation into a beautiful symphony of brotherhood .</s>
+<s id='vn66'>Với niềm tin này , chúng ta sẽ chuyển những mối bất hoà gay gắt của đất nước chúng ta thành một bản giao hưởng tuyệt vời của tình huynh đệ .</s>
+<a id='ev66'>1-1;2-4;3-2,3;5-6,7;6-8;10-9;12-14,15;13-10,11,12,13;14-16;15-19,20;16-17,18;17-21;18-22;19-26,27;20-23,24,25;21-28;22-29,30,31;</a>
+</spair>
+<spair id='67'>
+<s id='en67'>With this faith , we will be able to work together , to pray together , to struggle together , to go to jail together , to stand up for freedom together , knowing that we will be free one day .</s>
+<s id='vn67'>Với niềm tin này , chúng ta có thể cùng nhau làm việc , cùng nhau cầu nguyện , cùng nhau tranh đấu , cùng nhau vào tù , cùng nhau đấu tranh vì tự do , chỉ biết rằng một ngày nào đó chúng ta sẽ được tự do .</s>
+<a id='ev67'>1-1;2-4;3-2,3;5-6,7;8-8,9;10-12,13;11-10,11;14-17,18;15-15,16;18-22,23;19-20,21;22-27;24-28;25-25,26;28-32,33;31-35,36;32-30,31;34-38,39,40;36-45,46;37-47;39-48,49,50;40-41;41-42;</a>
+</spair>
+<spair id='68'>
+<s id='en68'>And this will be the day - this will be the day when all of God 's children will be able to sing with new meaning :</s>
+<s id='vn68'>Và đó sẽ là cái ngày - đó sẽ là cái ngày mà tất cả con cái của Chúa cùng cất tiếng ca mang ý nghĩa mới :</s>
+<a id='ev68'>1-1;2-2;3-3;4-4;6-5,6;8-8;9-9;10-10;12-11,12;14-14,15;16-19;17-18;18-16,17;21-20;23-21,22,23;24-24;25-27;26-25,26;</a>
+</spair>
+<spair id='69'>
+<s id='en69'>My country is of thee , sweet land of liberty , of thee I sing .</s>
+<s id='vn69'>Đất nước tôi , cũng là của bạn , một mảnh đất ngọt ngào của tự do , tôi hát về người .</s>
+<a id='ev69'>1-3;2-1,2;3-6;5-7,8;7-13,14;8-10,11,12;9-15;10-16,17;13-22;14-19;15-20,21;</a>
+</spair>
+<spair id='70'>
+<s id='en70'>Land where my fathers died , land of the Pilgrim 's pride ,</s>
+<s id='vn70'>Mảnh đất nơi cha ông tôi đã ngã xuống , mảnh đất tự hào của những người hành hương ,</s>
+<a id='ev70'>1-1,2;2-3;3-6;4-4,5;5-7,8,9;7-11,12;10-16,17,18,19;11-15;12-13,14;</a>
+</spair>
+<spair id='71'>
+<s id='en71'>From every mountainside , let freedom ring !</s>
+<s id='vn71'>Hãy để tự do reo vang từ khắp mọi sườn núi !</s>
+<a id='ev71'>1-7;2-8;3-9,10,11;5-1,2;6-3,4;7-5,6;</a>
+</spair>
+<spair id='72'>
+<s id='en72'>is to be a great nation , this must become true .</s>
+<s id='vn72'>Và nếu Hoa Kỳ phải là một quốc gia vĩ đại thì điều này phải trở thành sự thật .</s>
+<a id='ev72'>1-1;2-5;3-6;4-7;5-10,11;6-8,9;8-13,14;9-15;10-16,17;11-18,19;</a>
+</spair>
+<spair id='73'>
+<s id='en73'>And</s>
+<s id='vn73'>Và</s>
+<a id='ev73'>1-1;</a>
+</spair>
+<spair id='74'>
+<s id='en74'>Let freedom ring from the mighty mountains of New York .</s>
+<s id='vn74'>Hãy để tự do reo vang từ những ngọn núi hùng vĩ của New York .</s>
+<a id='ev74'>1-1,2;2-3,4;3-5,6;4-7;6-11,12;7-8,9,10;8-13;9-14;10-15;</a>
+</spair>
+<spair id='75'>
+<s id='en75'>Let freedom ring from the heightening Alleghenies of Pennsylvania .</s>
+<s id='vn75'>Hãy để tự do reo vang từ dãy Alleghenies cao chót vót ở Pennsylvania .</s>
+<a id='ev75'>1-1,2;2-3,4;3-5,6;4-7;6-10,11,12;7-9;8-13;9-14;</a>
+</spair>
+<spair id='76'>
+<s id='en76'>Let freedom ring from the snow-capped Rockies of Colorado .</s>
+<s id='vn76'>Hãy để tự do reo vang từ dãy núi đá đầy tuyết phủ ở Colorado .</s>
+<a id='ev76'>1-1,2;2-3,4;3-5,6;4-7;5-8;6-11,12,13;7-9,10;8-14;9-15;</a>
+</spair>
+<spair id='77'>
+<s id='en77'>Let freedom ring from the curvaceous slopes of California .</s>
+<s id='vn77'>Hãy để tự do reo vang từ những triền dốc mơn mởn ở California .</s>
+<a id='ev77'>1-1,2;2-3,4;3-5,6;4-7;6-11,12;7-8,9,10;8-13;9-14;</a>
+</spair>
+<spair id='78'>
+<s id='en78'>But not only that :</s>
+<s id='vn78'>Nhưng không chỉ có thế :</s>
+<a id='ev78'>1-1;2-2;3-3;4-4,5;</a>
+</spair>
+<spair id='79'>
+<s id='en79'>Let freedom ring from Stone Mountain of Georgia .</s>
+<s id='vn79'>Hãy để tự do reo vang từ Stone Mountain ở Georgia .</s>
+<a id='ev79'>1-1,2;2-3,4;3-5,6;4-7;5-8;6-9;7-10;8-11;</a>
+</spair>
+<spair id='80'>
+<s id='en80'>Let freedom ring from Lookout Mountain of Tennessee .</s>
+<s id='vn80'>Hãy để tự do reo vang từ Lookout Mountain ở Tennessee .</s>
+<a id='ev80'>1-1,2;2-3,4;3-5,6;4-7;5-8;6-9;7-10;8-11;</a>
+</spair>
+<spair id='81'>
+<s id='en81'>Let freedom ring from every hill and molehill of Mississippi .</s>
+<s id='vn81'>Hãy để tự do reo vang khắp mọi đồi to đồi nhỏ ở Mississippi .</s>
+<a id='ev81'>1-1,2;2-3,4;3-5,6;4-7;5-8;6-9,10;8-11,12;10-14;</a>
+</spair>
+<spair id='82'>
+<s id='en82'>From every mountainside , let freedom ring .</s>
+<s id='vn82'>Hãy để tự do reo vang từ khắp mọi sườn núi .</s>
+<a id='ev82'>1-7,8;2-9;3-10,11;5-1,2;6-3,4;7-5,6;</a>
+</spair>
+<spair id='83'>
+<s id='en83'>And when this happens , when we allow freedom ring , when we let it ring from every village and every hamlet , from every state and every city , we will be able to speed up that day when all of God 's children , black men and white men , Jews and Gentiles , Protestants and Catholics , will be able to join hands and sing in the words of the old Negro spiritual :</s>
+<s id='vn83'>Và khi điều đó xảy ra , khi chúng ta đã để cho tự do reo vang , khi chúng ta đã để nó reo vang từ khắp mọi làng mạc và thôn xóm , từ khắp mọi tiểu bang và thành phố , nhất định chúng ta có thể làm cho cái ngày đó đến gần hơn , cái ngày mà tất cả con cái của Chúa , người da đen và da trắng , người Do Thái và người không phải Do Thái , người theo Công giáo và người theo Tin Lành , sẽ cùng nắm tay nhau và hát vang bài thánh ca của người da đen năm xưa :</s>
+<a id='ev83'>1-1;2-2,3;3-4;4-5,6;6-8;7-9,10;8-11,12,13;9-14,15;10-16,17;12-19;13-20,21;14-22,23;15-24;16-25,26;17-27,28;18-29;19-30,31;20-32;22-33,34;24-36,37;25-38;26-39,40;27-41;29-42,43;31-47,48;34-49,50;36-51,52;37-56,57,58;38-55;39-53,54;40-60,61,62;41-63,64;43-67,68;45-65,66;47-71,72;48-70;49-73;50-74,75;53-77,78,79;55-81,82,83,84,85;57-92,93,94,95;58-91;59-87,88,89,90;61-97;65-99;66-100,101;67-102;68-103,104;71-105;72-108;74-112,113;75-109,110,111;76-106,107;</a>
+</spair>
+<spair id='84'>
+<s id='en84'>Free at last !</s>
+<s id='vn84'>Cuối cùng cũng được tự do !</s>
+<a id='ev84'>1-4,5,6;3-1,2;</a>
+</spair>
+<spair id='85'>
+<s id='en85'>Free at last !</s>
+<s id='vn85'>Cuối cùng cũng được tự do !</s>
+<a id='ev85'>1-4,5,6;3-1,2;</a>
+</spair>
+<spair id='86'>
+<s id='en86'>Thank God Almighty , we are free at last !</s>
+<s id='vn86'>Tạ ơn Thiên Chúa toàn năng , cuối cùng chúng con cũng được tự do !</s>
+<a id='ev86'>1-1,2;2-3,4;3-5,6;5-10,11;6-12;7-13,14,15;9-8,9;</a>
+</spair>
+</text>
+</doc>

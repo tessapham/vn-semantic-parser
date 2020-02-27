@@ -1,0 +1,92 @@
+﻿<doc id='N0289'>
+<head>
+<title>Espionage virus sent blueprints to China</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>22/10/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Espionage virus sent blueprints to China</s>
+<s id='vn1'>Virus gián điệp gửi các bản thiết kế sản phẩm đến Trung Quốc</s>
+<a id='ev1'>1-2,3;2-1;3-4;4-5,6,7,8;5-11;6-12,13;</a>
+</spair>
+<spair id='2'>
+<s id='en2'>Computer security experts have uncovered an industrial espionage virus designed to steal blueprints for buildings , machinery and other products , and deliver them to China .</s>
+<s id='vn2'>Các chuyên gia bảo mật máy tính đã phát hiện ra một loại virus gián điệp công nghiệp được tạo ra để đánh cắp bản thiết kế kiến trúc các tòa nhà , máy móc cũng như các sản phẩm khác và chuyển giao chúng cho Trung Quốc .</s>
+<a id='ev2'>1-6,7;2-4,5;3-1,2,3;5-8,9,10,11;6-12;7-17,18;8-15,16;9-14;10-19,20,21;11-22;12-23,24;13-25,26,27;15-30,31,32;17-34,35;18-36,37;19-41;20-38,39,40;22-42;23-43,44;24-45;25-46;26-47,48;</a>
+</spair>
+<spair id='3'>
+<s id='en3'>The virus , " ACAD/Medre.A " , has stolen tens of thousands of blueprints from companies mostly based in Peru .</s>
+<s id='vn3'>Virus với tên gọi là " ACAD/Medre.A " , đã đánh cắp hàng chục ngàn bản thiết kế từ các công ty chủ yếu đặt ở Peru .</s>
+<a id='ev3'>2-1;5-7;9-10,11,12;10-13,14;12-15;14-16,17,18;15-19;16-20,21,22;17-23,24;18-25;19-26;20-27;</a>
+</spair>
+<spair id='4'>
+<s id='en4'>ESET , a computer security firm , said .</s>
+<s id='vn4'>ESET , một công ty bảo mật máy tính cho biết .</s>
+<a id='ev4'>1-1;3-3;4-8,9;5-6,7;6-4,5;8-10,11;</a>
+</spair>
+<spair id='5'>
+<s id='en5'>It targeted software called AutoCAD , which is very widely used by industrial designers and architects .</s>
+<s id='vn5'>Nó nhắm mục tiêu vào phần mềm AutoCAD mà được sử dụng rộng rãi bởi các nhà thiết kế công nghiệp và kiến trúc sư .</s>
+<a id='ev5'>1-1;2-2,3,4;3-6,7;5-8;7-9;10-13,14;11-10,11,12;12-15;13-20,21;14-16,17,18,19;15-22;16-23,24,25;</a>
+</spair>
+<spair id='6'>
+<s id='en6'>The stolen drawings were surreptitiously sent to email accounts provided by two Chinese internet firms , 163.com and qq.com , although this is no guarantee the criminals behind the raid were Chinese .</s>
+<s id='vn6'>Các bản vẽ thiết kế bị đánh cắp được gửi bí mật vào các tài khoản email được cung cấp bởi hai công ty Internet của Trung Quốc là 163.com và qq.com , mặc dù vẫn chưa chắc chắn rằng những tên tội phạm đứng đằng sau vụ tấn công này là người Trung Quốc .</s>
+<a id='ev6'>2-6,7,8;3-1,2,3,4,5;5-11,12;6-9,10;7-13;8-17;9-14,15,16;10-18,19,20;11-21;12-22;13-27,28;14-25;15-23,24;17-30;18-31;19-32;21-34,35;24-37;25-38,39;27-41,42,43,44;28-45,46,47;29-51;30-48,49,50;31-52;32-53,54,55;</a>
+</spair>
+<spair id='7'>
+<s id='en7'>It is believed ACAD/Medre.A was distributed to Peruvian companies via a booby-trapped AutoCAD template that was initially sent to public bodies .</s>
+<s id='vn7'>Người ta tin rằng virus " ACAD/Medre.A " được phát tán vào các công ty Peru thông qua một mẫu AutoCAD có cài bẫy mà bước đầu đã được gửi đến cơ quan công quyền .</s>
+<a id='ev7'>1-1,2;3-3,4;4-7;6-9,10,11;7-12;8-16;9-13,14,15;10-17,18;11-19;12-22,23,24;13-21;14-20;15-25;17-26,27;18-28,29,30;19-31;20-34,35;21-32,33;</a>
+</spair>
+<spair id='8'>
+<s id='en8'>The virus was first detected some months ago but ESET saw a sudden spike in infections two months ago as its authors began to exploit their creation .</s>
+<s id='vn8'>Virus này được phát hiện đầu tiên cách đây vài tháng nhưng ESET đã nhìn thấy chúng lây lan một các đột biến cách đây hai tháng khi tác giả của chúng bắt đầu khai thác virus này .</s>
+<a id='ev8'>1-2;2-1;4-6,7;5-3,4,5;6-10;7-11;8-8,9;9-12;10-13;11-14,15,16;12-20;13-21,22,23;16-18,19;17-26;18-27;19-24,25;20-28;21-31,32;22-29,30;23-33,34;25-35,36;26-38;27-37;</a>
+</spair>
+<spair id='9'>
+<s id='en9'>" ( It ) represents a serious case of industrial espionage , " said ESET researcher Righard Zwienenberg .</s>
+<s id='vn9'>" ( Nó ) biểu trưng cho một trường hợp nghiêm trọng của gián điệp công nghiệp " , Righard Zwienenberg , một nhà nghiên cứu tại ESET cho biết .</s>
+<a id='ev9'>3-3;5-5,6;6-8;7-11,12;8-9,10;9-13;10-16,17;11-14,15;14-29,30;15-28;16-24,25,26;17-20;18-21;</a>
+</spair>
+<spair id='10'>
+<s id='en10'>" Every new design is sent automatically to the operator of this malware .</s>
+<s id='vn10'>" Tất cả các thiết kế mới được gửi tự động đến người điều khiển phần mềm độc hại này .</s>
+<a id='ev10'>2-2,3;3-7;4-4,5,6;6-8,9;7-10,11;8-12;10-13,14,15;12-20;13-16,17,18,19;</a>
+</spair>
+<spair id='11'>
+<s id='en11'>Needless to say this can cost the legitimate owner of the intellectual property a lot of money as the cybercriminals have access to the designs even before they go into production . "</s>
+<s id='vn11'>Tất nhiên điều này có thể gây tổn thất nhiều tiền bạc cho chủ sở hữu hợp pháp tài sản trí tuệ vì các tội phạm mạng có thể lấy các bản thiết kế ngay cả trước khi họ đi vào sản xuất . "</s>
+<a id='ev11'>1-1,2;4-3,4;5-5,6;6-7,8,9;8-17,18;9-14,15,16;12-21,22;13-19,20;15-10;17-11,12;18-23;20-24,25,26,27;21-28,29;22-30;25-31,32,33,34;26-35,36;27-37,38;28-39;29-40;30-41;31-42,43;</a>
+</spair>
+<spair id='12'>
+<s id='en12'>" They may even have the guts to apply for patents on the product before the inventor has registered it at the patent office . "</s>
+<s id='vn12'>" Thậm chí bạo dạn hơn chúng còn có thể áp dụng các bằng sáng chế trên sản phẩm trước khi nhà sáng chế đăng ký nó tại Cục Sở hữu trí tuệ . "</s>
+<a id='ev12'>2-7;3-9,10;4-2,3;7-4,5;9-11,12;11-13,14,15,16;12-17;14-18,19;15-20,21;17-22,23,24;19-25,26;20-27;21-28;23,24-29,30,31,32,33;</a>
+</spair>
+<spair id='13'>
+<s id='en13'>Unusually , Chinese authorities have cooperated with efforts to investigate and disable the virus .</s>
+<s id='vn13'>Điều khác thường , các nhà chức trách Trung Quốc đã hợp tác với những nỗ lực để điều tra và vô hiệu hóa đám virus này .</s>
+<a id='ev13'>1-1,2,3;3-9,10;4-5,6,7,8;6-11,12,13;7-14;8-15,16,17;9-18;10-19,20;11-21;12-22,23,24;13-27;14-25,26;</a>
+</spair>
+<spair id='14'>
+<s id='en14'>" We were really surprised they helped us because it 's the first time we have worked with Chinese authorities , " said Mr Zwienenberg .</s>
+<s id='vn14'>" Chúng tôi thật sự bất ngờ khi họ đã giúp chúng tôi bởi vì đó là lần đầu tiên chúng tôi làm việc với các nhà chức trách Trung Quốc , " ông Zwienenberg cho biết .</s>
+<a id='ev14'>2-2,3;4-4,5;5-6,7;6-9;7-10,11;8-12,13;9-14,15;10-16;11-17;13-19,20;14-18;15-21,22;17-23,24;18-25;19-30,31;20-26,27,28,29;23-36,37;24-34;25-35;</a>
+</spair>
+<spair id='15'>
+<s id='en15'>Government experts helped follow the path taken by the stolen drawings to their final destination in Chinese email accounts , which have been blocked .</s>
+<s id='vn15'>Các chuyên gia Chính phủ đã giúp đỡ thực hiện công việc lần theo dấu vết của các bản vẽ bị đánh cắp có đích đến cuối cùng là các tài khoản email của người Trung Quốc hiện tại đã bị chặn .</s>
+<a id='ev15'>1-4,5;2-1,2,3;3-6,7,8;4-13,14;6-15,16;7-11,12;8-17;10-21,22,23;11-18,19,20;12-24;14-27,28;15-25,26;16-29;17-35,36,37;18-33;19-30,31,32;24-40,41,42;</a>
+</spair>
+<spair id='16'>
+<s id='en16'>China is seen a major source of industrial espionage online , a reputation that has prompted warnings to major British firms from MI5 .</s>
+<s id='vn16'>Trung Quốc được xem là một nguồn gốc của các hoạt động gián điệp công nghiệp trực tuyến , một điểm đen mà đã được cơ quan tình báo Anh MI5 nhắc nhở cảnh báo .</s>
+<a id='ev16'>1-1,2;3-3,4,5;4-6;5,6-7,8;8-15,16;9-10,11,12,13,14;10-17,18;12-20;13-21,22;16-24,25,32,33;17-34,35;19-28,29;20-30;21-26,27;23-31;</a>
+</spair>
+</text>
+</doc>

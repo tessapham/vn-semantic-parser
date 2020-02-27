@@ -1,0 +1,582 @@
+﻿<doc id='N0363'>
+<head>
+<title>Vitamin D</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>22/10/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Vitamin D</s>
+<s id='vn1'>Vitamin D</s>
+<a id='ev1'>1-1;2-2;</a>
+</spair>
+<spair id='2'>
+<s id='en2'>Most of us know we need vitamin D for strong bones .</s>
+<s id='vn2'>Hầu hết ai trong chúng ta cũng đều biết rằng cơ thể cần vitamin D để cho xương chắc khỏe .</s>
+<a id='ev2'>1-1,2;2-4;3-5,6;4-9,10;6-13;7-14;8-15;9-16,17;10-19,20;11-18;</a>
+</spair>
+<spair id='3'>
+<s id='en3'>This nutrient may play a role in asthma , cancer , depression , heart disease , diabetes , even weight gain .</s>
+<s id='vn3'>Bên cạnh đó loại vitamin này cũng có thể đóng vai trò quan trọng đối với bệnh hen suyễn , ung thư , trầm cảm , tim mạch , tiểu đường , thậm chí đối với cả vấn đề tăng cân nữa .</s>
+<a id='ev3'>1-6;2-4,5;3-8,9;4-10;6-11,12;7-15,16;8-17,18,19;10-21,22;12-24,25;14-27,28;17-30,31;19-33,34;20-41;21-38,39,40;</a>
+</spair>
+<spair id='4'>
+<s id='en4'>The wonder vitamin : Vitamin D</s>
+<s id='vn4'>Vitamin diệu kỳ : Vitamin D</s>
+<a id='ev4'>2-2,3;3-1;5-5,6;</a>
+</spair>
+<spair id='5'>
+<s id='en5'>Most of us know we need vitamin D for strong bones .</s>
+<s id='vn5'>Hầu hết ai trong chúng ta cũng đều biết rằng cơ thể cần vitamin D để cho xương chắc khỏe .</s>
+<a id='ev5'>1-1,2;2-4;3-5,6;4-9,10;6-13;7-14;8-15;9-16,17;10-19,20;11-18;</a>
+</spair>
+<spair id='6'>
+<s id='en6'>This nutrient may play a role in asthma , cancer , depression , heart disease , diabetes , even weight gain .</s>
+<s id='vn6'>Vitamin này cũng có thể đóng vai trò quan trọng đối với bệnh hen suyễn , ung thư , trầm cảm , tim mạch , tiểu đường , thậm chí đối với cả vấn đề tăng cân nữa .</s>
+<a id='ev6'>1-2;2-1;3-4,5;4-6;6-7,8;7-11,12;8-13,14,15;10-17,18;12-20,21;14-23,24;17-26,27;19-29,30;20-37;21-34,35,36;</a>
+</spair>
+<spair id='7'>
+<s id='en7'>See why vitamin D may be one of the most important nutrients to your health , who 's at risk for a deficiency , and the safest ways to get enough vitamin D.</s>
+<s id='vn7'>Hãy tìm hiểu xem vì sao vitamin D có thể là một trong những dưỡng chất thiết yếu nhất đối với sức khỏe của mình , đối tượng nào có nguy cơ thiếu vitamin D , và biện pháp nào là an toàn nhất để hấp thụ đủ vitamin D .</s>
+<a id='ev7'>1-4;2-5,6;3-7;4-8;5-9,10;6-11;7-12;10-19;11-17,18;12-14,15,16;13-20,21;14-24,25;15-22,23;17-27,28,29;20-31,32;23-33;25-37;27-42,43,44;28-38,39;29-45;30-46,47;31-48;32-49;33-50;</a>
+</spair>
+<spair id='8'>
+<s id='en8'>Vitamin D and your bones</s>
+<s id='vn8'>Vitamin D và xương của bạn</s>
+<a id='ev8'>1-1;2-2;3-3;4-5,6;5-4;</a>
+</spair>
+<spair id='9'>
+<s id='en9'>Vitamin D allows your body to absorb calcium .</s>
+<s id='vn9'>Vitamin D giúp cho cơ thể hấp thụ được can-xi .</s>
+<a id='ev9'>1-1;2-2;3-3,4;5-5,6;6-9;7-7,8;8-10;</a>
+</spair>
+<spair id='10'>
+<s id='en10'>Without D , your bones can become brittle and weak .</s>
+<s id='vn10'>Nếu không có vitamin D , xương của bạn có thể trở nên giòn và yếu .</s>
+<a id='ev10'>1-1,2,3;2-4,5;4-8,9;5-7;6-10,11;7-12,13;8-14;9-15;10-16;</a>
+</spair>
+<spair id='11'>
+<s id='en11'>In adults , too little vitamin D can lead to malformed bones and osteoporosis .</s>
+<s id='vn11'>Ở người lớn , vitamin D quá ít có thể làm xương bị dị dạng và loãng xương .</s>
+<a id='ev11'>1-1;2-2,3;4-7;5-8;6-5;7-6;8-9,10;9-11;11-13,14,15;12-12;13-16;14-17,18;</a>
+</spair>
+<spair id='12'>
+<s id='en12'>In children , vitamin D deficiency once caused many cases of rickets , a bone disease and a major public health problem in the U.S .</s>
+<s id='vn12'>Ở trẻ em , thiếu vitamin D từng gây ra nhiều trường hợp còi xương , đây là một bệnh về xương và cũng là vấn đề đau đầu của ngành y tế cộng đồng Hoa Kỳ .</s>
+<a id='ev12'>1-1;2-2,3;4-6;5-7;6-5;7-8;8-9,10;9-11;10-12,13;12-14,15;14-19;15-22;16-20;17-23;19-31;20-34,35;21-32,33;22-26,27;25-36,37;</a>
+</spair>
+<spair id='13'>
+<s id='en13'>Fortifying the milk supply with vitamin D virtually eliminated the disorder .</s>
+<s id='vn13'>Việc tăng cường , bổ sung sữa cung cấp vitamin D hầu như có thể làm giảm được chứng bệnh này .</s>
+<a id='ev13'>1-1,2,3;3-7;4-5,6;6-10;7-11;8-12,13;11-16,17;</a>
+</spair>
+<spair id='14'>
+<s id='en14'>Vitamin D for heart and mind</s>
+<s id='vn14'>Vitamin D cho cả tim mạch lẫn trí óc</s>
+<a id='ev14'>1-1;2-2;3-3;4-5,6;5-7;6-8,9;</a>
+</spair>
+<spair id='15'>
+<s id='en15'>Low blood levels of vitamin D may have effects beyond your bones .</s>
+<s id='vn15'>Hàm lượng vitamin D trong máu thấp có thể gây ảnh hưởng rất nhiều đến sức khỏe của bạn , không chỉ riêng đối với xương .</s>
+<a id='ev15'>1-7;2-6;3-1,2;4-5;5-3;6-4;7-8,9;9-10,11,12;10-21,22,23;12-26;</a>
+</spair>
+<spair id='16'>
+<s id='en16'>Studies find a greater risk of heart problems and a greater risk of depression in older adults with low levels of vitamin D .</s>
+<s id='vn16'>Nhiều công trình nghiên cứu cho thấy người lớn có nguy cơ bệnh tim mạch và nguy cơ bị trầm cảm cao hơn khi nồng độ vitamin D thấp .</s>
+<a id='ev16'>1-1,2,3,4,5;2-6,7;4-8,9;5-11,12;6-10;7-14,15;8-13;11-22,23;12-17,18;14-20,21;15-24;19-29;20-25,26;22-27;23-28;</a>
+</spair>
+<spair id='17'>
+<s id='en17'>And though it 's not clear why , people taking a vitamin D supplement were 7 % less likely to die than those who did n't take a daily supplement in one study .</s>
+<s id='vn17'>Và cho dù là người ta chưa rõ nguyên nhân vì sao nhưng một công trình nghiên cứu cho thấy người có bổ sung vitamin D ít tử vong hơn người không bổ sung vitamin D hằng ngày đến 7% .</s>
+<a id='ev17'>1-1;2-2,3,4;4,5-7;6-8;7-9,10,11,12;9-5,6;12-25;13-26;14-23,24;16,17-40;18-27;21-28,29;22-30;25,26-32;29-37,38;30-33,34;</a>
+</spair>
+<spair id='18'>
+<s id='en18'>In children , researchers have found more severe asthma when vitamin D levels are low .</s>
+<s id='vn18'>Ở trẻ nhỏ , nhiều nhà nghiên cứu cho biết bệnh hen suyễn càng trầm trọng hơn khi hàm lượng vitamin D trong cơ thể bé thấp .</s>
+<a id='ev18'>1-1;2-2,3;4-5,6,7,8;7-17;8-15,16;9-11,12,13;10-18;11-21;12-22;13-19,20;15-26;</a>
+</spair>
+<spair id='19'>
+<s id='en19'>Vitamin D comes from skin</s>
+<s id='vn19'>Vitamin D hấp thụ từ da</s>
+<a id='ev19'>1-1;2-2;3-3,4;4-5;5-6;</a>
+</spair>
+<spair id='20'>
+<s id='en20'>You 'd never have to worry about getting enough vitamin D .</s>
+<s id='vn20'>Bạn sẽ chẳng hề lo về việc phải hấp thụ đủ vitamin D đâu .</s>
+<a id='ev20'>1-1;2-2;3-3,4;6-5;7-6;8-8;9-11;10-12;11-13;</a>
+</spair>
+<spair id='21'>
+<s id='en21'>The trick is exposing some portion of your skin to direct sunlight for 15 to 30 minutes a few days a week .</s>
+<s id='vn21'>Bí quyết là nên để một phần da nào đó của mình tiếp xúc trực tiếp với ánh nắng mặt trời trong khoảng thời gian từ 15 đến 30 phút mỗi ngày một vài lần trong tuần .</s>
+<a id='ev21'>2-1,2;4-13,14;5-7,9;6-5;8-11,12;9-8;11-15,16;12-18,19,20,21;13-23;14-27;15-28;16-29;17-30;19-33,34;20-31,32;22-37;</a>
+</spair>
+<spair id='22'>
+<s id='en22'>But the UV rays that stimulate production of vitamin D can also cause skin cancer .</s>
+<s id='vn22'>Nhưng tia UV , ngoài việc kích thích sản xuất vitamin D , nó còn có thể là nguyên nhân gây ung thư da .</s>
+<a id='ev22'>1-1;3-3;4-2;6-6,7,8;7-9,10;9-11;10-12;11-16,17;12-15;13-19,20;14-24;15-22,23;</a>
+</spair>
+<spair id='23'>
+<s id='en23'>So most experts do n't recommend getting your vitamin D from sun exposure .</s>
+<s id='vn23'>Vì vậy hầu hết chuyên gia đều không khuyến nghị việc hấp thụ vitamin D từ việc tiếp xúc với ánh nắng mặt trời .</s>
+<a id='ev23'>1-1,2;2-3,4;3-5,6;4,5-8;6-9,10;7-11,12,13;9-14;10-15;12-21,22,23,24;13-18,19;</a>
+</spair>
+<spair id='24'>
+<s id='en24'>Vitamin D where you live</s>
+<s id='vn24'>Vitamin D ở nơi bạn sinh sống</s>
+<a id='ev24'>1-1;2-2;3-4;4-5;5-6,7;</a>
+</spair>
+<spair id='25'>
+<s id='en25'>The darker a person 's skin , the more difficult it is to get vitamin D from sunlight .</s>
+<s id='vn25'>Da người càng ngâm đen thì càng khó có thể hấp thụ vitamin D từ ánh nắng mặt trời .</s>
+<a id='ev25'>2-4,5;4-2;6-1;9-7;10-8,9;14-11,12;15-13;16-14;17-15;18-16,17,18,19;</a>
+</spair>
+<spair id='26'>
+<s id='en26'>Fair-skinned people might be willing to risk the 10 to 15 minutes they need to get enough .</s>
+<s id='vn26'>Người da sáng có thể sẵn sàng mạo hiểm tiếp xúc từ 10 - 15 phút là có thể hấp thụ đủ vitamin D cần thiết .</s>
+<a id='ev26'>1-2,3;2-1;3-4,5;5-6,7;7-8,9;9-13;11-15;12-16;14-25,26;16-20,21;17-22;</a>
+</spair>
+<spair id='27'>
+<s id='en27'>But there 's still a problem .</s>
+<s id='vn27'>Nhưng vấn đề vẫn còn nảy sinh .</s>
+<a id='ev27'>1-1;4-4,5,6,7;6-2,3;</a>
+</spair>
+<spair id='28'>
+<s id='en28'>Unless you live south of a line from Los Angeles to Columbia , S.C. , there may not be enough sunlight year round to produce all the vitamin D you need .</s>
+<s id='vn28'>Trừ phi bạn sống ở phía nam tuyến từ Los Angeles đến Columbia , S . C . , có thể bạn không có đủ ánh nắng mặt trời quanh năm để tạo đủ vitamin D cần thiết .</s>
+<a id='ev28'>1-1,2;2-3;3-4;4-6,7;5-5;7-8;8-9;9-10;10-11;11-12;12-13;14-15,17;17-20,21;18-23;19-24;20-25;21-26,27,28,29;22-31;23-30;24-32;25-33;26-34;28-35;29-36;31-37,38;</a>
+</spair>
+<spair id='29'>
+<s id='en29'>Some people may need other sources .</s>
+<s id='vn29'>Một số người có thể cần đến nhiều nguồn hỗ trợ khác .</s>
+<a id='ev29'>1-1,2;2-3;3-4,5;4-6,7;5-12;6-9,10,11;</a>
+</spair>
+<spair id='30'>
+<s id='en30'>Who 's at risk for " D " deficiency ?</s>
+<s id='vn30'>Đối tượng nào có nguy cơ thiếu vitamin D ?</s>
+<a id='ev30'>1-1,2,3;2-4;4-5,6;7-8,9;9-7;</a>
+</spair>
+<spair id='31'>
+<s id='en31'>Studies find vitamin D deficiency can affect adults , infants , children , and adolescents .</s>
+<s id='vn31'>Nhiều công trình nghiên cứu cho thấy tình trạng thiếu vitamin D có thể gây ảnh hưởng đến người lớn , trẻ sơ sinh , trẻ nhỏ , và cả thanh thiếu niên .</s>
+<a id='ev31'>1-1,2,3,4,5;2-6,7;3-11;4-12;5-8,9,10;6-13,14;7-16,17,18;8-19,20;10-22,23,24;12-26,27;14-29;15-31,32,33;</a>
+</spair>
+<spair id='32'>
+<s id='en32'>Your diet may increase your risk if it 's low in milk or the foods that naturally contain vitamin D , such as salmon and eggs .</s>
+<s id='vn32'>Chế độ dinh dưỡng của bạn có thể làm tăng nguy cơ nếu hàm lượng vitamin D thấp trong sữa hoặc thức ăn chứa vitamin D tự nhiên , chẳng hạn như cá hồi và trứng .</s>
+<a id='ev32'>1-5,6;2-1,2,3,4;3-7,8;4-9,10;6-11,12;7-13;10-18;11-19;12-20;13-21;15-22,23;17-27,28;18-24;19-25;20-26;22,23-30,31,32;24-33,34;25-35;26-36;</a>
+</spair>
+<spair id='33'>
+<s id='en33'>Most people with low blood levels of vitamin D do n't notice any symptoms .</s>
+<s id='vn33'>Hầu hết người có hàm lượng vitamin D trong máu thấp đều không để ý thấy bất kỳ triệu chứng gì .</s>
+<a id='ev33'>1-1,2;2-3;4-11;5-10;6-5,6;7-9;8-7;9-8;11-13;12-14,15;13-17,18;14-19,20;</a>
+</spair>
+<spair id='34'>
+<s id='en34'>Others risk factors include :</s>
+<s id='vn34'>Các nguy cơ khác bao gồm :</s>
+<a id='ev34'>1-4;2-1,2,3;4-5,6;</a>
+</spair>
+<spair id='35'>
+<s id='en35'>- Obesity</s>
+<s id='vn35'>- Béo phì</s>
+<a id='ev35'>2-2,3;</a>
+</spair>
+<spair id='36'>
+<s id='en36'>- Digestive disorders like celiac disease</s>
+<s id='vn36'>- Rối loạn tiêu hóa chẳng hạn như bệnh đường ruột</s>
+<a id='ev36'>2-4,5;3-2,3;4-6,7,8;5-10,11;6-9;</a>
+</spair>
+<spair id='37'>
+<s id='en37'>- Older age ( 50+ )</s>
+<s id='vn37'>- Tuổi già ( từ 50 trở lên )</s>
+<a id='ev37'>2-3;3-2;5-5,6,7,8;</a>
+</spair>
+<spair id='38'>
+<s id='en38'>- Some medications</s>
+<s id='vn38'>- Một số loại thuốc nào đó</s>
+<a id='ev38'>2-2,3;3-4,5,6,7;</a>
+</spair>
+<spair id='39'>
+<s id='en39'>Blood pressure and vitamin D</s>
+<s id='vn39'>Huyết áp và vitamin D</s>
+<a id='ev39'>1,2-1,2;3-3;4-4;5-5;</a>
+</spair>
+<spair id='40'>
+<s id='en40'>The combination of high blood pressure and vitamin D deficiency could be deadly .</s>
+<s id='vn40'>Vừa bị cao huyết áp vừa bị thiếu vitamin D có thể gây tử vong .</s>
+<a id='ev40'>2-1,2,6,7;4-3;5,6-4,5;8-9;9-10;10-8;11-11,12;12-13;13-14,15;</a>
+</spair>
+<spair id='41'>
+<s id='en41'>In one observational study , people with hypertension and a vitamin D deficiency were twice as likely to have a cardiac event than other people in the study .</s>
+<s id='vn41'>Một nghiên cứu quan sát cho thấy người bị cao huyết áp và thiếu vitamin D có nguy cơ bị bệnh tim cao hơn gấp đôi so với người khác .</s>
+<a id='ev41'>2-1;3-4,5;4-2,3;6-8;7-6,7;8-10,11,12;9-13;11-15;12-16;13-14;15-25,26;17-17,18,19;19-20;21-21,22;23-27,28;24-30;25-29;</a>
+</spair>
+<spair id='42'>
+<s id='en42'>The lack of vitamin D was not linked to cardiovascular problems in those without hypertension .</s>
+<s id='vn42'>Thiếu vitamin D không liên quan gì đến các vấn đề tim mạch ở những người không bị cao huyết áp .</s>
+<a id='ev42'>2-1;4-2;5-3;7-4;8-5,6;9-8;10-12,13;11-9,10,11;12-14;14-17,18;15-19,20,21;</a>
+</spair>
+<spair id='43'>
+<s id='en43'>Vitamin D and breast cancer</s>
+<s id='vn43'>Vitamin D và bệnh ung thư vú</s>
+<a id='ev43'>1-1;2-2;3-3;4-7;5-4,5,6;</a>
+</spair>
+<spair id='44'>
+<s id='en44'>Low vitamin D may worsen the prognosis for women with breast cancer .</s>
+<s id='vn44'>Hàm lượng vitamin D thấp có thể làm cho tiên lượng phụ nữ bị ung thư vú tệ hại hơn .</s>
+<a id='ev44'>1-5;2-3;3-4;4-6,7;5-8,9,18,19;7-10,11;9-12,13;10-14;11-17;12-15,16;</a>
+</spair>
+<spair id='45'>
+<s id='en45'>In one study , women deficient in vitamin D when they were diagnosed had a 94 % greater chance of the cancer spreading .</s>
+<s id='vn45'>Một nghiên cứu cho thấy phụ nữ thiếu vitamin D khi được chẩn đoán có nguy cơ phát tán ung thư gấp 94% .</s>
+<a id='ev45'>2-1;3-2,3;5-6,7;6-8;8-9;9-10;10-11;13-13,14;14-12;16,17-23;18-22;19-16,17;22-20,21;23-18,19;</a>
+</spair>
+<spair id='46'>
+<s id='en46'>They also had a 73 % greater chance of dying over the next 10 years .</s>
+<s id='vn46'>họ cũng có nguy cơ tử vong trong 10 năm tới cao gấp 73% .</s>
+<a id='ev46'>1-1;2-2;3-3;5,6-14;7-13;8-4,5;9-8;10-6,7;11-12;13-11;14-9;15-10;</a>
+</spair>
+<spair id='47'>
+<s id='en47'>Other studies suggest that vitamin D may even offer protection against developing breast cancer .</s>
+<s id='vn47'>Nhiều công trình nghiên cứu khác cũng cho thấy vitamin D thậm chí có thể bảo vệ khỏi ung thư vú .</s>
+<a id='ev47'>1-6;2-1,2,3,4,5;3-8,9;5-10;6-11;7-14,15;8-12,13;9-18;10-16,17;13-21;14-19,20;</a>
+</spair>
+<spair id='48'>
+<s id='en48'>Vitamin D and other cancers</s>
+<s id='vn48'>Vitamin D và các chứng ung thư khác</s>
+<a id='ev48'>1-1;2-2;3-3;4-8;5-4,5,6,7;</a>
+</spair>
+<spair id='49'>
+<s id='en49'>Vitamin D may offer some protection against at least two other cancers : colon cancer and prostate cancer .</s>
+<s id='vn49'>Vitamin D có thể bảo vệ khỏi ít nhất 2 chứng ung thư khác đó là ung thư ruột kết và ung thư tuyến tiền liệt .</s>
+<a id='ev49'>1-1;2-2;3-3,4;4-7;6-5,6;8,9-8,9;10-10;11-14;12-11,12,13;14-19,20;15-17,18;16-21;17-24,25,26;18-22,23;</a>
+</spair>
+<spair id='50'>
+<s id='en50'>But vitamin D is n't a magic bullet .</s>
+<s id='vn50'>Nhưng vitamin D không phải là thuốc tiên .</s>
+<a id='ev50'>1-1;2-2;3-3;4,5-4,5;7-8;8-7;</a>
+</spair>
+<spair id='51'>
+<s id='en51'>The cancer-fighting benefit may be limited to people who are otherwise healthy , not overweight , and exercise .</s>
+<s id='vn51'>Lợi ích kháng ung thư có thể giới hạn ở những người khỏe mạnh khác , không béo phì , và tập thể dục .</s>
+<a id='ev51'>2-3,4,5;3-1,2;4-6,7;6-8,9;7-10;9-11,12;11-15;12-13,14;14-17;15-18,19;17-21;18-22,23,24;</a>
+</spair>
+<spair id='52'>
+<s id='en52'>Vitamin D and depression</s>
+<s id='vn52'>Vitamin D và chứng trầm cảm</s>
+<a id='ev52'>1-1;2-2;3-3;4-4,5,6;</a>
+</spair>
+<spair id='53'>
+<s id='en53'>It is n't clear how they are related .</s>
+<s id='vn53'>Người ta vẫn chưa rõ mối tương quan của 2 vấn đề này .</s>
+<a id='ev53'>2-3;3-4;4-5;8-6,7,8;</a>
+</spair>
+<spair id='54'>
+<s id='en54'>But studies have linked low levels of vitamin D to depression among older men and women .</s>
+<s id='vn54'>Nhưng nhiều công trình nghiên cứu đã liên kết hàm lượng vitamin D thấp và chứng trầm cảm người già ở cả nam lẫn nữ .</s>
+<a id='ev54'>1-1;2-2,3,4,5,6;3-7;4-8,9;5-14;6-10,11;8-12;9-13;11-16,17,18;12-21,22;13-19,20;14-23;15-24;16-25;</a>
+</spair>
+<spair id='55'>
+<s id='en55'>One possible explanation is that lack of vitamin D causes the parathyroid gland to produce more hormone .</s>
+<s id='vn55'>Một lời giải thích khả thi là thiếu vitamin D sẽ làm cho tuyến cận giáp tạo ra nhiều hoóc-môn hơn .</s>
+<a id='ev55'>1-1,2;2-5,6;3-3,4;4-7;6-8;8-9;9-10;10-11,12,13;12-14,15,16;15-17,18;16-21;17-20;</a>
+</spair>
+<spair id='56'>
+<s id='en56'>Low levels of vitamin D and higher levels of parathyroid hormone have been linked to depression severity .</s>
+<s id='vn56'>Hàm lượng vitamin D thấp và nồng độ hoóc-môn tuyến cận giáp cao hơn dẫn đến trầm cảm nghiêm trọng hơn .</s>
+<a id='ev56'>1-5;2-1,2;4-3;5-4;6-6;7-13,14;8-7,8;10-10,11,12;11-9;14-15,16;16-17,18;17-19,20;</a>
+</spair>
+<spair id='57'>
+<s id='en57'>Vitamin D and weight gain</s>
+<s id='vn57'>Vitamin D và tăng cân</s>
+<a id='ev57'>1-1;2-2;3-3;4-5;5-4;</a>
+</spair>
+<spair id='58'>
+<s id='en58'>After menopause , most women gain weight until they reach their mid 65s .</s>
+<s id='vn58'>Sau mãn kinh , hầu hết phụ nữ đều tăng cân cho đến 65 tuổi .</s>
+<a id='ev58'>1-1;2-2,3;4-5,6;5-7,8;6-10;7-11;8-12,13;13-14,15;</a>
+</spair>
+<spair id='59'>
+<s id='en59'>There is evidence , though , that taking a vitamin D and calcium supplement may slow that weight gain .</s>
+<s id='vn59'>Mặc dù thế , người ta cũng tìm được bằng chứng là bổ sung vitamin D và can-xi cũng có thể làm chậm quá trình tăng cân này .</s>
+<a id='ev59'>3-10,11;5-1,2;7-3;8-8,9;10-15;11-16;12-17;13-18;14-13,14;15-20,21;16-22,23;17-28;18-27;19-26;</a>
+</spair>
+<spair id='60'>
+<s id='en60'>In one study , women who were not getting enough of those two nutrients were 11 % less likely to gain weight and more likely to maintain their weight or even lose weight as a result of taking the supplement .</s>
+<s id='vn60'>Một công trình nghiên cứu cho thấy , phụ nữ không hấp thụ đủ 2 loại dưỡng chất đó ít có khả năng tăng cân đến 11% và có thể duy trì được trọng lượng cơ thể hoặc thậm chí là có thể giảm cân do sử dụng thuốc bổ sung .</s>
+<a id='ev60'>2-1;3-2,3,4,5;5-9,10;8-11;9-12,13;10-14;12-19;13-15;14-17,18;16,17-27;18-20,21;19-22,23;21-24;22-25;23-28;25-29,30;27-31,32;29-34,35,36,37;30-38;31-39,40;32-44;33-45;36-46;38-47,48;40-49,50,51;</a>
+</spair>
+<spair id='61'>
+<s id='en61'>Vitamin D and children</s>
+<s id='vn61'>Vitamin D và trẻ nhỏ</s>
+<a id='ev61'>1-1;2-2;3-3;4-4,5;</a>
+</spair>
+<spair id='62'>
+<s id='en62'>Evidence shows that children who get adequate vitamin D , either from the sun or from supplements , may have a reduced risk of developing type 1 diabetes .</s>
+<s id='vn62'>Bằng chứng cho thấy trẻ nhỏ hấp thụ đủ vitamin D , hoặc là vitamin D từ ánh nắng mặt trời hoặc là vitamin D từ nguồn bổ sung , có thể giảm được nguy cơ tiểu đường loại 1 .</s>
+<a id='ev62'>1-1,2;2-3,4;4-5,6;6-7,8;7-9;8-10;9-11;11-13,14;12-17;14-18,19,20,21;15-22;16-26;17-27,28,29;19-31,32;22-33;23-35,36;26-39;27-40;28-37,38;</a>
+</spair>
+<spair id='63'>
+<s id='en63'>Studies also link inadequate vitamin D to more severe childhood asthma .</s>
+<s id='vn63'>Nhiều nghiên cứu cũng cho thấy mối tương quan giữa tình trạng thiếu vitamin D và bệnh hen suyễn trầm trọng hơn ở trẻ nhỏ .</s>
+<a id='ev63'>1-1,2,3;2-4;3-7,8,9;4-13;5-14;6-15;8-22;9-20,21;10-24,25;11-17,18,19;</a>
+</spair>
+<spair id='64'>
+<s id='en64'>Children with asthma who have low vitamin D levels have more hospitalizations and use more asthma medications .</s>
+<s id='vn64'>Trẻ bị suyễn thiếu vitamin D thường hay nhập viện nhiều hơn và dùng thuốc trị hen suyễn nhiều hơn .</s>
+<a id='ev64'>1-1;3-3;6-4;7-5;8-6;11-11,12;12-9,10;13-13;14-14;15-19,20;16-17,18;17-15,16;</a>
+</spair>
+<spair id='65'>
+<s id='en65'>Start your day with vitamin D</s>
+<s id='vn65'>Hãy bắt đầu ngày mới của bạn với vitamin D</s>
+<a id='ev65'>1-2,3;2-6,7;3-4;4-8;5-9;6-10;</a>
+</spair>
+<spair id='66'>
+<s id='en66'>One way to get vitamin D is through your diet .</s>
+<s id='vn66'>Chế độ dinh dưỡng là một cách giúp bạn hấp thụ đủ vitamin D .</s>
+<a id='ev66'>1-6;2-7;4-10,11;5-13;6-14;10-1,2,3,4;</a>
+</spair>
+<spair id='67'>
+<s id='en67'>In the U.S.A , nearly all milk is fortified with vitamin D , and many brands of orange juice are , too .</s>
+<s id='vn67'>Ở Hoa Kỳ , gần như tất cả các loại sữa đều được tăng cường vitamin D , và nhiều thương hiệu nước cam ép cũng đã làm việc này .</s>
+<a id='ev67'>1-1;3-2,3;5-5,6;6-7,8;7-11;9-13,14,15;11-16;12-17;14-19;15-20;16-21,22;18-23,24;19-25;22-26;</a>
+</spair>
+<spair id='68'>
+<s id='en68'>Even ready-to-eat breakfast cereals can contain a healthy dose .</s>
+<s id='vn68'>Thậm chí là ngũ cốc ăn liền cho bữa điểm tâm cũng có thể chứa một liều lượng vitamin D an toàn và khoẻ mạnh .</s>
+<a id='ev68'>1-1,2;2-6,7;3-9,10,11;4-4,5;5-13,14;6-15;8-24,25;9-17,18;</a>
+</spair>
+<spair id='69'>
+<s id='en69'>So just by making sure you eat breakfast , you can make every day a " D day " .</s>
+<s id='vn69'>Vì vậy hãy đảm bảo việc ăn sáng của mình , bạn có thể làm cho mỗi ngày của mình " tràn đầy năng lượng với vitamin D " .</s>
+<a id='ev69'>1-1,2;2-3;5-4,5;7-6,7;8-8;10-12;11-13,14;12-15,16;13-17;14-18;17-28;</a>
+</spair>
+<spair id='70'>
+<s id='en70'>Vitamin D at dinner</s>
+<s id='vn70'>Vitamin D trong bữa ăn tối</s>
+<a id='ev70'>1-1;2-2;3-3;4-4,5,6;</a>
+</spair>
+<spair id='71'>
+<s id='en71'>Fish - especially fatty fish like salmon , tuna , mackerel , and sardines - are a good source of vitamin D.</s>
+<s id='vn71'>Các loại cá - nhất là cá béo chẳng hạn như cá hồi , cá ngừ , cá thu , và cá mòi - đều là nguồn cung cấp vitamin D dồi dào .</s>
+<a id='ev71'>1-1,2,3;3-5,6;4-8;5-7;6-9,10,11;7-12,13;9-15,16;11-18,19;13-21;14-22,23;18-32,33;19-27,28,29;21-30;22-31;</a>
+</spair>
+<spair id='72'>
+<s id='en72'>One 3-ounce portion of cooked salmon can provide nearly 200 % of the recommended daily value of vitamin D .</s>
+<s id='vn72'>Một khẩu phần 3 ao-xơ cá hồi nấu chín cũng có thể cung cấp tương đương 200% giá trị dinh dưỡng vitamin D được khuyến cáo mỗi ngày .</s>
+<a id='ev72'>1-1;2-4,5;3-2,3;5-8,9;6-6,7;7-11,12;8-13,14;9-15,16;10,11-17;14-25,26;15-27,28;16-18,19,20,21;18-22;19-23;</a>
+</spair>
+<spair id='73'>
+<s id='en73'>Eggs , Cheese , and Vitamin D</s>
+<s id='vn73'>Trứng , Phô mai , và Vitamin D</s>
+<a id='ev73'>1-1;3-3,4;5-6;6-7;7-8;</a>
+</spair>
+<spair id='74'>
+<s id='en74'>Other food sources of vitamin D include egg yolks , cod liver oil , beef liver , margarine , yogurt , and some cheeses .</s>
+<s id='vn74'>Nhiều nguồn thực phẩm cung cấp vitamin D khác gồm lòng đỏ trứng , dầu gan cá tuyết , gan bò , bơ thực vật , sữa chua , và một số loại phô-mai .</s>
+<a id='ev74'>1-9;2-3,4;3-1,2,5,6;5-7;6-8;7-10;8-13;9-11,12;11-17,18;12-16;13-15;15-21;16-20;18-23,24,25;20-27,28;22-30;23-31,32;24-34;</a>
+</spair>
+<spair id='75'>
+<s id='en75'>While milk has been fortified in the United States since the 1930s , the same is not true for all dairy products .</s>
+<s id='vn75'>Mặc dù ở Hoa Kỳ sữa đã được tăng cường vitamin D kể từ những năm 1930 , nhưng tất cả các sản phẩm làm từ sữa khác thì không phải như thế .</s>
+<a id='ev75'>1-1,2;2-6;3-7;4-8;5-9,10;8,9-4,5;10-14;12-15,16,17;15-32,33;17,18-30,31;21-26,27;22-22,23,24;</a>
+</spair>
+<spair id='76'>
+<s id='en76'>Cheese and ice cream may be a tasty source of calcium , but you need to read the nutrition label to know whether or not you 're getting vitamin D.</s>
+<s id='vn76'>Phô-mai và kem có thể là nguồn cung cấp can-xi ngon miệng , nhưng bạn cũng nên đọc kỹ nhãn hiệu dinh dưỡng để biết xem mình có đủ vitamin D hay không .</s>
+<a id='ev76'>1-1;2-2;3,4-3;5-4,5;8-11,12;9-7,8,9;11-10;13-14;14-15;15-16;16-17;17-18,19;19-22,23;20-20,21;21-24;22-25;23-32,33;26-27,28;28-29;29-30;30-31;</a>
+</spair>
+<spair id='77'>
+<s id='en77'>Vitamin D supplements</s>
+<s id='vn77'>Bổ sung Vitamin D</s>
+<a id='ev77'>1-3;2-4;3-1,2;</a>
+</spair>
+<spair id='78'>
+<s id='en78'>Most Americans already have enough vitamin D in the bloodstream for good bone health .</s>
+<s id='vn78'>Hầu hết người Mỹ đều đã có đủ hàm lượng vitamin D trong máu để xương được chắc khỏe .</s>
+<a id='ev78'>1-1,2;2-3,4;3-6;4-7;5-8;6-11;7-12;10-13,14;11-15;12-18;13-16;14-19;</a>
+</spair>
+<spair id='79'>
+<s id='en79'>For those who want or need to boost their intake of vitamin D , supplements are an option .</s>
+<s id='vn79'>Những ai muốn hoặc cần tăng cường hấp thụ thêm vitamin D thì có thể bổ sung .</s>
+<a id='ev79'>3-1,2;4-3;5-4;6-5;8-6,7;10-8,9,10;12-11;13-12;15-16,17;18-14,15;</a>
+</spair>
+<spair id='80'>
+<s id='en80'>Most multivitamin tablets contain 400 IU of vitamin D.</s>
+<s id='vn80'>Đa số các viên uống đa sinh tố đều chứa 400 đơn vị vitamin D .</s>
+<a id='ev80'>1-1,2;2-6,7,8;3-3,4,5;4-10;5-11;6-12,13;8-14;9-15;</a>
+</spair>
+<spair id='81'>
+<s id='en81'>You can also find vitamin D by itself in higher-dose tablets and in combination with calcium .</s>
+<s id='vn81'>Bạn cũng có thể bổ sung một mình vitamin D bằng viên uống liều cao hơn và dùng kết hợp với can-xi .</s>
+<a id='ev81'>1-1;2-3,4;3-2;4-5,6;5-9;6-10;8-7,8;9-11;10-14,15,16;11-12;12-17;14-19,20;15-21;16-22;</a>
+</spair>
+<spair id='82'>
+<s id='en82'>D2 or D3 ? That 's the question .</s>
+<s id='vn82'>Vitamin D2 hay D3 ? Đó mới là vấn đề .</s>
+<a id='ev82'>1-1,2;2-3;3-4;5-6;6-8;8-9,10;</a>
+</spair>
+<spair id='83'>
+<s id='en83'>Vitamin D is available in supplements in two forms : D2 and D3 .</s>
+<s id='vn83'>Vitamin D có trong các loại thuốc bổ sung ở hai dạng : đó là vitamin D2 và vitamin D3 .</s>
+<a id='ev83'>1-1;2-2;4-3;5-4;6-5,6,7,8,9;7-10;8-11;9-12;11-16,17;12-18;13-19,20;</a>
+</spair>
+<spair id='84'>
+<s id='en84'>Both forms are effective , and either can be taken to ensure adequate levels of vitamin D .</s>
+<s id='vn84'>Cả hai dạng này đều rất có hiệu quả , và đều có thể được sử dụng để đảm bảo đủ hàm lượng vitamin D .</s>
+<a id='ev84'>1-1,2;2-3;4-7,8,9;6-11;7-12;8-13,14;9-15;10-16,17;11-18;12-19,20;13-21;14-22,23;16-24;17-25;</a>
+</spair>
+<spair id='85'>
+<s id='en85'>But D2 is not equal to D3 .</s>
+<s id='vn85'>Nhưng vitamin D2 thì không giống như vitamin D3 .</s>
+<a id='ev85'>1-1;2-2,3;3-4;4-5;5-6,7;7-8,9;</a>
+</spair>
+<spair id='86'>
+<s id='en86'>D3 is the kind of vitamin D the body makes , and recent studies suggest that D3 can be up to three times more effective in raising the vitamin D level quickly and staying longer .</s>
+<s id='vn86'>Vitamin D3 là loại vitamin D mà cơ thể sản sinh ra , và nhiều công trình nghiên cứu gần đây cho thấy vitamin D3 có thể làm tăng hàm lượng vitamin D lên nhanh và giữ được vitamin D lâu hơn gấp đến 3 lần .</s>
+<a id='ev86'>1-1,2;2-3;4-4;6-5;7-6;9-8,9;10-10,11;13-20,21;14-15,16,17,18,19;15-22,23;17-24,25;18-26,27;22-45;23-46;27-28,29;29-32;30-33;31-30,31;32-35;33-36;34-37,38;35-41,42;</a>
+</spair>
+<spair id='87'>
+<s id='en87'>How much vitamin D do you need ?</s>
+<s id='vn87'>Cơ thể bạn cần bao nhiêu vitamin D ?</s>
+<a id='ev87'>1,2-5,6;3-7;4-8;6-1,2,3;7-4;</a>
+</spair>
+<spair id='88'>
+<s id='en88'>How much vitamin D you need depends on your age and risk factors .</s>
+<s id='vn88'>Bạn cần liều lượng vitamin D bao nhiêu - điều ấy tuỳ thuộc vào tuổi tác và các yếu tố rủi ro về sức khỏe của bạn .</s>
+<a id='ev88'>1,2-7,8;3-5;4-6;5-1;6-2;7-12,13;9-26,27;10-15,16;11-17;12-21,22;13-18,19,20;</a>
+</spair>
+<spair id='89'>
+<s id='en89'>The recommended dietary allowance is 600 IU per day for adults up to 70 , and 800 IU for ages 71 or older .</s>
+<s id='vn89'>Nhu cầu dinh dưỡng được khuyến nghị là 600 đơn vị đối với người lớn trên 70 tuổi , và 800 đơn vị cho người từ 71 tuổi trở lên .</s>
+<a id='ev89'>2-5,6,7;3-1,2,3,4;5-8;6-9;7-10,11;8-12,13;11-14,15;12-16;14-17;16-20;17-21;18-22,23;19-24;20-28;21-27;23-29,30;</a>
+</spair>
+<spair id='90'>
+<s id='en90'>Some researchers have suggested larger doses of vitamin D for a variety of health benefits , but too much may harm you .</s>
+<s id='vn90'>Một số nhà nghiên cứu cho biết liều lượng vitamin D cao hơn có nhiều lợi ích về sức khỏe , nhưng quá nhiều vitamin D có thể gây hại cho bạn .</s>
+<a id='ev90'>1-1,2;2-3,4,5;4-6,7;5-12,13;6-8,9;8-10;9-11;12-14,15;13-18;14-19,20;15-16,17;17-22;18-23,24;20-27,28;21-29,30;22-32;</a>
+</spair>
+<spair id='91'>
+<s id='en91'>Above 4,000 IU per day , the risk for harm increases , according the Institute of Medicine .</s>
+<s id='vn91'>Theo Viện Y Khoa thì hàm lượng trên 4,000 đơn vị mỗi ngày có thể làm tăng nguy cơ gây hại .</s>
+<a id='ev91'>1-8;2-9;3-10,11;5-12,13;8-18,19;10-20,21;11-17;13-1;15-2;17-3,4;</a>
+</spair>
+<spair id='92'>
+<s id='en92'>Daily dose for breastfed babies</s>
+<s id='vn92'>Liều vitamin D hằng ngày cho trẻ bú mẹ</s>
+<a id='ev92'>1-4,5;2-1;3-6;4-8,9;5-7;</a>
+</spair>
+<spair id='93'>
+<s id='en93'>Breast milk provides multiple benefits for babies , but it is not a good source for vitamin D .</s>
+<s id='vn93'>Sữa mẹ rất có lợi cho trẻ , nhưng đây không phải là nguồn cung cấp vitamin D dồi dào .</s>
+<a id='ev93'>1-2;2-1;5-4,5;6-6;7-7;9-9;10-10;11-13;14-19,20;15-14,15,16;17-17;18-18;</a>
+</spair>
+<spair id='94'>
+<s id='en94'>The American Academy of Pediatrics ( AAP ) recommends that all breastfed babies receive a 400 IU daily supplement of vitamin D starting shortly after birth and continuing until the baby is weaned and drinking at least 1,000 mL of vitamin D - fortified formula or whole milk .</s>
+<s id='vn94'>Viện hàn lâm nhi khoa Hoa Kỳ ( AAP ) khuyến nghị tất cả trẻ bú mẹ mỗi ngày đều phải bổ sung vitamin D 400 đơn vị bắt đầu ngay sau khi sinh và tiếp tục cho đến khi cai sữa và uống ít nhất 1,000 mL sữa bột hoặc sữa nguyên chất tăng cường vitamin D .</s>
+<a id='ev94'>2-6,7;3-1,2,3;5-4,5;7-9;9-11,12;11-13,14;12-16,17;13-15;16-26;17-27,28;18-18,19;19-22,23;21-24;22-25;23-29,30;24-31;25-32,33;26-34;27-35;28-36,37;29-38,39,40;33-41,42;34-43;35-44;36,37-45,46;38-47;39-48;41-57;42-58;44-55,56;45-49,50;46-51;47-53,54;48-52;</a>
+</spair>
+<spair id='95'>
+<s id='en95'>The upper limit is 1,000 IU for babies 0-6 months old and 1,500 IU for babies 6-12 months old .</s>
+<s id='vn95'>Giới hạn trên là 1,000 đơn vị đối với trẻ từ 0-6 tháng tuổi và 1,500 đơn vị đối với trẻ từ 6-12 tháng tuổi .</s>
+<a id='ev95'>2-3;3-1,2;4-4;5-5;6-6,7;7-8,9;8-10;9-12;10-13;11-14;12-15;13-16;14-17,18;15-19,20;16-21;17-23;18-24;19-25;</a>
+</spair>
+<spair id='96'>
+<s id='en96'>Vitamin D for older children</s>
+<s id='vn96'>Vitamin D cho trẻ lớn hơn</s>
+<a id='ev96'>1-1;2-2;3-3;4-5,6;5-4;</a>
+</spair>
+<spair id='97'>
+<s id='en97'>Children may be able to get the vitamin D they need for growing bones through foods , including those fortified with vitamin D , such as milk .</s>
+<s id='vn97'>Trẻ có thể hấp thụ đủ vitamin D cần thiết để phát triển xương từ thức ăn , bao gồm những loại thức ăn tăng cường vitamin D , chẳng hạn như sữa .</s>
+<a id='ev97'>1-1;2-2,3;6-4,5;8-7;9-8;11-9,10;12-11;13-12,13;14-14;15-15;16-16,17;18-19,20;20-25,26;22-27;23-28;25,26-30,31,32;27-33;</a>
+</spair>
+<spair id='98'>
+<s id='en98'>Beginning at the first birthday , the recommend dietary intake is 600 IU.</s>
+<s id='vn98'>Bắt đầu tròn 1 tuổi thì hàm lượng vitamin D qua ăn uống được khuyến nghị là 600 đơn vị .</s>
+<a id='ev98'>1-1,2;4-4;5-5;8-14,15,16;9-12,13;10-11;12-18;13-19,20;</a>
+</spair>
+<spair id='99'>
+<s id='en99'>Supplements are an option to be sure your child gets enough vitamin D , but it 's important not go overboard .</s>
+<s id='vn99'>Bạn cũng có thể lựa chọn nhiều nguồn bổ sung để đảm bảo rằng con mình hấp thụ đủ vitamin D , nhưng điều quan trọng là không nên vượt quá liều lượng .</s>
+<a id='ev99'>1-7,8,9,10;4-5,6;7-12,13;9-15;10-17,18;11-19;12-20;13-21;15-23;16-24;18-25,26;19-28,29;20-30;21-31,32,33;</a>
+</spair>
+<spair id='100'>
+<s id='en100'>The upper limits are 2,500 IU for ages 1-3 , 3,000 IU for ages 4-8 , and from age 9 , 4,000 IU .</s>
+<s id='vn100'>Giới hạn trên 2,500 đơn vị đối với trẻ từ 1-3 tuổi , 3,000 đơn vị đối với trẻ từ 4-8 tuổi , và 4,000 đơn vị đối với trẻ từ 9 tuổi trở lên .</s>
+<a id='ev100'>2-3;3-1,2;5-4;6-5,6;7-10;8-12;9-11;11-14;12-15,16;13-20;14-22;15-21;19-33;20-32;22-25;23-26,27;</a>
+</spair>
+<spair id='101'>
+<s id='en101'>Testing for vitamin D</s>
+<s id='vn101'>Xét nghiệm vitamin D</s>
+<a id='ev101'>1-1,2;3-3;4-4;</a>
+</spair>
+<spair id='102'>
+<s id='en102'>There is a blood test - the 25 hydroxyvitamin D test - your doctor can order to check your level of vitamin D .</s>
+<s id='vn102'>Có một loại xét nghiệm máu - xét nghiệm 25 hydroxyvitamin D - mà bác sĩ có thể yêu cầu để kiểm tra hàm lượng vitamin D của bạn .</s>
+<a id='ev102'>1-1;3-2;4-6;5-4,5;8-10;9-11;10-12;11-8,9;13-28,29;14-15,16;15-17,18;16-19,20;17-21;18-22,23;20-24,25;22-26;23-27;</a>
+</spair>
+<spair id='103'>
+<s id='en103'>Current guidelines indicate that you 're getting enough vitamin D to keep your bones healthy when your blood level is 20 nanograms per milliliter ( ng_mL ) or higher .</s>
+<s id='vn103'>Nguyên tắc hiện tại là nếu hàm lượng vitamin D trong máu của bạn là 20 nanogram mL ( ng mL ) trở lên thì bạn đã hấp thụ đủ vitamin D để giữ cho xương của mình được chắc khỏe .</s>
+<a id='ev103'>1-3,4;2-1,2;3-5;5-27;6-28;7-29,30;8-31;9-9;10-10;12-35;13-38,39;14-37;15-41;17-13,14;18-12;19-7,8;21-16;22-17;24-18;26-20;27-21;30-24,25;</a>
+</spair>
+<spair id='104'>
+<s id='en104'>Research is ongoing to understand how vitamin D levels in the bloodstream may affect other aspects of health .</s>
+<s id='vn104'>Các nghiên cứu vẫn đang tiến hành để tìm hiểu xem hàm lượng vitamin D trong máu có thể ảnh hưởng đến các yếu tố sức khỏe khác như thế nào .</s>
+<a id='ev104'>1-1,2,3;3-5,6,7;4-8;5-9,10;6-29,30,31;7-14;8-15;9-12,13;10-16;12-17;13-18,19;14-20,21,22;15-28;16-23,24,25;18-26,27;</a>
+</spair>
+<spair id='105'>
+<s id='en105'>Vitamin D and other drugs</s>
+<s id='vn105'>Vitamin D và các loại thuốc khác</s>
+<a id='ev105'>1-1;2-2;3-3;4-7;5-4,5,6;</a>
+</spair>
+<spair id='106'>
+<s id='en106'>Steroid medications can interfere with metabolism of vitamin D .</s>
+<s id='vn106'>Các loại thuốc chứa xtê-rô-ít cũng có thể làm cản trở quá trình chuyển hoá vitamin D .</s>
+<a id='ev106'>1-5;2-1,2,3;3-7,8;4-9,10,11;6-12,13,14,15;8-16;9-17;</a>
+</spair>
+<spair id='107'>
+<s id='en107'>If you take steroids , you should discuss vitamin D with your doctor .</s>
+<s id='vn107'>Nếu bạn sử dụng xtê-rô-ít thì bạn nên thảo luận vitamin D với bác sĩ .</s>
+<a id='ev107'>1-1;2-2;3-3,4;4-5;6-7;7-8;8-9,10;9-11;10-12;11-13;13-14,15;</a>
+</spair>
+<spair id='108'>
+<s id='en108'>The same is true for the weight loss drug orlistat , some cholesterol-lowering drugs , and seizure drugs such as phenobarbitol .</s>
+<s id='vn108'>Tương tự đối với thuốc trị béo phì giảm cân , một số thuốc làm giảm cholesterol , thuốc trị động kinh co giật chẳng hạn như phenobarbitol .</s>
+<a id='ev108'>2-1,2;5-3,4;7-10;8-9;9-5,6;10-7,8;12-12,13;13-15,16,17;14-14;17-21,22,23,24;18-19,20;19,20-25,26,27;21-28;</a>
+</spair>
+<spair id='109'>
+<s id='en109'>Cholesterol-lowering statins , on the other hand , will raise vitamin D levels .</s>
+<s id='vn109'>Thuốc statin làm giảm cholesterol , mặt khác , cũng sẽ làm tăng hàm lượng vitamin D .</s>
+<a id='ev109'>1-3,4,5;2-1,2;4,5,6,7-7,8;9-11;10-12,13;11-16;12-17;13-14,15;</a>
+</spair>
+<spair id='110'>
+<s id='en110'>How much is too much ?</s>
+<s id='vn110'>Hàm lượng vitamin D bao nhiêu là quá nhiều ?</s>
+<a id='ev110'>1,2-5,6;3-7;4-8;5-9;</a>
+</spair>
+<spair id='111'>
+<s id='en111'>There is a limit to how much vitamin D you can safely take .</s>
+<s id='vn111'>Người ta cũng đặt ra giới hạn bổ sung hàm lượng vitamin D bao nhiêu là an toàn .</s>
+<a id='ev111'>4-6,7;6,7-14,15;8-12;9-13;12-17,18;</a>
+</spair>
+<spair id='112'>
+<s id='en112'>The Institute of Medicine recommendations for adults say that a daily intake of up to 4,000 IU of vitamin D is safe .</s>
+<s id='vn112'>Viện Y Khoa khuyến nghị mỗi ngày người lớn bổ sung đến 4,000 đơn vị vitamin D là an toàn .</s>
+<a id='ev112'>2-1;4-2,3;5-4,5;7-8,9;11-6,7;12-10,11;14,15-12;16-13;17-14,15;19-16;20-17;21-18;22-19,20;</a>
+</spair>
+<spair id='113'>
+<s id='en113'>Taking more than 10,000 IU per day can cause kidney and tissue damage .</s>
+<s id='vn113'>Trên 10,000 đơn vị có thể gây tổn thương thận và tổn thương mô .</s>
+<a id='ev113'>2,3-1;4-2;5-3,4;8-5,6;9-7;10-10;11-11;12-14;13-12,13;</a>
+</spair>
+<spair id='114'>
+<s id='en114'>The best approach is to check with your health care provider before taking vitamin D supplements .</s>
+<s id='vn114'>Phương pháp tốt nhất là nên kiểm tra với bác sĩ chăm sóc sức khỏe cho bạn trước khi bổ sung vitamin D .</s>
+<a id='ev114'>2-3,4;3-1,2;4-5;6-7,8;7-9;8-16,17;9-14,15;10-12,13;11-10,11;12-18,19;14-22;15-23;16-20,21;</a>
+</spair>
+</text>
+</doc>

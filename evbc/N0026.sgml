@@ -1,0 +1,927 @@
+﻿<doc id='N0026'>
+<head>
+<title>Fever and taking your child 's temperature</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>22/10/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Fever and taking your child 's temperature</s>
+<s id='vn1'>Sốt và phương pháp đo nhiệt độ cho con của bạn</s>
+<a id='ev1'>1-1;2-2;3-5;4-10,11;5-9;7-6,7;</a>
+</spair>
+<spair id='2'>
+<s id='en2'>You 've probably experienced waking in the middle of the night to find your child flushed , hot , and sweaty .</s>
+<s id='vn2'>Bạn cũng đã từng giật mình thức giấc giữa đêm thấy con mình mặt đỏ au , người nóng và đẫm mồ hôi .</s>
+<a id='ev2'>1-1;4-3,4;5-7,8;8-9;11-10;13-11;14-13;15-12;16-14,15,16;18-19;20-20;21-21,22,23;</a>
+</spair>
+<spair id='3'>
+<s id='en3'>You immediately suspect a fever , but are unsure of what to do next .</s>
+<s id='vn3'>Ngay lập tức bạn sẽ nghi là sốt , nhưng không biết nên làm gì tiếp .</s>
+<a id='ev3'>1-4;2-1,2,3;3-6;5-8;7-10;9-11,12;11-15;12-13;13-14;14-16;</a>
+</spair>
+<spair id='4'>
+<s id='en4'>Should you get out the thermometer ?</s>
+<s id='vn4'>Có nên lấy nhiệt kế để đo .</s>
+<a id='ev4'>1-2;3,4-3;6-4,5;</a>
+</spair>
+<spair id='5'>
+<s id='en5'>Call the doctor ?</s>
+<s id='vn5'>Gọi điện cho bác sĩ ?</s>
+<a id='ev5'>1-1,2;3-4,5;</a>
+</spair>
+<spair id='6'>
+<s id='en6'>In healthy kids , fevers usually do n't indicate anything serious .</s>
+<s id='vn6'>Đối với trẻ khoẻ mạnh thì sốt thường không phải là vấn đề nghiêm trọng .</s>
+<a id='ev6'>1-1,2;2-4,5;3-3;5-7;6-8;8-9;9-10;10-12,13;11-14,15;</a>
+</spair>
+<spair id='7'>
+<s id='en7'>Although it can be frightening when your child 's temperature rises , fever itself causes no harm and can actually be a good thing - it 's often the body 's way of fighting infections .</s>
+<s id='vn7'>Mặc dù nó cũng có thể khiến cho bạn lo sợ khi thấy thân nhiệt của bé tăng cao , bản thân của sốt cũng không gây hại gì và đôi khi sốt cũng có tác dụng tốt - thường thì đó là một cách chống các bệnh lây nhiễm của cơ thể .</s>
+<a id='ev7'>1-1,2;2-3;3-5,6;5-10,11;6-12;8-17;9-16;10-14,15;11-18;13-24;14-21,22;15-27;16-26;17-28;18-30;20-31,32;23-38;24-36,37;26-42;27-43;28-40;30-52,53;31-51;32-44,45;34-46;35-47,48,49,50;</a>
+</spair>
+<spair id='8'>
+<s id='en8'>And not all fevers need to be treated .</s>
+<s id='vn8'>Và không phải bất kỳ chứng sốt nào cũng cần nên chữa trị .</s>
+<a id='ev8'>1-1;2-2;3-4,5;4-6,7;5-10;6-11;8-12,13;</a>
+</spair>
+<spair id='9'>
+<s id='en9'>High fever , however , can make a child uncomfortable and worsen problems such as dehydration .</s>
+<s id='vn9'>Tuy nhiên , sốt cao có thể khiến trẻ cảm thấy khó chịu và làm cho vấn đề trở nên tệ hại hơn như là chứng mất nước .</s>
+<a id='ev9'>1-5;2-4;4-1,2;6-6,7;7-8;9-9;10-11,12,13;11-14;12-19,20,21,22,23;13-17,18;14,15-24,25;16-26,27,28;</a>
+</spair>
+<spair id='10'>
+<s id='en10'>Here 's more about fevers , how to measure and treat them , and when to call your doctor .</s>
+<s id='vn10'>Dưới đây là chi tiết về triệu chứng sốt , cách đo nhiệt độ và chữa trị cho bé và khi nào nên gọi điện cho bác sĩ .</s>
+<a id='ev10'>1-1,2;2-3;3-4,5;4-6;5-7,8,9;7-11;9-12,13,14;10-15;11-16,17;14-20;15-21,22;16-23;17-24,25;19-27,28;</a>
+</spair>
+<spair id='11'>
+<s id='en11'>Fever facts</s>
+<s id='vn11'>Sự thật về triệu chứng sốt</s>
+<a id='ev11'>1-4,5,6;2-1,2;</a>
+</spair>
+<spair id='12'>
+<s id='en12'>Fever occurs when the body 's internal " thermostat " raises the body temperature above its normal level .</s>
+<s id='vn12'>Sốt thường xảy ra khi " bộ điều chỉnh nhiệt " bên trong cơ thể làm nâng thân nhiệt lên cao hơn so với mức bình thường .</s>
+<a id='ev12'>1-1;2-2,3,4;3-5;5-14,15;7-12,13;9-7,8,9,10;11-16,17;13-18;14-19;15-20,21,22;17-26,27;18-25;</a>
+</spair>
+<spair id='13'>
+<s id='en13'>This thermostat is found in the part of the brain called the hypothalamus .</s>
+<s id='vn13'>Bộ điều chỉnh nhiệt này nằm bên trong não bộ được gọi là vùng dưới đồi .</s>
+<a id='ev13'>1-5;2-1,2,3,4;4-6;5-7,8;10-9,10;11-11,12,13;13-14,15,16;</a>
+</spair>
+<spair id='14'>
+<s id='en14'>The hypothalamus knows what temperature your body should be ( usually around 98.6° Fahrenheit or 37° Celsius ) and will send messages to your body to keep it that way .</s>
+<s id='vn14'>Vùng dưới đồi này biết thân nhiệt nên ở mức nào ( thường khoảng chừng 98.6° Pha-ren-het hoặc 37° C ) và có nhiệm vụ phát tín hiệu cho cơ thể biết nên giữ ở nhiệt độ như vậy .</s>
+<a id='ev14'>1-4;2-1,2,3;3-5;5-7;7-6;8-8;9-9;11-13;12-14,15;13-16;14-17;15-18;16-19;17-20;19-22;20-23;22-26,27,28;23-29;25-30,31;27-34;28-36,37;30-38,39;</a>
+</spair>
+<spair id='15'>
+<s id='en15'>Most people 's body temperatures even change a little bit during the course of the day : It 's usually a little lower in the morning and a little higher in the evening and can fluctuate as kids run around , play , and exercise .</s>
+<s id='vn15'>Thân nhiệt của hầu hết mọi người cũng thay đổi chút ít suốt cả ngày : buổi sáng thường hơi thấp và cao hơn một chút vào buổi chiều tối và có thể thay đổi thất thường khi trẻ chạy nhảy , chơi giỡn và tập thể dục .</s>
+<a id='ev15'>1-4,5;2-6,7;3-3;4-1;5-2;6-8;7-9,10;9-12;10-11;11-13;16-14,15;20-19;22-20;23-21;26-17,18;27-22;29-25,26;30-23,24;31-27;33-28,29,30;34-31;35-32,33;36-34,35,36,37;37-38;38-39;39-40,41;42-43,44;44-45;45-46,47,48;</a>
+</spair>
+<spair id='16'>
+<s id='en16'>Sometimes , though , the hypothalamus will " reset " the body to a higher temperature in response to an infection , illness , or some other cause .</s>
+<s id='vn16'>Mặc dù vậy nhưng đôi khi vùng dưới đồi sẽ " thiết lập lại " nhiệt độ cao hơn cho cơ thể để phản ứng với một chứng bệnh hay một bệnh lây nhiễm nào đó hoặc một nguyên nhân nào khác .</s>
+<a id='ev16'>1-5,6;3-1,2,3;6-7,8,9;7-10;9-12,13,14;12-21,22;13-20;15-17,18,19;16-16;17-23;18-24,25;19-26;20-27;21-32,33,34;23-28,29;25-37;26-38;27-42;28-39,40;</a>
+</spair>
+<spair id='17'>
+<s id='en17'>So , why does the hypothalamus tell the body to change to a new temperature ?</s>
+<s id='vn17'>Vậy thì lý do gì mà vùng dưới đồi bắt cơ thể phải thay đổi nhiệt độ mới ?</s>
+<a id='ev17'>1-1,2;3-3,4,5;6-7,8,9;7-10;9-11,12;11-13,14,15;14-18;15-16,17;</a>
+</spair>
+<spair id='18'>
+<s id='en18'>Researchers believe turning up the heat is the body 's way of fighting the germs that cause infections and making the body a less comfortable place for them .</s>
+<s id='vn18'>Các nhà nghiên cứu cho rằng việc tăng nhiệt độ cơ thể lên cao là một cách giúp cơ thể kháng lại mầm bệnh gây nhiễm trùng và làm cho cơ thể không còn là nơi lý tưởng cho mầm bệnh .</s>
+<a id='ev18'>1-1,2,3,4;2-5,6;3,4-8;6-9,10;9-11,12;10-15;11-16,17;12-18;13-21,22;15-23,24;17-25;18-26,27;19-28;20-29,30;22-31,32;24-33,34;25-37,38;26-36;27-39;28-40,41;</a>
+</spair>
+<spair id='19'>
+<s id='en19'>Causes of Fever</s>
+<s id='vn19'>Nguyên nhân gây sốt</s>
+<a id='ev19'>1-1,2;3-3,4;</a>
+</spair>
+<spair id='20'>
+<s id='en20'>It 's important to remember that fever by itself is not an illness - it 's usually a symptom of an underlying problem .</s>
+<s id='vn20'>Quan trọng là bạn nên nhớ rằng bản thân sốt không phải là bệnh - mà thường là một triệu chứng của một vấn đề tiềm ẩn nào đó .</s>
+<a id='ev20'>2-3;3-1,2;4-5;5-6;6-7;7-10;9-8,9;10-13;11-11,12;13-14;16-18;17-17;19-19,20,21;21-23;22-22,26,27;23-24,25;</a>
+</spair>
+<spair id='21'>
+<s id='en21'>Fever has a few potential causes :</s>
+<s id='vn21'>Một số nguyên nhân gây sốt có thể là :</s>
+<a id='ev21'>1-5,6;4-1,2;5-7,8;6-3,4;</a>
+</spair>
+<spair id='22'>
+<s id='en22'>Infection : Most fevers are caused by infection or other illness .</s>
+<s id='vn22'>Bệnh lây nhiễm : Hầu hết các triệu chứng sốt đều là do nhiễm trùng hoặc một chứng bệnh khác nào đó .</s>
+<a id='ev22'>1-1,2,3;3-5,6;4-7,8,9,10;5-12;6-13;8-14,15;9-16;10-20,21;11-18,19;</a>
+</spair>
+<spair id='23'>
+<s id='en23'>Fever helps the body fight infections by stimulating natural defense mechanisms .</s>
+<s id='vn23'>Sốt giúp cơ thể kháng lại sự nhiễm trùng bằng cách kích thích cơ chế miễn dịch tự nhiên .</s>
+<a id='ev23'>1-1;2-2;4-3,4;5-5,6;6-7,8,9;7-10,11;8-12,13;9-18,19;10-16,17;11-14,15;</a>
+</spair>
+<spair id='24'>
+<s id='en24'>Overdressing : Infants , especially newborns , may get fevers if they 're overbundled or in a hot environment because they do n't regulate their body temperature as well as older kids .</s>
+<s id='vn24'>Mặc quá nhiều quần áo : Trẻ sơ sinh , nhất là trẻ mới sinh , có thể bị sốt nếu được bọc quấn nhiều quá hoặc ở một môi trường quá nóng vì các bé này không điều tiết thân nhiệt được như những trẻ lớn tuổi hơn .</s>
+<a id='ev24'>1-1,2,3,4,5;3-7,8,9;5-11,12;6-13,14,15;8-17,18;9-19;10-20;11-21;14-22,23,24,25,26;15-27;16-28;17-29;18-32,33;19-30,31;20-34;21-35,36,37;23-38;24-39,40;26-41;27-42;28,29,30-43,44;31-47,48,49;32-45,46;</a>
+</spair>
+<spair id='25'>
+<s id='en25'>However , because fevers in newborns can indicate a serious infection , even infants who are overdressed must be evaluated by a doctor if they have a fever .</s>
+<s id='vn25'>Tuy nhiên , vì triệu chứng sốt ở trẻ sơ sinh có thể là dấu hiệu của một chứng bệnh lây nhiễm nào đó nên ngay cả các bé sơ sinh được quấn bọc nhiều quá cũng phải nên được bác sĩ khám và chẩn đoán nếu bị sốt .</s>
+<a id='ev25'>1-1,2;3-4;4-5,6,7;5-8;6-9,10,11;7-12,13;8-15,16;11-18,19,20,21,22;13-26,27;14-28,29,30,31;17-32,33,34,35,36;18-37,38;20-40,43,45,46;23-41,42;24-47;26-48;28-49;</a>
+</spair>
+<spair id='26'>
+<s id='en26'>Immunizations : Babies and kids sometimes get a low-grade fever after getting vaccinated .</s>
+<s id='vn26'>Chủng ngừa : Trẻ nhỏ đôi khi cũng bị sốt nhẹ sau khi tiêm ngừa vắc-xin .</s>
+<a id='ev26'>1-1,2;3-5;5-4;6-6,7;7-8,9;9-11;10-10;11-12,13;12-14,15;13-16;</a>
+</spair>
+<spair id='27'>
+<s id='en27'>Although teething may cause a slight rise in body temperature , it 's probably not the cause if a child 's temperature is higher than 100°F ( 37.8° C ) .</s>
+<s id='vn27'>Mặc dù việc mọc răng của bé cũng có thể khiến cho nhiệt độ cơ thể hơi tăng cao , nhưng đây hẳn không phải là nguyên nhân khiến cho thân nhiệt của trẻ cao hơn 100°F ( 37.8° C ) .</s>
+<a id='ev27'>1-1,2;2-3,4,5;3-9,10;4-11,12;6-17;7-18,19;9-15,16;10-13,14;12-22;13-26;14-23;15-24;17-27,28;18-29,30;20-34;21-33;22-31,32;24-35,36;26-37;28-39;29-40;</a>
+</spair>
+<spair id='28'>
+<s id='en28'>When Fever Is a Sign of Something Serious</s>
+<s id='vn28'>Khi nào sốt là dấu hiệu của một vấn đề nào đó nghiêm trọng</s>
+<a id='ev28'>1-1,2;2-3;3-4;4-8;5-5,6;6-7;7-9,10,11,12;8-13,14;</a>
+</spair>
+<spair id='29'>
+<s id='en29'>In the past , doctors advised treating a fever on the basis of temperature alone .</s>
+<s id='vn29'>Trước đây , bác sĩ khuyến cáo chỉ nên điều trị sốt dựa theo thân nhiệt cơ thể thôi .</s>
+<a id='ev29'>2,3-1,2;5-4,5;6-6,7;7-10,11;9-12;10-13,14;12-17,18;14-15,16;</a>
+</spair>
+<spair id='30'>
+<s id='en30'>But now they recommend considering both the temperature and a child 's overall condition .</s>
+<s id='vn30'>Nhưng giờ đây họ đề nghị nên xem xét cả thân nhiệt và tình hình sức khỏe tổng quát của trẻ nữa .</s>
+<a id='ev30'>1-1;2-2,3;3-4;4-5,6;5-8,9;6-10;8-11,12;9-13;11-21;12-20;13-18,19;14-14,15,16,17;</a>
+</spair>
+<spair id='31'>
+<s id='en31'>Kids whose temperatures are lower than 102°F ( 38.9° C ) often do n't require medication unless they 're uncomfortable .</s>
+<s id='vn31'>Trẻ có thân nhiệt dưới 102°F ( 38.9° C ) thường không cần phải sử dụng thuốc trừ phi cảm thấy khó chịu .</s>
+<a id='ev31'>1-1;2-2;3-3,4;5-5;7-6;9-8;10-9;12-11;13-12;15-13,14;16-15,16,17;17-18,19;20-20,21,22,23;</a>
+</spair>
+<spair id='32'>
+<s id='en32'>There 's one important exception to this rule : If you have an infant 3 months or younger with a rectal temperature of 100.4°F ( 38°C ) or higher , call your doctor or go to the emergency department immediately .</s>
+<s id='vn32'>Một ngoại lệ hết sức quan trọng đối với nguyên tắc này là : Nếu con bạn là trẻ sơ sinh từ 3 tháng trở xuống có nhiệt độ trực tràng 100.4°F ( 38°C ) trở lên thì bạn nên gọi điện cho bác sĩ hoặc cho bé đến khoa cấp cứu ngay lập tức .</s>
+<a id='ev32'>3-1;4-6,7;5-2,3;6-8,9;7-12;8-10,11;10-15;11-17;14-19,20,21;15-23;16-24;18-25,26;19-27;21-30,31;22-28,29;24-32;26-34;29-36,37;31-41,42;33-44,45;34-46;38-51,52;39-50;40-53,54,55;</a>
+</spair>
+<spair id='33'>
+<s id='en33'>Even a slight fever can be a sign of a potentially serious infection in very young infants .</s>
+<s id='vn33'>Thậm chí sốt nhẹ cũng có thể là một dấu hiệu của một bệnh lây nhiễm nghiêm trọng nào đó có thể xảy ra đối với trẻ sơ sinh rất nhỏ .</s>
+<a id='ev33'>1-1,2;3-4;4-3;5-6,7;6-8;7-9;8-10,11;9-12;10-13;11-21,22,23,24;12-17,18;13-14,15,16;15-30;16-31;17-27,28,29;</a>
+</spair>
+<spair id='34'>
+<s id='en34'>If your child is between 3 months and 3 years old and has a fever of 102.2°F ( 39°C ) or higher , call your doctor to see if he or she needs to see your child .</s>
+<s id='vn34'>Nếu con bạn từ 3 tháng đến 3 tuổi bị sốt 102.2°F ( 39°C ) trở lên thì bạn nên gọi điện cho bác sĩ xem liệu bé có cần đến bác sĩ không .</s>
+<a id='ev34'>1-1;2-3;3-2;5-4;6-5;7-6;8-7;9-8;10-9;13-10;15-11;17-12;19-14;22-16,17;24-21,22;26-24,25;28-26;33-30,31;35-27;37-28;</a>
+</spair>
+<spair id='35'>
+<s id='en35'>For older kids , take behavior and activity level into account .</s>
+<s id='vn35'>Đối với trẻ lớn hơn , bạn hãy để ý xem mức hoạt động và cách hoạt động của bé nhé .</s>
+<a id='ev35'>1-1,2;2-4,5;3-3;5-9,10;6-13,14;7-15;8-16,17,18;9-12;</a>
+</spair>
+<spair id='36'>
+<s id='en36'>Watching how your child behaves will give you a pretty good idea of whether a minor illness is the cause or if your child should be seen by a doctor .</s>
+<s id='vn36'>Việc theo dõi xem bé hoạt động như thế nào giúp bạn hình dung được ý tưởng hay liệu đây là chứng bệnh nhẹ của bé hay bé cần nên đến bác sĩ .</s>
+<a id='ev36'>1-1,2,3;2-8,9,10;4-5;5-6,7;7-11;8-12;11-18;12-13,14,16,17;14-19,20;16-24;17-22,23;18-21;21-27;24-28;25-30;27-31;30-32,33;</a>
+</spair>
+<spair id='37'>
+<s id='en37'>The illness is probably not serious if your child :</s>
+<s id='vn37'>Triệu chứng này có lẽ không là vấn đề gì nghiêm trọng nếu con bạn :</s>
+<a id='ev37'>1-3;2-1,2;3-7;4-4,5;5-6;6-11,12;7-13;8-15;9-14;</a>
+</spair>
+<spair id='38'>
+<s id='en38'>- is still interested in playing</s>
+<s id='vn38'>- vẫn thích chơi bình thường</s>
+<a id='ev38'>3-2;4-3;6-4;</a>
+</spair>
+<spair id='39'>
+<s id='en39'>- is eating and drinking well</s>
+<s id='vn39'>- ăn uống khỏe</s>
+<a id='ev39'>3-2;5-3;6-4;</a>
+</spair>
+<spair id='40'>
+<s id='en40'>- is alert and smiling at you</s>
+<s id='vn40'>- tươi tỉnh và hay cười với bạn</s>
+<a id='ev40'>3-2,3;4-4;5-5,6;6-7;7-8;</a>
+</spair>
+<spair id='41'>
+<s id='en41'>- has a normal skin color</s>
+<s id='vn41'>- có sắc da bình thường</s>
+<a id='ev41'>2-2;4-5,6;5-4;6-3;</a>
+</spair>
+<spair id='42'>
+<s id='en42'>- looks well when his or her temperature comes down</s>
+<s id='vn42'>- trông tươi tỉnh khi thân nhiệt của bé hạ</s>
+<a id='ev42'>2-2;3-3,4;4-5;7-8,9;8-6,7;9,10-10;</a>
+</spair>
+<spair id='43'>
+<s id='en43'>And do n't worry too much about a child with a fever who does n't want to eat .</s>
+<s id='vn43'>Và bạn chớ nên lo lắng thái quá khi bé sốt và không muốn ăn .</s>
+<a id='ev43'>1-1;3-3;4-5,6;5,6-7,8;7-9;9-10;12-11;15-13;16-14;18-15;</a>
+</spair>
+<spair id='44'>
+<s id='en44'>This is very common with infections that cause fever .</s>
+<s id='vn44'>Điều này cũng rất thường gặp đối với các chứng nhiễm trùng gây sốt cho bé .</s>
+<a id='ev44'>1-1,2;3-4;4-5,6;5-7,8;6-9,10,11,12;8-13;9-14;</a>
+</spair>
+<spair id='45'>
+<s id='en45'>For kids who still drink and urinate normally , not eating as much as usual is OK .</s>
+<s id='vn45'>Đối với trẻ vẫn uống nước và đi tiểu bình thường thì việc bé không ăn nhiều như mọi khi vẫn là điều bình thường thôi .</s>
+<a id='ev45'>1-1,2;2-3;4-4;5-5,6;6-7;7-8,9;8-10,11;10-15;11-16;12-18;13-17;14-19,20;16-22;17-24,25;</a>
+</spair>
+<spair id='46'>
+<s id='en46'>Is it a Fever ?</s>
+<s id='vn46'>Có phải bé bị sốt không ?</s>
+<a id='ev46'>1-1,2;4-5;</a>
+</spair>
+<spair id='47'>
+<s id='en47'>A gentle kiss on the forehead or a hand placed lightly on the skin is often enough to give you a hint that your child has a fever .</s>
+<s id='vn47'>Một cái hôn nhẹ nhàng lên trán hoặc đặt tay nhẹ lên da bé thường cũng đủ để giúp bạn nhận biết bé đang bị sốt .</s>
+<a id='ev47'>1-1;2-4,5;3-2,3;4-6;6-7;7-8;9-10;10-9;11-11;14-12,13;16-15;17-17,18;19-19;20-20;22-21,22;25-23;26-25;28-26;</a>
+</spair>
+<spair id='48'>
+<s id='en48'>However , this method of taking a temperature ( called tactile temperature ) is dependent on the person doing the feeling and does n't give an accurate measure of temperature .</s>
+<s id='vn48'>Tuy nhiên , cách đo nhiệt độ như thế này ( gọi là đo nhiệt độ bằng xúc giác ) lệ thuộc vào cảm giác của người đo và đây không phải là một cách đo nhiệt độ chính xác .</s>
+<a id='ev48'>1-1,2;3-8,9,10;4-4;6-5;8-6,7;10-12,13;11-18,19;12-15,16;15-21,22;16-23;18-27;19-28;21-24,25;22-29;24-31;26-34,35;27-39,40;28-36;30-37,38;</a>
+</spair>
+<spair id='49'>
+<s id='en49'>Use a reliable thermometer to confirm a fever ( which is when a child 's temperature is at or above one of these levels ) :</s>
+<s id='vn49'>Bạn nên sử dụng một nhiệt kế tin cậy để biết chính xác bé bị sốt ( sốt là khi thân nhiệt của bé ở mức độ nào hoặc trên một trong những mức dưới đây ) :</s>
+<a id='ev49'>1-3,4;2-5;3-8,9;4-6,7;5-10;6-11,12,13;8-16;10-18;11-19;12-20;14-24;15-23;16-21,22;18-25;20-30;21-31;22-32;23-35,36;24-33,34;</a>
+</spair>
+<spair id='50'>
+<s id='en50'>- 100.4°F ( 38° C ) measured rectally ( in the bottom )</s>
+<s id='vn50'>- 100.4°F ( 38° C ) đo nhiệt độ trực tràng ( đo ở hậu môn )</s>
+<a id='ev50'>2-2;4-4;5-5;7-7;8-10,11;10-14;12-15,16;</a>
+</spair>
+<spair id='51'>
+<s id='en51'>- 99.5° F ( 37.5° C ) measured orally</s>
+<s id='vn51'>- 99.5° F ( 37.5° C ) đo ở miệng</s>
+<a id='ev51'>2-2;3-3;5-5;6-6;8-8;9-10;</a>
+</spair>
+<spair id='52'>
+<s id='en52'>- 99° F ( 37.2° C ) measured in an axillary position ( under the arm )</s>
+<s id='vn52'>- 99° F ( 37.2° C ) đo ở vùng dưới nách ( dưới cánh tay )</s>
+<a id='ev52'>2-2;3-3;5-5;6-6;8-8;9-9;11-12;12-10;14-14;16-15,16;</a>
+</spair>
+<spair id='53'>
+<s id='en53'>But how high a fever is does n't tell you much about how sick your child is .</s>
+<s id='vn53'>Nhưng sốt cao bao nhiêu cũng không cho bạn biết nhiều về việc bé bệnh như thế nào .</s>
+<a id='ev53'>1-1;2-4,5;3-3;5-2;7-8;8-7;9-10;11-11;12-12,13;13-16,17,18;14-15;16-14;</a>
+</spair>
+<spair id='54'>
+<s id='en54'>A simple cold or other viral infection can sometimes cause a rather high fever ( in the 102°-104° F 38.9°-40° C range ) , but this does n't usually indicate a serious problem .</s>
+<s id='vn54'>Một chứng bệnh cảm lạnh nhẹ hoặc nhiễm vi rút khác nhiều khi cũng có thể làm cho bé sốt khá cao ( dao động từ 102°-104° F 38.9° -40° C ) nhưng điều này cũng không thường là dấu hiệu cho biết bé đang có vấn đề gì nghiêm trọng .</s>
+<a id='ev54'>1-1;2-6;3-4,5;4-7;5-11;6-9,10;7-8;8-15,16;9-12,13;10-17,18;12-21;13-22;14-20;18-27;19-28;20-29,30;21-31;22-24,25;25-33;26-34,35;28-37;29-38;30-40,41,42,43;32-50,51;33-47,48;</a>
+</spair>
+<spair id='55'>
+<s id='en55'>And serious infections might cause no fever or even an abnormally low body temperature , especially in infants .</s>
+<s id='vn55'>Và lắm lúc thì nhiều bệnh nhiễm trùng nghiêm trọng có thể không làm cho bé sốt hoặc thậm chí là thân nhiệt của bé thấp hơn bình thường , nhất là đối với trẻ sơ sinh .</s>
+<a id='ev55'>1-1;2-9,10;3-5,6,7,8;4-11,12;5-14;6-13;7-17;8-18;9-19,20;11-28,29;12-26,27;13-22;14-23;16-31,32;17-33,34;18-35,36,37;</a>
+</spair>
+<spair id='56'>
+<s id='en56'>Because fevers can rise and fall , a child might have chills as the body tries to generate additional heat as its temperature begins to rise .</s>
+<s id='vn56'>Do cơn sốt có thể tăng hoặc giảm , nên trẻ có thể bị ớn lạnh do cơ thể cố sinh thêm nhiệt khi nhiệt độ cơ thể bắt đầu tăng cao .</s>
+<a id='ev56'>1-1;2-2,3;3-4,5;4-6;5-7;6-8;9-11;10-12,13;11-14;12-15,16;13-17;15-18,19;16-20;18-21;19-22;20-23;21-24;22-27,28;23-25,26;24-29,30;26-31;</a>
+</spair>
+<spair id='57'>
+<s id='en57'>The child may sweat as the body releases extra heat when the temperature starts to drop .</s>
+<s id='vn57'>Trẻ có thể bị vã mồ hôi vì cơ thể thoát nhiệt dư thừa khi nhiệt độ cơ thể bắt đầu hạ xuống .</s>
+<a id='ev57'>2-1;3-2,3;4-5,6,7;5-8;7-9,10;8-11;9-13,14;10-12;11-15;13-16,17;14-20,21;16-22,23;</a>
+</spair>
+<spair id='58'>
+<s id='en58'>Sometimes kids with a fever breathe faster than usual and may have a higher heart rate .</s>
+<s id='vn58'>Đôi khi , trẻ bị sốt có thể thở gấp hơn bình thường và nhịp tim nhanh hơn .</s>
+<a id='ev58'>1-1,2;2-4;3-7,8;5-6;6-9;7-10,11;9-12,13;10-14;14-17,18;15-16;16-15;</a>
+</spair>
+<spair id='59'>
+<s id='en59'>You should call the doctor if your child is having difficulty breathing , is breathing faster than normal , or continues to breathe fast after the fever comes down .</s>
+<s id='vn59'>Hãy gọi ngay cho bác sĩ nếu bé có dấu hiệu khó thở , thở nhanh hơn nhiều so với bình thường hoặc vẫn còn thở gấp sau khi hạ sốt .</s>
+<a id='ev59'>3-2;5-5,6;6-7;8-8;10-9;11-12;12-13;15-15;16-16,17,18;17-19,20;18-21,22;20-23;21-24,25;23-26;24-27;25-28,29;27-31;28,29-30;</a>
+</spair>
+<spair id='60'>
+<s id='en60'>Types of Thermometers</s>
+<s id='vn60'>Các loại nhiệt kế</s>
+<a id='ev60'>1-1,2;3-3,4;</a>
+</spair>
+<spair id='61'>
+<s id='en61'>Whatever thermometer you choose , be sure you know how to use it correctly to get an accurate reading .</s>
+<s id='vn61'>Bất kể là bạn chọn mua loại nhiệt kế nào đi nữa thì hãy đảm bảo bạn nên biết cách sử dụng sao cho đúng để có được số ghi thân nhiệt chính xác .</s>
+<a id='ev61'>1-1,2;2-8,9;3-4;4-5;7-15,16;8-17;9-19;10-20;12-21,22;14-25;15-26;16-27,28;18-33,34;19-29,30;</a>
+</spair>
+<spair id='62'>
+<s id='en62'>Keep and follow the manufacturer 's recommendations for any thermometer .</s>
+<s id='vn62'>Hãy nên gìn giữ và làm theo đúng các chỉ dẫn của nhà sản xuất đối với từng loại nhiệt kế khác nhau .</s>
+<a id='ev62'>1-3,4;2-5;3-6,7;5-14,15;6-12;7-9,10,11;8-16,17;9-18;10-20,21;</a>
+</spair>
+<spair id='63'>
+<s id='en63'>Digital thermometers usually provide the quickest , most accurate readings .</s>
+<s id='vn63'>Nhiệt kế số thường cho bạn số đo nhanh nhất và chính xác nhất .</s>
+<a id='ev63'>1-3;2-1,2;3-4;4-5;6-9,10;8-14;9-12,13;</a>
+</spair>
+<spair id='64'>
+<s id='en64'>They come in many sizes and shapes and are available at most supermarkets and pharmacies in a range of prices .</s>
+<s id='vn64'>Loại nhiệt kế này có nhiều kích cỡ và nhiều kiểu dáng và có bán ở hầu hết các siêu thị và hiệu thuốc với nhiều giá cả khác nhau .</s>
+<a id='ev64'>2-5;4-6;5-7,8;6-9;7-10,11,12;8-13;10-14,15;11-16;12-17,18;13-19,20,21;14-22;15-23,24;16-25;18-26;20-27,28;</a>
+</spair>
+<spair id='65'>
+<s id='en65'>You should read the manufacturer 's instructions to determine what the thermometer is designed for and how it signals that the reading is complete .</s>
+<s id='vn65'>Bạn nên đọc kỹ hướng dẫn sử dụng của nhà sản xuất để biết nhiệt kế này dùng để làm gì và tín hiệu cho biết số ghi sau cùng .</s>
+<a id='ev65'>1-1;2-2;3-3,4;5-11,12;6-9;7-5,6,7,8;8-13;9-14;10-20,21;11-17;12-15,16;14-19;16-22;19-23,24;22-27,28;24-29,30;</a>
+</spair>
+<spair id='66'>
+<s id='en66'>Overall , digital thermometers usually can be used for these temperature-taking methods :</s>
+<s id='vn66'>Nhìn chung , nhiệt kế số thường có thể dùng làm phương pháp đo nhiệt độ cho bé :</s>
+<a id='ev66'>1-1,2;3-6;4-4,5;5-7;6-8,9;8-10;11-14,15,16;12-12,13;</a>
+</spair>
+<spair id='67'>
+<s id='en67'>- in the mouth</s>
+<s id='vn67'>- đo ở miệng</s>
+<a id='ev67'>2-3;4-4;</a>
+</spair>
+<spair id='68'>
+<s id='en68'>- rectal ( in the bottom )</s>
+<s id='vn68'>- đo ở hậu môn</s>
+<a id='ev68'>4-3;6-4,5;</a>
+</spair>
+<spair id='69'>
+<s id='en69'>- axillary ( under the arm )</s>
+<s id='vn69'>- đo ở dưới nách</s>
+<a id='ev69'>2-5;4-3,4;</a>
+</spair>
+<spair id='70'>
+<s id='en70'>Turn on the thermometer and make sure the screen is clear of any old readings .</s>
+<s id='vn70'>Bật nhiệt kế lên và đảm bảo không còn số đo cũ nào .</s>
+<a id='ev70'>1,2-1;4-2,3;5-5;6-4;7-6,7;11-8,9;13-13;14-12;15-10,11;</a>
+</spair>
+<spair id='71'>
+<s id='en71'>Digital thermometers usually have a plastic , flexible probe with a temperature sensor at the tip and an easy-to-read digital display on the opposite end .</s>
+<s id='vn71'>Nhiệt kế số thường có que thăm bằng mềm , một đầu là thiết bị cảm biến nhiệt và đầu kia là màn hình hiển thị số rất dễ đọc .</s>
+<a id='ev71'>1-3;2-1,2;3-4;4-5;8-9;9-6,7;11-11;12-18;13-14,15,16,17;16-12;17-19;19-28,29,30;20-27;21-23,24,25,26;24-21;25-20;</a>
+</spair>
+<spair id='72'>
+<s id='en72'>If your thermometer uses disposable plastic sleeves or covers , put one on according to the manufacturer 's instructions .</s>
+<s id='vn72'>Nếu nhiệt kế của bạn sử dụng vỏ bọc hoặc ống bọc ngoài bằng có thể bỏ đi , bạn nên lắp vào một vỏ bọc khác theo hướng dẫn của nhà sản xuất .</s>
+<a id='ev72'>1-1;2-4,5;3-2,3;4-6,7;5-17,18;7-11,12,13;8-10;9-8,9;11-22,23;12-24;14,15-28;17-32,33,34;18-31;19-29,30;</a>
+</spair>
+<spair id='73'>
+<s id='en73'>Remember to discard the sleeve after each use and to clean the thermometer according to the manufacturer 's instructions before putting it back in its case .</s>
+<s id='vn73'>Nên nhớ bỏ đi ống bọc bên ngoài sau mỗi lần sử dụng xong và lau sạch nhiệt kế theo hướng dẫn của nhà sản xuất trước khi cho vào hộp trở lại .</s>
+<a id='ev73'>1-2;2-1;3-3,4;5-5,6,7,8;6-9;7-10,11;8-12,13;9-15;11-16,17;13-18,19;14,15-20;17-24,25,26;18-23;19-21,22;20-27,28;21-29,30;23-32,33;26-31;</a>
+</spair>
+<spair id='74'>
+<s id='en74'>Electronic ear thermometers measure the tympanic temperature - the temperature inside the ear canal .</s>
+<s id='vn74'>Nhiệt kế đo tai điện tử dùng để đo nhiệt độ màng nhĩ - nhiệt độ bên trong ống tai .</s>
+<a id='ev74'>1-5,6;2-4;3-1,2;4-3;6-12,13;7-9,10,11;10-15,16;11-17,18;13-20;14-19;</a>
+</spair>
+<spair id='75'>
+<s id='en75'>Although they 're quick and easy to use in older babies , they are n't as accurate as digital thermometers for infants 3 months or younger and are more expensive .</s>
+<s id='vn75'>Mặc dù chúng nhanh và dễ sử dụng cho trẻ lớn tuổi hơn nhưng không chính xác bằng nhiệt kế số cho trẻ sơ sinh từ 3 tháng trở xuống và thường đắt tiền hơn .</s>
+<a id='ev75'>1-1,2;2-3;4-4;5-5;6-6;8-7,8;9-9;10-11,12,13;11-10;15-15;17-16,17;18-18;19-21;20-19,20;21-22;22-23,24,25;23-27;24-28;26-29,30;27-31;29-35;30-33,34;</a>
+</spair>
+<spair id='76'>
+<s id='en76'>Plastic strip thermometers ( small plastic strips that you press against the forehead ) may be able to tell you whether your child has a fever , but are n't reliable for taking an exact measurement , especially in infants and very young children .</s>
+<s id='vn76'>Nhiệt kế dán trán ( những plastic nhỏ giúp bạn có thể dán lên trán cho bé ) có thể cho bạn biết xem con mình có đang bị sốt hay không , nhưng đây không phải là cách đo thân nhiệt chính xác , nhất là đối với trẻ sơ sinh và trẻ rất nhỏ .</s>
+<a id='ev76'>1,2,3-1,2,3,4;5-8;6-7;9-10;10-13;11-14;13-15;15-19,20;19-21,23;20-22;21,24-27,28,29,31,32;22-26;23-25;26-30;28-34;30-36;33-37;35-43,44;36-39,40;38-46,47;39-48,49;40-50,51,52;41-53;42-55;43-56;44-54;</a>
+</spair>
+<spair id='77'>
+<s id='en77'>If you need to know your child 's exact temperature , plastic strip thermometers are not the way to go .</s>
+<s id='vn77'>Nếu bạn muốn biết chính xác thân nhiệt của bé thì không nên dùng loại nhiệt kế dán trán này .</s>
+<a id='ev77'>1-1;2-2;3-3;5-4;6-9;7-10;9-5,6;10-7,8;12,13,14-16,17,18,19;16-12,13;</a>
+</spair>
+<spair id='78'>
+<s id='en78'>Forehead thermometers also may be able to tell you if your child has a fever , but are not as accurate as oral or rectal digital thermometers .</s>
+<s id='vn78'>Nhiệt kế đo trán cũng có thể cho bạn biết xem con mình có bị sốt không nhưng cũng không chính xác như nhiệt kế số đo miệng hoặc đo trực tràng .</s>
+<a id='ev78'>1-4;2-1,2;3-5;4-6,7;8-8,10;9-9;11-13;12-12;13-14;15-16;17-18;20-19;21-20,21,22;22-23;23-28;24-29;25-31,32;26-26;27-24,25;</a>
+</spair>
+<spair id='79'>
+<s id='en79'>Pacifier thermometers may seem convenient , but again , their readings are less reliable than rectal temperatures and should n't be used in infants younger than 3 months .</s>
+<s id='vn79'>Nhiệt kế ti ngậm cũng có vẻ tiện lợi nhưng số đo cũng ít tin cậy bằng nhiệt kế trực tràng và không nên dùng cho trẻ sơ sinh dưới 3 tháng tuổi .</s>
+<a id='ev79'>1-3,4;2-1,2;4-6,7;5-8,9;7-10;11-11,12;13-14;14-15,16;15-17;16-20,21;17-18,19;18-22;21-23,24;22-25,26;24-27,28,29;25-30;27-31;28-32,33;</a>
+</spair>
+<spair id='80'>
+<s id='en80'>They also require kids to keep the pacifier in their mouth for several minutes without moving , which is a nearly impossible task for most babies and toddlers .</s>
+<s id='vn80'>Chúng cũng đòi hỏi trẻ phải ngậm ti giả này trong vài phút mà không được nhúc nhích , đây là một yêu cầu bất khả thi đối với hầu hết các trẻ nhỏ và trẻ mới tập đi .</s>
+<a id='ev80'>1-1;2-2;3-3,4;4-5;6-7;7-10;8-8,9;12-11;13-12;14-13;15-14,15,16;16-17,18;18-20;19-21;20-22;22-25,26,27;23-23,24;24-28,29;25-30,31;26-32,33,34;27-35;28-36,37,38,39;</a>
+</spair>
+<spair id='81'>
+<s id='en81'>Glass mercury thermometers were once common , but the American Academy of Pediatrics now says they should not be used because of concerns about possible exposure to mercury , which is an environmental toxin .</s>
+<s id='vn81'>Nhiệt kế thuỷ ngân trước đây được sử dụng rộng rãi , nhưng Viện Hàn lâm Nhi khoa Hoa Kỳ hiện cho biết loại nhiệt kế này không nên được sử dụng nữa bởi họ lo ngại về việc bé có thể tiếp xúc với thủy ngân , đây là một độc tố gây hại cho môi trường .</s>
+<a id='ev81'>2-3,4;3-1,2;5-5,6;6-7,8,9,10,11;8-13;10-19,20;11-14,15,16;13-17,18;14-21;15-22,23;16-24,25,26,27;17-29;18-28;20-31,32;21-34;23-36,37;24-38,39;25-41,42;26-43,44;27-45;28-46,47;30-49;31-50;32-51;33-57,58;34-52,53,54,55;</a>
+</spair>
+<spair id='82'>
+<s id='en82'>( If you still have a mercury thermometer , do not simply throw it in the trash where the mercury can leak out .</s>
+<s id='vn82'>( Nếu bạn vẫn còn nhiệt kế thuỷ ngân thì không nên quăng vứt bừa bãi vì thuỷ ngân có thể rò rỉ ra ngoài .</s>
+<a id='ev82'>2-2;3-3;4-4,5;7-8,9;8-6,7;10,11-11,12;12-15,16;13-13,14;20-18,19;21-20,21;22-23,24;23-25;</a>
+</spair>
+<spair id='83'>
+<s id='en83'>Talk to your doctor or your local health department about how and where to dispose of a mercury thermometer . )</s>
+<s id='vn83'>Tham khảo ý kiến của bác sĩ hoặc sở y tế địa phương mình về việc huỷ bỏ nhiệt kế thuỷ ngân ở đâu và bằng cách nào nhé . )</s>
+<a id='ev83'>1-1,2,3,4;3-5;4-7;5-8;6-14;7-12,13;8-10,11;9-9;10-15;11-26,27,28;12-25;13-23,24;15-16,17,18;18-21,22;19-19,20;</a>
+</spair>
+<spair id='84'>
+<s id='en84'>Tips for Taking Temperatures</s>
+<s id='vn84'>Bí quyết giúp bạn đo nhiệt độ</s>
+<a id='ev84'>1-1,2;2-3;3-5;4-6,7;</a>
+</spair>
+<spair id='85'>
+<s id='en85'>As any parent knows , taking a squirming child 's temperature can be challenging .</s>
+<s id='vn85'>Như bất kỳ bậc cha mẹ nào cũng biết là việc đo thân nhiệt cho con mình có thể là một thử thách .</s>
+<a id='ev85'>1-1;2-2,3;3-4,5,6;4-9;6-11,12;9-16;11-13,14;12-18,19;13-20;14-22,23;</a>
+</spair>
+<spair id='86'>
+<s id='en86'>But it 's one of the most important tools doctors have to determine if a child has an illness or infection .</s>
+<s id='vn86'>Nhưng đây là một trong những công cụ quan trọng nhất giúp cho bác sĩ có thể biết là liệu con bạn đang bị bệnh hay bị nhiễm trùng hay không .</s>
+<a id='ev86'>1-1;2-2;3-3;4-4;5-5;7-11;8-9,10;9-6,7,8;10-14,15;11-18;13-12,13;14-20;16-21;17-24;19-25;20-26;21-28,29;</a>
+</spair>
+<spair id='87'>
+<s id='en87'>The best method will depend on a child 's age and temperament .</s>
+<s id='vn87'>Phương pháp tốt nhất tùy thuộc vào độ tuổi và tính tình của đứa trẻ .</s>
+<a id='ev87'>2-3,4;3-1,2;5-5,6,7;8-14,15;9-13;10-8,9;11-10;12-11,12;</a>
+</spair>
+<spair id='88'>
+<s id='en88'>For kids younger than 3 months , you 'll get the most reliable reading by using a digital thermometer to take a rectal temperature .</s>
+<s id='vn88'>Đối với trẻ dưới 3 tháng tuổi thì bạn nên dùng nhiệt kế số để đo nhiệt độ trực tràng nhằm có số đo thân nhiệt đáng tin cậy nhất .</s>
+<a id='ev88'>1-1,2;2-3;3-4;5-5;6-6,7;8-9;9-10;10-11;12-30;13-27,28,29;14-23,24;18-14;19-12,13;20-15;21-16,17,18;23-19,20;24-25,26;</a>
+</spair>
+<spair id='89'>
+<s id='en89'>Electronic ear thermometers are n't recommended for infants younger than 3 months because their ear canals are usually too small .</s>
+<s id='vn89'>Nhiệt kế đo tai điện tử không nên sử dụng cho trẻ sơ sinh dưới 3 tháng tuổi bởi ống tai của bé ở độ tuổi này thường là rất nhỏ .</s>
+<a id='ev89'>1-5,6;2-4;3-1,2;5-7;6-8,9,10;7-11;8-12,13,14;9-15;11-16;12-17,18;13-19;14-22,23;15-21;16-20;17-29;18-28;19-30;20-31;</a>
+</spair>
+<spair id='90'>
+<s id='en90'>For kids between 3 months to 4 years old , you can use a digital thermometer to take a rectal temperature or an electronic ear thermometer to take the temperature inside the ear canal .</s>
+<s id='vn90'>Đối với trẻ từ 3 tháng đến 4 tuổi thì bạn có thể sử dụng nhiệt kế số để đo nhiệt độ trực tràng hoặc dùng nhiệt kế đo tai điện từ để đo nhiệt độ bên trong ống tai .</s>
+<a id='ev90'>1-1,2;2-3;3-4;4-5;5-6;6-7;7-8;8,9-9;12-12,13;13-14,15;15-18;16-16,17;17-19;18-20;20-23,24;21-21,22;22-25;24-31,32;25-30;26-27,28;27-33;28-34;30-35,36;31-37,38;33-40;34-39;</a>
+</spair>
+<spair id='91'>
+<s id='en91'>You could also use a digital thermometer to take an axillary temperature , although this is a less accurate method .</s>
+<s id='vn91'>Bạn cũng có thể sử dụng nhiệt kế số để đo nhiệt độ ở nách , mặc dù đây là cách đo thân nhiệt không chính xác lắm .</s>
+<a id='ev91'>1-1;2-3,4;3-2;4-5,6;6-9;7-7,8;8-10;9-11;11-15;12-12,13;14-17,18;15-19;16-20;18-25;19-26,27;20-21;</a>
+</spair>
+<spair id='92'>
+<s id='en92'>For kids 4 years or older , you can usually use a digital thermometer to take an oral temperature if your child will cooperate .</s>
+<s id='vn92'>Đối với trẻ từ 4 tuổi trở lên thì bạn thường có thể sử dụng nhiệt kế số để đo nhiệt độ miệng cho bé nếu con bạn chịu hợp tác .</s>
+<a id='ev92'>1-1,2;2-3;3-5;4-6;6-7,8;8-10;9-12,13;10-11;11-14,15;13-18;14-16,17;15-19;16-20;18-23;19-21,22;20-26;21-28;22-27;24-30,31;</a>
+</spair>
+<spair id='93'>
+<s id='en93'>However , kids who have frequent coughs or are breathing through their mouths because of stuffy noses might not be able to keep their mouths closed long enough for an accurate oral reading .</s>
+<s id='vn93'>Tuy nhiên , những trẻ hay bị ho hoặc đang phải thở bằng miệng vì bị nghẹt mũi có lẽ không tài nào ngậm miệng lâu đủ để có thể cho bạn đo được thông số chính xác .</s>
+<a id='ev93'>1-1,2;3-4,5;6-6;7-8;8-9;10-12;11-13;13-14;14-15;16-17;17-18;18-19,20;19-21,22,23;25-25;26-24;27-26;28-27;29-28;31-37,38;33-33;</a>
+</spair>
+<spair id='94'>
+<s id='en94'>In these cases , you can use the tympanic method ( with an electronic ear thermometer ) or axillary method ( with a digital thermometer ) .</s>
+<s id='vn94'>Trong trường hợp như thế này thì bạn có thể sử dụng phương pháp đo nhiệt độ ở màng nhĩ ( bằng nhiệt kế đo tai điện tử ) hoặc phương pháp đo nhiệt độ ở nách ( bằng nhiệt kế số ) .</s>
+<a id='ev94'>1-1;2-4,5,6;3-2,3;5-8;6-9,10;7-11,12;9-19,20;10-13,14;14-27,28;15-26;16-23,24;18-30;19-37;20-31,32;24-42;25-40,41;</a>
+</spair>
+<spair id='95'>
+<s id='en95'>To take a rectal temperature : Before becoming parents , most people cringe at the thought of taking a rectal temperature .</s>
+<s id='vn95'>Kỹ thuật đo nhiệt độ trực tràng : Trước khi trở thành bố mẹ thì hầu hết người ta đều cảm thấy lúng túng khi nghĩ đến việc đo nhiệt độ trực tràng .</s>
+<a id='ev95'>2-3;4-6,7;5-4,5;7-9,10;8-11,12;9-13,14;11-16,17;12-18,19;13-21,22,23,24;14-25;16-26;18-28,29;20-32,33;21-30,31;</a>
+</spair>
+<spair id='96'>
+<s id='en96'>But do n't worry - it 's a simple process :</s>
+<s id='vn96'>Nhưng bạn chớ nên lo ngại - đây là một quá trình đơn giản thôi mà :</s>
+<a id='ev96'>1-1;3-3,4;4-5,6;6-8;7-9;8-10;9-13,14;10-11,12;</a>
+</spair>
+<spair id='97'>
+<s id='en97'>1 . Lubricate the tip of the thermometer with a lubricant , such as petroleum jelly .</s>
+<s id='vn97'>1 . Bôi trơn một đầu của nhiệt kế bằng dầu nhờn , như mỡ bôi trơn .</s>
+<a id='ev97'>1-1;3-3,4;5-6;6-7;8-8,9;9-10;11-11,12;13,14-14;15-15;16-16,17;</a>
+</spair>
+<spair id='98'>
+<s id='en98'>2 . Place your child :</s>
+<s id='vn98'>2 . Đặt con bạn nằm xuống :</s>
+<a id='ev98'>1-1;3-3;4-5;5-4;</a>
+</spair>
+<spair id='99'>
+<s id='en99'>- belly-down across your lap or on a firm , flat surface and keep your palm along the lower back</s>
+<s id='vn99'>- bụng bé úp xuống vào lòng của bạn hoặc để cho bụng bé úp xuống trên một bề mặt cứng và phẳng ; giữ tay bạn dọc theo vùng lưng dưới</s>
+<a id='ev99'>2-2,3,4,5;4-8,9;5-7;6-10;7-17;8-18;9-21;11-23;12-19,20;14-25;15-27;16-26;17-28,29;19-32;20-30,31;</a>
+</spair>
+<spair id='100'>
+<s id='en100'>- or face-up with legs bent toward the chest with your hand against the back of the thighs</s>
+<s id='vn100'>- hoặc cho bé nằm ngửa , 2 chân co lên ngực ; tay bạn áp tì vào mặt sau của đùi bé</s>
+<a id='ev100'>2-2;3-5,6;5-9;6-10,11;9-12;11-15;12-14;13-16;15-19,20;16-21;18-22;</a>
+</spair>
+<spair id='101'>
+<s id='en101'>3 . With your other hand , insert the lubricated thermometer into the anal opening about ½ inch to 1 inch ( about 1.25 to 2.5 centimeters ) .</s>
+<s id='vn101'>3 . Tay kia của bạn đẩy nhiệt kế đã được bôi trơn vào lỗ hậu môn khoảng chừng ½ đến 1 in-sơ ( khoảng từ 1,25 đến 2,5 cm ) .</s>
+<a id='ev101'>1-1;4-5,6;5-4;6-3;8-7;10-10,11,12,13;11-8,9;12-14;14-15,16,17;16-18,19;17-20;19-21;20-22;21-23;23-25;24-27;25-28;26-29;27-30;</a>
+</spair>
+<spair id='102'>
+<s id='en102'>Stop if you feel any resistance .</s>
+<s id='vn102'>Hãy dừng lại nếu bạn cảm thấy bé nhúc nhích khó chịu .</s>
+<a id='ev102'>1-2,3;2-4;3-5;4-6,7;6-9,10,11,12;</a>
+</spair>
+<spair id='103'>
+<s id='en103'>4 . Steady the thermometer between your second and third fingers as you cup your hand against your baby 's bottom .</s>
+<s id='vn103'>4 . Giữ chặt nhiệt kế giữa ngón trỏ và ngón giữa khi bạn khum bàn tay áp vào hậu môn của bé .</s>
+<a id='ev103'>1-1;3-3,4;5-5,6;6-7;9-10;11-11,12;12-13;13-14;14-15;16-16,17;17-18,19;19-23;20-22;21-20,21;</a>
+</spair>
+<spair id='104'>
+<s id='en104'>Soothe your child and speak quietly as you hold the thermometer in place .</s>
+<s id='vn104'>Dỗ dành và nói ngọt , nhẹ nhàng với bé khi bạn giữ cố định nhiệt kế nhé .</s>
+<a id='ev104'>1-1,2;3-10;4-3;5-4,5;6-7,8;7-11;8-12;9-13;11-16,17;13-14,15;</a>
+</spair>
+<spair id='105'>
+<s id='en105'>5 . Wait until you hear the appropriate number of beeps or other signal that the temperature is ready to be read .</s>
+<s id='vn105'>5 . Hãy chờ cho đến khi bạn nghe đúng số lần kêu bíp - bíp hoặc một tín hiệu nào đó cho biết nhiệt độ đã được đo xong .</s>
+<a id='ev105'>1-1;3-4;4-5,6,7;5-8;6-9;9-11;11-13,14;12-17;13-18,21,22;14-19,20;17-25,26;18-27,28;</a>
+</spair>
+<spair id='106'>
+<s id='en106'>Write down the number on the screen , noting the time of day that you took the reading .</s>
+<s id='vn106'>Ghi lại số đo trên màn vạch và ghi chú lại thời gian bạn đo .</s>
+<a id='ev106'>1,2-1,2;4-3,4;5-5;7-6,7;9-9,10;13-12,13;15-14;16-15;</a>
+</spair>
+<spair id='107'>
+<s id='en107'>To take an oral temperature : This process is easy in an older , cooperative child .</s>
+<s id='vn107'>Kỹ thuật đo nhiệt độ ở miệng : Quá trình này cũng dễ dàng đối với trẻ lớn tuổi hơn và chịu hợp tác .</s>
+<a id='ev107'>2-3;4-7;5-4,5;7-11;8-9,10;10-13,14;11-15,16;13-18,19,20;15-23,24;16-17;</a>
+</spair>
+<spair id='108'>
+<s id='en108'>1 . Wait 20 to 30 minutes after your child finishes eating or drinking to take an oral temperature , and make sure there 's no gum or candy in your child 's mouth .</s>
+<s id='vn108'>1 . Chờ khoảng chừng từ 20 đến 30 phút sau khi bé ăn hoặc uống xong để đo nhiệt độ ở miệng , và hãy chắc rằng là bé không ngậm kẹo hay kẹo cao su trong miệng .</s>
+<a id='ev108'>1-1;3-3;4-7;5-8;6-9;7-10;8-11,12;10-13;11-17;12-14;13-15;14-16;15-18;16-19;18-23;19-20,21;21-25;22-29;23-27,28;26-31;27-35,36,37;28-34;29-33;30-38;34-39;</a>
+</spair>
+<spair id='109'>
+<s id='en109'>2 . Place the tip of the thermometer under the tongue and ask your child to close his or her lips around it .</s>
+<s id='vn109'>2 . Đặt một đầu nhiệt kế vào dưới lưỡi và bảo bé ngậm miệng lại , giữ chặt nhiệt kế bằng môi .</s>
+<a id='ev109'>1-1;3-3;5-5;8-6,7;9-8,9;11-10;12-11;13-12;15-13;17-14,15;21-18,19;</a>
+</spair>
+<spair id='110'>
+<s id='en110'>Remind your child not to bite down or talk , and to relax and breathe normally through the nose .</s>
+<s id='vn110'>Nhắc bé là không nên cắn hay nói chuyện , và hãy thư giãn , hít thở bình thường bằng mũi .</s>
+<a id='ev110'>1-1;3-2;4-4,5;6-6;8-7;9-8,9;11-11;13-13,14;15-16,17;16-18,19;17-20;19-21;</a>
+</spair>
+<spair id='111'>
+<s id='en111'>3 . Wait until you hear the appropriate number of beeps or other signal that the temperature is ready to be read .</s>
+<s id='vn111'>3 . Hãy chờ cho đến khi bạn nghe thấy đúng số lần kêu bíp hoặc một tín hiệu nào đó cho biết nhiệt độ đã được đo xong .</s>
+<a id='ev111'>1-1;3-4;4-5,6,7;5-8;6-9,10;9-12;11-14,15;12-16;14-18,19;15-20,21;17-24,25;18-26,27;</a>
+</spair>
+<spair id='112'>
+<s id='en112'>Write down the number on the screen , noting the time of day that you took the reading .</s>
+<s id='vn112'>Ghi lại số đo trên màn vạch và ghi chú lại thời gian bạn đo .</s>
+<a id='ev112'>1,2-1,2;4-3,4;5-5;7-6,7;9-9,10;13-12,13;15-14;16-15;</a>
+</spair>
+<spair id='113'>
+<s id='en113'>To take an axillary temperature : This is a convenient way to take a child 's temperature .</s>
+<s id='vn113'>Kỹ thuật đo nhiệt độ ở nách : Đây là một phương pháp tiện lợi dùng để đo thân nhiệt cho bé .</s>
+<a id='ev113'>2-3;4-7;5-4,5;7-9;8-10;9-11;10-14,15;11-12,13;12-17;13-18;15-22;17-19,20;</a>
+</spair>
+<spair id='114'>
+<s id='en114'>Although not as accurate as a rectal or oral temperature in a cooperative child , some parents prefer to take an axillary temperature , especially for kids who ca n't hold a thermometer in their mouths .</s>
+<s id='vn114'>Mặc dù không chính xác như phương pháp đo nhiệt độ trực tràng hoặc đo nhiệt độ miệng đối với trẻ chịu hợp tác , nhưng hầu hết các bố mẹ đều chuộng phương pháp đo nhiệt độ ở nách hơn , nhất là đối với những đứa trẻ không ngậm nhiệt kế trong miệng được .</s>
+<a id='ev114'>1-1,2;2-3;4-4,5;5-6;7-12,13;8-14;9-18;10-10,11;11-19,20;13-23,24;14-21;16-27,28;17-29,30,31;18-32,33;20-36;22-40;23-37,38;25-43,44;26-45,46;27-47,48,49;30-50;31-51;33-52,53;34-54;36-55;</a>
+</spair>
+<spair id='115'>
+<s id='en115'>1 . Remove your child 's shirt and undershirt , and place the thermometer under an armpit ( it must be touching skin only , not clothing ) .</s>
+<s id='vn115'>1 . Cởi áo sơ mi và áo lót của bé ra , và đặt nhiệt kế vào dưới nách cho bé ( nhiệt kế phải được tiếp xúc với da , không phải tiếp xúc với quần áo ) .</s>
+<a id='ev115'>1-1;3-3;4-10;5-11;7-4,5,6;8-7;9-8,9;11-14;12-15;14-16,17;15-19;17-20;19-24,25;20-26;22-28,29;23-31;26-33,34;27-38,39;</a>
+</spair>
+<spair id='116'>
+<s id='en116'>2 . Fold your child 's arm across the chest to hold the thermometer in place .</s>
+<s id='vn116'>2 . Gập cánh tay của bé lại qua ngực để giữ cố định nhiệt kế .</s>
+<a id='ev116'>1-1;3-3;4-6;5-7;7-4,5;8-9;10-10;12-12,13,14;14-15,16;16-11;</a>
+</spair>
+<spair id='117'>
+<s id='en117'>3 . Wait until you hear the appropriate number of beeps or other signal that the temperature is ready to be read .</s>
+<s id='vn117'>3 . Hãy chờ cho đến khi bạn nghe thấy đúng số lần kêu bíp - bíp hoặc một tín hiệu nào đó cho biết nhiệt độ đã được đo xong .</s>
+<a id='ev117'>1-1;3-4;4-5,6,7;5-8;6-9,10;8-11;9-12,13;11-14,15;12-18;13-19,22,23;14-20,21;17-26,27;18-28,29;22-30,31;</a>
+</spair>
+<spair id='118'>
+<s id='en118'>Write down the number on the screen , noting the time of day that you took the reading .</s>
+<s id='vn118'>Ghi lại số đo trên màn vạch và ghi chú lại thời gian bạn đo .</s>
+<a id='ev118'>1,2-1,2;4-3,4;5-5;7-6,7;9-9,10;11-12,13;15-14;16-15;</a>
+</spair>
+<spair id='119'>
+<s id='en119'>Whatever method you choose , keep these additional tips in mind :</s>
+<s id='vn119'>Bất kể là bạn chọn phương pháp nào thì hãy nên nhớ những bí quyết bổ sung này :</s>
+<a id='ev119'>1-1,2;2-6,7;3-4;4-5;7-18;8-16,17;9-13,14,15;11-12;</a>
+</spair>
+<spair id='120'>
+<s id='en120'>- Never take a child 's temperature right after a bath or if he or she has been bundled tightly for a while - this can affect the temperature reading .</s>
+<s id='vn120'>- Không bao giờ đo thân nhiệt của bé ngay sau khi bé mới tắm xong hoặc sau khi quấn bọc bé một thời gian ngắn nào đó - điều này có thể ảnh hưởng đến số đo thân nhiệt .</s>
+<a id='ev120'>2-2,3,4;3-5;5-9;6-8;7-6,7;8-10;9-11,12;11-15;12-17;19-21;22-23;23-24,25,26;25-30,31;26-32,33;27-34,35,36;29-39,40;30-37,38;</a>
+</spair>
+<spair id='121'>
+<s id='en121'>- Never leave a child unattended while taking a temperature .</s>
+<s id='vn121'>- Không bao giờ bỏ mặc bé một mình khi đang đo nhiệt độ cho bé .</s>
+<a id='ev121'>2-2,3,4;3-5,6;5-7;6-8,9;7-10;8-12;10-13,14;</a>
+</spair>
+<spair id='122'>
+<s id='en122'>Helping Kids Feel Better</s>
+<s id='vn122'>Giúp bé cảm thấy dễ chịu hơn</s>
+<a id='ev122'>1-1;2-2;3-3,4;4-5,6,7;</a>
+</spair>
+<spair id='123'>
+<s id='en123'>Again , not all fevers need to be treated .</s>
+<s id='vn123'>Xin nhớ lại lần nữa là không phải tất cả các trường hợp sốt đều phải điều trị .</s>
+<a id='ev123'>1-3,4,5;3-7,8;4-9,10;5-14;6-16;9-17,18;</a>
+</spair>
+<spair id='124'>
+<s id='en124'>In most cases , a fever should be treated only if it 's causing a child discomfort .</s>
+<s id='vn124'>Trong hầu hết các trường hợp thì sốt chỉ nên được điều trị nếu làm cho bé cảm thấy khó chịu .</s>
+<a id='ev124'>1-1;2-2,3;3-4,5,6;6-8;7-10;9-11,12,13;10-9;11-14;14-15;16-17;17-18,19,20,21;</a>
+</spair>
+<spair id='125'>
+<s id='en125'>Here are ways to alleviate symptoms that often accompany a fever :</s>
+<s id='vn125'>Đây là những cách có thể giúp làm dịu các triệu chứng thường đi kèm với sốt :</s>
+<a id='ev125'>1-1;2-2;3-3,4;4-5,6;5-8,9;6-10,11,12;8-13;9-14,15,16;11-17;</a>
+</spair>
+<spair id='126'>
+<s id='en126'>- If your child is fussy or appears uncomfortable , you can give acetaminophen or ibuprofen based on the package recommendations for age or weight .</s>
+<s id='vn126'>- Nếu con bạn la ó om sòm hoặc khó chịu trong người thì bạn có thể cho bé sử dụng thuốc acetaminophen hoặc ibuprofen dựa theo chỉ định trên bao bì đối với từng độ tuổi và cân nặng khác nhau .</s>
+<a id='ev126'>2-2;3-4;4-3;6-7,8;7-9;9-10,11;11-15;12-16,17;13-18;14-23;15-24;16-25;17-26,27;20-31,32;21-28,29;22-33,34;23-36,37;24-38;25-39,40;</a>
+</spair>
+<spair id='127'>
+<s id='en127'>( Unless instructed by a doctor , never give aspirin to a child due to its association with Reye syndrome , a rare but potentially fatal disease . )</s>
+<s id='vn127'>( Trừ khi bác sĩ chỉ định thì bạn chớ nên cho bé dùng thuốc aspirin vì thuốc này thường liên quan đến hội chứng Reye - bệnh này hiếm gặp nhưng có thể gây tử vong ở trẻ . )</s>
+<a id='ev127'>2-2,3;3-6,7;6-4,5;8-10,11;9-12;10-15,16;13-13;14,15-17;16-18,19;17-21,22,23;19-26;20-24,25;23-30,31;24-32;25-33,34;26-35,36,37;27-28;</a>
+</spair>
+<spair id='128'>
+<s id='en128'>If you do n't know the recommended dose or your child is younger than 2 years old , call the doctor to find out how much to give .</s>
+<s id='vn128'>Nếu bạn không biết liều lượng chỉ định là bao nhiêu hoặc con bạn dưới 2 tuổi thì bạn nên gọi điện cho bác sĩ để biết nên cho bé sử dụng liều lượng nào là thích hợp .</s>
+<a id='ev128'>1-1;2-2;4-3;5-4;7-7,8;8-5,6;10-14;11-13;13-15;15-16;16-17;19-21,22;21-24,25;22-26;23-27;25,26-33,34;</a>
+</spair>
+<spair id='129'>
+<s id='en129'>Infants under 2 months old should not be given any medication for fever without being evaluated by a doctor .</s>
+<s id='vn129'>Trẻ sơ sinh dưới 2 tháng tuổi không nên sử dụng bất kỳ loại thuốc hạ sốt nào mà không có chỉ định của bác sĩ .</s>
+<a id='ev129'>1-4;2-1,2,3;3-5;4-6,7;6-9;7-8;9-10,11;10-12,13;11-14,15;13-17;14-19,20;15-21;16-22,23;17-24;19-25,26;</a>
+</spair>
+<spair id='130'>
+<s id='en130'>If your child has any medical problems , check with the doctor to see which medication is best to use .</s>
+<s id='vn130'>Nếu con bạn đang mắc một bệnh nào đó thì bạn nên tham khảo ý kiến của bác sĩ để xem thuốc nào là tốt nhất cho bé .</s>
+<a id='ev130'>1-1;2-3;3-2;4-4,5;5-6,8,9;6,7-7;9-13,14,15,16;10-17;12-18,19;13-20;14-21;15-23;16-22;17-24;18-25,26;19-27;</a>
+</spair>
+<spair id='131'>
+<s id='en131'>Remember that fever medication will usually temporarily bring a temperature down , but wo n't return it to normal - and it wo n't treat the underlying reason for the fever .</s>
+<s id='vn131'>Nên nhớ rằng thuốc hạ sốt thường có tác dụng làm hạ sốt tạm thời chứ không làm cho bé có thân nhiệt bình thường - và thuốc hạ sốt không chữa dứt một nguyên do tiềm ẩn nào khác gây sốt cả .</s>
+<a id='ev131'>1-2;2-3;3-5,6;4-4;6-7;7-14,15;8-18,19;10-13;11-12;13-16;14,15-17;18-21;19-22,23,24,25;21-27;22-28,29,30;23,24-31;25-32,33;27-37,38;28-35,36;29-41;31-42;</a>
+</spair>
+<spair id='132'>
+<s id='en132'>- Giving a sponge bath can make your child more comfortable and help bring the fever down .</s>
+<s id='vn132'>* Cho bé tắm bằng bọt biển cũng có thể làm bé thoải mái hơn và giúp hạ sốt .</s>
+<a id='ev132'>2-2;4-6,7;5-4;6-9,10;7-5;9-12;10-15;11-13,14;12-16;13-17;16-19;17-18;</a>
+</spair>
+<spair id='133'>
+<s id='en133'>Use only lukewarm water ; cool water may cause shivering , which actually raises body temperature .</s>
+<s id='vn133'>Chỉ dùng nước ấm , nước lạnh có thể khiến cho bé run cóng lên nhưng thực chất là làm tăng thân nhiệt .</s>
+<a id='ev133'>1-2;2-1;3-4;4-3;6-7;7-6;8-8,9;9-10,11;10-13;13-17,18;14-20,21;15,16-22,23;</a>
+</spair>
+<spair id='134'>
+<s id='en134'>* Dress your child in lightweight clothing and cover with a light sheet or blanket .</s>
+<s id='vn134'>* Cho bé mặc áo quần thoáng , nhẹ và đắp chăn mềm mỏng thôi .</s>
+<a id='ev134'>2-4;4-3;6-9;7-5,6;8-10;9-11;12-13,14;15-12;</a>
+</spair>
+<spair id='135'>
+<s id='en135'>Overdressing and overbundling can prevent body heat from escaping and can cause a temperature to rise .</s>
+<s id='vn135'>Việc mặc áo quần nhiều quá hoặc quấn bọc nhiều quá có thể làm cho nhiệt độ cơ thể không thoát được và có thể làm tăng thân nhiệt của bé .</s>
+<a id='ev135'>1-1,2,3,4,5,6;2-7;3-8,9,10,11;4-12,13;5-14,15;6-18,19;7-16,17;9-21,22;10-23;11-24,25;12-26;14-28,29;16-27;</a>
+</spair>
+<spair id='136'>
+<s id='en136'>- Make sure your child 's bedroom is a comfortable temperature - not too hot or too cold .</s>
+<s id='vn136'>- Nên đảm bảo nhiệt độ trong phòng ngủ của bé được dễ chịu - không quá nóng hoặc quá lạnh .</s>
+<a id='ev136'>2-2;3-3,4;5-11;6-10;7-8,9;10-13,14;11-5,6;15-18;16-19;17-20;18-21;</a>
+</spair>
+<spair id='137'>
+<s id='en137'>- Offer plenty of fluids to avoid dehydration - a fever will cause a child to lose fluids more rapidly .</s>
+<s id='vn137'>- Cho bé uống nhiều nước để tránh mất nước - sốt có thể làm cho trẻ bị mất nước nhanh hơn .</s>
+<a id='ev137'>2-2;3-5,6;6-7;7-8;8-9,10;11-12;12-13,14;13-15,16;15-17;17-19;18-20;19-22;20-21;</a>
+</spair>
+<spair id='138'>
+<s id='en138'>Water , soup , ice pops , and flavored gelatin are all good choices .</s>
+<s id='vn138'>Nước , canh , kem , và các món thạch có hương vị bé yêu thích đều rất tốt .</s>
+<a id='ev138'>1-1;3-3;5-5;9-12,13;10-8,9,10;13-19;14-15,16;</a>
+</spair>
+<spair id='139'>
+<s id='en139'>Avoid drinks containing caffeine , including colas and tea , because they can cause increased urination .</s>
+<s id='vn139'>Tránh các thức uống có cà-phê-in , như nước uống có ga và trà bởi những thức uống này có thể khiến bé đi tiểu nhiều hơn .</s>
+<a id='ev139'>1-1;2-2,3,4;3-5;4-6;6-8;7-9,10,11,12;8-13;9-14;11-15;12-16;13-20,21;14-22;15-26,27;16-24,25;</a>
+</spair>
+<spair id='140'>
+<s id='en140'>- If your child also is vomiting and_or has diarrhea , ask the doctor if you should give an electrolyte ( rehydration ) solution made especially for kids .</s>
+<s id='vn140'>- Nếu con bạn đang bị sốt có kèm theo ói mửa và hoặc tiêu chảy thì bạn nên tham khảo ý kiến của bác sĩ xem liệu có nên cho bé sử dụng dung dịch điện phân ( bổ sung nước ) đặc biệt dành cho trẻ hay không .</s>
+<a id='ev140'>2-2;3-4;4-3;7-11,12;8-13;9-14;11-15,16;13-20,21,22,23;15-25,26;16-28;18-30;19-31;21-35,36,37,38;23-40,41,42;25-33,34;27-44,45;28-46,47;29-48;</a>
+</spair>
+<spair id='141'>
+<s id='en141'>You can find these solutions at drugstores and supermarkets .</s>
+<s id='vn141'>Bạn có thể tìm những dung dịch này ở các hiệu thuốc và siêu thị .</s>
+<a id='ev141'>1-1;2-2,3;4-8;5-5,6,7;6-9;7-10,11,12;8-13;9-14,15;</a>
+</spair>
+<spair id='142'>
+<s id='en142'>Do n't offer sports drinks - they 're not designed for younger children , and the added sugars may make diarrhea worse .</s>
+<s id='vn142'>Đừng cho bé uống các thức uống thể thao – các thức uống này không dùng cho trẻ nhỏ và các thức uống có thêm đường có thể làm cho tình trạng tiêu chảy của bé tệ hại hơn .</s>
+<a id='ev142'>2-1;3-2;4-8,9;5-5,6,7;7-11,12,13,14;9-15;10-16;11-17;12-19;13-18;15-20;17-25;18-26;19-27,28;20-29,30;21-31,32,33,34;22-37,38,39;</a>
+</spair>
+<spair id='143'>
+<s id='en143'>Also , limit your child 's intake of fruits and apple juice .</s>
+<s id='vn143'>Ngoài ra , bạn nên hạn chế cho bé ăn trái cây và uống nước táo ép nhé .</s>
+<a id='ev143'>1-1,2;3-6,7;5-9;7-14,15;9-11,12;10-13;11-16;12-17;</a>
+</spair>
+<spair id='144'>
+<s id='en144'>- In general , let your child eat what he or she wants ( in reasonable amounts ) but do n't force eating if your child does n't feel like it .</s>
+<s id='vn144'>- Nói chung là hãy để cho bé ăn những thứ mà bé thích ( lượng vừa phải ) nhưng cũng đừng bắt ép con bạn ăn nếu bé không muốn .</s>
+<a id='ev144'>2,3-2,3;5-5,6;7-8;8-9;9-10,11,12;12-13;13-14;16-17,18;17-16;19-20;21-22;22-23,24;23-27;24-28;26-29;28-30;30-31;</a>
+</spair>
+<spair id='145'>
+<s id='en145'>- Make sure your child gets plenty of rest .</s>
+<s id='vn145'>- Đảm bảo cho bé được nghỉ ngơi nhiều .</s>
+<a id='ev145'>2,3-2,3;5-5;7-9;9-7,8;</a>
+</spair>
+<spair id='146'>
+<s id='en146'>Staying in bed all day is n't necessary , but a sick child should take it easy .</s>
+<s id='vn146'>Không cần thiết phải cho bé nằm trên giường cả ngày đâu nhưng trẻ bị bệnh thì nên được nghỉ ngơi thoải mái .</s>
+<a id='ev146'>1-7;2-8;3-9;4-10;5-11;8-1,2,3;12-16;13-14;14-18;17-22,23;</a>
+</spair>
+<spair id='147'>
+<s id='en147'>- It 's best to keep a child with a fever home from school or childcare .</s>
+<s id='vn147'>- Tốt hơn hết là nên cho bé nghỉ ở nhà hơn là đi học hoặc ở trung tâm chăm sóc trẻ con .</s>
+<a id='ev147'>3-5;4-2,3,4;6-9;8-8;12-11;14-14,15;15-16;16-18,19,20,21,22,23;</a>
+</spair>
+<spair id='148'>
+<s id='en148'>Most doctors feel that it 's safe to return when the temperature has been normal for 24 hours .</s>
+<s id='vn148'>Hầu hết các bác sĩ đều cho rằng bé có thể an toàn ở nhà khi thân nhiệt của bé đã bình thường trở lại trong vòng 24 tiếng đồng hồ .</s>
+<a id='ev148'>1-1,2;2-3,4,5;3-7,8;5-9;6-10,11;7-12,13;9-24,25;10-16;12-17,18;14-21;15-22,23;16-26,27;17-28;18-29,30,31;</a>
+</spair>
+<spair id='149'>
+<s id='en149'>When to Call the Doctor</s>
+<s id='vn149'>Khi nào nên gọi điện cho bác sĩ</s>
+<a id='ev149'>1-1,2;2-3;3-4,5;5-7,8;</a>
+</spair>
+<spair id='150'>
+<s id='en150'>The exact temperature that should trigger a call to the doctor depends on the age of the child , the illness , and whether there are other symptoms with the fever .</s>
+<s id='vn150'>Nhiệt độ chính xác khiến bạn phải gọi điện cho bác sĩ cũng tuỳ thuộc vào độ tuổi của bé , bệnh của bé và xem bé có những triệu chứng khác đi kèm với sốt không .</s>
+<a id='ev150'>2-3,4;3-1,2;8-8,9;9-10;11-11,12;12-14,15,16;15-17,18;16-19;18-20;21-22;23-25;25-28;27-32;28-29,30,31;29-33,34,35;31-36;</a>
+</spair>
+<spair id='151'>
+<s id='en151'>Call your doctor if you have an :</s>
+<s id='vn151'>Bạn nên gọi điện cho bác sĩ nếu :</s>
+<a id='ev151'>1-3,4;2-1;3-6,7;4-8;</a>
+</spair>
+<spair id='152'>
+<s id='en152'>- infant younger than 3 months old with a temperature of 100.4°F ( 38° C ) or higher</s>
+<s id='vn152'>- trẻ sơ sinh dưới 3 tháng tuổi bị sốt 100.4°F ( 38° C ) trở lên</s>
+<a id='ev152'>2-2,3,4;3-5;5-6;6-7,8;10-10;12-11;14-13;15-14;18-16,17;</a>
+</spair>
+<spair id='153'>
+<s id='en153'>- older child with a temperature of higher than 102.2° F ( 39° C )</s>
+<s id='vn153'>- con bạn trên 3 tháng tuổi bị sốt trên 102.2° F ( 39° C )</s>
+<a id='ev153'>2-4;3-2;6-9;8-10;10-11;11-12;13-14;14-15;</a>
+</spair>
+<spair id='154'>
+<s id='en154'>Call the doctor if an older child has a fever of less than 102.2° F ( 39° C ) but also :</s>
+<s id='vn154'>Gọi điện cho bác sĩ nếu con bạn trên 3 tháng tuổi đang bị sốt dưới 102.2° F ( 39° C ) kèm theo :</s>
+<a id='ev154'>1-1,2;3-4,5;4-6;6-9;7-7;8-13,14;10-15;12-16;14-17;15-18;17-20;18-21;</a>
+</spair>
+<spair id='155'>
+<s id='en155'>- refuses fluids or seems too ill to drink adequately</s>
+<s id='vn155'>- không chịu uống nước hoặc bé bị bệnh quá nặng để uống đủ được</s>
+<a id='ev155'>2-2,3;3-5;4-6;6-10;7-11;9-13;10-14;</a>
+</spair>
+<spair id='156'>
+<s id='en156'>- has persistent diarrhea or repeated vomiting</s>
+<s id='vn156'>- bị tiêu chảy dai dẳng hoặc nôn ói liên tục</s>
+<a id='ev156'>2-2;3-5,6;4-3,4;5-7;6-10,11;7-8,9;</a>
+</spair>
+<spair id='157'>
+<s id='en157'>- has any signs of dehydration ( urinating less than usual , not having tears when crying , less alert and less active than usual )</s>
+<s id='vn157'>- có bất kỳ dấu hiệu nào của triệu chứng mất nước ( đi tiểu ít hơn bình thường , khóc không có nước mắt , kém tươi tỉnh và kém hoạt bát như thường lệ )</s>
+<a id='ev157'>2-2;3-3,4;4-5,6;5-8;6-9,10,11,12;8-14,15;9-16,17;11-18,19;13-22;14-23;15-24,25;17-21;19-27;20-28,29;21-30;22-31;23-32,33;25-34,35,36;</a>
+</spair>
+<spair id='158'>
+<s id='en158'>- has a specific complaint ( e .g. , sore throat or earache )</s>
+<s id='vn158'>- mắc bệnh nào đó ( như đau họng hoặc đau lỗ tai )</s>
+<a id='ev158'>2-2;4-4,5;5-3;7,8-7;10-8;11-9;12-10;13-11,12,13;</a>
+</spair>
+<spair id='159'>
+<s id='en159'>- still has a fever after 24 hours ( in kids younger than 2 years ) or 72 hours ( in kids 2 years or older )</s>
+<s id='vn159'>- vẫn còn sốt sau 24 tiếng đồng hồ ( đối với trẻ dưới 2 tuổi ) hoặc sau 72 tiếng đồng hồ ( với trẻ từ 2 tuổi trở lên )</s>
+<a id='ev159'>2-2,3;5-4;6-5;7-6;8-7,8,9;10-11,12;11-13;12-14;14-15;15-16;17-18;18-20;19-21,22,23;21-25;22-26;23-28;24-29;26-30,31;</a>
+</spair>
+<spair id='160'>
+<s id='en160'>- has recurrent fevers , even if they only last a few hours each night</s>
+<s id='vn160'>- bị sốt trở lại , dù là chỉ sốt một vài tiếng đồng hồ mỗi đêm</s>
+<a id='ev160'>2-2;3-4,5;4-3;7-7,8;9-9;10-10;12-11,12;13-13,14,15;14-16;15-17;</a>
+</spair>
+<spair id='161'>
+<s id='en161'>- has a chronic medical problem such as heart disease , cancer , lupus , or sickle cell anemia</s>
+<s id='vn161'>- bị một chứng bệnh mãn tính nào đó như bệnh tim , ung thư , bệnh lu-pút , hoặc thiếu máu hồng cầu hình liềm</s>
+<a id='ev161'>2-2;3-3;4-6,7;5,6-4,5;8-10;9-12;10-11;12-14,15;14-17,18;17-25,26;18-23,24;19-21,22;</a>
+</spair>
+<spair id='162'>
+<s id='en162'>- has a rash</s>
+<s id='vn162'>- bị nổi ban đỏ</s>
+<a id='ev162'>2-2;4-3,4,5;</a>
+</spair>
+<spair id='163'>
+<s id='en163'>- has pain with urination</s>
+<s id='vn163'>- bị đau khi đi tiểu</s>
+<a id='ev163'>2-2;3-3;4-4;5-5,6;</a>
+</spair>
+<spair id='164'>
+<s id='en164'>Seek emergency care if your child shows any of these signs :</s>
+<s id='vn164'>Hãy cho bé đến cấp cứu nếu con bạn có những biểu hiện dưới đây :</s>
+<a id='ev164'>1-2;2-5,6;3-4;4-7;5-9;6-8;7-10;10-14,15;11-11,12,13;</a>
+</spair>
+<spair id='165'>
+<s id='en165'>- inconsolable crying</s>
+<s id='vn165'>- khóc dai dẳng không nín</s>
+<a id='ev165'>2-3,4,5,6;3-2;</a>
+</spair>
+<spair id='166'>
+<s id='en166'>- extreme irritability</s>
+<s id='vn166'>- hết sức bức rức , khó chịu</s>
+<a id='ev166'>2-2,3;3-4,5,7,8;</a>
+</spair>
+<spair id='167'>
+<s id='en167'>- lethargy and difficulty waking</s>
+<s id='vn167'>- ngủ lịm và khó thức dậy</s>
+<a id='ev167'>2-2,3;3-4;4-5;5-6,7;</a>
+</spair>
+<spair id='168'>
+<s id='en168'>- rash or purple spots that look like bruises on the skin ( that were not there before the child got sick )</s>
+<s id='vn168'>- bị nổi ban hoặc có nhiều đốm màu tía trông giống như vết thâm tím trên da ( không có hiện tượng này trước khi trẻ bị bệnh )</s>
+<a id='ev168'>2-3,4;3-5;4-9,10;5-7,8;7-11;8-12,13;9-14,15,16;10-17;12-18;16-20,21;17-22,23,24;18-25,26;20-27;21-28;22-29;</a>
+</spair>
+<spair id='169'>
+<s id='en169'>- blue lips , tongue , or nails</s>
+<s id='vn169'>- môi , lưỡi hoặc móng tai có màu xanh</s>
+<a id='ev169'>2-9,10;3-2;5-4;7-5;8-6;</a>
+</spair>
+<spair id='170'>
+<s id='en170'>- infant 's soft spot on the head seems to be bulging outward or sunken inwards</s>
+<s id='vn170'>- thóp đầu của bé có vẻ như đang phình ra hoặc lõm vào</s>
+<a id='ev170'>2-5;4,5-2;8-3;9-6,7,8;12-9,10;13-11;14-12;15-13,14;</a>
+</spair>
+<spair id='171'>
+<s id='en171'>- stiff neck</s>
+<s id='vn171'>- bị vẹo cổ</s>
+<a id='ev171'>2-3;3-4;</a>
+</spair>
+<spair id='172'>
+<s id='en172'>- severe headache</s>
+<s id='vn172'>- bị nhức đầu dữ dội</s>
+<a id='ev172'>2-5,6;3-3,4;</a>
+</spair>
+<spair id='173'>
+<s id='en173'>- limpness or refusal to move</s>
+<s id='vn173'>- khó cử động , nhúc nhích</s>
+<a id='ev173'>2-3,4;4-2;6-6,7;</a>
+</spair>
+<spair id='174'>
+<s id='en174'>- difficulty breathing that does n't get better when the nose is cleared</s>
+<s id='vn174'>- khó thở lâu không dứt khi lỗ mũi đã hết nghẹt</s>
+<a id='ev174'>2-2;3-3;6-5;9-7;11-8,9;12-10;13-11,12;</a>
+</spair>
+<spair id='175'>
+<s id='en175'>- leaning forward and drooling</s>
+<s id='vn175'>- bị chúi về trước và chảy nước dãi</s>
+<a id='ev175'>2-3,4;3-5;4-6;5-7,8,9;</a>
+</spair>
+<spair id='176'>
+<s id='en176'>- seizure</s>
+<s id='vn176'>- bị động kinh</s>
+<a id='ev176'>2-3,4;</a>
+</spair>
+<spair id='177'>
+<s id='en177'>- abdominal pain</s>
+<s id='vn177'>- đau bụng</s>
+<a id='ev177'>2-3;3-2;</a>
+</spair>
+<spair id='178'>
+<s id='en178'>Also , ask your doctor for his or her specific guidelines on when to call about a fever .</s>
+<s id='vn178'>Ngoài ra , bạn nên tham khảo ý kiến của bác sĩ về các quy định cụ thể khi nào nên gọi điện cho họ .</s>
+<a id='ev178'>1-1,2;3-6,7,8,9;4-10;5-12;6-13;10-17,18;11-14,15,16;13-19,20;14-21;15-22,23;</a>
+</spair>
+<spair id='179'>
+<s id='en179'>Fever : A Common Part of Childhood</s>
+<s id='vn179'>Sốt là triệu chứng thường thấy của trẻ nhỏ</s>
+<a id='ev179'>1-1;4-5,6;5-3,4;6-7;7-8,9;</a>
+</spair>
+<spair id='180'>
+<s id='en180'>All kids get fevers , and in the majority of cases , most are completely back to normal within a few days .</s>
+<s id='vn180'>Đứa trẻ nào cũng bị sốt cả , và trong hầu hết các trường hợp thì triệu chứng sốt sẽ hết trong một vài ngày .</s>
+<a id='ev180'>2-1,2;3-5;4-6;6-9;7-10;11-13,14,15;13-11,12;19-22;21-23,24;22-25;</a>
+</spair>
+<spair id='181'>
+<s id='en181'>Everyone gets cranky when they have a fever .</s>
+<s id='vn181'>Ai cũng trở nên ốm yếu khi bị sốt ; .</s>
+<a id='ev181'>1-1;2-3,4;3-5,6;4-7;6-8;8-9;</a>
+</spair>
+<spair id='182'>
+<s id='en182'>This is normal and should be expected .</s>
+<s id='vn182'>Điều này cũng bình thường thôi và bạn nên chuẩn bị tư tưởng .</s>
+<a id='ev182'>1-1,2;3-4,5;4-7;5-9;7-10,11;</a>
+</spair>
+<spair id='183'>
+<s id='en183'>But if you 're ever in doubt about what to do or what a fever might mean , or if your child is acting ill in a way that concerns you even if there 's no fever , always call your doctor for advice .</s>
+<s id='vn183'>Nhưng nếu bạn không biết chắc nên làm gì hoặc không biết sốt có thể là của bệnh gì hoặc nếu con bạn đang bị bệnh khiến cho bạn đứng ngồi không yên mặc dù bé không bị sốt thì bạn hãy gọi điện cho bác sĩ để tìm lời khuyên .</s>
+<a id='ev183'>1-1;2-2;3-3;7-4,5,6;9-9;10-7;11-8;12-10;13-19;15-13;16-14,15;17-16;19-20;20-21;21-23;22-22;23-24,25;25-26;30-27;31-29;32,33-34,35;35-38;36-37;37-39;40-43,44;42-46,47;43-48;44-50,51;</a>
+</spair>
+</text>
+</doc>

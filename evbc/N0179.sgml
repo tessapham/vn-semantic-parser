@@ -1,0 +1,512 @@
+﻿<doc id='N0179'>
+<head>
+<title>Leukemia</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>22/10/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Leukemia</s>
+<s id='vn1'>Bệnh bạch cầu</s>
+<a id='ev1'>1-1,2,3;</a>
+</spair>
+<spair id='2'>
+<s id='en2'>What is leukemia ?</s>
+<s id='vn2'>Bệnh bạch cầu là gì ?</s>
+<a id='ev2'>1-5;2-4;3-1,2,3;</a>
+</spair>
+<spair id='3'>
+<s id='en3'>Leukemia is cancer of the blood cells .</s>
+<s id='vn3'>Bệnh bạch cầu là bệnh ung thư của các tế bào máu .</s>
+<a id='ev3'>1-1,2,3;2-4;3-5,6,7;4-8;6-12;7-9,10,11;</a>
+</spair>
+<spair id='4'>
+<s id='en4'>It starts in the bone marrow , the soft tissue inside most bones .</s>
+<s id='vn4'>Nó bắt đầu trong tuỷ xương , mô mềm bên trong đa số xương .</s>
+<a id='ev4'>1-1;2-2,3;3-4;5-6;6-5;9-9;10-8;11-10,11;12-12,13;13-14;</a>
+</spair>
+<spair id='5'>
+<s id='en5'>Bone marrow is where blood cells are made .</s>
+<s id='vn5'>Tuỷ xương là nơi tế bào máu được tạo thành .</s>
+<a id='ev5'>1-2;2-1;3-3;4-4;5-7;6-5,6;8-8,9,10;</a>
+</spair>
+<spair id='6'>
+<s id='en6'>When you are healthy , your bone marrow makes :</s>
+<s id='vn6'>Khi bạn là khoẻ mạnh , tuỷ xương của bạn tạo nên :</s>
+<a id='ev6'>1-1;2-2;3-3;4-4,5;6-9,10;7-8;8-7;9-11,12;</a>
+</spair>
+<spair id='7'>
+<s id='en7'>White blood , which help your body fight infection .</s>
+<s id='vn7'>Bạch cầu , giúp cơ thể của bạn chống lại nhiễm trùng .</s>
+<a id='ev7'>1-1;2-2;5-4;6-7,8;7-5,6;8-9,10;9-11,12;</a>
+</spair>
+<spair id='8'>
+<s id='en8'>Red blood , which carry oxygen to all parts of your body .</s>
+<s id='vn8'>Hồng cầu , mang khí oxy đến tất cả các bộ phận của cơ thể bạn .</s>
+<a id='ev8'>1-1;2-2;5-4;6-5,6;7-7;8-8,9;9-10,11,12;10-13;11-16;12-14,15;</a>
+</spair>
+<spair id='9'>
+<s id='en9'>Platelets , which help your blood clot .</s>
+<s id='vn9'>Tiểu cầu , giúp máu của bạn đông .</s>
+<a id='ev9'>1-1,2;4-4;5-6,7;6-5;7-8;</a>
+</spair>
+<spair id='10'>
+<s id='en10'>When you have leukemia , the bone marrow starts to make a lot of abnormal white blood cells , called leukemia cells .</s>
+<s id='vn10'>Khi bạn có bệnh bạch cầu , tuỷ xương bắt đầu tạo ra nhiều tế bào bạch cầu không bình thường , gọi là các tế bào bệnh bạch cầu .</s>
+<a id='ev10'>1-1;2-2;3-3;4-4,5,6;7-9;8-8;9-10,11;11-12,13;13-14;15-19,20,21;16-17;17-18;18-15,16;20-23,24;21-28,29,30;22-25,26,27;</a>
+</spair>
+<spair id='11'>
+<s id='en11'>They don't do the work of normal white blood cells , they grow faster than normal cells , and they don't stop growing when they should .</s>
+<s id='vn11'>Chúng không làm các công việc của tế bào bạch cầu bình thường , chúng phát triển nhanh hơn tế bào bình thường , và chúng không ngưng phát triển khi chúng nên ngưng .</s>
+<a id='ev11'>1-1;2-2;3-3;5-4,5,6;6-7;7-12,13;8-10;9-11;10-8,9;12-15;13-16,17;14-18;15-19;16-22,23;17-20,21;19-25;20-26;21-27;22-28;23-29,30;24-31;25-32;26-33,34;</a>
+</spair>
+<spair id='12'>
+<s id='en12'>Over time , leukemia cells can crowd out the normal blood cells .</s>
+<s id='vn12'>Theo thời gian , các tế bào bệnh bạch cầu có thể nhiều hơn các tế bào máu bình thường .</s>
+<a id='ev12'>1-1;2-2,3;4-8,9,10;5-5,6,7;6-11,12;7-13;8-14;10-19,20;11-18;12-15,16,17;</a>
+</spair>
+<spair id='13'>
+<s id='en13'>This can lead to serious problems such as anemia , bleeding , and infections .</s>
+<s id='vn13'>Điều này có thể dẫn đến các vấn đề nghiêm trọng như là bệnh thiếu máu , chảy máu , và nhiễm trùng .</s>
+<a id='ev13'>1-1,2;2-3,4;3-5,6;5-10,11;6-7,8,9;7,8-12,13;9-14,15,16;11-18,19;13-21;14-22,23;</a>
+</spair>
+<spair id='14'>
+<s id='en14'>Leukemia cells can also spread to the lymph nodes or other organs and cause swelling or pain .</s>
+<s id='vn14'>Tế bào bệnh bạch cầu cũng có thể phát tán đến các hạch bạch huyết hoặc các cơ quan khác và gây ra sưng hoặc đau .</s>
+<a id='ev14'>1-3,4,5;2-1,2;3-7,8;4-6;5-9,10;6-11;8-14,15;9-12,13;10-16;11-20;12-17,18,19;13-21;14-22,23;15-24;16-25;17-26;</a>
+</spair>
+<spair id='15'>
+<s id='en15'>Are there different types of leukemia ?</s>
+<s id='vn15'>Có các kiểu bệnh bạch cầu khác nhau không ?</s>
+<a id='ev15'>1-9;2-1;3-7,8;4-2,3;6-4,5,6;</a>
+</spair>
+<spair id='16'>
+<s id='en16'>There are several different types of leukemia .</s>
+<s id='vn16'>Có nhiều kiểu khác nhau của bệnh bạch cầu .</s>
+<a id='ev16'>1-1;3-2;4-4,5;5-3;6-6;7-7,8,9;</a>
+</spair>
+<spair id='17'>
+<s id='en17'>In general , leukemia is grouped by how fast it gets worse and what kind of white blood it affects .</s>
+<s id='vn17'>Nói chung , bệnh bạch cầu được phân loại dựa vào việc nó tệ hơn nhanh như thế nào và loại bạch cầu nào mà nó tấn công .</s>
+<a id='ev17'>1-1;2-2;4-4,5,6;6-7,8,9;7-10,11;8-17,18,19;9-16;10-12,13;12-14,15;13-20;14-24;15-21;17-22;18-23;19-26;20-27,28;</a>
+</spair>
+<spair id='18'>
+<s id='en18'>It may be acute or chronic .</s>
+<s id='vn18'>Nó có thể là cấp tính hay mãn tính .</s>
+<a id='ev18'>1-1;2-2,3;3-4;4-5,6;5-7;6-8,9;</a>
+</spair>
+<spair id='19'>
+<s id='en19'>Acute leukemia gets worse very fast and may make you feel sick right away .</s>
+<s id='vn19'>Bệnh bạch cầu cấp tính tệ hơn rất nhanh và có thể làm bạn cảm thấy ốm ngay .</s>
+<a id='ev19'>1-4,5;2-1,2,3;4-6,7;5-8;6-9;7-10;8-11,12;9-13;10-14;11-15,16;12-17;13,14-18;</a>
+</spair>
+<spair id='20'>
+<s id='en20'>Chronic leukemia gets worse slowly and may not cause symptoms for years .</s>
+<s id='vn20'>Bệnh bạch cầu mãn tính tệ hơn từ từ và có thể không gây ra triệu chứng trong hàng mấy năm trời .</s>
+<a id='ev20'>1-4,5;2-1,2,3;4-6,7;5-8,9;6-10;7-11,12;8-13;9-14,15;10-16,17;11-18;12-19,20,21,22;</a>
+</spair>
+<spair id='21'>
+<s id='en21'>It may be lymphocytic or myelogenous .</s>
+<s id='vn21'>Nó có thể là ở lym-phô bào hoặc ở tủy xương .</s>
+<a id='ev21'>1-1;2-2,3;3-4;4-5,6,7;5-8;6-9,10,11;</a>
+</spair>
+<spair id='22'>
+<s id='en22'>Lymphocytic leukemia affects white blood called lymphocytes .</s>
+<s id='vn22'>Bệnh bạch cầu lym-phô bào tấn công bạch cầu được gọi là lym-phô bào .</s>
+<a id='ev22'>1-4,5;2-1,2,3;3-6,7;4-8;5-9;6-10,11,12;7-13,14;</a>
+</spair>
+<spair id='23'>
+<s id='en23'>Myelogenous leukemia affects white blood cells called myelocytes .</s>
+<s id='vn23'>Bệnh bạch cầu tủy xương tấn công các bạch cầu được gọi là tuỷ bào .</s>
+<a id='ev23'>1-4,5;2-1,2,3;3-6,7;4-9;5-10;6-8;7-11,12,13;8-14,15;</a>
+</spair>
+<spair id='24'>
+<s id='en24'>The four main types of leukemia are :</s>
+<s id='vn24'>Bốn loại bệnh bạch cầu chính là :</s>
+<a id='ev24'>2-1;3-6;4-2;6-3,4,5;7-7;</a>
+</spair>
+<spair id='25'>
+<s id='en25'>Acute lymphoblastic leukemia , or ALL.</s>
+<s id='vn25'>Bệnh bạch cầu lym-phô bào cấp tính , hoặc ALL .</s>
+<a id='ev25'>1-6,7;2-4,5;3-1,2,3;5-9;6-10;</a>
+</spair>
+<spair id='26'>
+<s id='en26'>ALL is the most common in children .</s>
+<s id='vn26'>ALL thường gặp nhất ở trẻ em .</s>
+<a id='ev26'>1-1;4-4;5-2,3;6-5;7-6,7;</a>
+</spair>
+<spair id='27'>
+<s id='en27'>Adults can also get it .</s>
+<s id='vn27'>Người trưởng thành cũng có thể mắc nó .</s>
+<a id='ev27'>1-1,2,3;2-5,6;3-4;4-7;5-8;</a>
+</spair>
+<spair id='28'>
+<s id='en28'>Acute myelogenous leukemia , or AML.</s>
+<s id='vn28'>Bệnh bạch cầu tủy xương cấp tính , hoặc AML .</s>
+<a id='ev28'>1-6,7;2-4,5;3-1,2,3;5-9;6-10;</a>
+</spair>
+<spair id='29'>
+<s id='en29'>AML affects both children and adults .</s>
+<s id='vn29'>AML tấn công cả trẻ em lẫn người trưởng thành .</s>
+<a id='ev29'>1-1;2-2,3;3-4;4-5,6;5-7;6-8,9,10;</a>
+</spair>
+<spair id='30'>
+<s id='en30'>Chronic lymphocytic leukemia , or CLL.</s>
+<s id='vn30'>Bệnh bạch cầu lym-phô bào mãn tính , hoặc CLL .</s>
+<a id='ev30'>1-6,7;2-4,5;3-1,2,3;5-9;6-10;</a>
+</spair>
+<spair id='31'>
+<s id='en31'>CLL is the most common leukemia in adults , mostly those who are older than 55 .</s>
+<s id='vn31'>CLL là bệnh bạch cầu thường gặp nhất trong người trưởng thành , hầu hết là những người lớn hơn 55 tuổi .</s>
+<a id='ev31'>1-1;2-2;4-8;5-6,7;6-3,4,5;7-9;8-10,11,12;10-14,15,16;11-17;14-18,19;15-20;16-21,22;</a>
+</spair>
+<spair id='32'>
+<s id='en32'>Children almost never get it .</s>
+<s id='vn32'>Trẻ em hầu như không bao giờ mắc nó .</s>
+<a id='ev32'>1-1,2;2-3,4;3-5,6,7;4-8;5-9;</a>
+</spair>
+<spair id='33'>
+<s id='en33'>Chronic myelogenous leukemia , or CML.</s>
+<s id='vn33'>Bệnh bạch cầu tủy xương mãn tính , hoặc CML .</s>
+<a id='ev33'>1-6,7;2-4,5;3-1,2,3;5-9;6-10;</a>
+</spair>
+<spair id='34'>
+<s id='en34'>CML occurs mostly in adults .</s>
+<s id='vn34'>CML xảy ra hầu hết ở người trưởng thành .</s>
+<a id='ev34'>1-1;2-2,3;3-4,5;4-6;5-7,8,9;</a>
+</spair>
+<spair id='35'>
+<s id='en35'>What causes leukemia ?</s>
+<s id='vn35'>Điều gì gây ra bệnh bạch cầu ?</s>
+<a id='ev35'>1-1,2;2-3,4;3-5,6,7;</a>
+</spair>
+<spair id='36'>
+<s id='en36'>Experts don't know what causes leukemia .</s>
+<s id='vn36'>Các chuyên gia không biết điều gì gây ra bệnh bạch cầu .</s>
+<a id='ev36'>1-1,2,3;2-4;3-5;4-6,7;5-8,9;6-10,11,12;</a>
+</spair>
+<spair id='37'>
+<s id='en37'>But some things are known to increase the risk of some kinds of leukemia .</s>
+<s id='vn37'>Nhưng một vài thứ được biết là làm tăng nguy cơ của một vài loại bệnh bạch cầu .</s>
+<a id='ev37'>1-1;2-2,3;3-4;5-5,6,7;7-8,9;9-10,11;10-12;11-13,14;12-15,16;14-17,18;</a>
+</spair>
+<spair id='38'>
+<s id='en38'>These things are called risk factors .</s>
+<s id='vn38'>Những thứ này được gọi là yếu tố rủi ro .</s>
+<a id='ev38'>1-3;2-1,2;4-4,5,6;5-9,10;6-7,8;</a>
+</spair>
+<spair id='39'>
+<s id='en39'>You are more likely to get leukemia if you :</s>
+<s id='vn39'>Bạn có thể sẽ mắc bệnh bạch cầu nếu bạn :</s>
+<a id='ev39'>1-1;3-4;4-2,3;6-5;7-6,7,8;8-9;9-10;</a>
+</spair>
+<spair id='40'>
+<s id='en40'>Were exposed to large amounts of radiation .</s>
+<s id='vn40'>Đã tiếp xúc với lượng lớn bức xạ .</s>
+<a id='ev40'>2-1,2,3;3-4;4-6;5-5;7-7,8;</a>
+</spair>
+<spair id='41'>
+<s id='en41'>Were exposed to certain chemicals at work , such as benzene .</s>
+<s id='vn41'>Đã tiếp xúc với các hoá chất nhất định đang có hoạt tính , như là benzene .</s>
+<a id='ev41'>2-1,2,3;3-4;4-8,9;5-5,6,7;6-10,11;7-12,13;9-15,16;11-17;</a>
+</spair>
+<spair id='42'>
+<s id='en42'>Had some types of chemotherapy to treat another cancer .</s>
+<s id='vn42'>Đã từng chịu hoá trị để chữa một bệnh ung thư khác .</s>
+<a id='ev42'>1-1;3-2,3;5-4,5;6-6;7-7;8-12;9-8,9,10,11;</a>
+</spair>
+<spair id='43'>
+<s id='en43'>Have Down syndrome or other genetic problems .</s>
+<s id='vn43'>Bị hội chứng Down hoặc những vấn đề về di truyền khác .</s>
+<a id='ev43'>1-1;2-4;3-2,3;4-5;5-12;6-10,11;7-6,7,8;</a>
+</spair>
+<spair id='44'>
+<s id='en44'>Smoke .</s>
+<s id='vn44'>Hút thuốc .</s>
+<a id='ev44'>1-1,2;</a>
+</spair>
+<spair id='45'>
+<s id='en45'>But most people who have these risk factors don't get leukemia .</s>
+<s id='vn45'>Nhưng hầu hết những người có các yếu tố rủi ro trên lại không mắc bệnh bạch cầu .</s>
+<a id='ev45'>1-1;2-2,3;3-4,5;5-6;6-12;7-10,11;8-7,8,9;9-13,14;10-15;11-16,17,18;</a>
+</spair>
+<spair id='46'>
+<s id='en46'>And most people who get leukemia do not have any known risk factors .</s>
+<s id='vn46'>Và hầu hết những người mắc bệnh bạch cầu lại không có bất kỳ yếu tố rủi ro nào như đã biết .</s>
+<a id='ev46'>1-1;2-2,3;3-4,5;5-6;6-7,8,9;7-10;8-11;9-12;10-13,14;11-20,21,22;12-17,18,19;13-15,16;</a>
+</spair>
+<spair id='47'>
+<s id='en47'>What are the symptoms ?</s>
+<s id='vn47'>Triệu chứng là gì ?</s>
+<a id='ev47'>1-3,4;4-1,2;</a>
+</spair>
+<spair id='48'>
+<s id='en48'>Symptoms may depend on what type of leukemia you have , but common symptoms include :</s>
+<s id='vn48'>Triệu chứng có thể tùy vào loại bệnh bạch cầu mà bạn mắc phải , nhưng các triệu chứng chung bao gồm :</s>
+<a id='ev48'>1-1,2;2-3,4;3-5;4-6;6-7,8;8-9,10;9-11,12;10-13,14;12-16;13-20;14-17,18,19;15-21,22;</a>
+</spair>
+<spair id='49'>
+<s id='en49'>Fever and night sweats .</s>
+<s id='vn49'>Sốt và đổ mồ hôi đêm .</s>
+<a id='ev49'>1-1;2-2;3-6;4-3,4,5;</a>
+</spair>
+<spair id='50'>
+<s id='en50'>Headaches .</s>
+<s id='vn50'>Nhức đầu .</s>
+<a id='ev50'>1-1,2;</a>
+</spair>
+<spair id='51'>
+<s id='en51'>Bruising or bleeding easily .</s>
+<s id='vn51'>Dễ bầm hoặc chảy máu .</s>
+<a id='ev51'>1-2;2-3;3-4,5;4-1;</a>
+</spair>
+<spair id='52'>
+<s id='en52'>Bone or joint pain .</s>
+<s id='vn52'>Đau xương hoặc khớp .</s>
+<a id='ev52'>1-2;2-3;3-4;4-1;</a>
+</spair>
+<spair id='53'>
+<s id='en53'>A swollen or painful belly from an enlarged spleen .</s>
+<s id='vn53'>Bụng phồng lên hay đau do lách mở rộng .</s>
+<a id='ev53'>2-2,3;3-4;4-5;5-1;6-6;8-8,9;9-7;</a>
+</spair>
+<spair id='54'>
+<s id='en54'>Swollen lymph nodes in the armpit , neck , or groin .</s>
+<s id='vn54'>Hạch bạch huyết phồng lên trong nách , cổ , hay háng .</s>
+<a id='ev54'>1-4,5;2-2,3;3-1;4-6;6-7;8-9;10-11;11-12;</a>
+</spair>
+<spair id='55'>
+<s id='en55'>Getting a lot of infections .</s>
+<s id='vn55'>Mắc nhiều bệnh nhiễm trùng .</s>
+<a id='ev55'>1-1;2,3,4-2;5-3,4,5;</a>
+</spair>
+<spair id='56'>
+<s id='en56'>Feeling very tired or weak .</s>
+<s id='vn56'>Cảm thấy rất mệt hoặc yếu .</s>
+<a id='ev56'>1-1,2;2-3;3-4;4-5;5-6;</a>
+</spair>
+<spair id='57'>
+<s id='en57'>Losing weight and not feeling hungry .</s>
+<s id='vn57'>Giảm cân và không cảm thấy đói .</s>
+<a id='ev57'>1-1;2-2;3-3;4-4;5-5,6;6-7;</a>
+</spair>
+<spair id='58'>
+<s id='en58'>How is leukemia diagnosed ?</s>
+<s id='vn58'>Bệnh bạch cầu được chẩn đoán thế nào ?</s>
+<a id='ev58'>1-7,8;3-1,2,3;4-4,5,6;</a>
+</spair>
+<spair id='59'>
+<s id='en59'>To find out if you have leukemia , a doctor will :</s>
+<s id='vn59'>Để tìm xem bạn có bị bệnh bạch cầu không , bác sĩ sẽ :</s>
+<a id='ev59'>1-1;2-2;3-3;4-10;5-4;6-5,6;7-7,8,9;10-12,13;11-14;</a>
+</spair>
+<spair id='60'>
+<s id='en60'>Ask questions about your past health and symptoms .</s>
+<s id='vn60'>Đặt câu hỏi về sức khỏe và các triệu chứng trong quá khứ của bạn .</s>
+<a id='ev60'>1-1;2-2,3;3-4;4-14,15;5-11,12,13;6-5,6;7-7;8-8,9,10;</a>
+</spair>
+<spair id='61'>
+<s id='en61'>Do a physical exam .</s>
+<s id='vn61'>Thực hiện kiểm tra sức khoẻ .</s>
+<a id='ev61'>1-1,2;3-5,6;4-3,4;</a>
+</spair>
+<spair id='62'>
+<s id='en62'>The doctor will look for swollen lymph nodes and check to see if your spleen or liver is enlarged .</s>
+<s id='vn62'>Bác sĩ sẽ xem xét các hạch bạch huyết phồng lên và kiểm tra để thấy nếu lách hoặc gan của bạn bị mở rộng .</s>
+<a id='ev62'>2-1,2;3-3;4-4;5-5;6-10,11;7-8,9;8-6,7;9-12;10-13,14;11-15;12-16;13-17;14-21,22;15-18;16-19;17-20;19-23,24,25;</a>
+</spair>
+<spair id='63'>
+<s id='en63'>Order blood tests .</s>
+<s id='vn63'>Yêu cầu xét nghiệm máu .</s>
+<a id='ev63'>1-1,2;2-5;3-3,4;</a>
+</spair>
+<spair id='64'>
+<s id='en64'>Leukemia causes a high level of white blood and low levels of other types of blood cells .</s>
+<s id='vn64'>Bệnh bạch cầu gây ra mức cao của bạch cầu và mức thấp của các kiểu tế bào máu khác .</s>
+<a id='ev64'>1-1,2,3;2-4,5;4-7;5-6;6-8;7-9;8-10;9-11;10-13;11-12;12-14;13-20;14-15,16;16-19;17-17,18;</a>
+</spair>
+<spair id='65'>
+<s id='en65'>If your blood tests are not normal , the doctor may want to do a bone marrow biopsy .</s>
+<s id='vn65'>Nếu xét nghiệm máu của bạn có kết quả không bình thường , bác sĩ có thể muốn làm sinh thiết tuỷ xương .</s>
+<a id='ev65'>1-1;2-5,6;3-4;4-2,3;5-7,8,9;6-10;7-11,12;10-14,15;11-16,17;12-18;14-19;16-23;17-22;18-20,21;</a>
+</spair>
+<spair id='66'>
+<s id='en66'>This test lets the doctor look at cells from inside your bone .</s>
+<s id='vn66'>Thử nghiệm này cho phép bác sĩ xem xét các tế bào từ bên trong xương của bạn .</s>
+<a id='ev66'>1-3;2-1,2;3-4,5;5-6,7;6-8,9;8-10,11,12;9-13;10-14,15;11-17,18;12-16;</a>
+</spair>
+<spair id='67'>
+<s id='en67'>This can give key information about what type of leukemia it is so you can get the right treatment .</s>
+<s id='vn67'>Điều này có thể đưa ra thông tin then chốt về loại bệnh bạch cầu và nhờ đó bạn có thể được chữa trị đúng .</s>
+<a id='ev67'>1-1,2;2-3,4;3-5,6;4-9,10;5-7,8;6-11;8-12,13;10-14,15;11-16;13-17,18;14-19;15-20,21;16-22;18-25;19-23,24;</a>
+</spair>
+<spair id='68'>
+<s id='en68'>How is it treated ?</s>
+<s id='vn68'>Chữa trị thế nào</s>
+<a id='ev68'>1-3,4;4-1,2;</a>
+</spair>
+<spair id='69'>
+<s id='en69'>What type of treatment you need will depend on many things , including what kind of leukemia you have , how far along it is , and your age and overall health .</s>
+<s id='vn69'>Cách chữa trị mà bạn cần sẽ tùy thuộc vào nhiều thứ , bao gồm loại bệnh bạch cầu bạn mắc phải , bệnh đã tiến triển bao lâu , và tuổi tác cũng như sức khỏe tổng quát của bạn .</s>
+<a id='ev69'>2-1;4-2,3;5-4,5;6-6;7-7;8-8,9,10;10-11;11-12;13-14,15;15-16;17-17,18,19;18-20;19-21,22;22-28,29;23-25,26,27;24-24;27-31;28-40,41;29-32,33;30-34,35;31-38,39;32-36,37;</a>
+</spair>
+<spair id='70'>
+<s id='en70'>If you have acute leukemia , you will need quick treatment to stop the rapid growth of leukemia cells .</s>
+<s id='vn70'>Nếu bạn có bệnh bạch cầu cấp tính , bạn sẽ cần chữa bệnh nhanh để dừng lại sinh trưởng nhanh của các tế bào bệnh bạch cầu .</s>
+<a id='ev70'>1-1;2-2;3-3;4-7,8;5-4,5,6;7-10;8-11;9-12;10-15;11-13,14;12-16;13-17,18;15-21;16-19,20;17-22;18-26,27,28;19-23,24,25;</a>
+</spair>
+<spair id='71'>
+<s id='en71'>In many cases , acute leukemia can be cured .</s>
+<s id='vn71'>Trong nhiều trường hợp , bệnh bạch cầu cấp tính có thể chữa được .</s>
+<a id='ev71'>1-1;2-2;3-3,4;5-9,10;6-6,7,8;7-11,12;9-13,14;</a>
+</spair>
+<spair id='72'>
+<s id='en72'>Some doctors prefer the term " remission " to " cure , " because there is a chance the cancer could come back .</s>
+<s id='vn72'>Một số bác sĩ thích thuật ngữ " thuyên giảm " thay cho " chữa bệnh , " vì có cơ hội bệnh ung thư có thể tái lại .</s>
+<a id='ev72'>1-1,2;2-3,4;3-5;5-6,7;7-9,10;9-12,13;11-15,16;14-19;15-20;18-21,22;20-23,24,25;21-26,27;22-28;23-29;</a>
+</spair>
+<spair id='73'>
+<s id='en73'>If you have chronic lymphocytic leukemia , you may not need to be treated until you have symptoms .</s>
+<s id='vn73'>Nếu bạn có bệnh bạch cầu lym-phô bào mãn tính , bạn có thể không cần chữa trị cho đến khi bạn có triệu chứng .</s>
+<a id='ev73'>1-1;2-2;3-3;4-9,10;5-7,8;6-4,5,6;8-12;9-13,14;10-15;11-16;14-17,18;15-19,20,21;16-22;17-23;18-24,25;</a>
+</spair>
+<spair id='74'>
+<s id='en74'>But chronic myelogenous leukemia will probably be treated right away .</s>
+<s id='vn74'>Nhưng bệnh bạch cầu tủy xương mãn tính có lẽ sẽ được chữa trị ngay .</s>
+<a id='ev74'>1-1;2-7,8;3-5,6;4-2,3,4;5-11;6-9,10;8-12,13,14;9,10-15;</a>
+</spair>
+<spair id='75'>
+<s id='en75'>Chronic leukemia can rarely be cured , but treatment can help control the disease .</s>
+<s id='vn75'>Bệnh bạch cầu mãn tính có thể hiếm khi chữa trị được , nhưng can thiệp có thể giúp kiểm soát bệnh .</s>
+<a id='ev75'>1-4,5;2-1,2,3;3-6,7;4-8,9;6-10,11,12;8-14;9-15,16;10-17,18;11-19;12-20,21;14-22;</a>
+</spair>
+<spair id='76'>
+<s id='en76'>Treatments for leukemia include :</s>
+<s id='vn76'>Các cách điều trị bệnh bạch cầu bao gồm :</s>
+<a id='ev76'>1-1,2,3,4;3-5,6,7;4-8,9;</a>
+</spair>
+<spair id='77'>
+<s id='en77'>Chemotherapy , which uses powerful medicines to kill cancer cells .</s>
+<s id='vn77'>Hoá trị , sử dụng các thuốc mạnh để giết tế bào ung thư .</s>
+<a id='ev77'>1-1,2;4-4,5;5-8;6-6,7;7-9;8-10;9-13,14;10-11,12;</a>
+</spair>
+<spair id='78'>
+<s id='en78'>This is the main treatment for most types of leukemia .</s>
+<s id='vn78'>Đây là cách chữa trị chính cho hầu hết các dạng bệnh bạch cầu .</s>
+<a id='ev78'>1-1;2-2;4-6;5-3,4,5;6-7;7-8,9;8-10,11;10-12,13,14;</a>
+</spair>
+<spair id='79'>
+<s id='en79'>Radiation treatments .</s>
+<s id='vn79'>Xạ trị .</s>
+<a id='ev79'>1-1;2-2;</a>
+</spair>
+<spair id='80'>
+<s id='en80'>Radiation therapy uses high-dose X-rays to destroy cancer cells and shrink swollen lymph nodes or an enlarged spleen .</s>
+<s id='vn80'>Xạ trị sử dụng tia X liều cao để tiêu diệt các tế bào ung thư và thu nhỏ lại các hạch bạch huyết phồng lên hoặc lách bị to .</s>
+<a id='ev80'>1-1;2-2;3-3,4;4-7,8;5-5,6;6-9;7-10,11;8-15,16;9-12,13,14;10-17;11-18,19,20;12-25,26;13-23,24;14-21,22;15-27;17-29,30;18-28;</a>
+</spair>
+<spair id='81'>
+<s id='en81'>It may also be used before a stem cell transp lant .</s>
+<s id='vn81'>Nó cũng có thể được áp dụng trước khi cấy ghép tế bào mầm .</s>
+<a id='ev81'>1-1;2-3,4;3-2;5-5,6,7;6-8,9;8-14;9-12,13;10-10;11-11;</a>
+</spair>
+<spair id='82'>
+<s id='en82'>Stem cell transp lant .</s>
+<s id='vn82'>Cấy ghép tế bào mầm .</s>
+<a id='ev82'>1-5;2-3,4;3-1;4-2;</a>
+</spair>
+<spair id='83'>
+<s id='en83'>Donated stem cells can rebuild supply of normal blood cells and boost your immune system .</s>
+<s id='vn83'>Tế bào mầm được hiến tặng có thể xây dựng lại nguồn cung cấp các tế bào máu bình thường và đẩy mạnh hệ miễn dịch của bạn .</s>
+<a id='ev83'>1-4,5,6;2-3;3-1,2;4-7,8;5-9,10,11;6-12,13,14;8-19,20;9-18;10-15,16,17;11-21;12-22,23;13-27,28;14-25,26;15-24;</a>
+</spair>
+<spair id='84'>
+<s id='en84'>Before the transp lant , radiation or chemotherapy is used to destroy cells in bone marrow and make room for donated cells .</s>
+<s id='vn84'>Trước khi cấy ghép , bức xạ hoặc hoá trị được dùng để tiêu diệt các tế bào trong tuỷ xương và nhường chỗ cho các tế bào được hiến tặng .</s>
+<a id='ev84'>1-1,2;3-3;4-4;6-6,7;7-8;8-9,10;10-11,12;11-13;12-14,15;13-16,17,18;14-19;15-21;16-20;17-22;18-23;19-24;20-25;21-29,30,31;22-26,27,28;</a>
+</spair>
+<spair id='85'>
+<s id='en85'>Biological therapy .</s>
+<s id='vn85'>Liệu pháp sinh học .</s>
+<a id='ev85'>1-3,4;2-1,2;</a>
+</spair>
+<spair id='86'>
+<s id='en86'>This is the use of special medicines that improve your body's natural defenses against cancer .</s>
+<s id='vn86'>Đây là cách sử dụng các thuốc đặc biệt cải thiện khả năng miễn dịch tự nhiên của cơ thể của bạn chống lại bệnh ung thư .</s>
+<a id='ev86'>1-1;2-2;4-3,4,5;6-8,9;7-6,7;9-10,11;10-18,21,22;11-19,20;12-16,17;13-12,13,14,15;14-23,24;15-25,26,27;</a>
+</spair>
+<spair id='87'>
+<s id='en87'>For some people , clinical trials are a treatment option .</s>
+<s id='vn87'>Đối với một vài người , thử nghiệm lâm sàng là một lựa chọn để chữa bệnh .</s>
+<a id='ev87'>1-1,2;2-3,4;3-5;5-9,10;6-7,8;7-11;8-12;9-15,16,17;10-13,14;</a>
+</spair>
+<spair id='88'>
+<s id='en88'>Clinical trials are research projects to test new medicines and other treatments .</s>
+<s id='vn88'>Thử nghiệm lâm sàng là các dự án nghiên cứu để thử nghiệm các thuốc mới và các cách chữa trị khác .</s>
+<a id='ev88'>1-3,4;2-1,2;3-5;4-9,10;5-6,7,8;6-11;7-12,13;8-16;9-14,15;10-17;11-22;12-18,19,20,21;</a>
+</spair>
+<spair id='89'>
+<s id='en89'>Often people with leukemia take part in these studies .</s>
+<s id='vn89'>Thường những người bị bệnh bạch cầu tham gia vào những nghiên cứu như thế .</s>
+<a id='ev89'>1-1;2-2,3;3-4;4-5,6,7;5-8;6-9;7-10;8-14,15;9-11,12,13;</a>
+</spair>
+<spair id='90'>
+<s id='en90'>Some treatments for leukemia can cause side effects .</s>
+<s id='vn90'>Một số cách điều trị bệnh bạch cầu có thể gây ra các tác dụng phụ .</s>
+<a id='ev90'>1-1,2;2-3,4,5;4-6,7,8;5-9,10;6-11,12;7-16;8-13,14,15;</a>
+</spair>
+<spair id='91'>
+<s id='en91'>Your doctor can tell you what problems are common and help you find ways to manage them .</s>
+<s id='vn91'>Bác sĩ của bạn có thể nói cho bạn biết các vấn đề thường gặp và giúp bạn tìm cách xoay xở .</s>
+<a id='ev91'>1-3,4;2-1,2;3-5,6;4-7,8;5-9;6-10;7-11,12,13;9-14,15;10-16;11-17;12-18;13-19;14-20;16-21,22;</a>
+</spair>
+<spair id='92'>
+<s id='en92'>Finding out that you or your child has leukemia can be a terrible shock .</s>
+<s id='vn92'>Biết rằng bạn hay con của bạn bị bệnh bạch cầu có thể là một cú sốc lớn .</s>
+<a id='ev92'>1,2-1;3-2;4-3;5-4;6-6,7;7-5;8-8;9-9,10,11;10-12,13;11-14;12-15;13-18;14-16,17;</a>
+</spair>
+<spair id='93'>
+<s id='en93'>It may help to :</s>
+<s id='vn93'>Có thể giúp khi :</s>
+<a id='ev93'>2-1,2;3-3;4-4;</a>
+</spair>
+<spair id='94'>
+<s id='en94'>Learn all you can about the type of leukemia you have and its treatment .</s>
+<s id='vn94'>Tìm hiểu tất cả những gì bạn có thể về dạng bệnh bạch cầu bạn mắc phải và cách chữa trị nó .</s>
+<a id='ev94'>1-1,2;2-3,4,5,6;3-7;4-8,9;5-10;7-11;9-12,13,14;10-15;11-16,17;12-18;13-22;14-19,20,21;</a>
+</spair>
+<spair id='95'>
+<s id='en95'>This will help you make the best choices and know what to expect .</s>
+<s id='vn95'>Điều này sẽ giúp bạn có lựa chọn tốt nhất và biết nên mong đợi gì .</s>
+<a id='ev95'>1-1,2;2-3;3-4;4-5;5-6;7-9,10;8-7,8;9-11;10-12;11-16;12-13;13-14,15;</a>
+</spair>
+<spair id='96'>
+<s id='en96'>Stay as strong .</s>
+<s id='vn96'>Cố gắng càng mạnh mẽ .</s>
+<a id='ev96'>1-1,2;2-3;3-4,5;</a>
+</spair>
+<spair id='97'>
+<s id='en97'>A healthy diet , plenty of rest , and regular exercise can help .</s>
+<s id='vn97'>Chế độ ăn uống lành mạnh , nghỉ ngơi nhiều , và thể dục thường xuyên có thể có ích .</s>
+<a id='ev97'>2-5,6;3-1,2,3,4;5-10;7-8,9;9-12;10-15,16;11-13,14;12-17,18;13-19,20;</a>
+</spair>
+<spair id='98'>
+<s id='en98'>Talk to other people or families who have faced this disease .</s>
+<s id='vn98'>Nói chuyện với những người hoặc gia đình khác đã từng mắc bệnh này .</s>
+<a id='ev98'>1-1,2;2-3;3-9;4-4,5;5-6;6-7,8;9-10,11,12;10-14;11-13;</a>
+</spair>
+<spair id='99'>
+<s id='en99'>Ask your doctor about support groups in your area .</s>
+<s id='vn99'>Hỏi bác sĩ của bạn về các nhóm hỗ trợ trong vùng bạn ở .</s>
+<a id='ev99'>1-1;2-4,5;3-2,3;4-6;5-9,10;6-7,8;7-11;8-13,14;9-12;</a>
+</spair>
+<spair id='100'>
+<s id='en100'>You can also find people online who will share their experiences with you .</s>
+<s id='vn100'>Bạn cũng có thể tìm những người trên mạng mà họ sẽ chia sẻ kinh nghiệm của họ với bạn .</s>
+<a id='ev100'>1-1;2-3,4;3-2;4-5;5-6,7;6-8,9;7-10,11;8-12;9-13,14;10-17,18;11-15,16;12-19;13-20;</a>
+</spair>
+</text>
+</doc>

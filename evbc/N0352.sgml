@@ -1,0 +1,62 @@
+﻿<doc id='N0352'>
+<head>
+<title>Intel 's Next Generation Platform to Support GPGPU</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>22/10/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Intel 's Next Generation Platform to Support GPGPU</s>
+<s id='vn1'>Nền tảng thế hệ Chip kế tiếp của Intel sẽ hỗ trợ GPGPU</s>
+<a id='ev1'>1-9;2-8;3-6,7;4-3,4;5-1,2;7-11,12;8-13;</a>
+</spair>
+<spair id='2'>
+<s id='en2'>Intel Corp. , the world 's largest maker of semiconductors , late on Friday said that its next-generation integrated graphics platform will support video trans-coding .</s>
+<s id='vn2'>Tập đoàn Intel , hãng sản xuất chip bán dẫn lớn nhất thế giới vào cuối ngày thứ Sáu nói rằng nền tảng đồ họa tích hợp thế hệ chip tiếp theo sẽ hỗ trợ chuyển mã video .</s>
+<a id='ev2'>1-3;2-1,2;5-13,14;7-11,12;10-8,9,10;12-16;13-15;14-17,18,19;15-20;16-21;18-28,29,31,32;19-26,27;20-24,25;21-22,23;22-33;23-34,35;24-38;25-36,37;</a>
+</spair>
+<spair id='3'>
+<s id='en3'>While the move seems to be insignificant in general , it may mean a lot for the industry in general .</s>
+<s id='vn3'>Trong khi đó bước di chuyển này dường như là không đáng kể , nhưng có thể có rất nhiều ý nghĩa cho ngành công nghiệp này nói chung .</s>
+<a id='ev3'>1-1,2,3;2-7;3-4,5,6;4-8,9;6-10;7-11,12,13;12-16,17;13-21,22;15-19,20;16-23;17-27;18-24,25,26;19,20-28,29;</a>
+</spair>
+<spair id='4'>
+<s id='en4'>According to an Intel 's spokesman , its next-generation code-named Clarkdale central processing unit with integrated graphics core will support video encoding using graphics processing engines via a driver update .</s>
+<s id='vn4'>Theo một phát ngôn viên của Intel , thế hệ chip kế tiếp với tên mã là Clarkdale , bộ vi xử lý với lõi đồ họa tích hợp sẽ hỗ trợ mã hóa video bằng cách sử dụng công cụ xử lý đồ họa thông qua một bản cập nhật trình điều khiển .</s>
+<a id='ev4'>1,2-1;3-2;4-7;5-6;6-3,4,5;9-9,10,11,12,13;10-14,15,16;11-18;13-20,21,22,23;16-28,29;17-26,27;18-25;19-30;20-31,32;21-35;22-33,34;23-38,39;24-44,45;25-42,43;26-40,41;27-46,47;28-48;29-52,53,54;30-49,50,51;</a>
+</spair>
+<spair id='5'>
+<s id='en5'>Despite lack of initial support of the feature , which will be added using a driver update , there is a confidence in the forthcoming Intel 's integrated desktop platform .</s>
+<s id='vn5'>Mặc dù thiếu sự hỗ trợ ban đầu cho tính năng này nhưng nó sẽ được bổ sung bằng cách sử dụng một bản cập nhật trình điều khiển , đáng tin cậy trong nền tảng máy tính để bàn tích hợp của Intel sắp tới .</s>
+<a id='ev5'>1-1,2;2-3;4-7,8;5-4,5,6;6-9;7-12;8-10,11;10-14;11-15;13-16,17,18;14-21,22;15,17-23,24,25,26;16-27,28,29;22-31,32,33;23-34;25-45,46;26-44;27-43;28-41,42;29-37,38,39,40;30-35,36;</a>
+</spair>
+<spair id='6'>
+<s id='en6'>This seems to be the first time when Intel admits the importance of GPGPU in general , particularly about video transcoding .</s>
+<s id='vn6'>Đây dường như có vẻ là lần đầu tiên khi mà Intel thừa nhận tầm quan trọng của GPGPU nói chung , đặc biệt là về chuyển mã video .</s>
+<a id='ev6'>1-1;2-2,3;6-7,8,9;8-10,11;9-12;10-13,14;12-15,16,17;13-18;14-19;15,16-20,21;18-23,24,25;19-26;20-29;21-27,28;</a>
+</spair>
+<spair id='7'>
+<s id='en7'>Intel Clarkdale are dual-core microprocessors based on Westmere micro-architecture with 4MB of cache , Hyper-Threading , dual-channel DDR3 memory controllers and integrated graphics cores .</s>
+<s id='vn7'>Intel Clarkdale là vi xử lý lõi kép dựa trên vi kiến trúc Westmere với bộ nhớ đệm 4MB , siêu phân luồng , trình điều khiển bộ nhớ kênh đôi DDR3 và các lõi đồ họa tích hợp .</s>
+<a id='ev7'>1-1;2-2;3-3;4-7,8;5-4,5,6;6-9,10;8-14;9-11,12,13;10-15;11-19;13-16,17,18;15-21,22,23;17-30,31;18-32;19-28,29;20-25,26,27;21-33;22-38,39;23-36,37;24-34,35;</a>
+</spair>
+<spair id='8'>
+<s id='en8'>Arrandale are similar chips aimed at mobile computers .</s>
+<s id='vn8'>Arrandale cũng là bộ vi xử lý tương tự nhằm vào nền tảng máy tính di động .</s>
+<a id='ev8'>1-1;2-3;3-8,9;4-4,5,6,7;5-10,11;7-16,17;8-14,15;</a>
+</spair>
+<spair id='9'>
+<s id='en9'>Both Arrandale and Clarkdale are essentially multi-chip modules featuring one dual-core processor made using 32nm fabrication process and graphics and other system logic core produced at 45nm node .</s>
+<s id='vn9'>Bản chất của cả hai vi xử lý Arrandale và Clarkdale đều là các module đa chip có đặc điểm là bộ vi xử lý lõi kép được sản xuất trên qui trình 32nm , đồ họa và lõi logic hệ thống khác được sản xuất trên dây chuyền 45nm .</s>
+<a id='ev9'>1-4,5;2-9;3-10;4-11;5-13;6-1,2;7-16,17;8-14,15;9-21;11-26,27;12-6,7,8;13-28,29,30;14-31;15-34;16-32,33;17-22,23,24,25;19-36,37;20-38;21-43;22-41,42;23-40;24-39;25-44,45,46;26-47;27-50;28-48,49;</a>
+</spair>
+<spair id='10'>
+<s id='en10'>It is highly likely that the new processors will be launched on the same day - on January 7 , 2010 - at the Consumer Electronics Show .</s>
+<s id='vn10'>Rất có khả năng rằng các bộ vi xử lý mới sẽ được tung ra trong cùng một ngày - vào ngày 07 tháng 1 năm 2010 tại Triễn Lãm Điện tử Tiêu Dùng .</s>
+<a id='ev10'>3-1,2;4-3,4;7-11;8-6,7,8,9,10;9-12;11-13,14,15;12-16;14-17,18;15-19;17-21;18-24,25;19-22,23;21-26,27;23-28;25-33,34;26-31,32;27-29,30;</a>
+</spair>
+</text>
+</doc>

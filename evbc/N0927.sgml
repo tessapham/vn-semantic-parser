@@ -1,0 +1,272 @@
+﻿<doc id='N0927'>
+<head>
+<title>Cerebral Palsy</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>22/10/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Cerebral Palsy</s>
+<s id='vn1'>Bại não</s>
+<a id='ev1'>1-2;2-1;</a>
+</spair>
+<spair id='2'>
+<s id='en2'>Some kids with cerebral palsy use wheelchairs and others walk with the help of crutches or braces .</s>
+<s id='vn2'>Một số trẻ bị bại não phải ngồi xe lăn còn những trẻ khác thì phải chống nạng hoặc dùng dụng cụ chỉnh hình .</s>
+<a id='ev2'>1-1,2;2-3;3-4;4-6;5-5;6-8;7-9,10;8-11;9-12,13,14;15-18;16-19;</a>
+</spair>
+<spair id='3'>
+<s id='en3'>In some cases , a kid 's speech may be affected or the person might not be able to speak at all .</s>
+<s id='vn3'>Trong một số trường hợp thì trẻ có thể gặp vấn đề về ngôn ngữ hoặc có thể người bệnh hoàn toàn không nói chuyện được .</s>
+<a id='ev3'>1-1;2-2,3;3-4,5;6-7;8-14,15;9-8,9;11-10,11,12;12-16;14-19,20;16-23;18-17,18;20-24,25;21,22-21,22;</a>
+</spair>
+<spair id='4'>
+<s id='en4'>What 's Cerebral Palsy ?</s>
+<s id='vn4'>Bại não là gì ?</s>
+<a id='ev4'>1-4;2-3;3-2;4-1;</a>
+</spair>
+<spair id='5'>
+<s id='en5'>In some cases , a kid 's speech may be affected or the person might not be able to speak at all .</s>
+<s id='vn5'>Trong một số trường hợp thì trẻ có thể gặp vấn đề về ngôn ngữ hoặc có thể người bệnh hoàn toàn không nói chuyện được .</s>
+<a id='ev5'>1-1;2-2,3;3-4,5;6-7;8-14,15;9-8,9;11-10,11,12;12-16;14-19,20;15,16-23,24;18-17,18;20-25;21,22-21,22;</a>
+</spair>
+<spair id='6'>
+<s id='en6'>Cerebral palsy is a condition that affects thousands of children each year .</s>
+<s id='vn6'>Bại não là bệnh ảnh hưởng đến hàng ngàn trẻ em mỗi năm .</s>
+<a id='ev6'>1-2;2-1;3-3;5-4;7-5,6,7;8-8,9;10-10,11;11-12;12-13;</a>
+</spair>
+<spair id='7'>
+<s id='en7'>It is not contagious , which means you ca n't catch it from anyone who has it .</s>
+<s id='vn7'>Bệnh này không truyền nhiễm , có nghĩa là bạn không thể mắc bệnh do người bệnh lây sang .</s>
+<a id='ev7'>1-1,2;3-3;4-4,5;7-7,8,9;8-10;9,10-11,12;11-13,14;13-15;14-16,17;</a>
+</spair>
+<spair id='8'>
+<s id='en8'>A kid with cerebral palsy has trouble controlling the muscles of the body .</s>
+<s id='vn8'>Trẻ bị bại não khó mà kiểm soát các cơ trong cơ thể .</s>
+<a id='ev8'>2-1;4-4;5-3;7-5,6;8-7,8;10-9,10;11-11;13-12,13;</a>
+</spair>
+<spair id='9'>
+<s id='en9'>Normally , the brain tells the rest of the body exactly what to do and when to do it .</s>
+<s id='vn9'>Bình thường thì não điều khiển các bộ phận khác trong cơ thể cần phải làm gì và khi nào thì làm như vậy một cách chính xác .</s>
+<a id='ev9'>1-1,2;4-4;5-5,6;7-7,8,9,10;10-11,12,13;11-25,26,27,28;16-19,20;18-22;</a>
+</spair>
+<spair id='10'>
+<s id='en10'>But because cerebral palsy affects the brain , depending on what part of the brain is affected , a kid might not be able to walk , talk , eat , or play the way most kids do .</s>
+<s id='vn10'>Nhưng vì bệnh bại não làm ảnh hưởng đến não và tùy phần não bị ảnh hưởng mà có thể trẻ không đi lại được , nói chuyện , ăn uống , hay chơi đùa giống như hầu hết các trẻ khác .</s>
+<a id='ev10'>1-1;2-2;3-5;4-4;5-6,7,8,9;7-10;9,10-12;12-13;15-14;17-15,16,17;20-21;21,22-20;24-19;26-23,24,25;28-27,28;30-30,31;33-34,35;36-38,39;37-40,41;</a>
+</spair>
+<spair id='11'>
+<s id='en11'>Types of Cerebral Palsy</s>
+<s id='vn11'>Các loại bại não</s>
+<a id='ev11'>1-1,2;3-4;4-3;</a>
+</spair>
+<spair id='12'>
+<s id='en12'>There are three types of cerebral palsy : spastic , athetoid , and ataxic .</s>
+<s id='vn12'>Có ba loại bại não : co cứng , múa vờn , và mất điều hoà .</s>
+<a id='ev12'>1-1;3-2;4-3;6-5;7-4;9-7,8;11-10,11;13-13;14-14,15,16;</a>
+</spair>
+<spair id='13'>
+<s id='en13'>The most common type of cerebral palsy is spastic .</s>
+<s id='vn13'>Loại bại não thường gặp nhất là bại não co cứng .</s>
+<a id='ev13'>2-6,7;3-4,5;4-1;6-3;7-2;9-10,11;</a>
+</spair>
+<spair id='14'>
+<s id='en14'>A kid with spastic cerebral palsy ca n't relax his or her muscles or the muscles may be stiff .</s>
+<s id='vn14'>Trẻ bị bại não co cứng không thể thả lỏng các cơ hoặc có thể cơ bị cứng .</s>
+<a id='ev14'>2-1;4-5,6;5-4;6-3;7,8-7,8;9-9,10;11-13;13-11,12;14,15-14,15;16-16;19-18;</a>
+</spair>
+<spair id='15'>
+<s id='en15'>Athetoid cerebral palsy affects a kid 's ability to control the muscles of the body .</s>
+<s id='vn15'>Bại não múa vờn ảnh hưởng đến khả năng kiểm soát cơ trong cơ thể của trẻ .</s>
+<a id='ev15'>1-3,4;2-2;3-1;4-5,6,7;8-8,9;10-10,11;12-12;13-13;15-14,15;</a>
+</spair>
+<spair id='16'>
+<s id='en16'>This means that the arms or legs that are affected by athetoid cerebral palsy may flutter and move suddenly .</s>
+<s id='vn16'>Điều này có nghĩa là tay hoặc chân bị ảnh hưởng do bại não múa vờn có thể bị run và cử động đột ngột .</s>
+<a id='ev16'>1-1,2;2-3,4,5;5-6;6-7;7-8;10-9,10,11;11-12;12-15,16;13-14;14-13;15-17,18;16-20;17-21;18-22,23;19-24,25;</a>
+</spair>
+<spair id='17'>
+<s id='en17'>A kid with ataxic cerebral palsy has problems with balance and coordination .</s>
+<s id='vn17'>Trẻ bị bại não mất điều hoà gặp rắc rối trong việc giữ thăng bằng và phối hợp .</s>
+<a id='ev17'>2-1;4-5,6,7;5-4;6-3;7-8;8-9,10;9-11;10-14,15;11-16;12-17,18;</a>
+</spair>
+<spair id='18'>
+<s id='en18'>A kid with cerebral palsy can have a mild case or a more severe case - it really depends on how much of the brain is affected and which parts of the body that section of the brain controls .</s>
+<s id='vn18'>Trẻ có thể bị bị bại não nhẹ hay nặng hơn - thật ra thì nặng hay nhẹ còn tùy thuộc vào việc não bị ảnh hưởng nhiều hay ít và phần não này điều khiển các bộ phận nào trên cơ thể .</s>
+<a id='ev18'>2-1;4-7;5-6;6-2,3,4;9-8;11-9;13-11;14-10;18-13,14;19-20,21;20-22;25-24;27-25,26,27;28-29;30-32;33-42,43;35-37,38,39;39-35,36;</a>
+</spair>
+<spair id='19'>
+<s id='en19'>If both arms and both legs are affected , a kid might need to use a wheelchair .</s>
+<s id='vn19'>Nếu như cả tay và chân đều bị ảnh hưởng thì có thể trẻ cần phải ngồi xe lăn .</s>
+<a id='ev19'>1-1,2;2-3;3-4;4-5;6-6,7;8-8,9,10;11-14;12-12,13;13-15,16;15-17;17-18,19;</a>
+</spair>
+<spair id='20'>
+<s id='en20'>If only the legs are affected , a kid might walk in an unsteady way or have to wear braces or use crutches .</s>
+<s id='vn20'>Nếu như chỉ có chân bị ảnh hưởng thì có thể trẻ đi không vững hay phải đeo dụng cụ chỉnh hình hoặc chống nạng .</s>
+<a id='ev20'>1-1,2;2-3,4;4-5;6-7,8;9-12;11-13,14,15;15-22;19-10,11;21-23;22-24;23-25;</a>
+</spair>
+<spair id='21'>
+<s id='en21'>If the part of the brain that controls speech is affected , a kid with cerebral palsy might have trouble talking clearly .</s>
+<s id='vn21'>Nếu như phần não kiểm soát ngôn ngữ bị ảnh hưởng thì có thể trẻ bị bại não khó mà nói chuyện được một cách rõ ràng .</s>
+<a id='ev21'>1-1,2;3-3;6-4;8-5,6;9-7,8;11-9,10,11;14-15;15-16;16-18;17-17;18-13,14;20-19,20;21-21,22;22-26,27;</a>
+</spair>
+<spair id='22'>
+<s id='en22'>Another kid with cerebral palsy might not be able to speak at all .</s>
+<s id='vn22'>Trẻ khác bị bại não có thể hoàn toàn không nói chuyện được .</s>
+<a id='ev22'>1-2;2-1;3-3;4-5;5-4;6-6,7;7-10;11-11,12;12,13-8,9;</a>
+</spair>
+<spair id='23'>
+<s id='en23'>For some babies , injuries to the brain during pregnancy or soon after birth may cause cerebral palsy .</s>
+<s id='vn23'>Đối với một số bé thì việc tổn thương não khi còn nằm trong bụng mẹ hoặc ngay sau khi chào đời có thể gây bại não .</s>
+<a id='ev23'>1-1,2;2-3,4;3-5;5-7,8,9;8-10;9-14;10-15,16;11-17;12-18,19,20;14-21,22;15-23,24;16-25;17-27;18-26;</a>
+</spair>
+<spair id='24'>
+<s id='en24'>Children most at risk of developing cerebral palsy are small , premature babies and babies who need to be on a ventilator ( a machine to help with breathing ) for several weeks or longer .</s>
+<s id='vn24'>Trẻ có nguy cơ bị bại não nhiều nhất là các trẻ nhẹ cân , sinh non và trẻ phải thở bằng máy ( máy giúp hô hấp ) trong vài tuần hoặc lâu hơn .</s>
+<a id='ev24'>1-1;4-3,4;7-7;8-6;10-13,14;12-17;13-16;14-18;17-20;22-23;25-25;27-26;29-27,28;32-31;33-32;34-33;35-34,35;</a>
+</spair>
+<spair id='25'>
+<s id='en25'>But for most kids with cerebral pal sy , the problem in the brain occurs before birth .</s>
+<s id='vn25'>Nhưng đối với hầu hết trẻ bị bại não thì vấn đề về não xảy ra trước khi chào đời .</s>
+<a id='ev25'>1-1;2-2,3;3-4,5;4-6;11-11,12;12-13;14-9;15-15,16;16-17,18;17-20;</a>
+</spair>
+<spair id='26'>
+<s id='en26'>Often , doctors do n't know why .</s>
+<s id='vn26'>Thường thì bác sĩ không biết lý do .</s>
+<a id='ev26'>1-1;3-3,4;6-6;7-7,8;</a>
+</spair>
+<spair id='27'>
+<s id='en27'>What Do Doctors Do ?</s>
+<s id='vn27'>Các bác sĩ làm gì ?</s>
+<a id='ev27'>1-5;2-4;3-1,2,3;</a>
+</spair>
+<spair id='28'>
+<s id='en28'>Doctors who specialize in treating kids with problems of the brain , nerves , or muscles are usually involved in diagnosing a kid with cerebral palsy .</s>
+<s id='vn28'>Các bác sĩ chuyên điều trị cho trẻ em gặp vấn đề về não , thần kinh , hay cơ thì thường làm luôn việc chẩn đoán trẻ bị bại não .</s>
+<a id='ev28'>1-1,2,3;5-5,6;6-8,9;7-7;8-11,12;9-13;11-14;13-16,17;15-19;16-20;18-22;21-25,26,27;23-28;25-31;26-30;</a>
+</spair>
+<spair id='29'>
+<s id='en29'>These specialists could include a pediatric neurologist , a doctor who deals with problems of the nervous system and brain in kids .</s>
+<s id='vn29'>Các chuyên gia này có thể bao gồm bác sĩ thần kinh nhi khoa , bác sĩ điều trị các vấn đề về hệ thần kinh và não ở trẻ .</s>
+<a id='ev29'>1-4;2-1,2,3;3-5,6;4-7,8;6-13,14;7-9,10,11,12;10-16,17;12-18,19;14-20,21,22;17-24,25,26;19-27;20-28;21-29;22-30;</a>
+</spair>
+<spair id='30'>
+<s id='en30'>Three other kinds of doctors who can help kids with cerebral palsy include a pediatric orthopedist , who handles problems with bones or joints , a developmental pediatrician , who looks at how a kid is growing or developing compared with other kids the same age , and a pediatric physiatrist , who helps treat children with disabilities of many kinds .</s>
+<s id='vn30'>Ba nhóm bác sĩ khác có thể giúp cho trẻ bị bại não gồm có bác sĩ chỉnh hình cho trẻ em , điều trị các vấn đề về xương hoặc khớp , bác sĩ chuyên về sự phát triển của trẻ em , xem xét trẻ tăng trưởng hay phát triển như thế nào so với các trẻ khác đồng trang lứa , và bác sĩ vật lý trị liệu cho trẻ em , giúp điều trị cho các trẻ bị khuyết tật đủ loại .</s>
+<a id='ev30'>1-1;2-5;3-2;5-3,4;7-6,7;8-8;9-10;11-13;12-12;13-14,15;15-21,22;16-16,17,18,19;20-26,27,28;21-29;22-30;23-31;24-32;27-38,39,40;28-34,35,36,42,43;31-45,46;33-53,54,55;35-47;37-48,49;38-50;39-51,52;40-56,57;42-60;43-58,59;50-68,69,70,71;51-66,67;54-76;55-77,78;56-80,81;58-83,84;</a>
+</spair>
+<spair id='31'>
+<s id='en31'>There is no special test to figure out if a kid has cerebral palsy .</s>
+<s id='vn31'>Chưa có xét nghiệm đặc biệt nào để xác định xem liệu trẻ có bị bại não hay không .</s>
+<a id='ev31'>1-1,2;4-5,6;5-3,4;7,8-9,10;9-11,12;11-13;12-14,15;13-17;14-16;</a>
+</spair>
+<spair id='32'>
+<s id='en32'>Doctors may order X-rays and blood tests to find out if some other disease of the brain and nervous system may be causing the problem .</s>
+<s id='vn32'>Các bác sĩ có thể cho chụp X quang và xét nghiệm máu để tìm ra liệu có căn bệnh nào khác liên quan đến não và hệ thần kinh có thể gây ra vấn đề này .</s>
+<a id='ev32'>1-4,5,6;5-10;6-13;7-11,12;8-14;9-15,16;11-21;13-22;14-19,20;17-26;18-27;19-28,29,30;23-33,34;24-37;25-35,36;</a>
+</spair>
+<spair id='33'>
+<s id='en33'>To diagnose cerebral palsy , doctors usually wait to see how a kid develops to be sure .</s>
+<s id='vn33'>Để chẩn đoán bệnh bại não , thường thì bác sĩ chờ xem trẻ phát triển như thế nào cho chắc chắn .</s>
+<a id='ev33'>1-1;2-2,3;3-6;4-5;6-10,11;7-8;8-12;10-13;11-17,18,19;13-14;14-15,16;15-20;17-21,22;</a>
+</spair>
+<spair id='34'>
+<s id='en34'>A case of cerebral palsy often can be diagnosed by the age of 18 months .</s>
+<s id='vn34'>Trường hợp bại não thường có thể chẩn đoán được lúc 18 tháng tuổi .</s>
+<a id='ev34'>2-1,2;4-4;5-3;6-5;7-6,7,8,9,10;10-11;12-14;14-12;15-13;</a>
+</spair>
+<spair id='35'>
+<s id='en35'>For example , if a child does not sit up or walk by the time most kids should be doing these things , the kid might have cerebral palsy or some other problem that is causing development to go more slowly .</s>
+<s id='vn35'>Chẳng hạn như , nếu một đứa trẻ không thể ngồi dậy hoặc đi lại vào khoảng thời gian mà hầu hết trẻ con làm được thì có thể là trẻ bị bại não hoặc gặp vấn đề gì khác làm cho trẻ phát triển chậm hơn .</s>
+<a id='ev35'>4-5;5-6;6-7,8;7-14,15;9-11,12;11-13;13-16,17;16-21,22;17-23,24;20-25,26;25-31;26-28,29;27-32;28-34;29-33;30-35;32-40;33-37,38;34,35-41,42;37-44,45;40-47;41-46;</a>
+</spair>
+<spair id='36'>
+<s id='en36'>Doctors follow infant and child development closely and look for problems with muscle tone and strength , movement , and reflexes .</s>
+<s id='vn36'>Các bác sĩ theo dõi sự phát triển của trẻ sơ sinh và trẻ nhỏ một cách chặt chẽ và tìm ra vấn đề về trương lực cơ , sức mạnh , cử động và phản xạ .</s>
+<a id='ev36'>1-1,2,3;2-4,5;3-10,11,12;4-13;5-14,15;6-6,7,8,9;7-16,17,18,19;8-20;9,10-21,22;11-23,24;12-25;13-28;14-26,27;16-30,31;18-33,34;21-36,37;</a>
+</spair>
+<spair id='37'>
+<s id='en37'>How Is Cerebral Palsy Treated ?</s>
+<s id='vn37'>Bại não được điều trị như thế nào ?</s>
+<a id='ev37'>1-6,7,8;3-2;4-1;5-3,4,5;</a>
+</spair>
+<spair id='38'>
+<s id='en38'>For a kid with cerebral palsy , the problem with the brain will not get any worse as the kid gets older .</s>
+<s id='vn38'>Đối với trẻ bị bại não thì vấn đề về não sẽ không trầm trọng hơn khi trẻ trưởng thành .</s>
+<a id='ev38'>1-1,2;3-3;5-6;6-5;9-8,9;10-10;12-11;13-12;14-13;17-14,15,16;18-17;20-18;21-19,20;</a>
+</spair>
+<spair id='39'>
+<s id='en39'>For example , a kid who has cerebral palsy that affects only the legs will not develop cerebral palsy in the arms or problems with speech later on .</s>
+<s id='vn39'>Chẳng hạn như trẻ bị bại não chỉ ảnh hưởng tới chân sẽ không bị bại não ảnh hưởng đến tay hoặc những vấn đề về ngôn ngữ sau này .</s>
+<a id='ev39'>1,2-1,2;5-4;8-7;9-6;11-8,9,10;14-12;15-13;16-14,15;18-17;19-16;22-21;23-22;24-23,24,25;25-26;26-27,28;27-29,30;</a>
+</spair>
+<spair id='40'>
+<s id='en40'>The effect of cerebral palsy on the arms or legs can get worse , however , and some kids may develop dislocated hips ( when the bones that meet at the hips move out of their normal position ) or scoliosis ( curvature )</s>
+<s id='vn40'>Tuy nhiên , hậu quả của bệnh bại não đối với tay hay chân có thể trầm trọng hơn , và một số trẻ có thể bị trật khớp hông ( khi các xương nối nhau ở hông lệch khỏi vị trí bình thường ) hoặc vẹo xương sống ( cong xương sống ) .</s>
+<a id='ev40'>2-4,5;3-6;4-9;5-8;6-10,11;8-12;9-13;10-14;11-15,16;13-17,18,19;15-1,2;17-21;18-22,23;19-24;20-25,26;22-28,29;23-30;25-32;27-33,34;29-35,36;30-37;32-38;37-43,44;38-41,42;40-46;41-47;43-51;</a>
+</spair>
+<spair id='41'>
+<s id='en41'>That is why therapy is so important .</s>
+<s id='vn41'>Đó là lý do tại sao mà việc điều trị lại quan trọng đến thế .</s>
+<a id='ev41'>1,2-1,2;3-3,4,5,6;4-8,9,10;5-14;6-15;7-12,13;</a>
+</spair>
+<spair id='42'>
+<s id='en42'>Kids with cerebral palsy usually have physical , occupational , or speech therapy to help them develop skills like walking , sitting , swallowing , and using their hands .</s>
+<s id='vn42'>Trẻ bị bại não thường cần đến vật lý trị liệu , liệu pháp lao động hay liệu pháp ngôn ngữ để giúp chúng phát triển các kỹ năng như là đi lại , ngồi xuống , nuốt , và sử dụng bàn tay .</s>
+<a id='ev42'>1-1;3-4;5-5;7-8,9,10,11;12-20,21;13-13,14;15-23;16-24;17-25,26;18-27,28,29;19-30,31;20-32,33;22-35,36;24-38;26-40;27-41,42;29-43,44;</a>
+</spair>
+<spair id='43'>
+<s id='en43'>There are also medications to treat the seizures that some kids with cerebral palsy have .</s>
+<s id='vn43'>Cũng có thuốc để điều trị chứng co giật mà một số trẻ bị bại não mắc phải .</s>
+<a id='ev43'>1-2;3-1;4-3;5-4;6-5,6;8-7,8,9;9-10;10-11,12;11-13;13-16;14-15;15-18;</a>
+</spair>
+<spair id='44'>
+<s id='en44'>Some medications can help relax the muscles in kids with spastic cerebral pal sy .</s>
+<s id='vn44'>Một số loại thuốc có thể giúp làm giãn cơ ở trẻ bị bại não co cứng .</s>
+<a id='ev44'>1-1,2;2-4;3-5,6;4-7;5-8,9;7-10;8-11;9-12;11-16,17;12-15;</a>
+</spair>
+<spair id='45'>
+<s id='en45'>And some kids with cerebral palsy may have special surgeries to keep their arms or legs straighter and more flexible .</s>
+<s id='vn45'>Và một số trẻ bị bại não có thể trải qua các ca phẫu thuật đặc biệt để giữ cho tay chân thẳng hơn và linh hoạt hơn .</s>
+<a id='ev45'>1-1;2-2,3;3-4;9-16,17;10-14,15;11-18;12-19;14-21,22;17-23;18-25;19-24;20-26,27;</a>
+</spair>
+<spair id='46'>
+<s id='en46'>Living With Cerebral Palsy</s>
+<s id='vn46'>Sống với bệnh bại não</s>
+<a id='ev46'>1-1;2-2;3-5;4-4;</a>
+</spair>
+<spair id='47'>
+<s id='en47'>Cerebral palsy usually does n't stop kids from going to school , making friends , or doing things they enjoy .</s>
+<s id='vn47'>Thường thì bệnh bại não không gây khó khăn cho trẻ trong việc đi học , kết bạn , hoặc làm những điều chúng thích .</s>
+<a id='ev47'>1-5;2-4;3-1;5-6;6-10;7-11;9-13,14;11-15;13-21;14-17,18;16-20;18-22,23;19-24;20-25;</a>
+</spair>
+<spair id='48'>
+<s id='en48'>But they may have to do these things a little differently or they may need some help .</s>
+<s id='vn48'>Nhưng chúng có thể làm mấy chuyện này khác đi một chút hoặc có thể chúng cần được giúp đỡ .</s>
+<a id='ev48'>1-1;2-2;3-6;4-3,4;6-5;8-7;10-11,12;11-9;12-13;13-16;15-17,18;17-19,20;</a>
+</spair>
+<spair id='49'>
+<s id='en49'>With computers to help them communicate and wheelchairs to help them get around , kids with cerebral palsy often can do a lot of stuff that kids without cerebral palsy can do .</s>
+<s id='vn49'>Có máy tính giúp trẻ giao tiếp và xe lăn giúp trẻ đi lại dễ dàng , thường thì trẻ bị bại não có thể làm được nhiều việc mà trẻ không bị bại não có thể làm được .</s>
+<a id='ev49'>1-1;2-2,3;4-4;6-6,7;7-8;8-9,10;10-11;15-20;16-21;17-23;18-22;19-18;20-24,25;21-26,27;23-28;25-29;27-31;28-32;29-35;30-33;31-36,37;32-38,39;</a>
+</spair>
+<spair id='50'>
+<s id='en50'>Be patient if you know someone or meet someone with cerebral palsy .</s>
+<s id='vn50'>Hãy kiên nhẫn nếu như bạn biết ai đó hay gặp ai đó bị bại não .</s>
+<a id='ev50'>2-2,3;3-4,5;4-6;5-7;6-8,9;7-10;8-11;9-12,13;11-16;12-15;</a>
+</spair>
+<spair id='51'>
+<s id='en51'>If you ca n't understand what a person with cerebral palsy is saying or if it takes a person with cerebral palsy longer to do things , give him or her extra time to speak or move .</s>
+<s id='vn51'>Nếu bạn không hiểu được người bị bại não đang nói gì hoặc nếu người bị bại não làm một việc gì đó lâu hơn bình thường thì hãy cho họ thêm thời gian để nói chuyện hoặc cử động .</s>
+<a id='ev51'>1-1;2-2;4-3;5-4,5;8-6;10-9;11-8;12-10;13-11;14-13;15-14;19-15;21-18;22-17;23-24,25;28-30;31-31;32-32;33-33,34;34-35;35-36,37;36-38;37-39,40;</a>
+</spair>
+<spair id='52'>
+<s id='en52'>Being understanding is what being a good friend is all about , and a kid with cerebral palsy will really appreciate it .</s>
+<s id='vn52'>Biết thông cảm thì mới đúng là một người bạn tốt , có như vậy thì ngay cả một trẻ bé bị bại não cũng phải cảm kích về nghĩa cử của bạn .</s>
+<a id='ev52'>2-2,3;3-4;7-6,7;8-9,10;15-21;17-24;18-23;19-26;21-27,28;</a>
+</spair>
+</text>
+</doc>

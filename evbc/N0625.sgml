@@ -1,0 +1,552 @@
+﻿<doc id='N0625'>
+<head>
+<title>The Christmas Present</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>22/10/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>The Christmas Present</s>
+<s id='vn1'>Tặng phẩm Giáng Sinh</s>
+<a id='ev1'>2-3,4;3-1,2;</a>
+</spair>
+<spair id='2'>
+<s id='en2'>Della was crying .</s>
+<s id='vn2'>Della khóc , .</s>
+<a id='ev2'>1-1;3-2;</a>
+</spair>
+<spair id='3'>
+<s id='en3'>As she cried , she counted her money .</s>
+<s id='vn3'>Nàng vừa khóc vừa đếm tiền .</s>
+<a id='ev3'>2-1;3-3;6-5;8-6;</a>
+</spair>
+<spair id='4'>
+<s id='en4'>One dollar and eighty-seven cents .</s>
+<s id='vn4'>Một đô la và tám mươi bảy xu .</s>
+<a id='ev4'>1-1;2-2,3;3-4;4-5,6,7;5-8;</a>
+</spair>
+<spair id='5'>
+<s id='en5'>That was all .</s>
+<s id='vn5'>Chỉ bấy nhiêu thôi .</s>
+<a id='ev5'>3-1,2,3,4;</a>
+</spair>
+<spair id='6'>
+<s id='en6'>And sixty cents of it was in pennies .</s>
+<s id='vn6'>Trong đó , có 60 xu .</s>
+<a id='ev6'>2-5;3-6;</a>
+</spair>
+<spair id='7'>
+<s id='en7'>Pennies which Della had saved one at a time .</s>
+<s id='vn7'>Della đã dành dụm từng xu một suốt thời gian dài .</s>
+<a id='ev7'>1-5,6,7;3-1;5-2,3,4;7-8;9-9,10;</a>
+</spair>
+<spair id='8'>
+<s id='en8'>Three times Della counted it .</s>
+<s id='vn8'>Della đếm đi đếm lại đến ba lần .</s>
+<a id='ev8'>1-7;2-8;3-1;4-2;</a>
+</spair>
+<spair id='9'>
+<s id='en9'>One dollar and eighty-seven cents .</s>
+<s id='vn9'>Vẫn một đô la tám mươi bảy xu .</s>
+<a id='ev9'>1-2;2-3,4;4-5,6,7;5-8;</a>
+</spair>
+<spair id='10'>
+<s id='en10'>And the next day would be Christmas .</s>
+<s id='vn10'>Và ngày mai đã là Lễ Giáng Sinh rồi .</s>
+<a id='ev10'>1-1;3-3;4-2;5-4;6-5;7-6,7,8;</a>
+</spair>
+<spair id='11'>
+<s id='en11'>Della finished crying , got up , and began to powder her face .</s>
+<s id='vn11'>Della ngừng khóc , nàng đứng dậy và sửa soạn lại đầu tóc .</s>
+<a id='ev11'>1-1;2-2;3-3;5-6;6-7;8-8;11-9,10,11;13-12,13;</a>
+</spair>
+<spair id='12'>
+<s id='en12'>She stood by the window and looked out with little interest at a gray cat walking along a gray fence in a gray back yard .</s>
+<s id='vn12'>Nàng đứng bên cửa sổ nhìn về phía con mèo lông xám đang leo trên bờ rào màu xám trong cái sân sau xám ngắt .</s>
+<a id='ev12'>1-1;2-2;3-3;5-4,5;7-6;14-11,12;15-9,10;16-13,14;17-15;19-18,19;20-16,17;21-20;23-24,25;24-23;25-22;</a>
+</spair>
+<spair id='13'>
+<s id='en13'>Tomorrow would be Christmas day , and she had only one dollar and eighty-seven cents with which to buy Jim , her husband , a present .</s>
+<s id='vn13'>Mai đã là ngày Lễ Giáng Sinh , mà nàng chỉ còn mỗi một đô la tám mươi bảy xu để mua cho Jim - chồng nàng - một món quà .</s>
+<a id='ev13'>1-1;3-2,3;4-5,6,7;5-4;8-10;10-11,12;11-13,14;12-15,16;14-17,18,19;15-20;18-23;19-22;20-24;22-27;23-26;25-29;26-30,31;</a>
+</spair>
+<spair id='14'>
+<s id='en14'>She had been saving every penny she could for months with this result .</s>
+<s id='vn14'>Nàng đã phải dè sẻn từng xu một trong nhiều tháng trời mới được nhiêu đó .</s>
+<a id='ev14'>1-1;2,3-2,3;4-4,5;5-6;6-7;10-10,11;</a>
+</spair>
+<spair id='15'>
+<s id='en15'>Twenty dollars a week does n't go far .</s>
+<s id='vn15'>Hai mươi đô la một tuần chẳng thấm tháp vào đâu .</s>
+<a id='ev15'>1-1,2;2-3,4;3-5;4-6;6-7;7,8-8,9,10,11;</a>
+</spair>
+<spair id='16'>
+<s id='en16'>Expenses had been greater than she expected .</s>
+<s id='vn16'>Việc chi tiêu còn phải nhiều hơn thế .</s>
+<a id='ev16'>1-1,2,3;2,3-4,5;4,5-6,7;</a>
+</spair>
+<spair id='17'>
+<s id='en17'>Only one dollar and eighty-seven cents to buy a present for Jim .</s>
+<s id='vn17'>Chỉ một đô la và tám mươi bảy xu là tất cả số tiền dành dụm mua quà tặng Jim .</s>
+<a id='ev17'>1-1;2-2;3-3,4;4-5;5-6,7,8;6-9;8-17;10-18,19;12-20;</a>
+</spair>
+<spair id='18'>
+<s id='en18'>She had spent many hours planning for something nice for him , something fine and rare , something worthy of the honor being owned by Jim .</s>
+<s id='vn18'>Nàng đã mất nhiều giờ tính toán mua cho chồng mình cái gì đó đàng hoàng , đẹp đẽ , hiếm có - một tặng phẩm giá trị mà chỉ Jim mới vinh dự được dùng .</s>
+<a id='ev18'>1-1;2-2;3-3;4-4;5-5;6-6,7;7-9;8-12,13,14;9-15,16;11-10,11;14-18,19;16-21,22;18-24,25,26;19-27,28;22-32,33,34;24-35,36;26-31;</a>
+</spair>
+<spair id='19'>
+<s id='en19'>There was a narrow mirror between the windows of the room .</s>
+<s id='vn19'>Chiếc gương nhỏ nằm giữa hai cái cửa sổ của căn phòng .</s>
+<a id='ev19'>4-3;5-1,2;6-4,5;7-7;8-8,9;9-10;11-11,12;</a>
+</spair>
+<spair id='20'>
+<s id='en20'>Suddenly Della turned from the window and stood before the mirror .</s>
+<s id='vn20'>Della bất ngờ quay lại , nàng đứng trước gương .</s>
+<a id='ev20'>1-2,3;2-1;3-4,5;8-8;9-9;11-10;</a>
+</spair>
+<spair id='21'>
+<s id='en21'>Her eyes suddenly began to shine brilliantly , although her face turned a little pale .</s>
+<s id='vn21'>Mắt nàng bỗng nhiên sáng lạ thường mặc dù khuôn mặt còn phảng phất nét buồn .</s>
+<a id='ev21'>1-2;2-1;3-3,4;6-5;7-6,7;9-8,9;11-10,11;14-13,14;15-15,16;</a>
+</spair>
+<spair id='22'>
+<s id='en22'>Rapidly she pulled down her hair and let it fall to its full length .</s>
+<s id='vn22'>Trong nháy mắt , nàng giật mạnh mái tóc và để nó buông thõng xuống .</s>
+<a id='ev22'>1-1,2,3;2-5;3,4-6,7;6-8,9;7-10;8-11;9-12;10-13,14;</a>
+</spair>
+<spair id='23'>
+<s id='en23'>Now , there were two possessions in which Jim and Della took a great pride .</s>
+<s id='vn23'>Khi ấy , Della và Jim sở hữu hai thứ mà đôi vợ chồng này rất đỗi tự hào .</s>
+<a id='ev23'>1-1,2;5-9,10;6-7,8;9-6;11-4;14-16,17;15-18,19;</a>
+</spair>
+<spair id='24'>
+<s id='en24'>One was Jim 's gold watch , that had previously been his father 's and , before that , his grandfather 's .</s>
+<s id='vn24'>Đó là chiếc đồng hồ vàng của Jim , vật gia bảo ấy truyền từ đời ông nội qua cha đến chàng là đời thứ ba .</s>
+<a id='ev24'>1-1;3-8;4-7;5-6;6-3,4,5;8-10,11,12,13;13-20;21-17,18;</a>
+</spair>
+<spair id='25'>
+<s id='en25'>The other was Della 's beautiful hair , which now fell about her shoulders like a beautiful cascade of water .</s>
+<s id='vn25'>Một vật quý giá khác là mái tóc như dòng thác đẹp vô ngần của Della , mái tóc đang buông chùng qua vai .</s>
+<a id='ev25'>2-1,2,3,4,5;4-16;7-7,8;9-18,19;11-20,21,22;14-24;15-9;17-12,13,14;18-10,11;</a>
+</spair>
+<spair id='26'>
+<s id='en26'>It reached below her knees .</s>
+<s id='vn26'>Nó chảy dài chấm đầu gối nàng .</s>
+<a id='ev26'>1-1;2-2,3;3-4;5-5,6,7;</a>
+</spair>
+<spair id='27'>
+<s id='en27'>Quickly , now , she combed it again and arranged it properly .</s>
+<s id='vn27'>Lúc này nàng nhanh chóng chải lại mái tóc ấy rồi vấn nó cho đúng lối .</s>
+<a id='ev27'>1-4,5;3-1,2;6-6;7-8,9,10;8-7;9-11;10-12;11-13;12-15,16;</a>
+</spair>
+<spair id='28'>
+<s id='en28'>She hesiated for a moment and tears appeared in her eyes .</s>
+<s id='vn28'>Nàng lưỡng lự điều gì trong thoáng chốc và những giọt sầu đã đong đầy đôi mắt .</s>
+<a id='ev28'>1-1;2-2,3;5-7,8;6-9;7-10,11,12;8-13,14,15;11-16,17;</a>
+</spair>
+<spair id='29'>
+<s id='en29'>She put on her old brown coat .</s>
+<s id='vn29'>Khoác chiếc áo choàng nâu cũ nát .</s>
+<a id='ev29'>2-1;5-6,7;6-5;7-2,3,4;</a>
+</spair>
+<spair id='30'>
+<s id='en30'>She put on her old brown hat .</s>
+<s id='vn30'>Đội chiếc nón màu nâu cũ kỹ .</s>
+<a id='ev30'>2-1;5-6,7;6-4,5;7-2,3;</a>
+</spair>
+<spair id='31'>
+<s id='en31'>With her eyes shining , she flew out of the room and down the stairs to the street .</s>
+<s id='vn31'>Nàng ra khỏi phòng , bước xuống cầu thang và ra đường với đôi mắt trong veo .</s>
+<a id='ev31'>1-13;3-14,15;4-16,17;6-1;7-2;8-3;11-4;13-6,7;15-8,9;16-11;18-12;</a>
+</spair>
+<spair id='32'>
+<s id='en32'>She walked some distance and finally stopped at a shop with a sign which read :</s>
+<s id='vn32'>Nàng đi một quãng và sau cùng dừng lại ở một cửa hàng với bảng hiệu ghi :</s>
+<a id='ev32'>1-1;2-2;3-3;4-4;5-5;6-6,7;7-8;8-10;9-11;10-12,13;11-14;13-15,16;15-17;</a>
+</spair>
+<spair id='33'>
+<s id='en33'>" Madame Sofronio , Hair Goods of All Kinds " .</s>
+<s id='vn33'>" Madame Sofronio , Hàng Tóc Các Loại " .</s>
+<a id='ev33'>2-2;3-3;5-6;6-5;8-7;9-8;</a>
+</spair>
+<spair id='34'>
+<s id='en34'>" Will you buy my hair ? " asked Della .</s>
+<s id='vn34'>" Chị có mua tóc không ạ ? " Della hỏi .</s>
+<a id='ev34'>3-2;4-4;6-5;9-11;10-10;</a>
+</spair>
+<spair id='35'>
+<s id='en35'>" I buy hair , " said Madame . " Take your hat off and let me have a look at it . "</s>
+<s id='vn35'>" Có , tôi có mua " , chủ cửa hàng trả lời , " cô cởi nón ra , để tôi xem qua một chút " .</s>
+<a id='ev35'>2-4;3-6;7-12,13;8-9,10,11;11-17;13-18;14-19;16-21;17-22;20-23;</a>
+</spair>
+<spair id='36'>
+<s id='en36'>Della removed her hat and let fall her beautiful hair .</s>
+<s id='vn36'>Della cởi chiếc nón ra rồi xoã mái tóc đẹp vô ngần của mình xuống .</s>
+<a id='ev36'>1-1;2-2;4-3,4;5-6;7-7;8-13,14;9-10,11,12;10-8,9;</a>
+</spair>
+<spair id='37'>
+<s id='en37'>" Twenty dollars , " said Madame , feeling the hair with her experienced hand .</s>
+<s id='vn37'>" 20 đô la " , người mua trả giá mái tóc bà ta đang mân mê bằng bàn tay sành nghề .</s>
+<a id='ev37'>2-2;3-3,4;6-9,10;7-7,8;9-15,16,17;11-11,12;12-18;14-21,22;15-19,20;</a>
+</spair>
+<spair id='38'>
+<s id='en38'>" Give it to me quickly , said Della .</s>
+<s id='vn38'>" Đưa liền cho tôi đi " , Della đáp .</s>
+<a id='ev38'>2-2;4-4;5-5;6-3;8-10;9-9;</a>
+</spair>
+<spair id='39'>
+<s id='en39'>The next two hours flew by quickly .</s>
+<s id='vn39'>Hai giờ sau nhanh chóng qua đi .</s>
+<a id='ev39'>2-3;3-1;4-2;5-6;6-7;7-4,5;</a>
+</spair>
+<spair id='40'>
+<s id='en40'>She was busy looking everywhere in the stores for Jim 's present .</s>
+<s id='vn40'>Nàng mải miết tìm đâu đó trong các cửa hàng để mua món quà cho Jim .</s>
+<a id='ev40'>1-1;3-2,3;4-4;5-5,6;6-7;8-8,9,10;9-15;10-16;12-13,14;</a>
+</spair>
+<spair id='41'>
+<s id='en41'>She found it at last .</s>
+<s id='vn41'>Rốt cuộc thì nàng cũng tìm được .</s>
+<a id='ev41'>1-4;2-6,7;5-1,2;</a>
+</spair>
+<spair id='42'>
+<s id='en42'>It surely had been made for Jim and for no one else .</s>
+<s id='vn42'>Chắc chắn đó là tặng phẩm chỉ dành cho mình Jim mà thôi , không một ai khác .</s>
+<a id='ev42'>1-3;2-1,2;4-4;5-8,9;7-11;10-15;11-16;12-18;</a>
+</spair>
+<spair id='43'>
+<s id='en43'>There was no other like it in any of the stores and she had been everywhere .</s>
+<s id='vn43'>Nàng đã đi khắp các cửa hàng mà không thấy cái nào như vậy .</s>
+<a id='ev43'>3-9,10;4-11,12;5-13,14;13-1;15-2,3;16-4,5,6,7;</a>
+</spair>
+<spair id='44'>
+<s id='en44'>It was a platinum watch chain , a beautiful one , worthy of the Watch .</s>
+<s id='vn44'>Đó là một chiếc dây đồng hồ bằng bạch kim , rất đẹp , rất xứng với chiếc đồng hồ kia .</s>
+<a id='ev44'>1-1;2-2;3-3;4-8,9,10;5-6,7;6-4,5;9-12,13;12-15,16;15-18,19,20,21;</a>
+</spair>
+<spair id='45'>
+<s id='en45'>As soon as she saw it she knew that it must be for Jim .</s>
+<s id='vn45'>Mới nhìn thấy sợi dây nàng đã biết ngay nó là của Jim .</s>
+<a id='ev45'>1,2,3-1;5-2,3;6-4,5;7-6;8-7,8,9;10-10;12-11;13-12;14-13;</a>
+</spair>
+<spair id='46'>
+<s id='en46'>It was like him , good taste and quality .</s>
+<s id='vn46'>Nó giống như chàng , tinh tế và hảo hạng vô cùng .</s>
+<a id='ev46'>1-1;3-2,3;4-4;6-11,12;7-6,7;8-8;9-9,10;</a>
+</spair>
+<spair id='47'>
+<s id='en47'>Della hurried home with the eighty-seven cents which remained .</s>
+<s id='vn47'>Della về nhà thật nhanh , nàng vẫn còn dư tám mươi bảy xu .</s>
+<a id='ev47'>1-1;2-4,5;3-3;6-11,12,13;7-14;9-8,9;</a>
+</spair>
+<spair id='48'>
+<s id='en48'>When Della arrived home she was less excited , and gradually she became more reasonable .</s>
+<s id='vn48'>Khi về đến nhà , Della đã bớt bồn chồn và nàng từ từ trở nên sáng suốt hơn .</s>
+<a id='ev48'>1-1;2-6;3-2,3;4-4;6-7;7-8;8-9,10;10-11;11-13,14;13-15,16;14-19;15-17,18;</a>
+</spair>
+<spair id='49'>
+<s id='en49'>She began to comp and arrange her hair , now cut very short , in the best way she could .</s>
+<s id='vn49'>Nàng bắt đầu chải tóc , mái tóc đã bị cắt ngắn , nàng sửa soạn nó sao cho dễ nhìn nhất .</s>
+<a id='ev49'>1-1;2-2,3;4-15,16;6-4;8-5;11-11;13-12;17-22;18-21;</a>
+</spair>
+<spair id='50'>
+<s id='en50'>She took her curling iron and began to curl her hair carefully .</s>
+<s id='vn50'>Nàng cầm cái kẹp uốn tóc , tỉ mỉ uốn quăn mái tóc mình .</s>
+<a id='ev50'>1-1;2-2;4-5,6;5-3,4;9-10,11;10-14;11-12,13;12-8,9;</a>
+</spair>
+<spair id='51'>
+<s id='en51'>Then she looked at herself in the mirror critically .</s>
+<s id='vn51'>Rồi nàng soi gương , vẻ mặt đầy căng thẳng .</s>
+<a id='ev51'>1-1;2-2;3-3;8-4;9-9,10;</a>
+</spair>
+<spair id='52'>
+<s id='en52'>" If Jim does n't kill me before he looks at me a second time , " she said to herself , " he 'll say that I look like a child .</s>
+<s id='vn52'>Nàng nhủ thầm : " Nếu Jim không giết mình trước khi anh ấy nhìn thấy tôi lần thứ hai thì hẳn anh ấy cũng sẽ nói mình trông như một đứa nhãi con xấu xí .</s>
+<a id='ev52'>2-6;3-7;4-8;6-9;7-10;8-11,12;9-13,14;10-15,16;12-17;14-19,20;15-18;18-1;19-2,3;24-23,24;26-26,27;28-28;29-29;30-30;31-31;32-32,33,34;</a>
+</spair>
+<spair id='53'>
+<s id='en53'>But what could I do with only a dollar and eighty-seven cents ? "</s>
+<s id='vn53'>Nhưng mình biết làm gì hơn khi chỉ có mỗi một đô la và 87 xu ? "</s>
+<a id='ev53'>1-1;4-2;5-4,5;7-8;8-11;9-12,13;10-14;11-15;12-16;</a>
+</spair>
+<spair id='54'>
+<s id='en54'>At seven o'clock the coffee was made and the dinner almost ready .</s>
+<s id='vn54'>Quãng 7 giờ thì cà phê và bữa tối đã sẵn sàng .</s>
+<a id='ev54'>1-1;2-2;3-3;5-5,6;8-7;10-8,9;12-10,11,12;</a>
+</spair>
+<spair id='55'>
+<s id='en55'>Jim was never late .</s>
+<s id='vn55'>Jim chưa bao giờ về trễ .</s>
+<a id='ev55'>1-1;3-2,3,4;4-6;</a>
+</spair>
+<spair id='56'>
+<s id='en56'>Della hold the chain in her hand and sat on the corner of the table near the door .</s>
+<s id='vn56'>Della cầm sợi dây đồng hồ , nàng ngồi ở góc bàn gần cửa .</s>
+<a id='ev56'>1-1;2-2;4-3,4;9-9;10-10;12-11;15-12;16-13;18-14;</a>
+</spair>
+<spair id='57'>
+<s id='en57'>Then she heard his step on the stairs and for a moment she turned white .</s>
+<s id='vn57'>Nàng nghe thấy bước chân chàng đi lên cầu thang , đột nhiên nàng thay đổi thần sắc , trắng bệch .</s>
+<a id='ev57'>1-1;3-2,3;4-6;5-4,5;6-7,8;8-9,10;12-12,13;13-14;14-15,16;15-20,21;</a>
+</spair>
+<spair id='58'>
+<s id='en58'>The door opened and Jim stepped in and closed it .</s>
+<s id='vn58'>Cánh cửa mở , Jim đi vào và đóng cửa lại .</s>
+<a id='ev58'>1-1;2-2;3-3;5-5;6-6;7-7;8-8;9-9,10;</a>
+</spair>
+<spair id='59'>
+<s id='en59'>He looked thin and serious .</s>
+<s id='vn59'>Chàng trông hao gầy mà nghiêm nghị .</s>
+<a id='ev59'>2-2;3-4;</a>
+</spair>
+<spair id='60'>
+<s id='en60'>Poor fellow , he was only twenty two , and he had all the problems of having a family .</s>
+<s id='vn60'>Tội nghiệp , chàng mới 22 tuổi đã phải gánh vác bao khó khăn của một gia đình .</s>
+<a id='ev60'>1-1,2;4-4;6-5;7,8-6;12-10,11;15-12,13,14;16-15;18-16;19-17,18;</a>
+</spair>
+<spair id='61'>
+<s id='en61'>He needed a new overcoat , and he was without gloves .</s>
+<s id='vn61'>Chàng cần một cái áo khoác mới cũng như đôi găng tay nữa .</s>
+<a id='ev61'>1-1;2-2;3-3;4-7;5-4,5,6;7-8,9;11-10,11,12;</a>
+</spair>
+<spair id='62'>
+<s id='en62'>Jim 's eyes were fixed upon Della , and there was suddenly an expression in them that she could not read , and it frightened her .</s>
+<s id='vn62'>Đôi mắt Jim đóng đinh vào Della , bất ngờ đến nỗi nàng không biết ánh mắt ấy đang tỏ ý gì , nàng sợ hãi .</s>
+<a id='ev62'>1-3;3-1,2;5-4,5;6-6;7-7;12-9,10;17-11,12;18-13;19-15;25-25,26;26-24;</a>
+</spair>
+<spair id='63'>
+<s id='en63'>He simply looked at her with a strange expression .</s>
+<s id='vn63'>Chàng chỉ nhìn vợ bằng ánh mắt lạ thường .</s>
+<a id='ev63'>1-1;2-2;3-3;5-4;6-5;8-8,9;9-6,7;</a>
+</spair>
+<spair id='64'>
+<s id='en64'>Della jumped off the table and went toward him .</s>
+<s id='vn64'>Della ra khỏi bàn , tiến đến bên chồng .</s>
+<a id='ev64'>1-1;2-2;3-3;5-4;7-6,7;9-9;</a>
+</spair>
+<spair id='65'>
+<s id='en65'>" Jim , darling , " she said , " do n't look at me in that way .</s>
+<s id='vn65'>" Jim , anh yêu " , nàng thổn thức , " đừng nhìn em như thế .</s>
+<a id='ev65'>2-2;4-4,5;7-8;8-9,10;11,12-13;13,14-14;15-15;17-16,17;</a>
+</spair>
+<spair id='66'>
+<s id='en66'>I had my hair cut off and I sold it because I wanted to give you a Christmas present .</s>
+<s id='vn66'>Em chỉ cắt tóc và bán nó vì em muốn mua tặng anh một món quà Giáng Sinh .</s>
+<a id='ev66'>1-1;4-4;5-3;7-5;9-6;10-7;11-8;12-9;13-10;15-11,12;16-13;17-14;18-17,18;19-15,16;</a>
+</spair>
+<spair id='67'>
+<s id='en67'>My hair will grow again - you do n't mind , do you ?</s>
+<s id='vn67'>Tóc em sẽ mọc lại , phải không anh , đừng giận em nhé !</s>
+<a id='ev67'>1-2;2-1;3-3;4-4;5-5;8-11;10-12;12-7,8;13-9;</a>
+</spair>
+<spair id='68'>
+<s id='en68'>I simply had to do it .</s>
+<s id='vn68'>Em chẳng biết làm sao cả .</s>
+<a id='ev68'>1-1;2-2,3;5-4,5;</a>
+</spair>
+<spair id='69'>
+<s id='en69'>My hair grows very fast .</s>
+<s id='vn69'>Tóc em sẽ mọc nhanh thôi .</s>
+<a id='ev69'>1-2;2-1;3-3,4;5-5;</a>
+</spair>
+<spair id='70'>
+<s id='en70'>Say " Merry Christmas " to me , Jim , and let 's be happy .</s>
+<s id='vn70'>Nói " cầu chúc Giáng Sinh bình an " với em đi anh ; hãy vui lên anh à ! .</s>
+<a id='ev70'>1-1;3-7,8;4-5,6;6-10;7-11;12-15;15-16,17;</a>
+</spair>
+<spair id='71'>
+<s id='en71'>You do n't know what a nice - what a beautiful gift I bought for you . "</s>
+<s id='vn71'>Anh có thấy quà của em dễ thương không ? Có đẹp không anh ? "</s>
+<a id='ev71'>1-1;4-3;7-12;11-7,8;12-4;</a>
+</spair>
+<spair id='72'>
+<s id='en72'>" You have cut off your hair , " Jim said , as though he could not possibly understand .</s>
+<s id='vn72'>" Em đã cắt tóc ! " Jim nói ra vẻ như thể anh không hiểu chuyện gì .</s>
+<a id='ev72'>2-2;4-3,4;7-5;10-8;11-9;13-12,13;15-14;17-15;18-10,11;19-16;</a>
+</spair>
+<spair id='73'>
+<s id='en73'>" I cut it off and sold it , "</s>
+<s id='vn73'>" Em cắt và bán đi rồi " ,</s>
+<a id='ev73'>2-2;3-3;6-4;7-5;</a>
+</spair>
+<spair id='74'>
+<s id='en74'>Della said .</s>
+<s id='vn74'>Della đáp .</s>
+<a id='ev74'>1-1;2-2;</a>
+</spair>
+<spair id='75'>
+<s id='en75'>" Do n't you like me just as well ?</s>
+<s id='vn75'>" Anh không thích à ?</s>
+<a id='ev75'>2,7-3;4-2;5-4;</a>
+</spair>
+<spair id='76'>
+<s id='en76'>I am the same person without my hair . "</s>
+<s id='vn76'>Em vẫn vậy mà , dù tóc không còn nữa . "</s>
+<a id='ev76'>1-1;4-2,3;6-8,9;8-7;</a>
+</spair>
+<spair id='77'>
+<s id='en77'>Jim looked around the room curiously .</s>
+<s id='vn77'>Jim nhìn dò xét quanh căn phòng .</s>
+<a id='ev77'>1-1;2-2;3-5;5-6,7;6-3,4;</a>
+</spair>
+<spair id='78'>
+<s id='en78'>" You say that you your hair is gone ? " he said , with an air almost of foolishness .</s>
+<s id='vn78'>" Em nói rằng em ... đã bán mái tóc mình đi ? " Chàng hỏi một câu thừa thãi .</s>
+<a id='ev78'>2-2;3-3;4-4;5-5;6-11;7-9,10;9-12;12-15;13-16;16-17;20-19,20;</a>
+</spair>
+<spair id='79'>
+<s id='en79'>" It is not necessary to look for it , "</s>
+<s id='vn79'>" Không phải tìm kiếm chi đâu anh ! "</s>
+<a id='ev79'>4-2;6-3;7-4,5;</a>
+</spair>
+<spair id='80'>
+<s id='en80'>Della said .</s>
+<s id='vn80'>Della nói , .</s>
+<a id='ev80'>1-1;2-2;</a>
+</spair>
+<spair id='81'>
+<s id='en81'>" It 's sold .</s>
+<s id='vn81'>" Nó bị bán đi rồi .</s>
+<a id='ev81'>2-2;4-3,4;</a>
+</spair>
+<spair id='82'>
+<s id='en82'>I tell you - sold and gone .</s>
+<s id='vn82'>Nghe em nói nè , bán thật rồi .</s>
+<a id='ev82'>1-1;2-3;5-6;7-8;</a>
+</spair>
+<spair id='83'>
+<s id='en83'>It 's Christmas evening , darling .</s>
+<s id='vn83'>Tối nay là Lễ Giáng Sinh , anh ơi ! .</s>
+<a id='ev83'>1-1;3-4,5,6;6-8,9;</a>
+</spair>
+<spair id='84'>
+<s id='en84'>So be good to me - because I sold my hair for you . "</s>
+<s id='vn84'>Hãy làm em vui đi nào - bởi vì em bán để mua quà cho anh mà ! "</s>
+<a id='ev84'>1-1;2-2,3;3-4;7-8,9;8-10;9-11;12-12,15;13-16;</a>
+</spair>
+<spair id='85'>
+<s id='en85'>Jim seemed suddenly to wake up .</s>
+<s id='vn85'>Jim dường như chợt tỉnh .</s>
+<a id='ev85'>1-1;2-2,3;3-4;5-5;</a>
+</spair>
+<spair id='86'>
+<s id='en86'>He kissed Della .</s>
+<s id='vn86'>Chàng hôn Della .</s>
+<a id='ev86'>1-1;2-2;3-3;</a>
+</spair>
+<spair id='87'>
+<s id='en87'>Then he took a package out of his pocket and threw it upon the table .</s>
+<s id='vn87'>Sau đó lấy từ trong túi ra một gói nhỏ và đặt lên bàn .</s>
+<a id='ev87'>1-1,2;3,8-3;4-8;5-9,10;6-7;7-4,5;9-6;10-11;11-12;13-13;15-14;</a>
+</spair>
+<spair id='88'>
+<s id='en88'>" Do n't make any mistake , Della " .</s>
+<s id='vn88'>" Đừng làm điều gì ngốc nghếch nữa Della .</s>
+<a id='ev88'>2,3-2;4-3;5-4,5;6-6,7;8-9;</a>
+</spair>
+<spair id='89'>
+<s id='en89'>Her white fingers quickly undid the package .</s>
+<s id='vn89'>Những ngón tay trắng trẻo của nàng mau mắn mở gói quà .</s>
+<a id='ev89'>1-6,7;2-4,5;3-1,2,3;4-8,9;5-10;7-11,12;</a>
+</spair>
+<spair id='90'>
+<s id='en90'>Then a cry of joy - and next a quick feminine change to tear and crying .</s>
+<s id='vn90'>Nàng khóc trong niềm vui sướng - giọt nước mắt của người phụ nữ được chồng yêu thương .</s>
+<a id='ev90'>3-2;4-3;5-4,5,6;11-12,13,14;13-15;14-8,9,10;</a>
+</spair>
+<spair id='91'>
+<s id='en91'>For there lay the combs , the set of combs , side and back , that Della had admired for such a long time in a Broadway store window .</s>
+<s id='vn91'>Những chiếc lược nằm ngay ngắn , gọn ghẽ , Della từ lâu đã mê mẩn những chiếc lược như vậy trong cửa hàng Broadway .</s>
+<a id='ev91'>3-4;5-1,2,3;17-11;19-14,15,16;23,24-13;27-25;28-23,24;</a>
+</spair>
+<spair id='92'>
+<s id='en92'>They were beautiful combs - just the color to go with her beautiful hair .</s>
+<s id='vn92'>Chúng là những chiếc lược rất đẹp , màu sắc phù hợp với mái tóc kiêu sa của nàng .</s>
+<a id='ev92'>1-1;2-2;3-6,7;4-3,4,5;8-9,10;10-11,12;11-13;12-18,19;13-16,17;14-14,15;</a>
+</spair>
+<spair id='93'>
+<s id='en93'>And now they were hers , but the hair in which she was to wear them was gone .</s>
+<s id='vn93'>Và bây giờ chúng thuộc về nàng , thế mà mái tóc ấy đã ko còn nữa .</s>
+<a id='ev93'>1-1;2-2,3;3-4;4-5,6;5-7;7-9,10;9-11,12,13;18-14,15,16,17;</a>
+</spair>
+<spair id='94'>
+<s id='en94'>But at last she was able to smile through her tear and say , " my hair grows so fast , Jim . "</s>
+<s id='vn94'>Nhưng cuối cùng nàng vẫn gượng cười thật tươi , những giọt nước mắt cứ trực trào ra : " Tóc em sẽ mọc nhanh thôi mà anh , Jim ! "</s>
+<a id='ev94'>1-1;3-2,3;4-4;8-7;11-11,12,13,14;16-22;17-21;18-24;20-25;22-30;</a>
+</spair>
+<spair id='95'>
+<s id='en95'>And then Della jumped up like a little cat and cried .</s>
+<s id='vn95'>Và rồi Della nhảy bật lên giống như một chú mèo con , nàng thút thít , .</s>
+<a id='ev95'>1-1;2-2;3-3;4-4,5;5-6;6-7,8;7-9;8-12;9-10,11;11-15,16;</a>
+</spair>
+<spair id='96'>
+<s id='en96'>" Oh , Oh ! "</s>
+<s id='vn96'>" Ứ , Ừ … "</s>
+<a id='ev96'>2-2;4-4;</a>
+</spair>
+<spair id='97'>
+<s id='en97'>Jim had not yet seen his beautiful present , the new chain , for his watch .</s>
+<s id='vn97'>Jim chưa thấy tặng phẩm tuyệt vời vợ chàng sẽ dành cho : một chiếc sợi dây đồng hồ mới coóng .</s>
+<a id='ev97'>1-1;3-2;5-3;7-6,7;8-4,5;11-20,21;12-14,15,16,17,18,19;</a>
+</spair>
+<spair id='98'>
+<s id='en98'>She held it out to him anxiously in her hand .</s>
+<s id='vn98'>Nàng run run cầm sợi dây trong tay đưa chàng , lòng đầy lo lắng .</s>
+<a id='ev98'>1-1;2-4;3-5,6;5-9;6-10;7-14,15;8-7;10-8;</a>
+</spair>
+<spair id='99'>
+<s id='en99'>" Is n't it a fine one , Jim ?</s>
+<s id='vn99'>" Không đẹp sao anh , Jim ?</s>
+<a id='ev99'>3-2;6-3;9-7;</a>
+</spair>
+<spair id='100'>
+<s id='en100'>I hunted all over town to find it .</s>
+<s id='vn100'>Em phải chạy khắp phố mới tìm mua được đấy ! .</s>
+<a id='ev100'>1-1;2-3;3-4;5-5;7-7,8,9;</a>
+</spair>
+<spair id='101'>
+<s id='en101'>You 'll have to look at your watch a hunred times a day now to find out the time .</s>
+<s id='vn101'>Từ giờ trở đi , anh phải xem đồng hồ anh đeo mỗi ngày một trăm lần nha ! .</s>
+<a id='ev101'>1-1;2-3;3-7,8,10;4-9;</a>
+</spair>
+<spair id='102'>
+<s id='en102'>Give me your watch .</s>
+<s id='vn102'>Đưa cho em chiếc đồng hồ của anh nào ! .</s>
+<a id='ev102'>1-1,2;2-3;3-7,8;4-4,5,6;</a>
+</spair>
+<spair id='103'>
+<s id='en103'>I want to see how it looks on it . "</s>
+<s id='vn103'>Em muốn thấy cái sợi dây này có hợp với nó không . "</s>
+<a id='ev103'>1-1;2-2;4-3;5-8;7-12;</a>
+</spair>
+<spair id='104'>
+<s id='en104'>Instead of obeying , Jim lay down on the couch and put his hands under the back of his head and smiled .</s>
+<s id='vn104'>Thay vì làm theo , Jim lại đặt mình xuống giường , gối đầu lên hai tay và mỉm cười : .</s>
+<a id='ev104'>1-1,2;3-3,4;5-6;6-8;7-10;10-11;12-13;14-16,17;20-14;21-18;22-19,20;</a>
+</spair>
+<spair id='105'>
+<s id='en105'>" Della , " said he , " let 's put our Christmas presents away and keep them awhile .</s>
+<s id='vn105'>" Della " , chàng nhẹ nhàng nói , " thôi hãy cất hết quà Giáng Sinh đi em à ! .</s>
+<a id='ev105'>2-2;5-8;6-5;9-12;11-13;13-16,17;14-15;</a>
+</spair>
+<spair id='106'>
+<s id='en106'>They are too nice to use at present .</s>
+<s id='vn106'>Chúng tuyệt vời quá mà mình thì chưa dùng ngay được .</s>
+<a id='ev106'>1-1;3-4;4-2,3;6-9;8-10;</a>
+</spair>
+<spair id='107'>
+<s id='en107'>I sold my watch in order to get the money to buy your combs .</s>
+<s id='vn107'>Anh đã bán chiếc đồng hồ ấy đi để có tiền mua lược cho em ! … .</s>
+<a id='ev107'>1-1;2-2,3;4-4,5,6,7;7-9;8-10;10-11;12-12;13-14,15;14-13;</a>
+</spair>
+<spair id='108'>
+<s id='en108'>And now perhaps you can get dinner ready . "</s>
+<s id='vn108'>Mà có lẽ bây giờ em đã sửa soạn bữa tối xong rồi phải không ! "</s>
+<a id='ev108'>1-1;2-4,5;3-2,3;4-6;6-7,8,9;7-10,11;8-12;</a>
+</spair>
+</text>
+</doc>

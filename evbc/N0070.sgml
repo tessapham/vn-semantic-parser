@@ -1,0 +1,132 @@
+﻿<doc id='N0070'>
+<head>
+<title>Britain has New Prime Minister</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>22/10/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Britain has New Prime Minister</s>
+<s id='vn1'>Nước Anh có tân Thủ tướng</s>
+<a id='ev1'>1-1,2;2-3;3-4;4,5-5,6;</a>
+</spair>
+<spair id='2'>
+<s id='en2'>Britain has a new Prime Minister and a new government as five days of political deadlock has come to an end .</s>
+<s id='vn2'>Nước Anh có Thủ tướng mới và một chính phủ mới sau năm ngày bế tắc về chính trị đã đi đến hồi kết .</s>
+<a id='ev2'>1-1,2;2-3;4-6;5,6-4,5;7-7;8-8;9-11;10-9,10;11-12;12-13;13-14;15-17,18,19;16-15,16;18-20,21,22;21-23,24;</a>
+</spair>
+<spair id='3'>
+<s id='en3'>Prime Minister Gordon Brown resigned as Britain 's top politician on Tuesday evening , making way for Conservative leader David Cameron .</s>
+<s id='vn3'>Thủ tướng Gordon Brown đã từ giã chức vụ cao nhất trên chính trường Anh vào tối thứ ba , nhường chỗ cho David Cameron nhà lãnh đạo Đảng Bảo thủ .</s>
+<a id='ev3'>1,2-1,2;3-3;4-4;5-5,6,7;7-15;8-12;9-8,9,10,11;10-13,14;11-16;12-18,19;13-17;15,16-21,22;17-23;18-29,30,31;19-26,27,28;20-24;21-25;</a>
+</spair>
+<spair id='4'>
+<s id='en4'>Queen Elizabeth appointed Conservative leader David Cameron as the Prime Minister Tuesday evening .</s>
+<s id='vn4'>Nữ hoàng Elizabeth chỉ định nhà lãnh đạo Đảng Bảo thủ David Cameron làm thủ tướng vào tối thứ ba .</s>
+<a id='ev4'>1-1,2;2-3;3-4,5;4-9,10,11;5-6,7,8;6-12;7-13;8-14;10,11-15,16;12-19,20;13-18;</a>
+</spair>
+<spair id='5'>
+<s id='en5'>He is to form a coalition government with Britain 's third largest party the Liberal Democrats , ending 13 years of Labor leadership.</s>
+<s id='vn5'>Ông ấy sẽ thành lập một chính phủ liên minh với đảng lớn thứ ba ở Anh là Đảng Dân chủ Tự do , chấm dứt 13 năm cầm quyền của Công đảng .</s>
+<a id='ev5'>1-1,2;4-4,5;5-6;6-9,10;7-7,8;8-11;9-17;10-16;11-14,15;12-13;13-12;15-22,23;16-19,20,21;18-25,26;19-27;20-28;21-31;22-32,33;23-29,30;</a>
+</spair>
+<spair id='6'>
+<s id='en6'>Speaking outside his new residence - number 10 Downing Street - Mr. Cameron said the road ahead wo n't be easy .</s>
+<s id='vn6'>Trong bài phát biểu bên ngoài dinh cơ mới - số 10 phố Downing - ông Cameron cho rằng con đường phía trước sẽ không hề dễ dàng .</s>
+<a id='ev6'>1-2,3,4;2-5,6;4-9;5-7,8;7-11;8-12;9-14;10-13;12-16;13-17;14-18,19;16-20,21;17-22,23;18-24;19-25;21-27,28;</a>
+</spair>
+<spair id='7'>
+<s id='en7'>" This is going to be hard and difficult work ," said David Cameron .</s>
+<s id='vn7'>" Đây sẽ là một công việc khó khăn gian khổ , " David Cameron nói .</s>
+<a id='ev7'>2-2;3,4,5-3;6-4;7-10,11;9-8,9;10-6,7;12-16;13-14;14-15;</a>
+</spair>
+<spair id='8'>
+<s id='en8'>" A coalition will throw up all sorts of challenges but I believe together we can provide that strong and stable government that our country needs . "</s>
+<s id='vn8'>" Một chính phủ liên minh sẽ tạo ra đủ mọi thách thức nhưng tôi tin rằng nếu chung vai chúng ta sẽ tạo dựng được chính phủ vững mạnh mà đất nước chúng ta đang cần . "</s>
+<a id='ev8'>2-2;3-3,4,5,6;4-7;5,6-8,9;10-11,12,13;11-14;12-15;13-16;14-19,20;15-21,22;17-24,25;19-29,30;22-27,28;23-31;24-34,35;25-32,33;26-36,37;</a>
+</spair>
+<spair id='9'>
+<s id='en9'>He said he wanted a proper and full coalition to sort out Britain 's financial deficit , its social problems , and problems in the political system .</s>
+<s id='vn9'>Ông nói ông ấy muốn có một chính phủ liên minh phù hợp và toàn diện để giải quyết thâm hụt tài chính , vấn đề trong xã hội và những vấn đề trong hệ thống chính trị ở Anh .</s>
+<a id='ev9'>1-1;2-2;3-3,4;4-5,6;5-7;6-12,13;7-14;8-15,16;9-8,9,10,11;11,12-18,19;13-40;15-22,23;16-20,21;19-28,29;20-25,26;22-30;23-31,32,33;24-34;26-37,38;27-35,36;</a>
+</spair>
+<spair id='10'>
+<s id='en10'>Outgoing Prime Minister Gordon Brown handed his own resignation to the queen earlier in the evening .</s>
+<s id='vn10'>Thủ tướng sắp mãn nhiệm Gordon Brown đã nộp thư từ chức cho nữ hoàng vào đầu giờ chiều .</s>
+<a id='ev10'>1-3,4,5;2,3-1,2;4-6;5-7;6-8,9;9-10,11,12;10-13;12-14,15;13-17;14-16;16-18,19;</a>
+</spair>
+<spair id='11'>
+<s id='en11'>Before leaving Downing Street with his wife and two children , Mr. Brown said he had loved his job .</s>
+<s id='vn11'>Trước khi rời khỏi phố Downing cùng vợ và hai con , ông Brown đã nói ông rất yêu thích công việc của mình .</s>
+<a id='ev11'>1-1,2;2-3,4;3-6;4-5;5-7;7-8;8-9;9-10;10-11;12-13;13-14;14-15,16;15-17;17-19,20;18-23,24;19-21,22;</a>
+</spair>
+<spair id='12'>
+<s id='en12'>" In the face of many challenges in a very few short years - challenges up to and including the global financial meltdown - I have always strived to serve , to do my best in the interest in Britain , its values and its people ," said Gordon Brown .</s>
+<s id='vn12'>" Khi đối mặt với nhiều thách thức trong vài năm ngắn ngũi - những thách thức này bao gồm cả sự suy thoái tài chính toàn cầu - tôi đã luôn cố gắng hết sức để phục vụ vì quyền lợi của nước Anh , vì những giá trị và người dân " Gordon Brown đã nói .</s>
+<a id='ev12'>2-2;4-3,4;5-5;6-6;7-7,8;8-9;11-10;12-12,13;13-11;15-15,16,17,18;19-19,20;21-27,28;22-25,26;23-22,23,24;26-30;27-32;28-33,34;29-37;30-38,39;35-35,36;36-40;38-41,42;40-44,45;43-48,49,50;44-51;46-52,53;48-57,58;49-55;50-56;</a>
+</spair>
+<spair id='13'>
+<s id='en13'>Mr. Brown 's unexpected resignation brings to an end five days of political upheaval in Britain .</s>
+<s id='vn13'>Sự từ chức bất ngờ của ông Brown đã chấm dứt năm ngày xáo trộn chính trị ở Anh .</s>
+<a id='ev13'>1-7;2-8;3-6;4-4,5;5-1,2,3;9-9,10,11;10-12;11-13;13-16,17;14-14,15;15-18;16-19;</a>
+</spair>
+<spair id='14'>
+<s id='en14'>A general election last week saw the Conservative party win the most votes but turned out no clear majority winner .</s>
+<s id='vn14'>Trong cuộc tổng tuyển cử tuần trước , Đảng Bảo thủ đã thắng với đa số phiếu nhưng đó lại là một chiến thắng đại đa số không rõ ràng .</s>
+<a id='ev14'>1-2;2,3-3,4,5;4-7;5-6;8-10,11;9-9;10-12,13;12-15,16;13-17;14-18;16-21;17-28;18-29,30;19-25,26,27;20-23,24;</a>
+</spair>
+<spair id='15'>
+<s id='en15'>Since then the Conservatives and Labor have jockeyed for the support of the third largest party in order to form a coalition strong enough to take power .</s>
+<s id='vn15'>Kể từ đó Đảng Bảo thủ và Công đảng ra sức tranh giành sự ủng hộ từ đảng phái lớn thứ ba để thành lập một liên minh đủ mạnh để nắm quyền .</s>
+<a id='ev15'>1-1,2,3;2-7;4-4,5,6;6-8,9;8-10,11,12,13;11-14,15,16;12-17;14-21,22;15-20;16-18,19;17,18,19-23;20-24,25;21-26;22-27,28;23-30;24-29;25-31;26-32;27-33;</a>
+</spair>
+<spair id='16'>
+<s id='en16'>The party in the middle , the Liberal Democrats , sided with the Conservatives - ending any hope Labor might have had that it could hold on to power .</s>
+<s id='vn16'>Đảng trung gian , Đảng Dân chủ Tự do , đứng về phe Bảo thủ - chấm dứt mọi hy vọng của Công đảng để có thể tiếp tục cầm quyền .</s>
+<a id='ev16'>2-1;5-2,3;8-8,9;9-5,6,7;11-11,12;14-13,14,15;16-17,18;18-20,21;19-23,24;25-26,27;26,27-28,29;29-30,31;</a>
+</spair>
+<spair id='17'>
+<s id='en17'>The exact details of the new government were not immediately clear .</s>
+<s id='vn17'>Chi tiết chính xác về chính phủ mới này chưa được công khai ngay .</s>
+<a id='ev17'>2-3,4;3-1,2;4-5;5-9;6-8;7-6,7;9-10;10-14;11-12,13;</a>
+</spair>
+<spair id='18'>
+<s id='en18'>Tony Travers from the London School of Economics says the events of the past week are very rare in Britain .</s>
+<s id='vn18'>Tony Travers từ Trường Kinh tế Luân Đôn cho rằng những sự kiện trong tuần qua rất hiếm khi xảy ra ở Anh .</s>
+<a id='ev18'>1-1;2-2;3-3;5-7,8;6-4;8-5,6;9-9,10;11-11,12,13;12-14;14-16;15-15;16-20,21;17-17;18-18,19;19-22;20-23;</a>
+</spair>
+<spair id='19'>
+<s id='en19'>" Well this is a new departure , " said Tony Travers .</s>
+<s id='vn19'>" Rõ ràng đây là sự khởi đầu mới , " Tony Travers đã nói .</s>
+<a id='ev19'>2-2,3;3-4;4-5;6-9;7-6,7,8;10-14,15;11-12;12-13;</a>
+</spair>
+<spair id='20'>
+<s id='en20'>" We do n't have coalition governments or anything like this normally .</s>
+<s id='vn20'>" Trước giờ chúng tôi không hề có một chính phủ liên minh hoặc bất cứ thứ gì đại loại như thế này .</s>
+<a id='ev20'>2-4,5;4-6;5-8;6-12,13;7-10,11;8-14;9-15,16,17,18;10-21,22,23;12-19,20;</a>
+</spair>
+<spair id='21'>
+<s id='en21'>And this will require a great deal of work .</s>
+<s id='vn21'>Và điều này sẽ đòi hỏi rất nhiều công việc .</s>
+<a id='ev21'>1-1;2-2,3;3-4;4-5,6;5,6,7-7,8;9-9,10;</a>
+</spair>
+<spair id='22'>
+<s id='en22'>But now they 're in power they 're going to be forced to make it work , at least for a while . "</s>
+<s id='vn22'>Nhưng bây giờ họ đã cầm quyền họ sẽ bị buộc phải làm cho được việc , ít nhất là trong một khoảng thời gian . "</s>
+<a id='ev22'>1-1;2-2,3;3-4;6-6,7;7-8;9,10-9;12-10,11;13-12;14-13,14;16-15,16;18,19-18,19;20-20;21,22-22,23,24,25;</a>
+</spair>
+<spair id='23'>
+<s id='en23'>The Conservatives and the Liberal Democrats are at odds on a number of major policies including on immigration , the European Union , and the economy .</s>
+<s id='vn23'>Đảng Bảo thủ và Đảng Dân chủ Tự do đang tranh cãi về một số chính sách lớn trong đó kể đến vấn đề nhập cư , Liên minh Châu Âu , và kinh tế .</s>
+<a id='ev23'>2-1,2,3;3-4;5-8,9;6-5,6,7;7-10;8-13;9-11,12;12-14,15;13-19,20;14-18;15-16,17;16-21,22;18-25,26;21-30,31;22-28,29;24-33;26-34,35;</a>
+</spair>
+<spair id='24'>
+<s id='en24'>43-year-old David Cameron will be Britain 's youngest Prime Minister in 200 years .</s>
+<s id='vn24'>David Cameron 43 tuổi sẽ là thủ tướng trẻ nhất của Anh trong 200 năm qua .</s>
+<a id='ev24'>1-3,4;2,3-1,2;4-5;5-6;6-12;7-11;8-9,10;9,10-7,8;11-13;12-14;13-15;</a>
+</spair>
+</text>
+</doc>

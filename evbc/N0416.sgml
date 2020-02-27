@@ -1,0 +1,412 @@
+﻿<doc id='N0416'>
+<head>
+<title>Accounting Information</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>22/10/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Accounting Information</s>
+<s id='vn1'>Thông tin về kế toán</s>
+<a id='ev1'>1-4,5;2-1,2;</a>
+</spair>
+<spair id='2'>
+<s id='en2'>You likely have a general concept of accounting .</s>
+<s id='vn2'>Có thể bạn có ý niệm chung về kế toán .</s>
+<a id='ev2'>1-3;2-1,2;3-4;5-7;6-5,6;7-8;8-9,10;</a>
+</spair>
+<spair id='3'>
+<s id='en3'>Information about the transactions and events of a business is captured and summarized into reports that are used by persons interested in the entity .</s>
+<s id='vn3'>Thông tin về các giao dịch và sự kiện của một doanh nghiệp được thu thập và tổng hợp trong những báo cáo để những ai quan tâm đến doanh nghiệp đó sử dụng .</s>
+<a id='ev3'>1-1,2;2-3;4-4,5,6;5-7;6-8,9;7-10;8-11;9-12,13;11-14,15,16;12-17;13-18,19;14-20;15-21,22,23;16-24;18-33,34;20-25,26;21-27,28;23-32;24-30,31;</a>
+</spair>
+<spair id='4'>
+<s id='en4'>But , you likely do not realize the complexity of accomplishing this task .</s>
+<s id='vn4'>Nhưng , có lẽ bạn chưa biết rõ mức độ phức tạp để hoàn thành công việc này .</s>
+<a id='ev4'>1-1;3-5;4-3,4;6-6;7-7,8;9-9,10,11,12;10-13;11-14,15;12-18;13-16,17;</a>
+</spair>
+<spair id='5'>
+<s id='en5'>It involves a talented blending of technical knowledge and measurement artistry that can only be fully appreciated via extensive study of the subject .</s>
+<s id='vn5'>Nó đòi hỏi cả năng khiếu hiểu biết chuyên môn lẫn năng lực tính toán mà chỉ có thể lĩnh hội đầy đủ qua việc tìm hiểu bao quát về đối tượng .</s>
+<a id='ev5'>1-1;2-2,3;4-5,6;5-7,8;7-9,10;9-11;10-14,15;11-12,13;12-16;13-18,19;14-17;16-22,23;17-20,21;18-24;19-28,29;20-25,26,27;21-30;23-31,32;</a>
+</spair>
+<spair id='6'>
+<s id='en6'>The best analogy is to say that you probably know what a surgeon does , but you no doubt appreciate that considerable knowledge and skill is needed to successfully treat a patient .</s>
+<s id='vn6'>Giống hệt như nói rằng bạn có thể biết một bác sĩ phẫu thuật làm những gì mà không hiểu hết số kỹ năng và lượng kiến thức đồ sộ cần thiết để trị khỏi bệnh cho bệnh nhân .</s>
+<a id='ev6'>3-1,2;6-4;7-5;8-6;9-7,8;10-9;11-16,17;13-10,11,12,13,14;14-15;16-18;18-19;19-20,21;22-29,30;23-27,28;24-25;25-23,24;27-31,32;28-33;29-35;30-34;32-38,39;</a>
+</spair>
+<spair id='7'>
+<s id='en7'>If you were studying to be a surgeon , you would likely begin with some basic anatomy class .</s>
+<s id='vn7'>Nếu bạn học để làm bác sĩ phẫu thuật , có lẽ bạn sẽ bắt đầu bằng một số giờ học giải phẫu cơ bản .</s>
+<a id='ev7'>1-1;2-2;4-3;5-4;6-5;8-6,7,8,9;10-13;11-14;12-11,12;13-15,16;14-17;15-18,19;16-24,25;17-22,23;18-20,21;</a>
+</spair>
+<spair id='8'>
+<s id='en8'>In this chapter , you will begin your study of accounting by looking at the overall structure of accounting and the basic anatomy of reporting .</s>
+<s id='vn8'>Trong chương này , bạn bắt đầu quá trình nghiên cứu kế toán của mình bằng việc xem xét cấu trúc tổng thể bộ môn kế toán và kiến thức nền tảng về báo cáo .</s>
+<a id='ev8'>1-1;2-3;3-2;5-5;7-6,7;8-14,15;9-8,9,10,11;11-12,13;12-16;13-17,18,19;16-22,23;17-20,21;19-24,25,26,27;20-28;22-31,32;23-29,30;24-33;25-34,35;</a>
+</spair>
+<spair id='9'>
+<s id='en9'>Be advised that a true understanding of accounting does not come easily .</s>
+<s id='vn9'>Xin lưu ý , một sự hiểu biết chính xác về kế toán là điều không hề dễ dàng có được .</s>
+<a id='ev9'>2-1,2,3;3-4;4-5;5-9,10;6-6,7,8;7-11;8-12,13;9-14;10-16;11-20,21;12-18,19;</a>
+</spair>
+<spair id='10'>
+<s id='en10'>It only comes with determination and hard work .</s>
+<s id='vn10'>Phải quyết tâm và nỗ lực hết mình .</s>
+<a id='ev10'>5-2,3;6-4;7,8-5,6;</a>
+</spair>
+<spair id='11'>
+<s id='en11'>If you persevere , you will be surprised at how much you discover about accounting .</s>
+<s id='vn11'>Nếu bạn kiên trì , bạn sẽ ngạc nhiên vì mình khám phá được bao điều thú vị về kế toán .</s>
+<a id='ev11'>1-1;2-2;3-3,4;5-6;6-7;8-8,9;10,11-15,16;12-11;13-12,13;14-19;15-20,21;</a>
+</spair>
+<spair id='12'>
+<s id='en12'>This knowledge is very valuable to business success .</s>
+<s id='vn12'>Lượng kiến thức này rất quan trọng đối với thành công trong kinh doanh .</s>
+<a id='ev12'>1-4;2-2,3;4-5;5-6,7;6-8,9;7-13,14;8-10,11;</a>
+</spair>
+<spair id='13'>
+<s id='en13'>Definitions</s>
+<s id='vn13'>Các định nghĩa</s>
+<a id='ev13'>1-1,2,3;</a>
+</spair>
+<spair id='14'>
+<s id='en14'>It seems fitting to begin with a more formal definition of accounting : Accounting is a set of concepts and techniques that are used to measure and report financial information about an economic unit .</s>
+<s id='vn14'>Mở đầu bằng một định nghĩa chính thống hơn về kế toán thì dường như hợp lẽ : Kế toán là một tập hợp các khái niệm và phương pháp được dùng để đo lường và báo cáo thông tin tài chính về một đơn vị kinh tế .</s>
+<a id='ev14'>2-14,15;3-16,17;5-1,2;8-9;9-7,8;10-5,6;11-10;12-11,12;14-19,20;15-21;16-22;17-23,24;18-25;19-26,27;20-28;21-29,30;23-31;24-32;25-33;26-34,35;27-36;28-37,38;29-41,42;30-39,40;31-43;32-44;33-47,48;34-45,46;</a>
+</spair>
+<spair id='15'>
+<s id='en15'>The economic unit is generally considered to be a separate enterprise .</s>
+<s id='vn15'>Đơn vị kinh tế thường được hiểu là một doanh nghiệp riêng rẽ .</s>
+<a id='ev15'>2-3,4;3-1,2;5-5;6-6,7;8-8;9-9;10-12,13;11-10,11;</a>
+</spair>
+<spair id='16'>
+<s id='en16'>The information is reported to a variety of different types of interested parties .</s>
+<s id='vn16'>Thông tin được báo cáo cho nhiều bên liên quan khác nhau .</s>
+<a id='ev16'>2-1,2;4-3,4,5;5-6;7-7;9-11,12;12-9,10;13-8;</a>
+</spair>
+<spair id='17'>
+<s id='en17'>These include business managers , owners , creditors , governmental units , financial analysts , and even employees .</s>
+<s id='vn17'>Những đối tượng này là các nhà quản lý doanh nghiệp , chủ sở hữu , chủ nợ , cơ quan nhà nước , chuyên gia phân tích tài chính , và cả người lao động .</s>
+<a id='ev17'>1-1,2,3,4;2-5;3-10,11;4-6,7,8,9;6-13,14,15;8-17,18;10-22,23;11-20,21;13-29,30;14-25,26,27,28;16-32;17-33;18-34,35,36;</a>
+</spair>
+<spair id='18'>
+<s id='en18'>In one way or another , these users of accounting information tend to be concerned about their own interests in the entity .</s>
+<s id='vn18'>Theo cách này hay cách khác , những người sử dụng thông tin kế toán ấy sẽ quan tâm đến doanh nghiệp theo cách riêng của họ .</s>
+<a id='ev18'>1-1;2-3;3-2;4-4;5-5,6;7-8,9;8-10,11;10-14,15;11-12,13;15-18,19;16-20;17-24,26,27;18-25;20-23;22-21,22;</a>
+</spair>
+<spair id='19'>
+<s id='en19'>Business managers need accounting information to make sound leadership decisions .</s>
+<s id='vn19'>Các nhà quản lý doanh nghiệp cần thông tin kế toán để ra quyết định lãnh đạo đúng đắn .</s>
+<a id='ev19'>1-5,6;2-1,2,3,4;3-7;4-10,11;5-8,9;6-12;7-13;8-18,19;9-16,17;10-14,15;</a>
+</spair>
+<spair id='20'>
+<s id='en20'>Investors hope for profits that may eventually lead to distributions from the business ( e .g. , " dividends " ) .</s>
+<s id='vn20'>Các nhà đầu tư kỳ vọng lợi nhuận cuối cùng có thể khiến được doanh nghiệp chia phần cho ( chẳng hạn như là " cổ tức " ) .</s>
+<a id='ev20'>1-1,2,3,4;2-5,6;4-7,8;6-11,12;7-9,10;8-13;10-17,18;13-15,16;15,16-21,22,23,24;19-26,27;</a>
+</spair>
+<spair id='21'>
+<s id='en21'>Creditors are always concerned about the entity 's ability to repay its obligations .</s>
+<s id='vn21'>Các chủ nợ thì luôn quan tâm về năng lực hoàn trả tiền nợ của doanh nghiệp .</s>
+<a id='ev21'>1-1,2,3;2-4;3-5;4-6,7;5-8;7-16,17;9-9,10;11-11,12;12-15;13-13,14;</a>
+</spair>
+<spair id='22'>
+<s id='en22'>Governmental units need information to tax and regulate .</s>
+<s id='vn22'>Các cơ quan nhà nước cần thông tin để thu thuế và để quản lý .</s>
+<a id='ev22'>1-4,5;2-1,2,3;3-6;4-7,8;5-9;6-11;7-12;8-14,15;</a>
+</spair>
+<spair id='23'>
+<s id='en23'>Analysts use accounting data to form opinions on which they base investment recommendations .</s>
+<s id='vn23'>Các chuyên gia phân tích sử dụng dữ liệu kế toán làm căn cứ để đưa ra ý kiến khuyến cáo đầu tư .</s>
+<a id='ev23'>1-1,2,3,4,5;2-6,7;3-10,11;4-8,9;7-18,19;11-13,14;12-22,23;13-20,21;</a>
+</spair>
+<spair id='24'>
+<s id='en24'>Employees want to work for successful companies to further their individual careers , and they often have bonuses or options tied to enterprise performance .</s>
+<s id='vn24'>Những người lao động lại muốn làm việc cho những công ty ăn nên làm ra để tiến xa hơn trong sự nghiệp cá nhân của mình , và họ thường có tiền thưởng hoặc quyền chọn lựa gắn liền với hiệu quả hoạt động của doanh nghiệp .</s>
+<a id='ev24'>1-1,2,3,4;2-6;4-7,8;5-9;6-13,14,15,16;7-10,11,12;8-17;9-18,19,20;10-26,27;11-24,25;12-22,23;14-29;15-30;16-31;17-32;18-33,34;19-35;20-36,37,38;21-39,40;22-41;23-47,48;24-42,43,44,45;</a>
+</spair>
+<spair id='25'>
+<s id='en25'>Accounting information about specific entities helps satisfy the needs of all these interested parties .</s>
+<s id='vn25'>Thông tin kế toán về những doanh nghiệp cụ thể giúp đáp ứng yêu cầu của tất cả các bên liên quan này .</s>
+<a id='ev25'>1-3,4;2-1,2;3-5;4-9,10;5-6,7,8;6-11;7-12,13;9-14,15;10-16;11-17,18;12-23;13-21,22;14-19,20;</a>
+</spair>
+<spair id='26'>
+<s id='en26'>The diversity of interested parties leads to a logical division in the discipline of accounting : financial accounting and managerial accounting .</s>
+<s id='vn26'>Sự đa dạng của các bên liên quan dẫn đến cách phân chia lô - gích trong ngành kế toán : kế toán tài chính và kế toán quản trị .</s>
+<a id='ev26'>2-1,2,3;3-4,5;4-6,7,8;6-9;7-10;9-14,16;10-11,12,13;11,14-17;13-18;15-19,20;17-24,25;18-22,23;19-26;20-29,30;21-27,28;</a>
+</spair>
+<spair id='27'>
+<s id='en27'>Financial accounting is concerned with external reporting to parties outside the firm .</s>
+<s id='vn27'>Kế toán tài chính quan tâm đến việc báo cáo đối ngoại cho các bên ở ngoài doanh nghiệp .</s>
+<a id='ev27'>1-1;9-15;10-17;11-16;</a>
+</spair>
+<spair id='28'>
+<s id='en28'>In contrast , managerial accounting is primarily concerned with providing information for internal management .</s>
+<s id='vn28'>Ngược lại , kế toán quản trị chủ yếu liên quan đến việc cung cấp thông tin cho ban lãnh đạo nội bộ .</s>
+<a id='ev28'>1-1;12-13;</a>
+</spair>
+<spair id='29'>
+<s id='en29'>One may have trouble seeing the distinction ; after all , are n't financial facts being reported ?</s>
+<s id='vn29'>Ai đó có thể cảm thấy rối rắm trong sự phân chia này ; sau hết , có phải là các số liệu tài chính thực tế được báo cáo hay không ?</s>
+<a id='ev29'>6-10,13;9-15;10-16;12-20;</a>
+</spair>
+<spair id='30'>
+<s id='en30'>The following paragraphs provide a closer look at the distinctions .</s>
+<s id='vn30'>Các nội dung sau đây sẽ đưa ra cái nhìn kỹ hơn về những điểm khác biệt .</s>
+<a id='ev30'>1-1;2-4,5;5-8;6-12;7,8-10;9-9;</a>
+</spair>
+<spair id='31'>
+<s id='en31'>The diversity of interested parties leads to a logical division in the discipline of accounting : financial accounting and managerial accounting .</s>
+<s id='vn31'>Sự đa dạng của các bên liên quan dẫn đến cách phân chia lô - gích trong ngành kế toán : kế toán tài chính và kế toán quản trị .</s>
+<a id='ev31'>2-1,2,3;3-4,5;4-6,7,8;6-9;7-10;9-14,16;10-11,12,13;11,14-17;13-18;15-19,20;17-24,25;18-22,23;19-26;20-29,30;21-27,28;</a>
+</spair>
+<spair id='32'>
+<s id='en32'>Financial accounting is concerned with external reporting to parties outside the firm .</s>
+<s id='vn32'>Kế toán tài chính quan tâm đến việc báo cáo đối ngoại cho các bên ở ngoài doanh nghiệp .</s>
+<a id='ev32'>1-3,4;2-1,2;4-5,6;5-7;6-11,12;7-8,9,10;8-13;9-14,15;10-17;11-16;12-18,19;</a>
+</spair>
+<spair id='33'>
+<s id='en33'>In contrast , managerial accounting is primarily concerned with providing information for internal management .</s>
+<s id='vn33'>Ngược lại , kế toán quản trị chủ yếu liên quan đến việc cung cấp thông tin cho ban lãnh đạo nội bộ .</s>
+<a id='ev33'>1,2-1,2;4-6,7;5-4,5;7-8,9;8-10,11;9-12;10-13,14,15;11-16,17;12-18;13-22,23;14-19,20,21;</a>
+</spair>
+<spair id='34'>
+<s id='en34'>One may have trouble seeing the distinction ; after all , are n't financial facts being reported ?</s>
+<s id='vn34'>Ai đó có thể cảm thấy rối rắm trong sự phân chia này ; sau hết , có phải là các số liệu tài chính thực tế được báo cáo hay không ?</s>
+<a id='ev34'>1-1,2;2-3,4;4-5,6,7,8;6-13;7-10,11,12;9-15;10-16;12-18,19,20;14-24,25;15-21,22,23,26,27;17-28,29,30;</a>
+</spair>
+<spair id='35'>
+<s id='en35'>The following paragraphs provide a closer look at the distinctions .</s>
+<s id='vn35'>Các nội dung sau đây sẽ đưa ra cái nhìn kỹ hơn về những điểm khác biệt .</s>
+<a id='ev35'>2-4,5;3-1,2,3;4-6,7,8;6-11,12;7-9,10;8-13;10-14,15,16,17;</a>
+</spair>
+<spair id='36'>
+<s id='en36'>Consider that financial accounting is targeted toward a broad base of external users , none of whom control the actual preparation of reports or have access to underlying details .</s>
+<s id='vn36'>Coi kế toán tài chính chủ yếu nhắm đến một đối tượng chính thuộc những người dùng bên ngoài , không ai trong số họ kiểm soát việc soạn thảo trên thực tế các bản báo cáo hoặc có thể tiếp cận những số liệu chi tiết hữu quan .</s>
+<a id='ev36'>1-1;3-4,5;4-2,3;6-6,7;7-8,9;8-10;9-11,12,13;10-14;12-18,19;13-15,16,17;15-21,22;16-23,24;18-26,27;20-32,33;21-28,29,30;23-34,35,36,37;24-38;25-39,40;26-41,42;28-48,49;29-43,44,45,46;</a>
+</spair>
+<spair id='37'>
+<s id='en37'>Their ability to understand and have confidence in reports is directly dependent upon standardization of the principles and practices that are used to prepare the reports .</s>
+<s id='vn37'>Khả năng của họ hiểu và tin tưởng vào các báo cáo phụ thuộc trực tiếp vào việc tiêu chuẩn hóa những nguyên tắc và phương pháp dùng để soạn thảo báo cáo .</s>
+<a id='ev37'>1-3,4;2-1,2;4-5;5-6;7-7,8;8-9;9-10,11,12;11-15,16;12-13,14;13-17;14-18,19,20,21;17-22,23,24;18-25;19-26,27;22-28;23-29;24-30,31;26-32,33;</a>
+</spair>
+<spair id='38'>
+<s id='en38'>Without such standardization , reports of different companies could be hard to understand and even harder to compare .</s>
+<s id='vn38'>Không có sự chuẩn hoá ấy , các bản báo cáo của những công ty khác nhau khó có thể hiểu được và thậm chí càng khó mà đối chiếu hơn nữa .</s>
+<a id='ev38'>1-1,2;2-6;3-3,4,5;5-8,9,10,11;6-12;7-16,17;8-13,14,15;9-19,20;11-18;13-21,22;14-23;15-24,25;16-26,27;18-29,30;</a>
+</spair>
+<spair id='39'>
+<s id='en39'>Standardization derives from certain well organized processes and organizations .</s>
+<s id='vn39'>Sự tiêu chuẩn hóa xuất phát từ những tổ chức và những quy trình có tổ chức hợp lý nhất định .</s>
+<a id='ev39'>1-1,2,3,4;2-5,6;3-7;4-20,21;5-18,19;6-15,16,17;7-13,14;8-11;9-8,9,10;</a>
+</spair>
+<spair id='40'>
+<s id='en40'>In the United States , a private sector group called the Financial Accounting Standards Board ( FASB ) is primarily responsible for developing the rules that form the foundation of financial reporting .</s>
+<s id='vn40'>Tại Mỹ , một nhóm thuộc khu vực tư nhân mang tên Hội đồng Tiêu chuẩn Kế toán Tài chính ( FASB ) chịu trách nhiệm chính về việc phát triển các quy tắc hình thành cơ sở của báo cáo tài chính .</s>
+<a id='ev40'>1-1;3,4-2;6-4;7-9,10;8-7,8;9-5;10-11,12;12-19,20;13-17,18;14-15,16;15-13,14;17-22;20-27;21-24,25,26;22-28;23-29,30,31;25-32,33,34;27-35,36;29-37,38;30-39;31-42,43;32-40,41;</a>
+</spair>
+<spair id='41'>
+<s id='en41'>The FASB 's global counterpart is the International Accounting Standards Board ( IASB ) .</s>
+<s id='vn41'>Tương ứng với FASB trên phạm vi toàn cầu là Uỷ ban Tiêu chuẩn Kế toán Quốc tế ( IASB ) .</s>
+<a id='ev41'>2-4;4-6,7,8,9;5-1,2;6-10;8-17,18;9-15,16;10-13,14;11-11,12;13-20;</a>
+</spair>
+<spair id='42'>
+<s id='en42'>The IASB and FASB are working toward convergence , such that there may soon be a single harmonious set of international financial reporting standards ( IFRS ) .</s>
+<s id='vn42'>IASB và FASB đang cùng cố gắng để đi đến sự gặp gỡ , sao cho sớm có thể có một bộ hài hoà nhất các tiêu chuẩn báo cáo tài chính quốc tế ( IFRS ) .</s>
+<a id='ev42'>2-1;3-2;4-3;6-4,5,6,7;7-8,9,10;8-11,12,13;10,11-15,16;12-20;13-18,19;14-17;16-21;17-25;18-23,24;19-22;21-33,34;22-31,32;23-29,30;24-26,27,28;26-36;</a>
+</spair>
+<spair id='43'>
+<s id='en43'>This effort to establish consistency in global financial reporting is driven by the increase in global trade and finance .</s>
+<s id='vn43'>Nỗ lực nhằm thiết lập sự nhất quán trong quy trình lập báo cáo tài chính trên phạm vi toàn cầu này được thôi thúc bởi sự gia tăng quan hệ tài chính và thương mại trên khắp thế giới .</s>
+<a id='ev43'>1-22;2-1,2;3-3;4-4,5;5-6,7,8;6-9;7-18,19,20,21;8-15,16;9-12,13,14;11-23,24,25;12-26;14-27,28,29;15-37;16-38,39,40;17-32,33;18-34;19-35,36;</a>
+</spair>
+<spair id='44'>
+<s id='en44'>Just as standardization is needed to enable comparisons between individual companies operating within a single economy , so too is standardization needed to facilitate global business evaluations .</s>
+<s id='vn44'>Việc tiêu chuẩn hoá là cần thiết để các công ty đơn lẻ hoạt động trong một nền kinh tế riêng rẽ có thể so sánh với nhau , nó cũng là nhu cầu rất thiết yếu giúp thuận tiện các công việc đánh giá doanh nghiệp ở phạm vi toàn cầu .</s>
+<a id='ev44'>1-1;3-2,3,4;4-5;5-6,7;6-8;7-23,24;8-25,26;10-12,13;11-9,10,11;12-14,15;14-17;15-21,22;16-18,19,20;19,21-35,36,37;20-32;22-33,34;23-38;24-39,40;25-49,50,51,52;26-46,47;27-44,45;</a>
+</spair>
+<spair id='45'>
+<s id='en45'>Financial reports prepared under the generally accepted accounting principles ( GAAP ) promulgated by such standard setting bodies are intended to be general purpose in orientation .</s>
+<s id='vn45'>Các báo cáo tài chính được soạn thảo theo những nguyên tắc kế toán tổng quát được thừa nhận ( GAAP ) do những cơ quan thiết lập những chuẩn mực ban hành được dự kiến sẽ có nhiều chức năng trong định hướng .</s>
+<a id='ev45'>1-4,5;2-1,2,3;3-6,7,8;6-15,16;7-17,18,19;8-13,14;9-10,11,12;11-21;13-32,33;16-29,30,31;17-27,28;18-24,25,26;20-35,36;22-38;24-39,40,41;25-42;26-43,44;</a>
+</spair>
+<spair id='46'>
+<s id='en46'>This means they are not prepared especially for owners , or creditors , or any other particular user group .</s>
+<s id='vn46'>Điều này có nghĩa là chúng không phải được soạn thảo riêng cho các ông chủ , hoặc chủ nợ , hay bất kỳ nhóm người sử dụng đặc biệt nào .</s>
+<a id='ev46'>1-1,2;2-3,4,5;3-6;5-7,8;6-9,10,11;7-12;8-13;9-14,15,16;11-18;12-19,20;14-22;15-23,24;17-29,30;18-26,27,28;19-25;</a>
+</spair>
+<spair id='47'>
+<s id='en47'>Instead , they are intended to be equally useful for all user groups .</s>
+<s id='vn47'>Thay vào đó , chúng được kỳ vọng có ích như nhau đối với mọi nhóm người dùng .</s>
+<a id='ev47'>1-1,2,3;3-5;5-6,7,8;8-11,12;9-9,10;10-13,14;11-15;12-17,18;13-16;</a>
+</spair>
+<spair id='48'>
+<s id='en48'>As such , attempts are made to keep them free from bias ( neutral ) .</s>
+<s id='vn48'>Như vậy , những nỗ lực thực hiện là nhằm tránh cho chúng không bị sai lệnh ( có tính trung lập ) .</s>
+<a id='ev48'>1,2-1,2;4-4,5,6,7,8;5-9;6-10;8-11;9-13;10,11-14,15;12-16,17;14-19,20,21,22;</a>
+</spair>
+<spair id='49'>
+<s id='en49'>Standard setting bodies are guided by concepts that are aimed at production of relevant and representationally faithful reports that are useful in investment and credit decisions .</s>
+<s id='vn49'>Các cơ quan thiết lập chuẩn mực thì theo đường hướng của những khái niệm nhắm đến việc tạo ra những bản báo cáo trình bày trung thực và hữu quan , hữu ích cho các quyết định tín dụng và đầu tư .</s>
+<a id='ev49'>1-6,7;2-4,5;3-1,2,3;5-10,11;6-12;7-13,14,15;10-16,17;12-18,19,20;14-30,31;15-29;16-25,26;17-27,28;18-21,22,23,24;21-33,34;22-35;23-42,43;24-41;25-39,40;26-36,37,38;</a>
+</spair>
+<spair id='50'>
+<s id='en50'>Managerial Accounting</s>
+<s id='vn50'>Kế toán quản trị</s>
+<a id='ev50'>1-3,4;2-1,2;</a>
+</spair>
+<spair id='51'>
+<s id='en51'>Managerial accounting information is intended to serve the specific needs of management .</s>
+<s id='vn51'>Thông tin kế toán quản trị dùng để đáp ứng các nhu cầu cụ thể về quản trị .</s>
+<a id='ev51'>1-5,6;2-3,4;3-1,2;5-7;6-8;7-9,10;8-11;9-14,15;10-12,13;11-16;12-17,18;</a>
+</spair>
+<spair id='52'>
+<s id='en52'>Business managers are charged with business planning , controlling , and decision making .</s>
+<s id='vn52'>Các nhà quản lý doanh nghiệp chịu trách nhiệm lập kế hoạch kinh doanh , quản lý , và ra quyết định .</s>
+<a id='ev52'>1-5,6;2-1,2,3,4;4-7,8,9;6-13,14;7-10,11,12;9-16,17;11-19;12-21,22;13-20;</a>
+</spair>
+<spair id='53'>
+<s id='en53'>As such , they may desire specialized reports , budgets , product costing data , and other details that are generally not reported on an external basis .</s>
+<s id='vn53'>Như vậy , họ muốn những báo cáo , những dự toán ngân sách , dữ liệu tính toán giá thành sản phẩm chuyên biệt , và những thông tin chi tiết khác mà thường không được báo cáo trên cơ sở đối ngoại .</s>
+<a id='ev53'>1,2-1,2;4-4;7-24,25;8-6,7,8;10-10,11,12,13,14;12-22,23;13-18,19,20,21;14-16,17;16-27;17-33;18-28,29,30,31,32;19-34;21-35;22-36;23-37,38,39;24-40;26-43,44;27-41,42;</a>
+</spair>
+<spair id='54'>
+<s id='en54'>Further , management may dictate the parameters under which such information is to be accumulated and presented .</s>
+<s id='vn54'>Hơn nữa , ban giám đốc có thể yêu cầu những thông số mà những thông tin như thế là để được tổng hợp lại và được đưa ra .</s>
+<a id='ev54'>1-1,2;3-4,5,6;4-7,8;5-9,10;7-11,12,13;10-18,19;11-15,16,17;12-20;13-21;14-22;15-23,24,25;16-26;17-27,28,29;</a>
+</spair>
+<spair id='55'>
+<s id='en55'>For instance , GAAP may require that certain product development costs be deducted in computing income ; on the other hand , management may see these costs as a long-term investment and stipulate that internal decision making be based upon income numbers that exclude such costs .</s>
+<s id='vn55'>Chẳng hạn , GAAP có thể đòi hỏi các chi phí phát triển sản phẩm nào đó được khấu trừ trong quá trình tính toán thu nhập ; thì ngược lại , ban giám đốc có thể coi những chi phí này như là khoản đầu tư dài hạn và quy định rằng việc ra quyết định nội bộ được dựa vào những số liệu thu nhập mà không tính đến những chi phí ấy .</s>
+<a id='ev55'>1,2-1,2;4-4;5-5,6;6-7,8;8-16,17;9-14,15;10-12,13;11-9,10,11;13-18,19,20;14-21;15-22,23;16-24,25,26,27;19,20,21-30,31;23-33,34,35;24-36,37;25-38;26-42;27-39,40,41;28-43,44;30-48,49;31-45,46,47;32-50;33-51,52;34-53;35-58,59;36-56,57;37-54,55;39-60,61,62;41-66,67;42-63,64,65;43-68;44-69,70;45-75;46-72,73,74;</a>
+</spair>
+<spair id='56'>
+<s id='en56'>This is their prerogative .</s>
+<s id='vn56'>Đây là quyền của họ .</s>
+<a id='ev56'>1-1;2-2;3-4,5;4-3;</a>
+</spair>
+<spair id='57'>
+<s id='en57'>Hopefully , internal reporting is being done logically and rationally , but it need not follow any particular set of mandatory guidelines .</s>
+<s id='vn57'>Hy vọng rằng quy trình lập báo cáo nội bộ được thực hiện một cách hợp lý và hợp lẽ , nhưng không nhất thiết phải tuân thủ bất kỳ bộ nguyên tắc mang tính bắt buộc đặc biệt nào .</s>
+<a id='ev57'>1-1,2;3-9,10;4-6,7,8;7-11,12,13;8-14,15,16,17;9-18;10-19,20;12-22;15-23,26;16-27,28;17-29,30;18-38,39;19-31;21-36,37;22-32,33;</a>
+</spair>
+<spair id='58'>
+<s id='en58'>A Quality System</s>
+<s id='vn58'>Hệ thống chất lượng</s>
+<a id='ev58'>2-3,4;3-1,2;</a>
+</spair>
+<spair id='59'>
+<s id='en59'>Both financial accounting and managerial accounting depend upon a strong information system to reliably capture and summarize business transaction data .</s>
+<s id='vn59'>Cả kế toán tài chính và kế toán quản trị đều dựa vào một hệ thống thông tin vững chắc để thu thập và tổng hợp dữ liệu giao dịch của doanh nghiệp một cách đáng tin cậy .</s>
+<a id='ev59'>1-1;2-4,5;3-2,3;4-6;5-9,10;6-7,8;7-11,12,13;10-19,20;11-17,18;12-15,16;14-34,35,36,37,38;15-22,23;16-24;17-25,26;18-32,33;19-29,30;20-27,28;</a>
+</spair>
+<spair id='60'>
+<s id='en60'>Information technology has radically reshaped this mundane part of the practice of accounting over the past 50 years .</s>
+<s id='vn60'>Công nghệ thông tin đã tạo dựng lại được hoàn toàn phần việc khô khan này của thực tiễn kế toán 50 năm qua .</s>
+<a id='ev60'>1-3,4;2-1,2;4-10,11;5-5,6,7,8;7-14,15;8-12;11-18,19;12-17;13-20,21;16-24;17-22;18-23;</a>
+</spair>
+<spair id='61'>
+<s id='en61'>The era of the " green eye-shaded " accountant has been relegated to the annals of history .</s>
+<s id='vn61'>Thời đại kế toán viên đội " lưỡi trai xanh che mắt " đã lùi vào nằm trong những bộ biên niên sử .</s>
+<a id='ev61'>2-1,2;6-10;7-8,9;9-3,4;12-14,15;13-16;15-19,20;17-21,22,23;</a>
+</spair>
+<spair id='62'>
+<s id='en62'>Now , accounting is more of a dynamic , decision-making discipline , rather than a bookkeeping task .</s>
+<s id='vn62'>Ngày nay , kế toán là môn học để ra quyết định , không ngừng thay đổi , hơn là một công việc ghi chép sổ sách .</s>
+<a id='ev62'>1-1,2;3-4,5;4-6;8-14,15,16,17;10-10,11,12;11-7,8;13,14-19,20;15-21;16-24,25,26,27;17-22,23;</a>
+</spair>
+<spair id='63'>
+<s id='en63'>Inherent Limitations</s>
+<s id='vn63'>Những giới hạn cố hữu</s>
+<a id='ev63'>1-4,5;2-1,2,3;</a>
+</spair>
+<spair id='64'>
+<s id='en64'>Accounting data are not absolute or concrete .</s>
+<s id='vn64'>Số liệu kế toán không rõ ràng hay hoàn toàn tuyệt đối .</s>
+<a id='ev64'>1-3,4;2-1,2;4-5;5-6,7;6-8;7-9,10,11,12;</a>
+</spair>
+<spair id='65'>
+<s id='en65'>Considerable amounts of judgment and estimation are necessary to develop the specific accounting measurements that are reported during a particular month , quarter , or year .</s>
+<s id='vn65'>Rất nhiều quyết định và ước lượng là cần thiết để phát triển những tính toán kế toán cụ thể được báo cáo trong một tháng , quý , hoặc năm nào đó .</s>
+<a id='ev65'>2-1,2;4-3,4;5-5;6-6,7;7-8;8-9,10;9-11;10-12,13;11-14;12-19,20;13-17,18;14-15,16;17-21,22,23;18-24;19-25;20-32,33;21-26;23-28;25-30;26-31;</a>
+</spair>
+<spair id='66'>
+<s id='en66'>For example , how much profit is actually earned when a car is sold with a 3-year warranty ?</s>
+<s id='vn66'>Ví dụ , lợi nhuận kiếm được thực sự khi bán một chiếc xe hơi với thời hạn bảo hành 3 năm là bao nhiêu ?</s>
+<a id='ev66'>1,2-1,2;4,5-24,25;6-4,5;7-23;8-8,9;9-6,7;10-10;11-12;12-13,14,15;14-11;15-16;17-21,22;18-19,20;</a>
+</spair>
+<spair id='67'>
+<s id='en67'>It will be three years before the final costs of this warranty agreement are all known .</s>
+<s id='vn67'>Chi phí cuối cùng của thoả thuận bảo hành này sẽ được xác định sau 3 năm .</s>
+<a id='ev67'>2-11;3-12;4-16;5-17;8-3;9-4;10-5;</a>
+</spair>
+<spair id='68'>
+<s id='en68'>One approach would be to wait three years before reporting on the profit or loss for this transaction .</s>
+<s id='vn68'>Một cách tiếp cận là sẽ đợi 3 năm trước khi lập báo cáo lời hay lỗ giao dịch này .</s>
+<a id='ev68'>1-1;2-2,3,4;3,5-6;4-5;6-7;7-8;8-9;9-10,11;10-12,13,14;13-15;14-16;15-17;17-20;18-18,19;</a>
+</spair>
+<spair id='69'>
+<s id='en69'>However , by the time the information could be reported with certainty , it would be so stale as to lose its usefulness .</s>
+<s id='vn69'>Tuy nhiên , đến lúc đó thông tin có thể được báo cáo một cách chính xác , thì nó lại quá cũ đến độ mất hết tính hữu dụng của nó .</s>
+<a id='ev69'>1-1,2;3,4,5-4,5,6;7-7,8;8-9,10;10-11,12,13;12-14,15,16,17;14-20;15-19;17-22;18-23;20-24;21-26;22-31,32;23-28,29,30;</a>
+</spair>
+<spair id='70'>
+<s id='en70'>Thus , in order to timely present information , reasonable estimations are routinely embraced in the normal preparation of periodic financial reports .</s>
+<s id='vn70'>Vì vậy , để thông tin xuất hiện kịp thời , những ước lượng hợp lý thường bao quát trong quá trình soạn thảo thông thường của các báo cáo tài chính định kỳ .</s>
+<a id='ev70'>1-1,2;3,4,5-4;6-9,10;7-7,8;8-5,6;10-15,16;11-12,13,14;13-17;14-18,19;15-20;17-25,26;18-21,22,23,24;19-27;20-33,34;21-31,32;22-28,29,30;</a>
+</spair>
+<spair id='71'>
+<s id='en71'>In addition , accounting has not advanced to a state of being able to value a business .</s>
+<s id='vn71'>Ngoài ra , quá trình kế toán không diễn ra trước trường hợp có thể đánh giá một vụ kinh doanh .</s>
+<a id='ev71'>2-1,2;4-4,5,6,7;6-8;7-9,10;10-12,13;13-14,15;15-16,17;16-18;17-19,20,21;</a>
+</spair>
+<spair id='72'>
+<s id='en72'>As such , many transactions and events are reported based on the historical cost principle ( in contrast to fair value ) .</s>
+<s id='vn72'>Như vậy , nhiều giao dịch hay sự kiện được báo cáo căn cứ vào nguyên tắc giá phí lịch sử ( trái với giá trị công bằng ) .</s>
+<a id='ev72'>1,2-1,2;4-4;5-5,6;6-7;7-8,9;9-10,11,12;10-13,14;11-15;13-20,21;14-18,19;15-16,17;17,18-23;19-24;20-27,28;21-25,26;</a>
+</spair>
+<spair id='73'>
+<s id='en73'>For example , land is typically recorded and carried in the accounting records at the price at which it was purchased .</s>
+<s id='vn73'>Ví dụ , đất thường được ghi chép và đưa vào các chứng từ sổ sách kế toán với giá tại thời điểm mua .</s>
+<a id='ev73'>1,2-1,2;4-4;5-6;6-5;7-7,8;8-9;9-10;10-11;12-15,16,17,18;13-12,13,14;14-19;16-20;17-21;18-22,23;21-24;</a>
+</spair>
+<spair id='74'>
+<s id='en74'>The historical cost principle is based on the concept that it is best to report certain financial statement elements at amounts that are tied to objective and verifiable past transactions .</s>
+<s id='vn74'>Nguyên tắc giá phí lịch sử được dựa trên quan niệm rằng đây là cách tốt nhất để báo cáo những thành phần báo cáo tài chính nhất định với số lượng gắn với những giao dịch trong quá khứ mang tính khách quan và có thể xác minh được .</s>
+<a id='ev74'>2-5,6;3-3,4;4-1,2;6-7,8;7-9;9-10,11;10-12;12-14;13-16,17;14-18;15-19,20;16-28,29;17-26,27;18-24,25;19-21,22,23;20-30;21-31,32;22-34;23,30-35,36,37;24-41;26-42,43,44;27-45;28-46,47,48,49;29-39,40;</a>
+</spair>
+<spair id='75'>
+<s id='en75'>The alternative is to value ( and periodically revalue ) accounts based upon subjective assessments of current worth .</s>
+<s id='vn75'>Giải pháp thay thế là định giá ( và thường xuyên định giá lại ) những tài khoản dựa vào những đánh giá chủ quan giá trị hiện tại .</s>
+<a id='ev75'>2-1,2,3,4;3-5;5-6,7;7-9;8-10,11;9-12,13,14;11-16,17,18;12-19;13-20;14-24,25;15-21,22,23;17-28,29;18-26,27;</a>
+</spair>
+<spair id='76'>
+<s id='en76'>Such adjustments are problematic and the subject of much debate .</s>
+<s id='vn76'>Những đánh giá như vậy là không chắc chắn và gây nhiều tranh cãi .</s>
+<a id='ev76'>5-10;9-12;</a>
+</spair>
+<spair id='77'>
+<s id='en77'>Nevertheless , the current trend in global standard setting is toward an increased acceptance of the circumstances under which fair value accounting is deemed acceptable for selected financial statement elements .</s>
+<s id='vn77'>Tuy nhiên , khuynh hướng hiện nay trong việc thiết lập các chuẩn mực toàn cầu là chấp nhận thêm những tình huống mà kế toán giá trị công bằng xem như có thể chấp nhận đối với những thành phần báo cáo tài chính được chọn .</s>
+<a id='ev77'>1-1;27-47;</a>
+</spair>
+<spair id='78'>
+<s id='en78'>The ongoing debate about fair value versus historical cost is often cast in the context of a tradeoff between the " relevance " of fair value information and the " reliability " of historical cost information .</s>
+<s id='vn78'>Cuộc tranh luận kéo dài về giá trị công bằng với phí lịch sử thường bị bế tắc trong trường hợp phải cân nhắc lựa chọn giữa " tính thích đáng " của thông tin giá trị công bằng và " tính tin cậy được " của thông tin giá phí lịch sử .</s>
+<a id='ev78'>2-1,2,3;3-4,5;4-6;5-9,10;6-7,8;8-13,14;9-12;10-16;11-15;12-17,18;13-19;15-20,21;18-23,24,25,26;19-27;22-29,30,31;24-33;25-38,39;26-36,37;27-34,35;28-40;31-42,43,44,45;33-47;34-52,53;35-50,51;36-48,49;</a>
+</spair>
+<spair id='79'>
+<s id='en79'>This debate is apt to continue , and the related accounting standards will likely be in an evolutionary state for many years to come .</s>
+<s id='vn79'>Cuộc tranh cãi này có khả năng vẫn tiếp tục , và những chuẩn mực kế toán liên quan có lẽ sẽ rơi vào tình trạng tiếp tục hoàn thiện trong nhiều năm nữa .</s>
+<a id='ev79'>1-4;2-1,2,3;4-5,6,7;6-8,9,10;8-12;10-18,19;11-16,17;12-13,14,15;13-22;14-20,21;15-23,24;18-27,28,29,30;19-25,26;20-31;21-32;22-33,34;</a>
+</spair>
+<spair id='80'>
+<s id='en80'>Nevertheless , it is reasonable to expect that the accountant of the future will be increasingly skilled in valuation issues .</s>
+<s id='vn80'>Tuy nhiên , có lý do để kỳ vọng kế toán viên của tương lai sẽ thuần thục hơn trong vấn đề định giá .</s>
+<a id='ev80'>1-1,2;5-5,6;6-7;7-8,9;10-10,11,12;11-13;13-14,15;14-16;17-17,18;18-20;19-23,24;20-21,22;</a>
+</spair>
+</text>
+</doc>

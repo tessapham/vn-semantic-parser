@@ -1,0 +1,262 @@
+﻿<doc id='N0009'>
+<head>
+<title>St. Valentine 's Story</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>22/10/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>St. Valentine 's Story</s>
+<s id='vn1'>Câu chuyện thánh Valentine</s>
+<a id='ev1'>1-3;2-4;4-1,2;</a>
+</spair>
+<spair id='2'>
+<s id='en2'>Let me introduce myself , my name is Valentine .</s>
+<s id='vn2'>Xin tự giới thiệu tên tôi là Valentine .</s>
+<a id='ev2'>1-1;3-3,4;4-2;6-6;7-5;8-7;9-8;</a>
+</spair>
+<spair id='3'>
+<s id='en3'>I lived in Rome during the third century .</s>
+<s id='vn3'>Tôi sống ở La mã vào thế kỷ thứ ba .</s>
+<a id='ev3'>1-1;2-2;3-3;4-4,5;5-6;7-9,10;8-7,8;</a>
+</spair>
+<spair id='4'>
+<s id='en4'>That was long , long ago !</s>
+<s id='vn4'>Cách đây lâu , lâu lắm rồi !</s>
+<a id='ev4'>3-3;5-5,6;6-1,2;</a>
+</spair>
+<spair id='5'>
+<s id='en5'>At that time , Rome was ruled by an emperor named Claudius .</s>
+<s id='vn5'>Lúc đó hoàng đế Claudius đang là vua trị vì đất nước La mã .</s>
+<a id='ev5'>1,2,3-1,2;5-11,12,13,14;6-6;7-9,10;10-3,4;12-5;</a>
+</spair>
+<spair id='6'>
+<s id='en6'>I did n't like Emperor Claudius , and I was n't the only one !</s>
+<s id='vn6'>Tôi không phải là người duy nhất không thích vị vua Claudius !</s>
+<a id='ev6'>3-8;4-9;5-10,11;6-12;9-1;10-4;11-2,3;13-6,7;14-5;</a>
+</spair>
+<spair id='7'>
+<s id='en7'>A lot of people shared my feelings .</s>
+<s id='vn7'>Nhiều người cũng có cùng cảm nghĩ như tôi .</s>
+<a id='ev7'>1,2,3-1;4-2;5-4,5;6-9;7-6,7;</a>
+</spair>
+<spair id='8'>
+<s id='en8'>Claudius wanted to have a big army .</s>
+<s id='vn8'>Vua Claudius muốn có một đội quân hùng mạnh .</s>
+<a id='ev8'>1-1,2;2-3;4-4;5-5;6-8,9;7-6,7;</a>
+</spair>
+<spair id='9'>
+<s id='en9'>He expected men to volunteer to join .</s>
+<s id='vn9'>Ông muốn tất cả đàn ông con trai phải tình nguyện nhập ngũ .</s>
+<a id='ev9'>1-1;2-2;3-3,4,5,6;5-10,11;7-12,13;</a>
+</spair>
+<spair id='10'>
+<s id='en10'>Many men just did not want to fight in wars .</s>
+<s id='vn10'>Nhiều người không muốn tham chiến .</s>
+<a id='ev10'>1-1;2-2;5-3;6-4;8-5,6;</a>
+</spair>
+<spair id='11'>
+<s id='en11'>They did not want to leave their wives and families .</s>
+<s id='vn11'>Họ chẳng thích xa gia đình và vợ con của mình .</s>
+<a id='ev11'>1-1;3-2;4-3;6-4;7-10,11;8-8,9;9-7;10-5,6;</a>
+</spair>
+<spair id='12'>
+<s id='en12'>As you might have guessed , not many men signed up .</s>
+<s id='vn12'>Như bạn cũng có thể đoán được đấy , rất ít thanh niên đăng ký đi lính .</s>
+<a id='ev12'>1-1;2-2;3-4,5;5-6,7;7,8-10,11;9-12,13;10-14,15;11-16,17;</a>
+</spair>
+<spair id='13'>
+<s id='en13'>This made Claudius furious .</s>
+<s id='vn13'>Điều này làm cho Claudius điên tiết .</s>
+<a id='ev13'>1-1,2;2-3,4;3-5;4-6,7;</a>
+</spair>
+<spair id='14'>
+<s id='en14'>So what happened ?</s>
+<s id='vn14'>Và rồi chuyện gì xảy ra ?</s>
+<a id='ev14'>1-1,2;2-3,4;3-5,6;</a>
+</spair>
+<spair id='15'>
+<s id='en15'>He had a crazy idea .</s>
+<s id='vn15'>Vị vua này mang một ý nghĩ điên rồ .</s>
+<a id='ev15'>1-1,2,3;2-4;3-5;4-8,9;5-6,7;</a>
+</spair>
+<spair id='16'>
+<s id='en16'>He thought that if men were not married , they would not mind joining the army .</s>
+<s id='vn16'>Ông ta nghĩ rằng nếu đàn ông không lấy vợ thì sẽ chẳng lo lắng phiền muộn gì khi nhập ngũ .</s>
+<a id='ev16'>1-1,2;2-3;3-4;4-5;5-6,7;7-8;8-9,10;11-12;12-13;13-14,15,16,17;14-20;16-21;</a>
+</spair>
+<spair id='17'>
+<s id='en17'>So Claudius decided not to allow any more marriages .</s>
+<s id='vn17'>Thế nên Claudius ra lệnh không ai được phép lấy vợ lấy chồng nữa .</s>
+<a id='ev17'>1-1,2;2-3;3-4,5;4-6,7;6-8,9;8-14;9-10,11,12,13;</a>
+</spair>
+<spair id='18'>
+<s id='en18'>Young people thought his new law was cruel .</s>
+<s id='vn18'>Thanh niên cho rằng điều luật mới này quả là độc ác .</s>
+<a id='ev18'>1,2-1,2;3-3,4;4-8;5-7;6-5,6;7-9,10;8-11,12;</a>
+</spair>
+<spair id='19'>
+<s id='en19'>I thought it was preposterous !</s>
+<s id='vn19'>Tôi nghĩ việc này thật phi lý !</s>
+<a id='ev19'>1-1;2-2;3-3,4;4-5;5-6,7;</a>
+</spair>
+<spair id='20'>
+<s id='en20'>I certainly was n't going to support that law !</s>
+<s id='vn20'>Tôi chắc chắn sẽ không ủng hộ điều luật này rồi !</s>
+<a id='ev20'>1-1;2-2,3;4-5;5-4;7-6,7;8-10;9-8,9;</a>
+</spair>
+<spair id='21'>
+<s id='en21'>Did I mention that I was a priest ?</s>
+<s id='vn21'>Tôi đã kể nghe tôi là linh mục chưa ?</s>
+<a id='ev21'>2-1;3-2,3;4-4;5-5;6-6;8-7,8;</a>
+</spair>
+<spair id='22'>
+<s id='en22'>One of my favorite activities was to marry couples .</s>
+<s id='vn22'>Một trong những việc làm yêu thích của tôi là ban phép hôn phối .</s>
+<a id='ev22'>1-1;2-2;3-8,9;4-6,7;5-3,4,5;6-10;8-11,12;9-13,14;</a>
+</spair>
+<spair id='23'>
+<s id='en23'>Even after Emperor Claudius passed his law , I kept on performing marriage ceremonies -- secretly , of course .</s>
+<s id='vn23'>Ngay cả sau khi hoàng đế Claudius ra điều luật , tôi cũng vẫn tiếp thực hiện nghi thức kết hôn – dĩ nhiên là bí mật .</s>
+<a id='ev23'>1-1,2;2-3,4;3-5,6;4-7;5-8;7-9,10;9-12;10-14;11-15;12-16,17;13-20,21;14-18,19;16-26,27;18,19-23,24;</a>
+</spair>
+<spair id='24'>
+<s id='en24'>It was really quite exciting .</s>
+<s id='vn24'>Điều này thật thú vị .</s>
+<a id='ev24'>1-1,2;3-3;5-4,5;</a>
+</spair>
+<spair id='25'>
+<s id='en25'>Imagine a small candlelit room with only the bride and groom and myself .</s>
+<s id='vn25'>Hãy tưởng tượng xem một căn phòng nhỏ được thắp ánh nến lung linh chỉ có cô dâu , chú rể và tôi .</s>
+<a id='ev25'>1-2,3,4;2-5;3-8;4-11,12,13,14;5-6,7;7-15,16;9-17,18;11-20,21;12-22;13-23;</a>
+</spair>
+<spair id='26'>
+<s id='en26'>We would whisper the words of the ceremony , listening the steps of soldiers .</s>
+<s id='vn26'>Chúng tôi thì thầm đọc kinh nghi thức , và lắng nghe tiếng bước chân của bọn lính .</s>
+<a id='ev26'>1-1,2;3-3,4,5;5-6;8-7,8;10-11,12;12-13,14,15;13-16;14-17,18;</a>
+</spair>
+<spair id='27'>
+<s id='en27'>One night , we did hear footsteps .</s>
+<s id='vn27'>Một đêm , chúng tôi nghe tiếng bước chân .</s>
+<a id='ev27'>1-1;2-2;4-4,5;6-6,7;7-8,9;</a>
+</spair>
+<spair id='28'>
+<s id='en28'>It was scary !</s>
+<s id='vn28'>Rùng rợn quá !</s>
+<a id='ev28'>3-1,2;</a>
+</spair>
+<spair id='29'>
+<s id='en29'>Thank goodness the couple I was marrying escaped in time .</s>
+<s id='vn29'>Cảm ơn Chúa vì đôi hôn phối mà tôi ban lễ đã thoát thân kịp .</s>
+<a id='ev29'>1-1,2;2-3;4-5,6,7;5-9;7-10,11;8-12,13,14;9,10-15;</a>
+</spair>
+<spair id='30'>
+<s id='en30'>I was caught .</s>
+<s id='vn30'>Tôi thì bị bắt .</s>
+<a id='ev30'>1-1;2-2;3-3,4;</a>
+</spair>
+<spair id='31'>
+<s id='en31'>Not quite as light on my feet as I used to be , I guess .</s>
+<s id='vn31'>Tôi đoán là do tôi không chạy nhanh như lúc trước .</s>
+<a id='ev31'>1-6;8-4;9-5;10,11,12-9,10,11;14-1;15-2;</a>
+</spair>
+<spair id='32'>
+<s id='en32'>I was thrown in jail and told that my punishment was death .</s>
+<s id='vn32'>Tôi bị quăng vào ngục và án phạt của tôi là án tử hình .</s>
+<a id='ev32'>1-1;3-2,3;4-4;5-5;6-6;9-9,10;10-7,8;11-11;12-12,13,14;</a>
+</spair>
+<spair id='33'>
+<s id='en33'>I tried to stay cheerful .</s>
+<s id='vn33'>Tôi cố sống vui vẻ .</s>
+<a id='ev33'>1-1;2-2;4-3;5-4,5;</a>
+</spair>
+<spair id='34'>
+<s id='en34'>And do you know what ?</s>
+<s id='vn34'>Và bạn biết chuyện gì không ?</s>
+<a id='ev34'>1-1;3-2;4-3;5-4,5;</a>
+</spair>
+<spair id='35'>
+<s id='en35'>Wonderful things happened .</s>
+<s id='vn35'>Thật nhiều điều tuyệt vời đã đến .</s>
+<a id='ev35'>1-4,5;2-1,2,3;3-6,7;</a>
+</spair>
+<spair id='36'>
+<s id='en36'>Many young people came to the jail to visit me .</s>
+<s id='vn36'>Rất đông các bạn trẻ đến nhà tù để thăm tôi .</s>
+<a id='ev36'>1-1,2;2-5;3-3,4;4-6;7-7,8;8-9;9-10;10-11;</a>
+</spair>
+<spair id='37'>
+<s id='en37'>They threw flowers and notes up to my window .</s>
+<s id='vn37'>Họ ném vào nhiều hoa và thư qua cửa sổ của tôi .</s>
+<a id='ev37'>1-1;2-2,3;3-4,5;4-6;5-7;7-8;8-11,12;9-9,10;</a>
+</spair>
+<spair id='38'>
+<s id='en38'>They wanted me to know that they , too , believed in love .</s>
+<s id='vn38'>Họ muốn tôi hiểu rằng họ cũng tin vào tình yêu .</s>
+<a id='ev38'>1-1;2-2;3-3;5-4;6-5;7-6;9-7;11-8,9;13-10,11;</a>
+</spair>
+<spair id='39'>
+<s id='en39'>One of these young people was the daughter of the prison guard .</s>
+<s id='vn39'>Một trong các bạn trẻ là con gái của cai ngục .</s>
+<a id='ev39'>1-1;2-2;4-5;5-3,4;6-6;8-7,8;9-9;11-11;12-10;</a>
+</spair>
+<spair id='40'>
+<s id='en40'>Her father allowed her to visit me in the cell .</s>
+<s id='vn40'>Cha cô bé cho phép vào thăm tôi trong nhà lao .</s>
+<a id='ev40'>1-2,3;2-1;3-4,5;6-6,7;7-8;8-9;10-10,11;</a>
+</spair>
+<spair id='41'>
+<s id='en41'>Sometimes we would sit and talk for hours .</s>
+<s id='vn41'>Đôi khi chúng tôi ngồi trò chuyện với nhau hàng giờ .</s>
+<a id='ev41'>1-1,2;2-3,4;4-5;5-8,9;6-6,7;8-10,11;</a>
+</spair>
+<spair id='42'>
+<s id='en42'>She helped me to keep my spirits up .</s>
+<s id='vn42'>Cô ấy giúp tôi giữ vững tinh thần .</s>
+<a id='ev42'>1-1,2;2-3;3-4;5-5,6;7-7,8;</a>
+</spair>
+<spair id='43'>
+<s id='en43'>She agreed that I did the right thing by ignoring the Emperor laws and going ahead with the secret marriages .</s>
+<s id='vn43'>Cô ấy cũng cho rằng việc tôi lờ đi điều luật của Hoàng đế và tiếp tục ban lễ hôn phối bí mật là đúng đắn .</s>
+<a id='ev43'>1-1,2;2-3,4;3-5;4-6,7;5-24;7-25,26;10-8,9;12-13,14;13-10,11;14-15;15-16,17;19-22,23;20-18,19,20,21;</a>
+</spair>
+<spair id='44'>
+<s id='en44'>On the day I was to die , I left my friend a little note thanking her for her friendship and loyalty .</s>
+<s id='vn44'>Vào ngày tôi chết , tôi đã gởi lại cho cô bé một thông điệp nhỏ , cảm ơn cô ấy vì tình bạn và lòng trung thành của mình .</s>
+<a id='ev44'>1-1;3-2;4-3;7-4;9-6;10-7,8,9;12-11,12;13-13;14-16;15-14,15;16-18,19;17-20,21;18-22;19-29,30;20-23,24;21-25;22-26,27,28;</a>
+</spair>
+<spair id='45'>
+<s id='en45'>I signed it , " Love from your Valentine " .</s>
+<s id='vn45'>Tôi đã ký dưới thông điệp ấy rằng , " Tình yêu từ Valentine của em " .</s>
+<a id='ev45'>1-1;2-2,3;3-5,6,7;6-11,12;7-13;8-15,16;9-14;</a>
+</spair>
+<spair id='46'>
+<s id='en46'>I believe that note started the custom of exchanging love messages on Valentine 's Day .</s>
+<s id='vn46'>Tôi tin rằng mảnh thông điệp ấy khởi đầu cho tục lệ trao gởi thông điệp tình yêu vào ngày Valentine .</s>
+<a id='ev46'>1-1;2-2,3;3-7;4-4,5,6;5-8,9;7-11,12;9-13,14;10-17,18;11-15,16;12-19;13-21;15-20;</a>
+</spair>
+<spair id='47'>
+<s id='en47'>It was written on the day I died , February 14 , 269 A.D .</s>
+<s id='vn47'>Đó là ngày tôi chết , ngày 14 tháng Hai , năm 269 sau công nguyên .</s>
+<a id='ev47'>1-1;2-2;6-3;7-4;8-5;10-9,10;11-8;13-12,13;14-14,15,16;</a>
+</spair>
+<spair id='48'>
+<s id='en48'>Now , every year on this day , people remember Valentine .</s>
+<s id='vn48'>Giờ đây , mỗi năm cứ vào ngày này là người ta nhớ đến Valentine .</s>
+<a id='ev48'>1-1,2;3-4;4-5;5-7;6-9;7-8;9-11,12;10-13,14;11-15;</a>
+</spair>
+<spair id='49'>
+<s id='en49'>But most importantly , they think about love and friendship .</s>
+<s id='vn49'>Nhưng quan trọng hơn cả là người ta nghĩ về tình yêu và tình bạn .</s>
+<a id='ev49'>1-1;2-4,5;3-2,3;5-7,8;6-9;7-10;8-11,12;9-13;10-14,15;</a>
+</spair>
+<spair id='50'>
+<s id='en50'>And when they think of Emperor Claudius , they remember how he tried to stand in the way of love , and they laugh -- because they know that love can n't be beaten !</s>
+<s id='vn50'>Và khi người ta nhớ về Hoàng đế Claudius thì họ nhớ tới chuyện Ngài đã ngăn cản tình yêu như thế nào và họ cười to vì ai cũng biết rằng tình yêu không gì có thể làm khuất phục được !</s>
+<a id='ev50'>1-1;2-2;3-3,4;4-5;5-6;6-7,8;7-9;9-11;10-12,13;11-21,22,23;12-15;15-16,17,18;20-19,20;22-24;23-25;24-26,27;26-28;27-29;28-31;29-32;30-33,34;31-37,38;32-35,36;34-39,40,41;</a>
+</spair>
+</text>
+</doc>

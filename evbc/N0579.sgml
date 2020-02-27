@@ -1,0 +1,92 @@
+﻿<doc id='N0579'>
+<head>
+<title>Microsoft DirectX Vulnerability Under Attack</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>22/10/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Microsoft DirectX Vulnerability Under Attack</s>
+<s id='vn1'>Lỗ hổng Bảo mật trong DirectX của Microsoft có thể bị Tấn công</s>
+<a id='ev1'>1-8;2-6;3-1,2,3,4;4-9,10,11;5-12,13;</a>
+</spair>
+<spair id='2'>
+<s id='en2'>Microsoft says hackers are targeting a security flaw in the DirectX feature of Windows .</s>
+<s id='vn2'>Microsoft cho biết các hacker đang nhắm mục tiêu vào một lỗ hổng bảo mật trong tính năng DirectX của Windows .</s>
+<a id='ev2'>1-1;2-2,3;3-4,5;4-6;5-7,8,9;6-11;7-14,15;8-12,13;9-16;11-19;12-17,18;13-20;14-21;</a>
+</spair>
+<spair id='3'>
+<s id='en3'>According to Microsoft , attackers are using malicious QuickTime videos to exploit the bug .</s>
+<s id='vn3'>Theo tập đoàn Microsoft thì những kẻ tấn công đang sử dụng đoạn video mở bằng QuickTime có chứa mã độc để khai thác lỗi này .</s>
+<a id='ev3'>1,2-1;3-4;5-6,7,8,9;7-10,11,12;8-19,20,21;9-17;10-13,14;11-22;12-23,24;13-26;14-25;</a>
+</spair>
+<spair id='4'>
+<s id='en4'>Microsoft is investigating reports of a vulnerability in Microsoft DirectX that is under attack by hackers using malicious QuickTime videos</s>
+<s id='vn4'>Microsoft đang điều tra những báo cáo về lỗ hổng bảo mật trong DirectX của Microsoft dưới sự tấn công của những hacker sử dụng video mở bằng phần mềm QuickTime có chứa mã độc .</s>
+<a id='ev4'>1-1;3-2,3,4;4-5,6,7;5-8;7-9,10,11,12;8-13;9-16;10-14;13-17;14-18,19,20;16-22,23;17-24,25;18-32,33,34,35;19-29,30,31;20-26;</a>
+</spair>
+<spair id='5'>
+<s id='en5'>According to a Microsoft advisory , the vulnerability can be exploited by hackers to remotely execute code with the rights of the logged-on user .</s>
+<s id='vn5'>Theo cố vấn của Microsoft , lỗ hổng này có thể bị khai thác bởi các hacker để thực thi mã từ xa với các quyền của người sử dụng được đăng nhập .</s>
+<a id='ev5'>1-1;4-5;5-2,3;7-9;8-7,8;9-10,11;10-12;11-13,14;12-15;13-16,17;14-18;15-22,23;16-19,20;17-21;18-24;19-25;20-26;21-27;23-31,32,33;24-28,29,30;</a>
+</spair>
+<spair id='6'>
+<s id='en6'>Specifically , the vulnerability is in the QuickTime parser in Microsoft DirectShow , and is due to the way DirectShow handles supported QuickTime format files .</s>
+<s id='vn6'>Điều đặt biệt là lỗ hổng này nằm trong bộ phân tách QuickTime của Microsoft DirectShow , và bởi vì cách điều khiển của DirectShow để hỗ trợ định dạng tập tin Quicktime .</s>
+<a id='ev6'>1-1,2,3;3-7;4-5,6;5-4;6-8;8-13;9-10,11,12;11-15;12-16;14-18;16,17-19,20;19-21;20-25;21-22,23;22-27,28;23-33;24-29,30;25-31,32;</a>
+</spair>
+<spair id='7'>
+<s id='en7'>A feature of the Windows operating system , DirectX is used for streaming media to enable graphics and sound when playing games or watching video .</s>
+<s id='vn7'>Một tính năng của hệ điều hành Windows , DirectX được sử dụng cho việc phân luồng phương tiện để phát ra hình ảnh và âm thanh khi chơi game hay xem video .</s>
+<a id='ev7'>1-1;2-2,3;3-4;5-8;6-6,7;7-5;9-10;10-11;11-12,13;12-14;13-15,16,17;14-18,19;15-20;16-21,22;17-23,24;18-25;19-26,27;20-28;21-29;22-30;23-31;24-32;25-33;</a>
+</spair>
+<spair id='8'>
+<s id='en8'>Within DirectX , the DirectShow technology performs client-side audio and video source , manipulation and rendering , while the QuickTime Movie Parser filter splits Apple QuickTime data into audio and video streams .</s>
+<s id='vn8'>Bên trong DirectX , công nghệ DirectShow thực thi nguồn video và âm thanh phía máy khách , thao tác và diễn dịch , trong khi bộ lọc QuickTime Movie Parser tách dữ liệu QuickTime của Apple thành luồng âm thanh và hình ảnh .</s>
+<a id='ev8'>1-1,2;2-3;5-7;6-5,6;7-8,9;8-16,17;9-13,14;10-12;11-11;12-10;14-19,20;15-21;16-22,23;18-25,26;20-29;21-30;22-31;23-27,28;24-32;25-37;26-35;27-33,34;28-38;29-40,41;30-42;31-43,44;32-39;</a>
+</spair>
+<spair id='9'>
+<s id='en9'>Although this is n't a browser vulnerability ,Microsoft officials warned that because the vulnerability is in DirectShow any browser using media plug-ins that use DirectShow is subject to attack .</s>
+<s id='vn9'>Mặc dù đây không phải là một lỗ hổng của trình duyệt , các viên chức của Microsoft cảnh báo rằng bởi vì lỗ hổng này nằm trong DirectShow nên bất kỳ trình duyệt nào sử dụng plug-in có dùng DirectShow sẽ trở thành đối tượng để tấn công .</s>
+<a id='ev9'>1-1,2;2-3;3-6;4-4,5;5-7;6-11,12;7-8,9;8-18;9-14,15,16;10-19,20;11-21;12-22,23;13-26;14-24,25;15-27;16-28;17-29;18-31,32;19-33,34;20-36,37;22-38;24-40;25-41;26-43,44;27-45,46;28-47;29-48,49;</a>
+</spair>
+<spair id='10'>
+<s id='en10'>In addition , it is possible to direct calls to DirectShow specifically , even if Apple 's QuickTime ( which is not vulnerable ) is installed .</s>
+<s id='vn10'>Ngoài ra , nó có thể gọi trực tiếp DirectShow một cách cụ thể ngay cả trên phần mềm QuickTime của Apple ( phần mềm này không có lỗ hổng ) được cài đặt .</s>
+<a id='ev10'>1,2-1,2;4-4;6-5,6;8-8,9;9-7;11-10;12-11,12,13,14;14-15,16;16-22;17-21;18-18,19,20;20-24,25,26;22-27;23-29,30;25-32;26-33,34;</a>
+</spair>
+<spair id='11'>
+<s id='en11'>" While our investigation is on_going , our investigation so far has shown that Windows2000 Service Pack 4 , Windows XP and Windows Server 2003 are vulnerable ; all versions of Windows Vista and Windows Server 2008 are not vulnerable , " Microsoft said in the advisory .</s>
+<s id='vn11'>Microsoft phát biểu trong một buổi tư vấn : " Trong khi cuộc điều tra của chúng tôi vẫn đang tiếp tục , cuộc điều tra của chúng tôi từ trước tới nay cho thấy rằng Windows2000 Service Pack 4 , Windows XP và Windows Server 2003 có lỗ hổng , tất cả các phiên bản của Windows Vista và Windows Server 2008 thì lại không có " .</s>
+<a id='ev11'>2-11,12;3-16,17,18;4-13,14,15;5,6,7-20,21,22;9-27,28,29;10-24,25,26;11,12-30,31,32,33;14-34,35;15-36;16-37;17-38;18-39;19-40;21-42;22-43;23-44;24-45;25-46;26-47;27-48;28-49,50;30-52,53;31-54,55,56;32-57;33-58;34-59;35-60;36-61;37-62;38-63;39-67;40-66;44-1;45-2,3;46-4;48-6,7,8;</a>
+</spair>
+<spair id='12'>
+<s id='en12'>" Microsoft has activated its Software Security Incident Response Process ( SSIRP ) and is continuing to investigate this issue . "</s>
+<s id='vn12'>" Microsoft đã kích hoạt Software Security Incident Response Process ( SSIRP ) và đang tiếp tục điều tra vấn đề này " .</s>
+<a id='ev12'>2-2;4-3,4,5;6-6;7-7;8-8;9-9;10-10;12-12;14-14;15-15;16-16,17;18-18,19;19-22;20-20,21;</a>
+</spair>
+<spair id='13'>
+<s id='en13'>There are a few workarounds available to help users deal with the threat .</s>
+<s id='vn13'>Có một vài cách khắc phục để giúp đỡ người dùng đối phó với mối đe dọa này .</s>
+<a id='ev13'>1,2-1;3-2;4-3;5-4,5,6;7-7;8-8,9;9-10,11;10-12,13;11-14;12-18;13-15,16,17;</a>
+</spair>
+<spair id='14'>
+<s id='en14'>Administrators can disable QuickTime parsing in Quartz.dll by deleting the following registry key :</s>
+<s id='vn14'>Quản trị viên có thể vô hiệu hóa phân tích QuickTime trong Quartz.dll bằng cách xoá bỏ các khoá registry sau đây :</s>
+<a id='ev14'>1-1,2,3;2-4,5;3-6,7,8;4-11;5-9,10;6-12;7-13;8-14,15;9-16,17;10-18;11-21,22;12-20;13-19;</a>
+</spair>
+<spair id='15'>
+<s id='en15'>Users can also modify the ACL ( access control list ) on quartz.dll .</s>
+<s id='vn15'>Người sử dụng cũng có thể sửa đổi các ACL ( danh sách kiểm soát truy cập ) trên quartz.dll .</s>
+<a id='ev15'>1-1,2,3;2-5,6;3-4;4-7,8;6-10;8-16,17;9-14,15;10-12,13;12-19;13-20;</a>
+</spair>
+<spair id='16'>
+<s id='en16'>Instructions for these and other workarounds are contained in the DirectShow security advisory .</s>
+<s id='vn16'>Hướng dẫn này và những cách khắc phục khác có chứa trong trang tư vấn bảo mật DirectShow .</s>
+<a id='ev16'>1-1,2;3-3;4-4;5-9;6-5,6,7,8;7-10;8-11;9-12;11-18;12-16,17;13-14,15;</a>
+</spair>
+</text>
+</doc>

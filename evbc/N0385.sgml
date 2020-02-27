@@ -1,0 +1,127 @@
+﻿<doc id='N0385'>
+<head>
+<title>Microsoft Patches Security Releases for 11 Vulnerabilities</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>22/10/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Microsoft Patches Security Releases for 11 Vulnerabilities</s>
+<s id='vn1'>Microsoft Phát Hành Các Bản Vá Bảo Mật Cho 11 Lỗ Hổng</s>
+<a id='ev1'>1-1;2-4,5,6;3-7,8;4-2,3;5-9;6-10;7-11,12;</a>
+</spair>
+<spair id='2'>
+<s id='en2'>Microsoft released nine security bulletins for this month 's Patch Tuesday .</s>
+<s id='vn2'>Microsoft đã phát hành 9 bản vá bảo mật cho sự kiện Patch Tuesday của tháng này .</s>
+<a id='ev2'>1-1;2-2,3,4;3-5;4-8,9;5-6,7;6-10;7-17;8-16;9-15;10-13;11-14;</a>
+</spair>
+<spair id='3'>
+<s id='en3'>Microsoft issued nine security bulletins for Patch Tuesday today to cover 11 security holes in Windows and other Microsoft products .</s>
+<s id='vn3'>Hôm nay Microsoft đã phát hành 9 bản vá bảo mật cho sự kiện Patch Tuesday để vá 11 lỗ hổng bảo mật trong Windows và các sản phẩm khác của Microsoft .</s>
+<a id='ev3'>1-3;2-4,5,6;3-7;4-10,11;5-8,9;6-12;7-15;8-16;9-1,2;10-17;11-18;12-19;13-22,23;14-20,21;15-24;16-25;17-26;18-30;19-32;20-27,28,29;</a>
+</spair>
+<spair id='4'>
+<s id='en4'>Four of the bulletins are rated " critical , " including two Microsoft considers very likely to be exploited .</s>
+<s id='vn4'>Bốn trong số các bản vá được đánh giá ở mức " khẩn cấp " bao gồm hai lỗ hổng rất quan trọng của Microsoft có thể bị khai thác .</s>
+<a id='ev4'>1-1;2-2,3;4-4,5,6;6-7,8,9;8-13,14;11-16,17;12-18;13-25;14-22,23;15-21;16-26,27;19-28,29,30;</a>
+</spair>
+<spair id='5'>
+<s id='en5'>Among these two bulletins is MS10-061 , which addresses a publicly disclosed vulnerability in the Print Spooler service that could be exploited to allow remote code execution via a specially crafted print request to a vulnerable system with a print spooler interface exposed over RPC .</s>
+<s id='vn5'>Trong số hai bản vá này là MS10-061 , giải quyết lỗ hổng đã được công bố rộng rãi trong dịch vụ Print Spooler mà có thể bị khai thác để thực thi mã từ xa thông qua một yêu cầu in thủ công đặc biệt gửi đến hệ thống bị lỗ hổng bảo mật với một giao tiếp của dịch vụ print spooler qua RPC .</s>
+<a id='ev5'>1-1,2;2-6;3-3;4-4,5;5-7;6-8;9-10,11;11-18,19;12-14,15,16,17;13-12,13;14-20;16-23;17-24;18-21,22;19-25;20-26,27;22-28,29,30;23,24-31;25-35,36;26-34;27-32,33;28-37,38;29-39;30-45,46;31-43,44;32-42;33-40,41;34-47,48;36-51,52,53,54,55;37-49,50;38-56;39-57;40-63;41-64;42-58,59;44-65;45-66;</a>
+</spair>
+<spair id='6'>
+<s id='en6'>" On Windows XP , the guest account is enabled by default , which allows anonymous users to access printer shares , " Microsoft said in the advisory .</s>
+<s id='vn6'>" Trên Windows XP , tài khoản khách được kích hoạt mặc định , cho phép người dùng vô danh truy cập vào máy in chia sẻ " , Microsoft cho biết trong một bản tin .</s>
+<a id='ev6'>2-2;3-3;4-4;7-8;8-6,7;10-9,10,11;12-12,13;15-15,16;16-19,20;17-17,18;19-21,22;20-24,25;21-26,27;24-30;25-31,32;26-33;28-34,35,36;</a>
+</spair>
+<spair id='7'>
+<s id='en7'>" On Windows Server 2003 , Windows Vista , Windows Server 2008 , Windows 7 , and Windows Server 2008 R2 , an attacker must be authenticated in order to exploit this vulnerability unless password-based sharing is disabled .</s>
+<s id='vn7'>" Trên Windows Server 2003 , Windows Vista , Windows Server 2008 , Windows 7 và Windows Server 2008 R2 , kẻ tấn công phải được xác thực để khai thác lỗ hổng này trừ khi việc chia sẻ dựa trên mật khẩu bị vô hiệu hoá .</s>
+<a id='ev7'>2-2;3-3;4-4;5-5;7-7;8-8;10-10;11-11;12-12;14-14;15-15;17-16;18-17;19-18;20-19;21-20;24-22,23,24;25-25;27-26,27,28;28,29,30-29;31-30,31;32-34;33-32,33;34-35,36;35-40,41,42,43;36-37,38,39;38-44,45,46,47;</a>
+</spair>
+<spair id='8'>
+<s id='en8'>If password-based sharing is disabled , attackers could exploit these systems without authentication . "</s>
+<s id='vn8'>Nếu chia sẻ dựa trên mật khẩu bị vô hiệu hoá thì những kẻ tấn công có thể khai thác các hệ thống này mà không cần phải xác thực " .</s>
+<a id='ev8'>1-1;2-4,5,6,7;3-2,3;5-8,9,10,11;7-13,14,15,16;8-17,18;9-19,20;10-24;11-21,22,23;12-26,27;13-28,29,30;</a>
+</spair>
+<spair id='9'>
+<s id='en9'>MS10-062 was also ranked as likely to be exploited .</s>
+<s id='vn9'>MS10-062 cũng được xếp vào loại có khả năng bị khai thác .</s>
+<a id='ev9'>1-1;3-2,3;4-4,5,6;6-7,8,9;9-10,11,12;</a>
+</spair>
+<spair id='10'>
+<s id='en10'>The bulletin covers a remote code execution vulnerability tied to the way the MPEG-4 codec handles supported format files .</s>
+<s id='vn10'>Bản vá này vá một lỗ hổng thực thi mã từ xa đi kèm với phương pháp xử lí của bộ giải mã MPEG-4 hỗ trợ các tập tin định dạng .</s>
+<a id='ev10'>1-3;2-1,2;3-4;4-5;5-11,12;6-10;7-8,9;8-6,7;10-13,14,15;12-16,17;14-24;15-21,22,23;17-25,26;18-30,31;19-27,28,29;</a>
+</spair>
+<spair id='11'>
+<s id='en11'>If exploited successfully , an attacker could take control of a vulnerable system .</s>
+<s id='vn11'>Nếu khai thác thành công , kẻ tấn công có thể kiểm soát hệ thống bị lỗ hổng .</s>
+<a id='ev11'>1-1;2-2,3;3-4,5;6-7,8,9;7-10,11;9-12,13;12-16,17,18;13-14,15;</a>
+</spair>
+<spair id='12'>
+<s id='en12'>Dave Marcus , director of security and research communications at McAfee Labs , said .</s>
+<s id='vn12'>Dave Marcus giám đốc về bảo mật và nghiên cứu truyền thông tại McAfee Labs cho biết : .</s>
+<a id='ev12'>1-1;2-2;4-3,4;6-6,7;7-8;8-9,10;9-11,12;10-13;11-14;12-15;14-16,17;</a>
+</spair>
+<spair id='13'>
+<s id='en13'>" There is a prevalence of sharing media and video files , so MS10-062 is of particular interest , as this media code execution takes advantage of vulnerabilities by crafting music files .</s>
+<s id='vn13'>" Đó là một sự phổ biến của việc chia sẻ các tập tin đa phương tiện và các tập tin video , do đó bản vá MS10-062 được quan tâm đặc biệt , vì việc thi hành mã đa phương tiện này lợi dụng các lỗ hổng bằng cách tạo các tập tin nhạc " .</s>
+<a id='ev13'>2-2;3-3;4-4;5-5,6,7;6-8;7-9,10,11;8-15,16,17;9-18;10-19,20,21,22;11-12,13,14;13-24,25;14-28;17-32,33;18-29,30,31;20-35;22-40,41,42;23-39;24-36,37,38;26-44,45;28-46,47,48;29-49,50;30-51;31-55;32-52,53,54;</a>
+</spair>
+<spair id='14'>
+<s id='en14'>" We have found that cyber-criminals are increasingly hiding malicious content in music - and movie-related sites , making it very easy to craft a fake file and exploit this type of vulnerability . "</s>
+<s id='vn14'>" Chúng tôi nhận thấy rằng tội phạm mạng ngày càng có xu hướng ẩn nội dung độc hại trong các trang có liên quan đến phim ảnh và âm nhạc , làm cho nó dễ dàng tạo một tập tin giả mạo và khai thác loại lỗ hổng này " .</s>
+<a id='ev14'>2-2,3;4-4,5;5-6;6-7,8,9;8-10,11,12,13,14;9-15;10-18,19;11-16,17;12-20;13-30,31;16-24,25,26,27,28;17-21,22;19-33,34;20-35;22-36,37;24-38;25-39;26-42,43;27-40,41;28-44;29-45,46;30-50;31-47;33-48,49;</a>
+</spair>
+<spair id='15'>
+<s id='en15'>The other two critical bulletins address vulnerabilities in Microsoft Outlook and the Unicode Scripts Processor .</s>
+<s id='vn15'>Hai bản vá quan trọng khác giải quyết các lỗ hổng trong Microsoft Outlook và Unicode Scripts Processor .</s>
+<a id='ev15'>2-6;3-1;4-4,5;5-2,3;6-7,8;7-9,10,11;8-12;9-13;10-14;11-15;13-16;14-17;15-18;</a>
+</spair>
+<spair id='16'>
+<s id='en16'>Also known as Uniscribe , the Unicode Script Processor is a collection of APIs that enables a text layout client to format complex scripts .</s>
+<s id='vn16'>Còn được gọi là Uniscribe , Unicode Script Processor là một tập hợp các API cho phép người sử dụng bản phát thảo văn bản để định dạnh các kịch bản phức tạp .</s>
+<a id='ev16'>1-1;2-2,3,4;4-5;7-7;8-8;9-9;10-10;11-11;12-12,13;14-14,15;16-16,17;18-24,25;19-21,22,23;20-18,19,20;21-26;22-27,28;23-32,33;24-29,30,31;</a>
+</spair>
+<spair id='17'>
+<s id='en17'>According to Microsoft , the Uniscribe bug can be exploited if a user views a specially crafted document or Web page with an application that supports embedded OpenType fonts .</s>
+<s id='vn17'>Theo Microsoft , lỗi của Uniscribe có thể được khai thác nếu người dùng xem bản tài liệu thủ công đặc biệt hoặc trang Web có một ứng dụng mà hỗ trợ font OpenType được nhúng vào .</s>
+<a id='ev17'>1,2-1;3-2;6-6;7-4;8-7,8;10-10,11;11-12;13-13,14;14-15;16-21,22;17-19,20;18-16,17,18;19-23;20-25;21-24;22-26;23-27;24-28,29;25-30;26-31,32;27-35,36,37;28-34;29-33;</a>
+</spair>
+<spair id='18'>
+<s id='en18'>The Outlook vulnerability only exists " in configurations where Outlook connects to an Exchange Server in Online Mode , " Microsoft said in its advisory .</s>
+<s id='vn18'>Lỗ hổng Outlook chỉ tồn tại " trong các cấu hình nơi mà Outlook kết nối với Exchange Server ở Chế độ Trực tuyến " Microsoft cho biết trong bản tin của họ .</s>
+<a id='ev18'>2-3;3-1,2;4-4;5-5,6;7-8;8-9,10,11;9-12,13;10-14;11-15,16;12-17;14-18;15-19;16-20;17-23,24;18-21,22;21-26;22-27,28;23-29;24-32,33;25-30,31;</a>
+</spair>
+<spair id='19'>
+<s id='en19'>" Configurations where Outlook connects to an Exchange Server in the Cached Exchange Mode are not affected .</s>
+<s id='vn19'>" Cấu hình mà Outlook kết nối với một Exchange Server ở chế độ Cached Exchange Mode không bị ảnh hưởng .</s>
+<a id='ev19'>2-2,3;3-4;4-5;5-6,7;6-8;7-9;8-10;9-11;10-12;12-15;13-16;14-17;16-18;17-19,20,21;</a>
+</spair>
+<spair id='20'>
+<s id='en20'>In addition , configurations where Outlook uses POP or IMAP mail servers only are not affected by this vulnerability . "</s>
+<s id='vn20'>Ngoài ra , cấu hình mà Outlook sử dụng các máy chủ mail POP hoặc IMAP thì không bị ảnh hưởng bởi lỗ hổng này . "</s>
+<a id='ev20'>1,2-1,2;4-4,5;5-6;6-7;7-8,9;8-14;9-15;10-16;11-13;12-10,11,12;14-17;15-18;16-19,20,21;17-22;18-25;19-23,24;</a>
+</spair>
+<spair id='21'>
+<s id='en21'>The remaining bulletins are rated " important " and reside in Windows .</s>
+<s id='vn21'>Các bản vá còn lại được đánh giá là " quan trọng " và tồn tại bên trong Windows .</s>
+<a id='ev21'>2-4,5;3-1,2,3;4-9;5-6,7,8;7-11,12;9-14;10-15,16;11-17,18;12-19;</a>
+</spair>
+<spair id='22'>
+<s id='en22'>The security update addresses roughly a third of the amount of vulnerabilities addressed in last month 's patches .</s>
+<s id='vn22'>Bản nâng cấp bảo mật này nhằm vào khoảng một phần ba số lượng lỗ hổng đã được đề cập đến trong các bản vá của tháng trước .</s>
+<a id='ev22'>1-6;2-4,5;3-1,2,3;4-7,8;5-9;7-10,11,12;10-13,14;12-15,16;13-17,18,19,20,21;14-22;15-28;16-27;17-26;18-23,24,25;</a>
+</spair>
+<spair id='23'>
+<s id='en23'>Microsoft initially announced 13 vulnerabilities would be fixed today , but later corrected it as a typo .</s>
+<s id='vn23'>Ban đầu Microsoft công bố là 13 lỗ hổng sẽ được vá vào hôm nay , tuy nhiên họ đã đính chính lại trong khi đánh máy .</s>
+<a id='ev23'>1-3;2-1,2;3-4,5;4-7;5-8,9;6-10;8-11,12;9-14,15;11-17,18;13-20,21,22,23;15-24,25;17-26,27;</a>
+</spair>
+</text>
+</doc>

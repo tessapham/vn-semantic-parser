@@ -1,0 +1,112 @@
+﻿<doc id='N0656'>
+<head>
+<title>Lessons Learned</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>22/10/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Lessons Learned</s>
+<s id='vn1'>Những bài học cuộc sống</s>
+<a id='ev1'>1-1,2,3;2-4,5;</a>
+</spair>
+<spair id='2'>
+<s id='en2'>One day , the father of a very wealthy family took his son on a trip to the country with the express purpose of showing him how poor people live .</s>
+<s id='vn2'>Một hôm nọ , một ông bố trong một gia đình rất giàu có dắt đứa con trai của ông về vùng nông thôn với mục đích là cho cậu bé thấy người nghèo sống như thế nào .</s>
+<a id='ev2'>1-1;2-2,3;5-5,6,7;6-8;7-9;8-12;9-13,14;10-10,11;11-15;12-19,20;13-16,17,18;19-22,23,24;20-25;23-26,27;25-32;26-30,31;27-36,37,38;28-34;29-33;30-35;</a>
+</spair>
+<spair id='3'>
+<s id='en3'>They spent a couple of days and nights on the farm of what would be considered a very poor family .</s>
+<s id='vn3'>Họ đã ở lại vài ngày tại một nông trại của một gia đình được coi là rất nghèo .</s>
+<a id='ev3'>1-1;2-2,3,4;4-5;6-6;9-7;11-8,9,10;12-11;16-15,16,17;18-18;19-19;20-12,13,14;</a>
+</spair>
+<spair id='4'>
+<s id='en4'>On their return from their trip , the father asked his son , " How was the trip ? "</s>
+<s id='vn4'>Trên đường trở về từ chuyến đi của họ , người bố hỏi cậu con trai của ông ấy , " Chuyến đi thế nào ? "</s>
+<a id='ev4'>1-1;3-3,4;4-5;5-8,9;6-6,7;9-11,12;10-13;11-17,18,19;12-14,15,16;15-24,25;18-22,23;</a>
+</spair>
+<spair id='5'>
+<s id='en5'>" It was great , Dad . "</s>
+<s id='vn5'>" Thưa bố , nó thật tuyệt ạ . "</s>
+<a id='ev5'>2-5;4-6,7;6-3;</a>
+</spair>
+<spair id='6'>
+<s id='en6'>" Did you see how poor people live ? "</s>
+<s id='vn6'>" Con có thấy người nghèo họ sống thế nào không ? "</s>
+<a id='ev6'>3-2;4-4;5-9,10;6-6;7-5;8-8;</a>
+</spair>
+<spair id='7'>
+<s id='en7'>The father asked .</s>
+<s id='vn7'>Người bố hỏi .</s>
+<a id='ev7'>2-1,2;3-3;</a>
+</spair>
+<spair id='8'>
+<s id='en8'>" Oh yeah , " said the son .</s>
+<s id='vn8'>" Dạ có ạ , " cậu con trai nói .</s>
+<a id='ev8'>2-2;3-3,4;6-10;8-7,8,9;</a>
+</spair>
+<spair id='9'>
+<s id='en9'>" So , tell me , what did you learn from the trip ? "</s>
+<s id='vn9'>" Vậy hãy kể bố nghe con đã học được gì từ chuyến đi này ? "</s>
+<a id='ev9'>2-2;4-3,4;5-5;7-11;8-8;9-7;10-9;11-12;12-15;13-13,14;</a>
+</spair>
+<spair id='10'>
+<s id='en10'>The father asked .</s>
+<s id='vn10'>Người bố hỏi .</s>
+<a id='ev10'>2-1,2;3-3;</a>
+</spair>
+<spair id='11'>
+<s id='en11'>The son answered : " I saw that we have one dog and they had four .</s>
+<s id='vn11'>Cậu con trai trả lời : " Con thấy chúng ta có một con chó và họ có tới bốn con .</s>
+<a id='ev11'>2-1,2,3;3-4,5;6-8;7-9;9-10,11;11-13;12-14,15;13-16;14-17;15-18;16-20;</a>
+</spair>
+<spair id='12'>
+<s id='en12'>We have a pool that reaches to the middle of our garden and they have a creek that has no end .</s>
+<s id='vn12'>Chúng ta có một cái hồ dài đến giữa khu vườn còn họ có cả con sông không biết đâu là bờ .</s>
+<a id='ev12'>1-1,2;2-3;3-4;4-5,6;6-7,8;9-9;12-10,11;13-12;14-13;15-14;17-16,17;20-18,19,20;21-22;</a>
+</spair>
+<spair id='13'>
+<s id='en13'>We have imported lanterns in our garden and they have the stars at night .</s>
+<s id='vn13'>Chúng ta phải đã bỏ tiền mua đèn lồng treo trong vườn và họ có cả những ngôi sao trong đêm .</s>
+<a id='ev13'>1-1,2;3-7;4-8,9;5-11;7-12;8-13;9-14;10-15;11-16;12-17,18,19;13-20;14-21;</a>
+</spair>
+<spair id='14'>
+<s id='en14'>Our patio reaches to the front yard and they have the whole horizon .</s>
+<s id='vn14'>Sân nhà ta chỉ kéo dài cho đến cổng trước còn của họ thì kéo dài đến tận chân trời .</s>
+<a id='ev14'>1-3;2-1,2;3-4,5,6;4-7,8;6-10;7-9;8-11;9-13;12-17,18;13-19,20;</a>
+</spair>
+<spair id='15'>
+<s id='en15'>We have a small piece of land to live on and they have fields that go beyond our sight .</s>
+<s id='vn15'>Chúng ta sống trên một mảnh đất nhỏ xíu còn họ có những cánh đồng rộng bao la ngút ngàn .</s>
+<a id='ev15'>1-1,2;3-5;4-8,9;5-6;7-7;9-3;10-4;11-10;12-11;13-12;14-13,14,15;17-16,17,18;19-19,20;</a>
+</spair>
+<spair id='16'>
+<s id='en16'>We have servants who serve us , but they serve others .</s>
+<s id='vn16'>Chúng ta có người hầu phục vụ chúng ta , nhưng họ thì phục vụ người khác .</s>
+<a id='ev16'>1-1,2;2-3;3-4,5;5-6,7;6-8,9;8-11;9-12;10-14,15;11-16,17;</a>
+</spair>
+<spair id='17'>
+<s id='en17'>We buy our food , but they grow theirs .</s>
+<s id='vn17'>Chúng ta mua thức ăn , nhưng họ tự trồng để làm ra thức ăn cho họ .</s>
+<a id='ev17'>1-1,2;2-3;4-4,5;6-7;7-8;8-9,10;9-14,15,16,17;</a>
+</spair>
+<spair id='18'>
+<s id='en18'>We have walls around our property to protect us , they have friends to protect them . "</s>
+<s id='vn18'>Chúng ta xây những bức tường xung quanh tài sản để bảo vệ chúng ta , họ có bạn bè để bảo vệ cho họ . "</s>
+<a id='ev18'>1-1,2;2-3;3-4,5,6;4-7,8;6-9,10;7-11;8-12,13;9-14,15;11-17;12-18;13-19,20;14-21;15-22,23;16-24,25;</a>
+</spair>
+<spair id='19'>
+<s id='en19'>The boy 's father was speechless .</s>
+<s id='vn19'>Người bố của cậu bé không nói nên lời .</s>
+<a id='ev19'>2-4,5;3-3;4-1,2;6-6,7,8,9;</a>
+</spair>
+<spair id='20'>
+<s id='en20'>Then his son added , " Thanks Dad for showing me how poor we are . "</s>
+<s id='vn20'>Sau đó cậu con trai nói tiếp , " Cảm ơn bố đã cho con thấy chúng ta nghèo như thế nào . "</s>
+<a id='ev20'>1-1,2;3-3,4,5;4-6,7;7-10,11;8-12;9-13,14;10-16;11-15;12-20,21,22;13-19;14-17,18;</a>
+</spair>
+</text>
+</doc>

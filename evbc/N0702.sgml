@@ -1,0 +1,792 @@
+﻿<doc id='N0702'>
+<head>
+<title>Bones , Muscles , and Joints</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>22/10/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Bones , Muscles , and Joints</s>
+<s id='vn1'>Xương , Cơ , và Khớp</s>
+<a id='ev1'>1-1;3-3;5-5;6-6;</a>
+</spair>
+<spair id='2'>
+<s id='en2'>Every time you sprint through the halls because you 're late for class , score against your opponents during a game , or shoot pool with friends , you 're using your bones , muscles , and joints .</s>
+<s id='vn2'>Mỗi lần bạn chạy hết tốc lực qua hành lang vì đi học trễ , mỗi khi bạn áp đảo đối phương trong một trận thi đấu nào đó , hoặc mỗi lần bạn chơi pun với bạn bè thì bạn đều sử dụng xương , cơ , và khớp .</s>
+<a id='ev2'>1-1;2-2;3-3;4-4,5,6,7;5-8;7-9,10;8-11;11-14;13-12,13;15-19,20;18-21,22;19-23;20-24;21-25,26,27;23-31;24-35;25-36;26-37;27-38,39;29-41;31-43,44;33-45;35-47;37-49;38-50;</a>
+</spair>
+<spair id='3'>
+<s id='en3'>The musculoskeletal system</s>
+<s id='vn3'>Hệ cơ xương</s>
+<a id='ev3'>2-2,3;3-1;</a>
+</spair>
+<spair id='4'>
+<s id='en4'>Every time you sprint through the halls because you 're late for class , score against your opponents during a game , or shoot pool with friends , you 're using your bones , muscles , and joints .</s>
+<s id='vn4'>Mỗi lần bạn chạy hết tốc lực qua hành lang vì đi học trễ , mỗi khi bạn áp đảo đối phương trong một trận thi đấu nào đó , hoặc mỗi lần bạn chơi pun với bạn bè thì bạn đều sử dụng xương , cơ , và khớp .</s>
+<a id='ev4'>1-1;2-2;3-3;4-4,5,6,7;5-8;7-9,10;8-11;11-14;13-13;15-19,20;18-21,22;19-23;20-24;21-25,26,27;23-31;24-35;25-36;26-37;27-38,39;29-41;31-43,44;33-45;35-47;37-49;38-50;</a>
+</spair>
+<spair id='5'>
+<s id='en5'>Without these important body parts , you 'd be seriously sidelined - you 'd be unable to sit , stand , walk , or do any of the activities you do every day .</s>
+<s id='vn5'>Nếu không có các bộ phận quan trọng này , bạn sẽ hoàn toàn " bị ra rìa " , bạn không thể ngồi , đứng , đi , hoặc có thể làm bất cứ hoạt động thường nhật nào của mình .</s>
+<a id='ev5'>1-1,2,3;2-9;3-7,8;5-4,5,6;7-11;8-12;10-13,14;11-16,17,18;13-21;16-22,23;18-24;20-26;22-28;24-30;25-31,32,33;26-34,35;29-36,37;30-42;32,33-38,39;</a>
+</spair>
+<spair id='6'>
+<s id='en6'>From our head to our toes , our bones provide support for our bodies and help form our shape .</s>
+<s id='vn6'>Xương có tác dụng hỗ trợ nâng đỡ cho cơ thể và giúp định vị hình dáng của chúng ta từ đầu đến chân .</s>
+<a id='ev6'>1-21;3-22;4-23;6-24;9-1;10-3,4;11-5,6;12-9;14-10,11;15-12;16-13;17-14,15;18-18,19,20;19-16,17;</a>
+</spair>
+<spair id='7'>
+<s id='en7'>The skull protects the brain and forms the shape of our face .</s>
+<s id='vn7'>Sọ bảo vệ não và tạo hình khuôn mặt .</s>
+<a id='ev7'>2-1;3-2,3;5-4;6-5;7-6;9-7;12-8,9;</a>
+</spair>
+<spair id='8'>
+<s id='en8'>The spinal cord , a pathway for messages between the brain and the body , is protected by the backbone , or spinal column .</s>
+<s id='vn8'>Tuỷ sống , đường truyền tín hiệu giữa não và cơ thể , được bảo vệ bởi xương cột sống .</s>
+<a id='ev8'>2-2;3-1;6-4,5;8-6,7;9-8;11-9;12-10;14-11,12;17-14,15,16;18-17;20-18;23-20;24-19;</a>
+</spair>
+<spair id='9'>
+<s id='en9'>The ribs form a cage that shelters the heart , lungs , liver , and spleen , and the pelvis helps protect the bladder , intestines , and in girls , the reproductive organs .</s>
+<s id='vn9'>Xương sườn tạo thành lồng che tim , phổi , gan , và lách ; khung xương chậu giúp bảo vệ bàng quang , ruột , và cả cơ quan sinh sản của phái nữ .</s>
+<a id='ev9'>2-1,2;3-3,4;5-5;7-6;9-7;11-9;13-11;15-13;16-14;20-16,17,18;21-19;22-20,21;24-22,23;26-25;28-27;30-34,35;33-31,32;34-29,30;</a>
+</spair>
+<spair id='10'>
+<s id='en10'>Although they 're very light , bones are strong enough to support our entire weight .</s>
+<s id='vn10'>Mặc dù xương rất nhẹ , nhưng chúng cũng đủ mạnh để có thể đỡ được toàn bộ trọng lượng của cơ thể con người .</s>
+<a id='ev10'>1-1,2;2-3;4-4;5-5;7-8;9-11;10-10;11-12;12-15;13-21,22,23,24,25;14-17,18;15-19,20;</a>
+</spair>
+<spair id='11'>
+<s id='en11'>Joints occur where two bones meet .</s>
+<s id='vn11'>Khớp là chỗ nối , là chỗ tiếp xúc giữa hai xương .</s>
+<a id='ev11'>1-1;2-3,4;3-6;4-11;5-12;6-7,8,9;</a>
+</spair>
+<spair id='12'>
+<s id='en12'>They make the skeleton flexible - without them , movement would be impossible .</s>
+<s id='vn12'>Chúng làm cho bộ xương linh hoạt - không có khớp , các cử động không tài nào thực hiện được .</s>
+<a id='ev12'>1-1;2-2,3;4-4,5;5-6,7;7-9,10;8-11;10-13,14,15;13-16,17,18,19,20,21;</a>
+</spair>
+<spair id='13'>
+<s id='en13'>Muscles are also necessary for movement :</s>
+<s id='vn13'>Cử động cũng rất cần đến các cơ .</s>
+<a id='ev13'>1-7,8;3-3;4-4,5,6;6-1,2;</a>
+</spair>
+<spair id='14'>
+<s id='en14'>They 're the masses of tough , elastic tissue that pull our bones when we move .</s>
+<s id='vn14'>Cơ là những khối mô dẻo dai và đàn hồi có thể kéo xương khi chúng ta di chuyển .</s>
+<a id='ev14'>1-1;2-2;4-3,4;6-6,7;8-9,10;9-5;11-13;13-14;14-15;15-16,17;16-18,19;</a>
+</spair>
+<spair id='15'>
+<s id='en15'>Together , our bones , muscles , and joints - along with tendons , ligaments , and cartilage - form our musculoskeletal system and enable us to do everyday physical activities .</s>
+<s id='vn15'>Xương , cơ , và khớp kết hợp với nhau thành khối - kèm với gân , dây chằng , và sụn - hình thành hệ cơ xương và giúp cho chúng ta có thể hoạt động thể lực hàng ngày được .</s>
+<a id='ev15'>1-9,10;4-1;6-3;8-5;9-6;11-14;12-15;13-16;15-18,19;17-21;18-22;20-24,25;22-27,28;23-26;24-29;25-30,31;26-32,33;28-34,35;29-40,41;30-38,39;31-36,37;</a>
+</spair>
+<spair id='16'>
+<s id='en16'>What are the bones and what do they do ?</s>
+<s id='vn16'>Xương là gì và chúng làm nhiệm vụ gì ?</s>
+<a id='ev16'>1-3;2-2;4-1;5-4;6-9;8-5;9-6,7,8;</a>
+</spair>
+<spair id='17'>
+<s id='en17'>The human skeleton has 206 bones .</s>
+<s id='vn17'>Bộ xương người có 206 chiếc .</s>
+<a id='ev17'>2-3;3-1,2;4-4;5-5;6-6;</a>
+</spair>
+<spair id='18'>
+<s id='en18'>Our bones begin to develop before birth .</s>
+<s id='vn18'>Chúng bắt đầu phát triển trước lúc chào đời .</s>
+<a id='ev18'>1,2-1;3-2,3;5-4,5;6-6,7;7-8,9;</a>
+</spair>
+<spair id='19'>
+<s id='en19'>When the skeleton first forms , it is made of flexible cartilage , but within a few weeks it begins the process of ossification .</s>
+<s id='vn19'>Khi bộ xương mới hình thành ban đầu , nó được làm từ sụn mềm , nhưng chỉ trong một vài tuần , nó đã bắt đầu quá trình cốt hoá .</s>
+<a id='ev19'>1-1;3-2,3;4-7,8;5-5,6;7-10;9-11,12;10-13;11-15;12-14;14-17;15-18,19;17-20,21;18-22;19-24;20-25,26,27;22-28,29;24-30,31;</a>
+</spair>
+<spair id='20'>
+<s id='en20'>Ossification is when the cartilage is replaced by hard deposits of calcium phosphate and stretchy collagen , the two main components of bone .</s>
+<s id='vn20'>Cốt hoá xảy ra khi sụn được thay bằng các chất lắng cứng gồm can-xi phốt-phát và chất tạo keo co giãn - đây là 2 thành phần chính cấu tạo nên xương .</s>
+<a id='ev20'>1-1,2;2-3,4;3-5;5-6;7-7,8;8-9;9-13;10-10,11,12;12-15;13-16;14-17;15-21,22;16-18,19,20;19-26;20-28,29;21-27;23-33;</a>
+</spair>
+<spair id='21'>
+<s id='en21'>It takes about 20 years for this process to be completed .</s>
+<s id='vn21'>Quá trình này mất khoảng 20 năm mới hoàn chỉnh .</s>
+<a id='ev21'>2-4;3-5;4-6;5-7;7-3;8-1,2;10-8;11-9,10;</a>
+</spair>
+<spair id='22'>
+<s id='en22'>The bones of kids and young teens are smaller than those of adults and contain " growing zones " called growth plates .</s>
+<s id='vn22'>Xương của trẻ em và thiếu nhi nhỏ hơn xương của người lớn và có chứa " vùng phát triển " được gọi là vùng sụn tiếp hợp tăng trưởng .</s>
+<a id='ev22'>2-1;3-2;4-3,4;5-5;7-6,7;9-8,9;11-10;12-11;13-12,13;14-14;15-15,16;17-19,20;18-18;20-22,23,24;21-29,30;22-25,26;</a>
+</spair>
+<spair id='23'>
+<s id='en23'>These plates consist of columns of multiplying cartilage cells that grow in length , and then change into hard , mineralized bone .</s>
+<s id='vn23'>Vùng sụn này chứa nhiều cột tế bào sụn đang phát triển theo chiều dài , và sau đó chuyển thành xương cứng và bị khoáng hoá .</s>
+<a id='ev23'>1-3;2-1,2;3-4;5-5,6;8-9;9-7,8;11-10,11,12;13-13,14,15;15-17;16-18,19;17-20;18-21;19-23;21-25,26,27;22-22;</a>
+</spair>
+<spair id='24'>
+<s id='en24'>These growth plates are easy to spot on an X-ray .</s>
+<s id='vn24'>Các vùng sụn này rất dễ nhìn thấy khi chụp X-quang .</s>
+<a id='ev24'>1-4;3-1,2,3;5-6;7-7,8;8-9;10-10,11;</a>
+</spair>
+<spair id='25'>
+<s id='en25'>Because girls mature at an earlier age than boys , their growth plates change into hard bone at an earlier age .</s>
+<s id='vn25'>Bởi bé gái phát triển sớm hơn bé trai nên vùng sụn tiếp hợp tăng trưởng của bé gái thường chuyển hoá thành xương cứng sớm hơn .</s>
+<a id='ev25'>1-1;2-2,3;3-4,5;6-6,7;9-8,9;11-17,18,19;12-15,16;13-11,12;14-21,22;15-23;16-25;17-24;20-26,27;</a>
+</spair>
+<spair id='26'>
+<s id='en26'>Bone building continues throughout your life , as your body constantly renews and reshapes the bones " living tissue .</s>
+<s id='vn26'>Xương phát triển và tăng sinh suốt cả cuộc đời , bởi cơ thể của bạn thường xuyên phục hồi và tái tạo lại hình dạng mô sống của xương .</s>
+<a id='ev26'>1-1;2-2,3;3-5,6;4-7,8;6-9,10;8-12;9-15,16;10-13,14;11-17,18;12-19,20;14-22,23,24,25,26;16-30;18-28;19-27;</a>
+</spair>
+<spair id='27'>
+<s id='en27'>Bone contains three types of cells : osteoblasts , which make new bone and help repair damage ; osteocytes , which carry nutrients and waste products to and from blood vessels in the bone ; and osteoclasts , which break down bone and help to sculpt and shape it .</s>
+<s id='vn27'>Có 3 loại tế bào trong xương : tế bào tạo xương , có tác dụng tạo xương mới và phục hồi tổn thương ; tế bào xương - vận chuyển chất dinh dưỡng và chất thải tới các mạch máu trong xương và theo chiều ngược lại ; và tế bào huỷ xương - có tác dụng phân huỷ xương và giúp thay đổi và định hình xương .</s>
+<a id='ev27'>1-7;2-1;3-2;4-3;6-4,5;8-9,10,11,12;11-17;12-19;13-18;14-20;16-21,22;17-23,24;19-26,27,28;22-30,31;23-33,34;24-35;25-37;26-32,36;28,29-45,46,47,48;30-41;31-39,40;32-42;34-43;36-50;37-51,52,53,54;40,41-59,60;42-61;43-62;44-63;46-64,65;48-67,68;49-69;</a>
+</spair>
+<spair id='28'>
+<s id='en28'>Osteoclasts are very active in kids and teens , working on bone as it is remodeled during growth .</s>
+<s id='vn28'>Các tế bào huỷ xương này gây ảnh hưởng rất lớn đối với trẻ nhỏ và thanh thiếu niên , tác động đến xương khi xương được hoàn thiện trong quá trình phát triển của trẻ .</s>
+<a id='ev28'>1-1,2,3,4,5,6;4-7,8,9,10,11;5-12,13;6-14,15;8-17,18,19;10-21,22;11-23;12-24;13-25;14-26;16-27,28,29;17-30,31,32;18-33,34;</a>
+</spair>
+<spair id='29'>
+<s id='en29'>They also play an important role in the repair of fractures .</s>
+<s id='vn29'>Bên cạnh đó chúng còn đóng vai trò quan trọng trong việc chỉnh sửa các chỗ nứt gãy .</s>
+<a id='ev29'>1-4;2-5;3-6;5-9,10;6-7,8;7-11;9-12,13,14;11-15,16,17,18;</a>
+</spair>
+<spair id='30'>
+<s id='en30'>Bones are made up of calcium , phosphorus , sodium , and other minerals , as well as the protein collagen .</s>
+<s id='vn30'>Xương được cấu tạo từ can-xi , phốt-pho , na-tri , và nhiều khoáng chất khác , cũng như chất collagen prô-tê-in .</s>
+<a id='ev30'>1-1;3-2,3,4;6-6;8-8;10-10;12-12;13-16;14-13,14,15;16,17,18-18,19;20-22;21-20,21;</a>
+</spair>
+<spair id='31'>
+<s id='en31'>Calcium is needed to make bones hard , which allows them to support your weight .</s>
+<s id='vn31'>Can-xi cần thiết để làm cho xương cứng cáp , giúp xương có thể nâng đỡ được trọng lượng cơ thể .</s>
+<a id='ev31'>1-1;3-2,3;4-4;5-5,6;6-7;7-8,9;10-11;11-12;13-15,16;14-20,21;15-18,19;</a>
+</spair>
+<spair id='32'>
+<s id='en32'>Bones also store calcium and release some into the bloodstream when it 's needed by other parts of the body .</s>
+<s id='vn32'>Xương cũng dự trữ can-xi và thải can-xi vào máu khi các bộ phận khác trên cơ thể cần đến .</s>
+<a id='ev32'>1-1;2-2;3-3,4;4-5;5-6;6-7;7-8;8-9;10-10;11-11;14-19,20;16-15;17-12,13,14;18-16;20-17,18;</a>
+</spair>
+<spair id='33'>
+<s id='en33'>The amounts of certain vitamins and minerals that you eat , especially vitamin D and calcium , directly affect how much calcium is stored in the bones .</s>
+<s id='vn33'>Lượng vitamin và khoáng chất nào đó mà bạn hấp thụ vào cơ thể , nhất là vitamin D và can-xi có ảnh hưởng trực tiếp đến lượng can-xi dự trữ trong xương là bao nhiêu .</s>
+<a id='ev33'>2-1;4-6,7;5-2;6-3;7-4,5;8-8;9-9;10-10,11;12-16,17;13-18;14-19;15-20;16-21;18-25,26;19-22,23,24;20,21-35,36;22-28,29;24-30,31;25-32;27-33;</a>
+</spair>
+<spair id='34'>
+<s id='en34'>The soft bone marrow inside many of our bones is where most of the blood cells flowing through our bodies are made .</s>
+<s id='vn34'>Nhiều xương chứa tuỷ xương mềm bên trong – đây là nơi hầu hết các tế bào máu của toàn bộ cơ thể được hình thành nên .</s>
+<a id='ev34'>2-6;3-5;4-4;5-7,8;9-2;11-12;12-13,14;15-18;16-15,16,17;18-20,21;20-22,23;22-24,25,26;</a>
+</spair>
+<spair id='35'>
+<s id='en35'>The bone marrow contains stem cells , which produce the body 's red blood cells and platelets , and some types of white blood cells .</s>
+<s id='vn35'>Tuỷ xương chứa tế bào gốc , tạo hồng cầu và tiểu cầu , và một số loại bạch cầu cho cơ thể .</s>
+<a id='ev35'>2-2;3-1;4-3;5-6;6-4,5;9-8;11-22,23;13,14,15-9,10;16-11;17-12,13;19-15;20-16,17;21-18;23,24,25-19,20;</a>
+</spair>
+<spair id='36'>
+<s id='en36'>Red blood cells carry oxygen to the body 's tissues , and platelets help with blood clotting when someone has a cut or wound .</s>
+<s id='vn36'>Hồng cầu vận chuyển ô-xy đến mô , và tiểu cầu có nhiệm vụ giúp đông máu khi bị rách da hoặc bị thương .</s>
+<a id='ev36'>1,2,3-1,2;4-3,4;5-5;6-6;10-7;12-9;13-10,11;14-15;16-17;17-16;18-18;22-19,20,21;23-22;24-23,24;</a>
+</spair>
+<spair id='37'>
+<s id='en37'>White blood cells help the body fight infection .</s>
+<s id='vn37'>Bạch cầu giúp cơ thể chống nhiễm trùng .</s>
+<a id='ev37'>1,2,3-1,2;4-3;6-4,5;7-6;8-7,8;</a>
+</spair>
+<spair id='38'>
+<s id='en38'>Bones are made up of two types of material - compact bone and cancellous bone .</s>
+<s id='vn38'>Thành phần xương cấu tạo gồm 2 loại vật chất đó là xương đặc và xương xốp .</s>
+<a id='ev38'>1-1,2,3;3-4,5;5-6;6-7;7-8;9-9,10;11-14;12-13;13-15;14-17;15-16;</a>
+</spair>
+<spair id='39'>
+<s id='en39'>Compact bone is the solid , hard outside part of the bone .</s>
+<s id='vn39'>Xương đặc rắn và cứng cáp – đây là phần nằm bên ngoài xương .</s>
+<a id='ev39'>1-2;2-1;5-3;7-5,6;8-12,13;9-10;12-14;</a>
+</spair>
+<spair id='40'>
+<s id='en40'>It looks like ivory and is extremely strong .</s>
+<s id='vn40'>Nó trông như ngà và cực kỳ cứng chắc .</s>
+<a id='ev40'>1-1;2-2;3-3;4-4;5-5;7-6,7;8-8,9;</a>
+</spair>
+<spair id='41'>
+<s id='en41'>Holes and channels run through it , carrying blood vessels and nerves from the periosteum , the bone 's membrane covering , to its inner parts .</s>
+<s id='vn41'>Bên trong xương đặc chứa nhiều lỗ hổng và nhiều ống dẫn đi qua - có nhiệm vụ vận chuyển mạch máu và các dây thần kinh từ màng xương đến các bộ phận bên trong của nó - màng xương là lớp màng bọc ngoài của xương .</s>
+<a id='ev41'>1-6,7,8;2-9;3-10,11,12;4-13;6-3,4;8-19,20;9-22;10-21;11-23;12-24,25,26,27;13-28;15-29,30;18-48;19-47;20-43,44;21-45,46;24-37,38;25-35,36;26-32,33,34;</a>
+</spair>
+<spair id='42'>
+<s id='en42'>Cancellous bone , which looks like a sponge , is inside the compact bone .</s>
+<s id='vn42'>Xương xốp , trông giống như xốp , nằm bên trong xương đặc .</s>
+<a id='ev42'>1-2;2-1;5-4;6-5,6;8-7;10-9;11-10,11;13-13;14-12;</a>
+</spair>
+<spair id='43'>
+<s id='en43'>It is made up of a mesh-like network of tiny pieces of bone called trabeculae .</s>
+<s id='vn43'>Xương xốp được cấu tạo gồm một hệ thống giống y như mắc lưới từ vô số mảnh xương nhỏ li ti được gọi là bè xương // lá xương .</s>
+<a id='ev43'>1-1,2;3-4,5;5-6;6-7;7-10,11,12,13,14;8-8,9;10-20,21,22;11-18;13-19;14-23,24,25;15-26,27,29,30;</a>
+</spair>
+<spair id='44'>
+<s id='en44'>The spaces in this network are filled with red marrow , found mainly at the ends of bones , and yellow marrow , which is mostly fat .</s>
+<s id='vn44'>Những lỗ nhỏ chi chít trong hệ thống xương này chứa đầy tuỷ đỏ - tuỷ đỏ chủ yếu nằm ở đầu xương , và tuỷ vàng , hầu hết là mỡ .</s>
+<a id='ev44'>2-1,2,3,4,5;4-10;5-7,8,9;7-11,12;9-14;10-13;13-18,19;16-22;18-23;21-27;22-26;25-31;26-29,30;27-32;</a>
+</spair>
+<spair id='45'>
+<s id='en45'>Bones are fastened to other bones by long , fibrous straps called ligaments .</s>
+<s id='vn45'>Các xương được kết nối với nhau bởi những sợi dây dài , có thớ được gọi là dây chằng .</s>
+<a id='ev45'>1-1,2;3-3,4,5;5,6-6,7;7-8;8-12;10-14,15;11-9,10,11;12-16,17,18;13-19,20;</a>
+</spair>
+<spair id='46'>
+<s id='en46'>Cartilage , a flexible , rubbery substance in our joints , supports bones and protects them where they rub against each other .</s>
+<s id='vn46'>Sụn là chất mềm và dai nằm trong các khớp , có nhiệm vụ hỗ trợ cho xương và bảo vệ xương khi chúng cọ xát với nhau .</s>
+<a id='ev46'>1-1;4-4;6-6;7-3;8-7,8;10-9,10;12-15,16;13-18;14-19;15-20,21;16-22;17-23;18-24;19-25,26;21,22-27,28;</a>
+</spair>
+<spair id='47'>
+<s id='en47'>What are the muscles and what do they do ?</s>
+<s id='vn47'>Cơ là gì và chúng có tác dụng gì ?</s>
+<a id='ev47'>1-3;2-2;4-1;5-4;6-9;8-5;9-6,7,8;</a>
+</spair>
+<spair id='48'>
+<s id='en48'>Bones don't work alone - they need help from the muscles and joints .</s>
+<s id='vn48'>Xương không hoạt động đơn lẻ mà chúng cần có cơ và khớp .</s>
+<a id='ev48'>1-1;2-2;3-3,4;4-5,6;6-8;7-9,10;11-11;12-12;13-13;</a>
+</spair>
+<spair id='49'>
+<s id='en49'>Muscles pull on the joints , allowing us to move .</s>
+<s id='vn49'>Cơ có nhiệm vụ kéo khớp , làm cho chúng ta có thể cử động được .</s>
+<a id='ev49'>1-1;2-5;5-6;7-8,9;8-10,11;10-12,13,14,15,16;</a>
+</spair>
+<spair id='50'>
+<s id='en50'>They also help the body perform other functions so we can grow and remain strong , such as chewing food and then moving it through the digestive system .</s>
+<s id='vn50'>Ngoài ra , cơ còn giúp cơ thể thực hiện thêm nhiều chức năng khác vì vậy chúng ta có thể phát triển và giữ được sức khỏe dẻo dai , chẳng hạn như cơ giúp chúng ta nhai thức ăn và di chuyển thức ăn xuống hệ tiêu hoá .</s>
+<a id='ev50'>1-4;2-5;3-6;5-12;6-9,10;7-15;8-13,14;9-16,17;10-18,19;11-20,21;12-22,23;13-24;14-25,26;15-29,30;19-39;20-40,41;23-43,44;24-45,46;25-47;27-49,50;28-48;</a>
+</spair>
+<spair id='51'>
+<s id='en51'>The human body has more than 650 muscles , which make up half of a person 's body weight .</s>
+<s id='vn51'>Cơ thể người có hơn 650 cơ , tạo nên một nửa trọng lượng cơ thể .</s>
+<a id='ev51'>2-3;3-1,2;4-4;5,6-5;7-6;8-7;11-9,10;13-11,12;18-15,16;19-13,14;</a>
+</spair>
+<spair id='52'>
+<s id='en52'>They are connected to bones by tough , cord-like tissues called tendons , which allow the muscles to pull on bones .</s>
+<s id='vn52'>Chúng được nối với xương bằng những mô giống như sợi dây dai bền , khó đứt được gọi là gân , những sợi gân này có tác dụng giúp cho cơ kéo được xương .</s>
+<a id='ev52'>1-1;3-2,3;4-4;5-5;6-6;7-13,14,16,17,18;9-9,10,11,12;10-7,8;11-19,20;12-21;14-23,24,25,26;15-27,28,29;17-32;19-33;21-35;</a>
+</spair>
+<spair id='53'>
+<s id='en53'>If you wiggle your fingers , you can see the tendons on the back of your hand move as they do their work .</s>
+<s id='vn53'>Nếu bạn ngọ nguậy ngón tay , bạn có thể quan sát thấy gân trên mu bàn tay cũng cử động bởi chúng đang thực hiện chức năng của mình .</s>
+<a id='ev53'>1-1;2-2;3-3,4;5-5,6;7-8;8-9,10;9-11,12,13;11-14;12-15;14,15,16,17-16,17,18;18-20,21;19-22;20-23;21-24,25,26;22-29,30;23-27,28;</a>
+</spair>
+<spair id='54'>
+<s id='en54'>Humans have three different kinds of muscle :</s>
+<s id='vn54'>Có ba loại cơ khác nhau :</s>
+<a id='ev54'>2-1;3-2;4-5,6;5-3;7-4;</a>
+</spair>
+<spair id='55'>
+<s id='en55'>1 . Skeletal muscle is attached to bone , mostly in the legs , arms , abdomen , chest , neck , and face .</s>
+<s id='vn55'>1 . Cơ xương được nối với xương , cơ xương hầu hết nằm ở cẳng chân , cánh tay , bụng , ngực , cổ , và mặt .</s>
+<a id='ev55'>1-1;3-4;4-3;6-5,6;7-7;8-8;10-12,13;11-14,15;13-16,17;15-19,20;17-22;19-24;21-26;23-28;24-29;</a>
+</spair>
+<spair id='56'>
+<s id='en56'>Skeletal muscles are called striated because they are made up of fibers that have horizontal stripes when viewed under a microscope .</s>
+<s id='vn56'>Cơ xương được gọi là cơ có sọc bởi chúng được cấu tạo từ những sợi có sọc ngang khi quan sát dưới kính hiển vi .</s>
+<a id='ev56'>1-2;2-1;4-3,4,5;5-6,7,8;6-9;7-10;9-12,13;11-14;12-15,16;14-17;15-19;16-18;17-20;18-21,22;19-23;21-24,25,26;</a>
+</spair>
+<spair id='57'>
+<s id='en57'>These muscles hold the skeleton together , give the body shape , and help it with everyday movements ( they are known as voluntary muscles because you can control their movement ) .</s>
+<s id='vn57'>Những cơ này giúp cho bộ xương dính với nhau , định vị hình dạng của cơ thể , và giúp cho cơ thể thực hiện được các hoạt động thường nhật của mình ( các cơ này cũng được gọi là cơ vân bởi bạn có thể kiểm soát được cử động của chúng ) .</s>
+<a id='ev57'>1-3;2-1,2;3-4,5,8;5-6,7;6-9,10;8-12,13;10-17,18;11-14,15;13-20;14-21;15-23,24;17-31,32;18-28,29,30;20-36,37,38;22-40,41,42;24-44;25-43;26-45;27-46;28-47,48;29-49,50;30-54,55;31-52,53;</a>
+</spair>
+<spair id='58'>
+<s id='en58'>They can contract ( shorten or tighten ) quickly and powerfully , but they tire easily and have to rest between workouts .</s>
+<s id='vn58'>Chúng có thể co rút lại ( siết chặt co lại ) nhanh và dữ dội nhưng dễ mỏi và phải được nghỉ ngơi giữa các buổi luyện tập thể lực .</s>
+<a id='ev58'>1-1;2-2,3;3-4,5,6;5-10,11;7-8,9;9-13;11-15,16;13-17;15-19;16-18;17-20;18,19-21;20-22,23,24;21-25;22-26,27,28,29,30,31;</a>
+</spair>
+<spair id='59'>
+<s id='en59'>2 . Smooth , or involuntary , muscle is also made of fibers , but this type of muscle looks smooth , not striated .</s>
+<s id='vn59'>2 . Cơ trơn , hoặc cơ ngoại ý cũng được cấu tạo từ sợi , nhưng loại cơ này trông có vẻ trơn và không có sọc .</s>
+<a id='ev59'>1-1;3-4;6-7,8,9;8-3;10-10;11-11,12,13;12-14;13-15;15-17;16-20;17-18;19-19;20-21,22,23;21-24;23-26;24-27,28;</a>
+</spair>
+<spair id='60'>
+<s id='en60'>Generally , we can't consciously control our smooth muscles ; rather , they 're controlled by the nervous system automatically ( which is why they are also called involuntary ) .</s>
+<s id='vn60'>Nói chung là chúng ta không chủ ý kiểm soát cơ trơn được ; hay nói đúng hơn là những cơ trơn này được hệ thần kinh kiểm soát một cách tự động ( đó là lý do chúng được gọi là cơ tự động ) .</s>
+<a id='ev60'>1-1,2,3;3-4,5;4-6;5-7,8;6-9,10;8-12;9-11;11-15,16,17,18,19;13-20,21,22,23;15-24,28,29;18-26,27;19-25;20-30,31,32,33;22-35,36;24-37,38;25-39;28-40,41,42;29-43,44,45;</a>
+</spair>
+<spair id='61'>
+<s id='en61'>Examples of smooth muscles are the walls of the stomach and intestines , which help break up food and move it through the digestive system .</s>
+<s id='vn61'>Ví dụ của cơ trơn là vách dạ dày và ruột , chúng có tác dụng giúp phân huỷ thức ăn và chuyển thức ăn xuống hệ tiêu hoá .</s>
+<a id='ev61'>1-1,2;2-3;3-5;4-4;5-6;7-7;10-8,9;11-10;12-11;14-13;15-17;16,17-18,19;18-20,21;19-22;20-23;21-24,25;22-26;24-28,29;25-27;</a>
+</spair>
+<spair id='62'>
+<s id='en62'>Smooth muscle is also found in the walls of blood vessels , where it squeezes the stream of blood flowing through the vessels to help maintain blood pressure .</s>
+<s id='vn62'>Cơ trơn cũng có thể nằm trong thành mạch máu , ở đây nó ép nén dòng máu khi lưu thông qua mạch nhằm giúp điều hoà huyết áp .</s>
+<a id='ev62'>1-2;2-1;4-3;6-6,7;8-8;10-10;11-9;13-12,13;14-14;15-15,16;17-17;19-18;20-20,21;21-22;23-23;25-24,25;26-26,27;27-28;28-29;</a>
+</spair>
+<spair id='63'>
+<s id='en63'>Smooth muscles take longer to contract than skeletal muscles do , but they can stay contracted for a long time because they don't tire easily .</s>
+<s id='vn63'>Các cơ trơn này mất nhiều thời gian hơn để co lại được so với cơ xương , nhưng trái lại chúng có thể co lại trong một thời gian dài bởi chúng không dễ gì mỏi được .</s>
+<a id='ev63'>1-3;2-1,2;3-5;4-6,7,8,9;5-10;6-11,12;7-14,15;8-17;9-16;12-19;13-22;14-23,24;16-25,26;17-27;18-28;19-31;20-29,30;21-32;22-33;23-34;24-37;25-35,36;</a>
+</spair>
+<spair id='64'>
+<s id='en64'>3 . Cardiac muscle is found in the heart .</s>
+<s id='vn64'>3 . Cơ tim nằm ở trong tim .</s>
+<a id='ev64'>1-1;3-4;4-3;5,6-5;7-6,7;9-8;</a>
+</spair>
+<spair id='65'>
+<s id='en65'>The walls of the heart 's chambers are composed almost entirely of muscle fibers .</s>
+<s id='vn65'>Vách buồng tim gần như được cấu tạo hoàn toàn từ sợi cơ .</s>
+<a id='ev65'>2-1;5-3;7-2;9-7,8;10-4,5;11-9,10;13-13;14-12;</a>
+</spair>
+<spair id='66'>
+<s id='en66'>Cardiac muscle is also an involuntary type of muscle .</s>
+<s id='vn66'>Cơ tim cũng là một loại cơ tự động .</s>
+<a id='ev66'>1-2;2-1;4-3;5-5;6-8,9;7-6;9-7;</a>
+</spair>
+<spair id='67'>
+<s id='en67'>Its rhythmic , powerful contractions force blood out of the heart as it beats .</s>
+<s id='vn67'>Nhịp tim , các co thắt mạnh của tim làm đẩy máu ra khỏi tim khi đập .</s>
+<a id='ev67'>1-8,9;2-1,2;4-7;5-4,5,6;6-11;7-12;8-13,14;11-15;12-16;14-17;</a>
+</spair>
+<spair id='68'>
+<s id='en68'>Muscles and movement</s>
+<s id='vn68'>Cơ và cử động</s>
+<a id='ev68'>1-1;2-2;3-3,4;</a>
+</spair>
+<spair id='69'>
+<s id='en69'>Even when you sit perfectly still , there are muscles throughout your body that are constantly moving .</s>
+<s id='vn69'>Thậm chí khi bạn ngồi hoàn toàn bất động thì những cơ trên toàn cơ thể của chúng ta cũng đang hoạt động không ngừng .</s>
+<a id='ev69'>1-1,2;2-3;3-4;4-5;5-6,7;6-8,9;10-11,12;11-14;12-17,18,19;13-15,16;16-24,25;17-21,22,23;</a>
+</spair>
+<spair id='70'>
+<s id='en70'>Muscles enable your heart to beat , your chest to rise and fall as you breathe , and your blood vessels to help regulate the pressure and flow of blood through your body .</s>
+<s id='vn70'>Cơ có nhiệm vụ giúp cho tim bạn đập , làm cho ngực bạn phồng lên và xẹp xuống khi bạn hít thở , và mạch máu giúp điều hoà áp lực và giúp cho máu lưu thông trong cơ thể .</s>
+<a id='ev70'>1-1;2-2,3,4;3-8;4-7;6-9;8-14;9-13;11-15,16;12-17;13-18,19;14-20;15-21;16-22,23;18-25;20-27;21-26;23-28;24-29,30;26-31,32;27-33;28-37,38;30-36;31-39;33-40,41;</a>
+</spair>
+<spair id='71'>
+<s id='en71'>When we smile and talk , muscles are helping us communicate , and when we exercise , they help us stay physically fit and healthy .</s>
+<s id='vn71'>Khi chúng ta cười và nói chuyện thì các cơ giúp chúng ta truyền đạt , và khi chúng ta tập thể dục thì các cơ ấy giúp cơ thể chúng ta khỏe mạnh và cân đối .</s>
+<a id='ev71'>1-1;2-2,3;3-4;4-5;5-6,7;7-9,10;9-11;10-12,13;11-14,15;13-17;14-18;15-19,20;16-21,22,23;18-25,26,27;19-28;20-31,32;22-29,30;23-36,37;24-35;25-33,34;</a>
+</spair>
+<spair id='72'>
+<s id='en72'>The movements your muscles make are coordinated and controlled by the brain and nervous system .</s>
+<s id='vn72'>Các cử động mà cơ gây nên đều có tính chất phối hợp và được điều khiển bởi não và hệ thần kinh .</s>
+<a id='ev72'>2-1,2,3;4-5;5-6,7;7-10,11,12,13;8-14;9-15,16,17;10-18;12-19;13-20;14-22,23;15-21;</a>
+</spair>
+<spair id='73'>
+<s id='en73'>The involuntary muscles are controlled by structures deep within the brain and the upper part of the spinal cord called the brain stem .</s>
+<s id='vn73'>Những cơ trơn này được kiểm soát bởi các cấu trúc nằm sâu bên trong não và phần trên của tuỷ sống được gọi thân não .</s>
+<a id='ev73'>1-4;2-3;3-1,2;5-5,6,7;6-8;7-9,10,11;8-12,13;9-14,15;11-16;12-17;14-19;15-18;16-20;18-22;19-21;20-23,24;22-26;23-25;</a>
+</spair>
+<spair id='74'>
+<s id='en74'>The voluntary muscles are regulated by the parts of the brain known as the cerebral motor cortex and the cerebellum .</s>
+<s id='vn74'>Cơ vân được kiểm soát bởi các bộ phận trong não bộ được gọi là vỏ não vận động và tiểu não .</s>
+<a id='ev74'>2-2;3-1;5-3,4,5;6-6;8-7,8,9;9-10;11-11,12;12-13,14,15;15-17;16-18,19;17-16;18-20;20-21,22;</a>
+</spair>
+<spair id='75'>
+<s id='en75'>When you decide to move , the motor cortex sends an electrical signal through the spinal cord and peripheral nerves to the muscles , causing them to contract .</s>
+<s id='vn75'>Khi chúng ta muốn di chuyển thì vỏ não vận động gửi tín hiệu điện qua tuỷ sống và dây thần kinh ngoại biên đến cơ , làm cho chúng co thắt lại .</s>
+<a id='ev75'>1-1;2-2,3;3-4;5-5,6;8-10,11;9-8,9;10-12;12-15;13-13,14;14-16;16-18;17-17;18-19;19-23,24;20-20,21,22;21-25;23-26;25-28,29;26-30;28-31,32,33;</a>
+</spair>
+<spair id='76'>
+<s id='en76'>The motor cortex on the right side of the brain controls the muscles on the left side of the body and vice versa .</s>
+<s id='vn76'>Vỏ não vận động bên phải não kiểm soát cơ bên trái của cơ thể và ngược lại .</s>
+<a id='ev76'>2-3,4;3-1,2;6-6;7-5;10-7;11-8,9;13-10;16-12;17-11;18-13;20-14,15;21-16;22-17,18;</a>
+</spair>
+<spair id='77'>
+<s id='en77'>The cerebellum coordinates the muscle movements ordered by the motor cortex .</s>
+<s id='vn77'>Tiểu não phối hợp chuyển động cơ do vỏ não vận động yêu cầu .</s>
+<a id='ev77'>2-1,2;3-3,4;5-7;6-5,6;7-13,14;10-11,12;11-9,10;</a>
+</spair>
+<spair id='78'>
+<s id='en78'>Sensors in the muscles and joints send messages back through peripheral nerves to tell the cerebellum and other parts of the brain where and how the arm or leg is moving and what position it 's in .</s>
+<s id='vn78'>Bộ phận cảm biến trong khớp và cơ gởi thông điệp ngược trở lại qua dây thần kinh ngoại biên nhằm báo cho tiểu não và các bộ phận khác của não bộ biết cánh tay hoặc cẳng chân đang chuyển động ở đâu và như thế nào và cả vị trí của nó nữa .</s>
+<a id='ev78'>1-1,2,3,4;2-5;4-8;5-7;6-6;7-9;8-10,11;9-12,13,14;10-15;11-19,20;12-16,17,18;13-21;14-22,23;16-24,25;17-26;18-30;19-27,28,29;20-31;22-32,33;23-43,44;24-45;25-46,47,48;27-35,36;28-37;29-38,39;31-40,41,42;32-49;34-51,52;35-53,54;</a>
+</spair>
+<spair id='79'>
+<s id='en79'>This feedback results in smooth , coordinated motion .</s>
+<s id='vn79'>Thông điệp phản hồi này dẫn đến chuyển động trơn tru và có phối hợp .</s>
+<a id='ev79'>1-5;2-1,2,3,4;3-6,7;5-10,11;7-13,14,15;8-8,9;</a>
+</spair>
+<spair id='80'>
+<s id='en80'>If you want to lift your arm , your brain sends a message to the muscles in your arm and you move it .</s>
+<s id='vn80'>Nếu bạn muốn nhấc cánh tay , não của bạn sẽ gởi thông điệp đến các cơ cánh tay và bạn có thể cử động cánh tay được .</s>
+<a id='ev80'>1-1;2-2;3-3;5-4;7-5,6;9-9,10;10-8;11-11,12;13-13,14;14-15;16-16,17;19-18,19;20-20;21-21;22-24,25;23-26,27;</a>
+</spair>
+<spair id='81'>
+<s id='en81'>When you run , the messages to the brain are more involved , because many muscles have to work in rhythm .</s>
+<s id='vn81'>Khi bạn chạy , thì các thông điệp đến não phức tạp hơn , bởi nhiều cơ phải làm việc một cách nhịp nhàng .</s>
+<a id='ev81'>1-1;2-2;3-3;6-6,7,8;7-9;9-10;11-13;12-11,12;14-15;15-16;16-17;17,18-18;19-19,20;21-21,22,23,24;</a>
+</spair>
+<spair id='82'>
+<s id='en82'>Muscles move body parts by contracting and then relaxing .</s>
+<s id='vn82'>Cơ làm các bộ phận trên cơ thể cử động bằng cách co rồi duỗi .</s>
+<a id='ev82'>1-1;2-9,10;3-7,8;4-3,4,5;6-13;8-14;9-15;</a>
+</spair>
+<spair id='83'>
+<s id='en83'>Your muscles can pull bones , but they can't push them back to their original position .</s>
+<s id='vn83'>Cơ bạn có thể kéo xương , nhưng cơ không đẩy xương trở lại vào vị trí ban đầu được .</s>
+<a id='ev83'>1-2;2-1;3-3,4;4-5;5-6;7-8;8-9;9-10;10-11;11-12;12-13,14;15-18,19;16-15,16,17;</a>
+</spair>
+<spair id='84'>
+<s id='en84'>So they work in pairs of flexors and extensors .</s>
+<s id='vn84'>Vì vậy các cơ phải hoạt động phối hợp với nhau từng đôi cơ gấp và cơ duỗi .</s>
+<a id='ev84'>1-1,2;2-3,4;3-6,7;5-12,13;7-14,15;8-16;9-17,18;</a>
+</spair>
+<spair id='85'>
+<s id='en85'>The flexor contracts to bend a limb at a joint .</s>
+<s id='vn85'>Cơ gấp co để gập chi ở khớp .</s>
+<a id='ev85'>2-1,2;3-3;4-4;5-5;7-6;8-7;10-8;</a>
+</spair>
+<spair id='86'>
+<s id='en86'>Then , when you 've completed the movement , the flexor relaxes and the extensor contracts to extend or straighten the limb at the same joint .</s>
+<s id='vn86'>Sau đó khi bạn đã hoàn tất một cử động nào đó thì cơ gấp dãn ra và cơ duỗi co lại để kéo hoặc làm duỗi chi ở ngay khớp đó .</s>
+<a id='ev86'>1-1,2;3-3;4-4;6-5,6,7;7-11,12;8-8,9,10;11-14,15;12-16,17;13-18;15-19,20;16-21,22;17-23;18-24;19-25;20-26,27;22-28;24-32;25-29,30;26-31;</a>
+</spair>
+<spair id='87'>
+<s id='en87'>For example , the biceps muscle , in the front of the upper arm , is a flexor , and the triceps , at the back of the upper arm , is an extensor .</s>
+<s id='vn87'>Ví dụ như cơ hai đầu ( cơ bắp tay ) chẳng hạn , ở phía trước phần cánh tay trên , là cơ gấp , và cơ ba đầu , ở phần sau của cánh tay trên , là cơ duỗi .</s>
+<a id='ev87'>2-1,2;5-5,6;6-4;8-15;10-16,17;13-21;14-18,19,20;16-23;18-24,25;20-27;22-28,29,30;24-32;26-33,34;27-35;29-38;30-36,37;32-40;34-41,42;</a>
+</spair>
+<spair id='88'>
+<s id='en88'>When you bend at your elbow , the biceps contracts .</s>
+<s id='vn88'>Khi bạn gập khuỷu tay thì cơ hai đầu co lại .</s>
+<a id='ev88'>1-1;2-2;3-3;6-4,5;9-7,8,9;10-10,11;</a>
+</spair>
+<spair id='89'>
+<s id='en89'>Then the biceps relaxes and the triceps contracts to straighten the elbow .</s>
+<s id='vn89'>Sau đó cơ này duỗi ra và cơ ba đầu co lại để kéo thẳng khuỷu tay .</s>
+<a id='ev89'>1-1,2;2-4;3-3;4-5,6;5-7;7-8,9,10;8-11,12;9-13;10-14,15;12-16,17;</a>
+</spair>
+<spair id='90'>
+<s id='en90'>What are the joints and what do they do ?</s>
+<s id='vn90'>Khớp là gì và khớp làm nhiệm vụ gì ?</s>
+<a id='ev90'>1-3;2-2;4-1;5-4;8-5;9-6,7,8;</a>
+</spair>
+<spair id='91'>
+<s id='en91'>Joints allow our bodies to move in many ways .</s>
+<s id='vn91'>Khớp giúp cơ thể chúng ta cử động theo nhiều cách khác nhau .</s>
+<a id='ev91'>1-1;2-2;3-5,6;4-3,4;6-7,8;7-9;8-10;9-11,12,13;</a>
+</spair>
+<spair id='92'>
+<s id='en92'>Some joints open and close like a hinge ( such as knees and elbows ) , whereas others allow for more complicated movement - a shoulder or hip joint , for example , allows for backward , forward , sideways , and rotating movement .</s>
+<s id='vn92'>Một số khớp mở và đóng như bản lề ( chẳng hạn như khuỷu tay và đầu gối ) , trong khi các khớp khác có thể giúp thực hiện phức tạp hơn - như khớp vai hoặc khớp hông , giúp làm động tác lùi , tiến , qua một bên , và xoay tròn .</s>
+<a id='ev92'>1-1,2;2-3;3-4;4-5;5-6;6-7;8-8,9;10-11,12;11-13;12-14,15;13-16;14-17,18;17-21,22;18-23,24,25;19-28;21-33;22-31,32;23-29,30;26-37;27-38;28-40;29-36,39;32-35;34-42,43;36-44,45,46;38-48;40-50,51,52;42-54;43-55,56;</a>
+</spair>
+<spair id='93'>
+<s id='en93'>Joints are classified by their range of movement .</s>
+<s id='vn93'>Các khớp được phân loại theo cử động .</s>
+<a id='ev93'>1-1,2;3-3,4,5;8-7,8;</a>
+</spair>
+<spair id='94'>
+<s id='en94'>Immovable , or fibrous , joints don't move .</s>
+<s id='vn94'>Khớp bất động là những khớp cố định , không cử động .</s>
+<a id='ev94'>1-1,2,3;6-5,6,7,8;7-10;8-11,12;</a>
+</spair>
+<spair id='95'>
+<s id='en95'>The dome of the skull , for example , is made of bony plates , which must be immovable to protect the brain .</s>
+<s id='vn95'>Chẳng hạn như vòm sọ , được cấu tạo từ những mảng xương // lá xương , phải được cố định để bảo vệ não .</s>
+<a id='ev95'>2-4;5-5;8-1,2,3;11-7,8,9;13-13,16;14-11,12,15;17-18;19-19,20,21;20-22;21-23,24;23-25;</a>
+</spair>
+<spair id='96'>
+<s id='en96'>Between the edges of these plates are links , or joints , of fibrous tissue .</s>
+<s id='vn96'>Giữa các gờ của những lá xương này là khớp của mô xơ .</s>
+<a id='ev96'>1-1;3-2,3;4-4;5-8;6-5,6,7;10-9;11-10;13-11;14-13;15-12;</a>
+</spair>
+<spair id='97'>
+<s id='en97'>Fibrous joints also hold the teeth in the jawbone .</s>
+<s id='vn97'>Các khớp bất động cũng có nhiệm vụ giữ răng cố định ở xương hàm .</s>
+<a id='ev97'>1-3,4;2-1,2;3-5;4-9;6-10;7-13;9-14,15;</a>
+</spair>
+<spair id='98'>
+<s id='en98'>Partially movable , or cartilaginous , joints move a little .</s>
+<s id='vn98'>Khớp cử động từng phần , hoặc khớp sụn là những khớp có thể cử động nhẹ .</s>
+<a id='ev98'>1-4,5;2-2,3;4-7;5-8,9;7-11,12;8-15,16;10-17;</a>
+</spair>
+<spair id='99'>
+<s id='en99'>They are linked by cartilage , as in the spine .</s>
+<s id='vn99'>Chúng được nối với nhau bằng sụn , như ở cột sống .</s>
+<a id='ev99'>1-1;3-2,3,4,5;4-6;5-7;7-9;8-10;10-11,12;</a>
+</spair>
+<spair id='100'>
+<s id='en100'>Each of the vertebrae in the spine moves in relation to the one above and below it , and together these movements give the spine its flexibility .</s>
+<s id='vn100'>Mỗi một đốt sống trong cột sống cử động liên quan đến đốt sống trên và đốt sống dưới , và các cử động này phối hợp với nhau làm cho cột sống có thể cử động một cách linh hoạt .</s>
+<a id='ev100'>1-1,2;4-3,4;5-5;7-6,7;8-8,9;10-10,11;11-12;13-13,14;14-15;15-16;16-19;17-17,18;19-21;20-26,27,28,29;21-25;22-22,23,24;23-30,31;25-32,33;27-38,39,40,41;</a>
+</spair>
+<spair id='101'>
+<s id='en101'>Freely movable , or synovial , joints move in many directions .</s>
+<s id='vn101'>Khớp cử động tự do , hoặc khớp hoạt dịch là những khớp có thể chuyển động theo nhiều hướng .</s>
+<a id='ev101'>1-4,5;2-2,3;4-7;5-8,9,10;7-12,13;8-16,17;9-18;10-19;11-20;</a>
+</spair>
+<spair id='102'>
+<s id='en102'>The main joints of the body - found at the hip , shoulders , elbows , knees , wrists , and ankles - are freely movable .</s>
+<s id='vn102'>Các khớp chủ yếu trên cơ thể nằm ở hông , vai , khuỷu tay , đầu gối , cổ tay , và mắt cá chân - đều có thể cử động tự do .</s>
+<a id='ev102'>2-3,4;3-1,2;4-5;6-6,7;8-8;9-9;11-10;13-12;15-14,15;17-17,18;19-20,21;21-23;22-24,25,26;25-33,34;26-29,30,31,32;</a>
+</spair>
+<spair id='103'>
+<s id='en103'>They are filled with synovial fluid , which acts as a lubricant to help the joints move easily .</s>
+<s id='vn103'>Chúng chứa đầy chất hoạt dịch , giúp bôi trơn làm cho các khớp cử động một cách dễ dàng .</s>
+<a id='ev103'>1-1;3-2,3;5-5,6;6-4;9-11,12;12-9,10;14-8;16-13,14;17-15,16;18-17,18,19,20;</a>
+</spair>
+<spair id='104'>
+<s id='en104'>There are three kinds of freely movable joints that play a big part in voluntary movement :</s>
+<s id='vn104'>Có 3 loại khớp có thể cử động tự do đóng vai trò thiết yếu trong vận động tự chủ :</s>
+<a id='ev104'>1-1;3-2;4-3;6-9,10;7-5,6,7,8;8-4;10-11,12,13;12,13-14,15;14-16;15-19,20;16-17,18;</a>
+</spair>
+<spair id='105'>
+<s id='en105'>* Hinge joints allow movement in one direction , as seen in the knees and elbows .</s>
+<s id='vn105'>* Khớp bản lề giúp chuyển động theo một hướng , nằm ở đầu gối và khuỷu tay .</s>
+<a id='ev105'>2-2,3,4;4-5;5-6,7;6-8;7-9;8-10;11-12;12-13;14-14,15;15-16;16-17,18;</a>
+</spair>
+<spair id='106'>
+<s id='en106'>* Pivot joints allow a rotating or twisting motion , like that of the head moving from side to side .</s>
+<s id='vn106'>* Khớp trục giúp chuyển động xoay hoặc vặn , chẳng hạn như chuyển động ( vặn ) đầu từ bên này sang bên kia .</s>
+<a id='ev106'>2-3;3-2;4-4;6-7;7-8;8-9;9-5,6;11-11,12,13;15-19;16-14,15;17-20;18-21,22;19-23;20-24,25;</a>
+</spair>
+<spair id='107'>
+<s id='en107'>* Ball-and-socket joints allow the greatest freedom of movement .</s>
+<s id='vn107'>* Khớp nối cầu có đế lõm giúp chuyển động tự do ở mức tối đa .</s>
+<a id='ev107'>2-3,4,5,6,7;3-2;4-8;6-14,15,16;7-11,12;8-13;9-9,10;</a>
+</spair>
+<spair id='108'>
+<s id='en108'>The hips and shoulders have this type of joint , in which the round end of a long bone fits into the hollow of another bone .</s>
+<s id='vn108'>Khớp này nằm ở hông và vai , trong đó đầu tròn của một xương dài nằm trọn trong chỗ lõm của một xương khác .</s>
+<a id='ev108'>2-5;3-6;4-7;9-1;11-9;12-10;14-12;15-11;16-13;17-14;18-16;19-15;20-17,18;21-19;23-20,21;24-22;25-25;26-24;</a>
+</spair>
+<spair id='109'>
+<s id='en109'>Things that can go wrong with the bones , muscles , and joints</s>
+<s id='vn109'>Các vấn đề có thể xảy ra với xương , cơ , và khớp</s>
+<a id='ev109'>1-1,2,3;3-4,5;4-6,7;5-8;8-9;10-11;12-13;13-14;</a>
+</spair>
+<spair id='110'>
+<s id='en110'>As strong as bones are , they can break .</s>
+<s id='vn110'>Dẫu cho xương có chắc khỏe đến đâu thì chúng cũng có thể bị gãy .</s>
+<a id='ev110'>1-1,2;2-5,6;4-3;5-7,8;7-10;8-11,12,13;9-14,15;</a>
+</spair>
+<spair id='111'>
+<s id='en111'>Muscles can weaken , and joints ( as well as tendons , ligaments , and cartilage ) can be damaged by injury or disease .</s>
+<s id='vn111'>Cơ cũng có thể bị yếu , và khớp ( cũng như gân , dây chằng , và sụn ) có thể bị tổn thương do chấn thương hoặc bệnh tật .</s>
+<a id='ev111'>1-1;2-3,4;3-5,6;5-8;6-9;9-11,12;11-13;13-15,16;15-18;16-19;18-21,22;20-23,24,25;21-26;22-27,28;23-29;24-30,31;</a>
+</spair>
+<spair id='112'>
+<s id='en112'>The following are problems that can affect the bones , muscles , and joints in teens :</s>
+<s id='vn112'>Dưới đây là những vấn đề có thể làm ảnh hưởng đến xương , cơ , và khớp ở thanh thiếu niên :</s>
+<a id='ev112'>2-1,2;3-3;4-4,5,6;6-7,8;7-9,10,11,12;9-13;11-15;13-17;14-18;15-19;16-20,21,22;</a>
+</spair>
+<spair id='113'>
+<s id='en113'>Arthritis .</s>
+<s id='vn113'>Viêm khớp .</s>
+<a id='ev113'>1-1,2;</a>
+</spair>
+<spair id='114'>
+<s id='en114'>Arthritis is the inflammation of a joint , and people who have it experience swelling , warmth , pain , and often have trouble moving .</s>
+<s id='vn114'>Viêm khớp là tình trạng khớp bị viêm , người bị viêm khớp bị sưng , nóng , đau , và thường cử động khó khăn .</s>
+<a id='ev114'>1-1,2;2-3;4-7,8;7-6;10-10;12-11;13-12,13;15-14,15;17-17;19-19;21-21;22-22;24-25,26;25-23,24;</a>
+</spair>
+<spair id='115'>
+<s id='en115'>Although we often think of arthritis as a condition that affects only older people , arthritis can also occur in children and teens .</s>
+<s id='vn115'>Mặc dù chúng ta thường nghĩ viêm khớp là chứng bệnh chỉ xảy ra ở người già lớn tuổi , nhưng nó cũng có thể xảy ra ở trẻ em và thanh thiếu niên .</s>
+<a id='ev115'>1-1,2;2-3,4;3-5;4-6;6-7,8;7-9;9-10,11;11-13,14;12-12;13,14-16,17,18,19;16-22;17-24,25;18-23;19-26,27;20-28;21-29,30;22-31;23-32,33,34;</a>
+</spair>
+<spair id='116'>
+<s id='en116'>Health problems that involve arthritis in kids and teens include juvenile rheumatoid arthritis ( JRA ) , lupus , Lyme disease , and septic arthritis ( a bacterial infection of a joint ) .</s>
+<s id='vn116'>Các vấn đề sức khỏe liên quan đến trẻ em và thanh thiếu niên gồm viêm khớp kinh niên tuổi thanh thiếu niên ( JRA ) , lu-pút , nhiễm khuẩn do ve gây ra , và viêm khớp nhiễm trùng ( nhiễm khuẩn khớp ) .</s>
+<a id='ev116'>1-4,5;2-1,2,3;4-6,7,8;7-9,10;8-11;9-12,13,14;10-15;11-20,21,22,23;12-18,19;13-16,17;15-25;18-28;20-32,33,34,35;21-30,31;23-37;24-40,41;25-38,39;28-44;29-43;32-45;</a>
+</spair>
+<spair id='117'>
+<s id='en117'>Fracture .</s>
+<s id='vn117'>Nứt gãy xương .</s>
+<a id='ev117'>1-1,2,3;</a>
+</spair>
+<spair id='118'>
+<s id='en118'>A fracture occurs when a bone breaks ; it may crack , snap , or shatter .</s>
+<s id='vn118'>Khi xương gãy , tạo ra chỗ gãy nứt trên xương ; nó có thể rạn , gãy , hoặc vỡ ra .</s>
+<a id='ev118'>2-7,8,9,10,11;3-5,6;4-1;6-2;7-3;9-13;10-14,15;11-16;13-18;15-20;16-21,22;</a>
+</spair>
+<spair id='119'>
+<s id='en119'>After a bone fracture , new bone cells fill the gap and repair the break .</s>
+<s id='vn119'>Sau khi xương bị gãy , những tế bào xương mới hàn lại khoảng cách gãy đó và phục hồi xương lại .</s>
+<a id='ev119'>1-1,2;3-3;4-4,5;6-11;7-10;8-7,8,9;9-12,13;11-14,15;12-18;13-19,20;15-16;</a>
+</spair>
+<spair id='120'>
+<s id='en120'>Applying a strong plaster cast , which keeps the bone in the correct position until it heals , is the usual treatment .</s>
+<s id='vn120'>Phương pháp truyền thống để giữ cho xương nằm ở vị trí đúng cho đến khi xương lành lặn là mang khuôn bó bột cứng .</s>
+<a id='ev120'>1-21;4-23,24;5-25;8-6,7;10-8;11-9,10;13-13;14-11;15-14,15,16;16-17;17-18,19;19-20;21-3,4;22-1,2;</a>
+</spair>
+<spair id='121'>
+<s id='en121'>If the fracture is complicated , metal pins and plates can be placed to better stabilize the fracture while the bone heals .</s>
+<s id='vn121'>Trong trường hợp chỗ nứt xương nghiêm trọng và phức tạp thì người ta có thể đặt thanh đòn và cặp ghim bằng kim loại để cố định tốt hơn chỗ nứt trong khi xương lành lại .</s>
+<a id='ev121'>1-1,2,3;3-4,5,6;5-7,8,10,11;7-23,24,25;8-21,22;10-18,19;11-15,16;13-17;14-26;15-29,30;16-27,28;18-31,32;19-33,34;21-35;22-36,37;</a>
+</spair>
+<spair id='122'>
+<s id='en122'>Muscular dystrophy .</s>
+<s id='vn122'>Loạn dưỡng cơ .</s>
+<a id='ev122'>1-3;2-1,2;</a>
+</spair>
+<spair id='123'>
+<s id='en123'>Muscular dystrophy is an inherited group of diseases that affect the muscles , causing them to weaken and break down over time .</s>
+<s id='vn123'>Loạn dưỡng cơ là nhóm bệnh di truyền gây ảnh hưởng đến cơ , làm cho cơ bị yếu và gãy theo thời gian .</s>
+<a id='ev123'>1-3;2-1,2;3-4;5-7,8;6-5;8-6;10-9,10,11,12;12-13;14-15,16;15-17;17-18,19;18-20;19,20-21;21-22;22-23,24;</a>
+</spair>
+<spair id='124'>
+<s id='en124'>The most common form in childhood is called Duchenne muscular dystrophy , and it most often affects boys .</s>
+<s id='vn124'>Loại loạn dưỡng cơ thường thấy nhất ở trẻ em là loạn dưỡng cơ Duchenne , và chứng bệnh này thường hay xảy ra ở bé trai nhiều nhất .</s>
+<a id='ev124'>2-7;3-5,6;4-1,2,3,4;5-8;6-9,10;8-11;9-15;10-14;11-12,13;13-17;14-18,19,20;15-28,29;16-21;17-23,24,25;18-26,27;</a>
+</spair>
+<spair id='125'>
+<s id='en125'>Osgood-Schlatter disease ( OSD ) .</s>
+<s id='vn125'>Bệnh Osgood-Schlatter ( OSD ) .</s>
+<a id='ev125'>1-2;2-1;4-4;</a>
+</spair>
+<spair id='126'>
+<s id='en126'>Osgood-Schlatter disease is an inflammation ( pain and swelling ) of the bone , cartilage , and/or tendon at the top of the shinbone .</s>
+<s id='vn126'>Bệnh Osgood-Schlatter là bệnh viêm ( đau và sưng ) xương , sụn , và/hoặc gân trên đỉnh xương chày .</s>
+<a id='ev126'>1-2;2-1;3-3;5-4,5;7-7;8-8;9-9;13-11;15-13;17-15;18-16;21-18;24-19,20;</a>
+</spair>
+<spair id='127'>
+<s id='en127'>OSD usually strikes active teens around the beginning of their growth spurts , the approximately 2-year period during which they grow most rapidly .</s>
+<s id='vn127'>OSD thường xảy ra ở thanh thiếu niên hay hoạt động thể chất gần thời điểm bắt đầu lớn nhanh như thổi của chúng , thời gian này kéo dài xấp xỉ gần 2 năm - đây là thời gian phát triển nhanh nhất của các bạn thanh thiếu niên .</s>
+<a id='ev127'>1-1;2-2;3-3,4;4-10,11,12,13;5-6,7,8;6-14;8-17,18;10-23,24;11-19;12-20,21,22;15-29,30,31,32;16-34,35;17-26,27,28;18-39,40;21-41,42;22-44;23-43;</a>
+</spair>
+<spair id='128'>
+<s id='en128'>Osteomyelitis .</s>
+<s id='vn128'>Viêm xương tuỷ .</s>
+<a id='ev128'>1-1,2,3;</a>
+</spair>
+<spair id='129'>
+<s id='en129'>Osteomyelitis is a bone infection that is often caused by Staphylococcus aureus bacteria , though other types of bacteria can cause it , too .</s>
+<s id='vn129'>Viêm xương tuỷ là tình trạng nhiễm trùng xương thường do khuẩn tụ cầu gây ra , mặc dù một số loại vi khuẩn khác cũng có thể gây ra chứng bệnh này .</s>
+<a id='ev129'>1-1,2,3;2-4;4-9;5-5,6,7,8;8-10;9-11,15,16;11-12,13,14;15-18,19;16-25;17-22;19-23,24;20-27,28;21-29,30;22-31,32,33;24-26;</a>
+</spair>
+<spair id='130'>
+<s id='en130'>In kids and teens , osteomyelitis usually affects the long bones of the arms and legs .</s>
+<s id='vn130'>Ở trẻ nhỏ và thanh thiếu niên , bệnh viêm xương tuỷ thường xảy ra ở các xương dài nằm trong cánh tay và cẳng chân .</s>
+<a id='ev130'>1-1;2-2,3;3-4;4-5,6,7;6-9,10,11,12;7-13;8-14,15,16;10-19;11-17,18;12-20,21;14-22,23;15-24;16-25,26;</a>
+</spair>
+<spair id='131'>
+<s id='en131'>Osteomyelitis often develops after an injury or trauma .</s>
+<s id='vn131'>Bệnh này thường xảy ra sau khi xương bị tổn thương hoặc chấn thương .</s>
+<a id='ev131'>1-1,2;2-3;3-4,5;4-6,7;6-10,11;7-12;8-13,14;</a>
+</spair>
+<spair id='132'>
+<s id='en132'>Osteoporosis .</s>
+<s id='vn132'>Loãng xương .</s>
+<a id='ev132'>1-1,2;</a>
+</spair>
+<spair id='133'>
+<s id='en133'>In osteoporosis , bone tissue becomes brittle , thin , and spongy .</s>
+<s id='vn133'>Ở bệnh loãng xương , mô xương trở nên giòn , mỏng , và xốp .</s>
+<a id='ev133'>1-1;2-2,3,4;4-7;5-6;6-8,9;7-10;9-12;11-14;12-15;</a>
+</spair>
+<spair id='134'>
+<s id='en134'>Bones break easily , and the spine sometimes begins to crumble and collapse .</s>
+<s id='vn134'>Xương bị gãy dễ dàng , và cột sống đôi khi cũng bắt đầu bị gãy vụn và sụp xuống .</s>
+<a id='ev134'>1-1;2-2,3;3-4,5;5-7;7-8,9;8-10,11;9-13,14;11-15,16,17;12-18;13-19,20;</a>
+</spair>
+<spair id='135'>
+<s id='en135'>Although the condition usually affects older people , girls with female athlete triad and teens with eating disorders can get the condition .</s>
+<s id='vn135'>Mặc dù bệnh này thường xảy ra ở người già lớn tuổi , nhưng các bạn gái bị bệnh rối loạn ăn uống , kinh nguyệt không đều và xương yếu , các bạn thanh thiếu niên bị rối loạn ăn uống cũng có thể bị loãng xương .</s>
+<a id='ev135'>1-1,2;3-3,4;4-5;5-6,7;6-10,11,12;7-9;9-15,16,17;15-33,34,35,36,37;17-41,42;18-38,39,40;19-43,44,45;20-46;22-47,48;</a>
+</spair>
+<spair id='136'>
+<s id='en136'>Exercising regularly and getting plenty of calcium when you 're a kid and teen can prevent or delay you from getting osteoporosis later in life .</s>
+<s id='vn136'>Chế độ tập luyện đều đặn và bổ sung nhiều can-xi ở tuổi nhỏ và tuổi thanh thiếu niên có thể giúp phòng tránh hoặc làm chậm quá trình loãng xương sau này .</s>
+<a id='ev136'>1-1,2,3,4;2-5,6;3-7;4-8,9;5-10;7-11;10-12;12-13,14;13-15;14-16,17,18,19;15-20,21;16-22,23,24;17-25;18-26,27;22-28,29,30,31;23-32,33;</a>
+</spair>
+<spair id='137'>
+<s id='en137'>Repetitive stress injuries ( RSIs ) .</s>
+<s id='vn137'>Chấn thương do căng thẳng lặp đi lặp lại nhiều lần ( RSIs ) .</s>
+<a id='ev137'>1-6,7,8,9,10,11;2-4,5;3-1,2;5-13;</a>
+</spair>
+<spair id='138'>
+<s id='en138'>RSIs are a group of injuries that happen when too much stress is placed on a part of the body , resulting in inflammation ( pain and swelling ) , muscle strain , or tissue damage .</s>
+<s id='vn138'>RSIs là một nhóm chấn thương xảy ra khi một bộ phận nào đó trên cơ thể bị áp lực quá nhiều , dẫn đến viêm ( đau và sưng ) , căng cơ , hoặc tổn thương mô .</s>
+<a id='ev138'>1-1;2-2;3-3;4-4;6-5,6;8-7,8;9-9;10-21;11-22;12-18,19,20;15-15;17-11,12;20-16,17;22-24,25;24-26;26-28;27-29;28-30;31-34;32-33;34-36;35-39;36-37,38;</a>
+</spair>
+<spair id='139'>
+<s id='en139'>This stress generally occurs from repeating the same movements over and over again .</s>
+<s id='vn139'>Loại sức ép này thường xảy ra do lặp đi lặp lại cùng một động tác nhiều lần .</s>
+<a id='ev139'>1-4;2-1,2,3;3-5;4-6,7;5-8;6-9,10,11,12;8-13,14;9-15,16;10,11,12-17,18;</a>
+</spair>
+<spair id='140'>
+<s id='en140'>RSIs are becoming more common in kids and teens because they spend more time using computers .</s>
+<s id='vn140'>RSIs ngày càng trở nên phổ biến ở trẻ nhỏ và thanh thiếu niên bởi thời gian các em sử dụng máy tính ngày càng nhiều .</s>
+<a id='ev140'>1-1;3-2,3,4,5;5-6,7;6-8;7-9,10;8-11;9-12,13,14;10-15;11-18,19;13-24,25,26;14-16,17;15-20,21;16-22,23;</a>
+</spair>
+<spair id='141'>
+<s id='en141'>Playing sports like tennis that involve repetitive motions can also lead to RSIs .</s>
+<s id='vn141'>Chơi thể thao chẳng hạn như quần vợt lặp đi lặp lại cùng một động tác cũng có thể dẫn đến loại chấn thương này .</s>
+<a id='ev141'>1-1;2-2,3;3-4,5,6;4-7,8;7-9,10,11,12;8-14,15,16;9-18,19;10-17;11-20,21;13-22,23,24,25;</a>
+</spair>
+<spair id='142'>
+<s id='en142'>Kids and teens who spend a lot of time playing musical instruments or video games are also at risk for RSIs .</s>
+<s id='vn142'>Trẻ nhỏ và thanh thiếu niên chơi nhạc cụ trong thời gian lâu hoặc chơi trò chơi điện tử lâu cũng có nguy cơ bị RSIs .</s>
+<a id='ev142'>1-1,2;2-3;3-4,5,6;6,7-13;8-10;9-11,12;10-7;11-8;12-9;13-14;14-18,19;15-16,17;16-22;17-21;19-23,24;21-26;</a>
+</spair>
+<spair id='143'>
+<s id='en143'>Scoliosis .</s>
+<s id='vn143'>Vẹo cột sống .</s>
+<a id='ev143'>1-1,2,3;</a>
+</spair>
+<spair id='144'>
+<s id='en144'>Every person 's spine curves a little bit ; a certain amount of curvature is necessary for people to move and walk properly .</s>
+<s id='vn144'>Cột sống của mỗi người chúng ta đều hơi cong một chút , một độ cong nhất định cần thiết để đảm bảo có thể thực hiện được các động tác cử động và đi đứng phù hợp , thoải mái .</s>
+<a id='ev144'>1-4;2-5;4-1,2;5-8,9,10;7-11,12;11-17,18;14-14,15,16;16-19,20;20-29,30,31,32,33;21-34;22-35,36;23-37,38,40,41;</a>
+</spair>
+<spair id='145'>
+<s id='en145'>But three to five people out of 1,000 have a condition called scoliosis , which causes the spine to curve too much .</s>
+<s id='vn145'>Nhưng trong 1.000 người thì có đến 3-5 người bị bệnh vẹo cột sống - làm cho cột sống cong quá nhiều .</s>
+<a id='ev145'>2,3,4-8;5-9;8-3;11-11;13-12,13,14;16-16,17;18-18,19;20-20;21-21;22-22;</a>
+</spair>
+<spair id='146'>
+<s id='en146'>The condition can be hereditary , so a person who has scoliosis often has family members who have it .</s>
+<s id='vn146'>Bệnh này có thể di truyền , vì vậy bệnh nhân bị vẹo cột sống thường có người thân trong gia đình mắc bệnh .</s>
+<a id='ev146'>1-2;2-1;3-3,4;5-5,6;7-8,9;9-10,11;11-12;12-13,14,15;13-16;14-17;15-21,22;16-18,19;18-23;19-24;</a>
+</spair>
+<spair id='147'>
+<s id='en147'>Strains and sprains .</s>
+<s id='vn147'>Căng và bong gân .</s>
+<a id='ev147'>1-1;2-2;3-3,4;</a>
+</spair>
+<spair id='148'>
+<s id='en148'>Strains occur when a muscle or tendon is overstretched .</s>
+<s id='vn148'>Tình trạng này xảy ra khi một cơ hoặc gân nào đó bị kéo căng quá mức .</s>
+<a id='ev148'>1-1,2,3;2-4,5;3-6;4-7;5-8;6-9;7-10;9-13,14,15,16,17;</a>
+</spair>
+<spair id='149'>
+<s id='en149'>Sprains are an overstretching or a partial tear of the ligaments .</s>
+<s id='vn149'>Các dây chằng bị kéo căng quá mức hoặc bị đứt một phần .</s>
+<a id='ev149'>4-4,5,6,7,8;5-9;7-12,13;11-1,2,3;</a>
+</spair>
+<spair id='150'>
+<s id='en150'>Strains usually happen when a person takes part in a strenuous activity when the muscles haven't properly warmed up or the muscle is not used to the activity ( such as a new sport or playing a familiar sport after a long break ) .</s>
+<s id='vn150'>Hiện tượng bong gân thường xảy ra khi chúng ta thực hiện một hoạt động gắng sức , khi ấy cơ không được khởi động đúng cách hoặc cơ không thường xuyên thực hiện hoạt động ấy ( chẳng hạn như khi chơi một môn thể thao mới hoặc chơi một môn thể thao quen thuộc đã bỏ dở một thời gian dài ) .</s>
+<a id='ev150'>1-1,2,3,4;2-5;3-6,7;4-8;6-9,10;7-11,12;10-13;11-16,17;12-14,15;13-19,20;15-21;16-22;17-26,27;18-23,24,25;20-28;22-29;24-30;25-31,32;27-37;28-35,36;30-39,40;31-41;32-44;33-48;34-45,46,47;35-49;36-50;37-51;38-55,56;39-52,53,54;42-60,61,62,63;43-57,58,59;</a>
+</spair>
+<spair id='151'>
+<s id='en151'>Sprains , on the other hand , are usually the result of an injury , such as twisting an ankle or knee .</s>
+<s id='vn151'>Mặt khác , tình trạng bong gân thường là do chấn thương , như bị trẹo mắt cá chân hoặc đầu gối .</s>
+<a id='ev151'>1-4,5,6,7;3-2;4,5,6-1,2;9-8;11-9,10;14-11,12;16-14;18-15,16;20-17,18,19;21-20;22-21,22;</a>
+</spair>
+<spair id='152'>
+<s id='en152'>Both strains and sprains are common in teens because they 're active and still growing .</s>
+<s id='vn152'>Cả hiện tượng căng và bong gân đều phổ biến ở lứa tuổi thanh thiếu niên bởi các em ưa thích hoạt động và vẫn còn đang phát triển .</s>
+<a id='ev152'>1-1;2-2,3,4;3-5;4-6,7;6-9,10;7-11;8-12,13,14,15,16;9-17;10-18,19;12-22,23;13-24;14-25,26;15-27,28,29;</a>
+</spair>
+<spair id='153'>
+<s id='en153'>Tendinitis .</s>
+<s id='vn153'>Viêm gân .</s>
+<a id='ev153'>1-1,2;</a>
+</spair>
+<spair id='154'>
+<s id='en154'>Tendinitis is a common sports injury that usually happens after overexercising a muscle .</s>
+<s id='vn154'>Viêm gân là tình trạng chấn thương thể thao thường thấy – nó thường xảy ra sau khi cơ hoạt động quá sức .</s>
+<a id='ev154'>1-1,2;4-10,11;5-8,9;6-4,5,6,7;7-13;8-14;9-15,16;10-17,18;11-20,21,22,23;13-19;</a>
+</spair>
+<spair id='155'>
+<s id='en155'>The tendon and tendon sheath become inflamed , which can be painful .</s>
+<s id='vn155'>Gân và bao gân bị viêm , có thể gây đau nhức .</s>
+<a id='ev155'>2-1;4-4;5-3;7-5,6;10-8,9;11-10;12-11,12;</a>
+</spair>
+<spair id='156'>
+<s id='en156'>Resting the muscles and taking anti-inflammatory medication can help to relieve this condition .</s>
+<s id='vn156'>Việc để cho cơ nghỉ ngơi và sử dụng thuốc kháng viêm có thể giúp chữa lành chứng viêm gân này .</s>
+<a id='ev156'>1-5,6;3-4;4-7;5-8,9;6-11,12;7-10;8-13,14;9-15;11-16,17;12-21;13-18,19,20;</a>
+</spair>
+</text>
+</doc>

@@ -1,0 +1,2207 @@
+﻿<doc id='N0614'>
+<head>
+<title>Immunization schedule</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>22/10/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Immunization schedule</s>
+<s id='vn1'>Lịch chủng ngừa</s>
+<a id='ev1'>1-2,3;2-1;</a>
+</spair>
+<spair id='2'>
+<s id='en2'>This schedule may vary depending upon where you live , your child 's health , the type of vaccine , and the vaccines available .</s>
+<s id='vn2'>Lịch chủng ngừa này có thể thay đổi tuỳ thuộc vào nơi bạn cư ngụ , tình hình sức khỏe con bạn , bé chích loại vắc-xin nào và các vắc-xin ấy có sẵn hay không .</s>
+<a id='ev2'>1-4;2-1,2,3;3-5,6;4-7,8;5-9,10;7-12;8-13;9-14,15;11-22;12-21;14-19,20;17-26;19-27;21-29;23-30,31;24-33,34;</a>
+</spair>
+<spair id='3'>
+<s id='en3'>Some of the vaccines may be given as part of a combination vaccine so that your child gets fewer shots .</s>
+<s id='vn3'>Một số vắc-xin có thể được dùng kết hợp để bé tiêm ít mũi hơn .</s>
+<a id='ev3'>1-1,2;4-3;5-4,5;7-6,7;12-8,9;17-11;18-12;19-13;20-14;</a>
+</spair>
+<spair id='4'>
+<s id='en4'>Ask your doctor which vaccines your child should receive .</s>
+<s id='vn4'>Hãy nên tham khảo ý kiến của bác sĩ xem con bạn nên tiêm loại vắc-xin nào nhé .</s>
+<a id='ev4'>1-3,4,5,6;3-8,9;5-15,16;6-12;7-11;</a>
+</spair>
+<spair id='5'>
+<s id='en5'>Birth</s>
+<s id='vn5'>Sơ sinh</s>
+<a id='ev5'>1-1,2;</a>
+</spair>
+<spair id='6'>
+<s id='en6'>Hep B : Hepatitis B vaccine ( HBV ) ; recommended to give the first dose at birth , but may be given at any age for those not previously immunized .</s>
+<s id='vn6'>Hep B : Vắc-xin ngừa viêm gan siêu vi B ( HBV ) ; loại vắc-xin này được khuyến nghị tiêm phòng liều đầu tiên cho trẻ mới sinh , nhưng cũng có thể sử dụng cho bất kỳ độ tuổi nào nếu chưa được chủng ngừa trước đó .</s>
+<a id='ev6'>1,2-1,2;4-5,6,7;5-10;6-4;8-12;11-18,19,20;15-24,25;18-28,29;20-31;21-33,34;23-37;25-38,39;26-41;29-44;30-48;31-45,46,47;</a>
+</spair>
+<spair id='7'>
+<s id='en7'>1-2 months</s>
+<s id='vn7'>1-2 tháng</s>
+<a id='ev7'>1-1;2-2;</a>
+</spair>
+<spair id='8'>
+<s id='en8'>Hep B : Second dose should be administered 1 to 2 months after the first dose .</s>
+<s id='vn8'>Hep B : Liều thứ hai nên được tiêm chích sau liều thứ nhất từ 1 đến 2 tháng .</s>
+<a id='ev8'>1-1;2-2;4-5,6;6-7;8-8,9,10;9-16;10-17;11-18;12-19;13-11;15-13,14;</a>
+</spair>
+<spair id='9'>
+<s id='en9'>2 months</s>
+<s id='vn9'>2 tháng</s>
+<a id='ev9'>1-1;2-2;</a>
+</spair>
+<spair id='10'>
+<s id='en10'>DTaP : Diphtheria , tetanus , and acellular pertussis vaccine</s>
+<s id='vn10'>DTaP : Vắc-xin ngừa bạch hầu , uốn ván , và ho gà không tế bào</s>
+<a id='ev10'>1-1;3-4,5,6;5-8,9;7-11;8-14,15,16;9-12,13;</a>
+</spair>
+<spair id='11'>
+<s id='en11'>Hib : Haemophilus influenzae type b vaccine</s>
+<s id='vn11'>Hib : Vắc-xin ngừa viêm màng não mũ do HIB loại B</s>
+<a id='ev11'>1-1;5-11;6-12;</a>
+</spair>
+<spair id='12'>
+<s id='en12'>IPV : Inactivated poliovirus vaccine</s>
+<s id='vn12'>IPV : Vắc-xin ngừa bại liệt bất hoạt</s>
+<a id='ev12'>1-1;3-4;5-3;</a>
+</spair>
+<spair id='13'>
+<s id='en13'>PCV : Pneumococcal conjugate vaccine</s>
+<s id='vn13'>PCV : Vắc-xin cộng hợp phế cầu</s>
+<a id='ev13'>1-1;3-6,7;4-4,5;5-3;</a>
+</spair>
+<spair id='14'>
+<s id='en14'>Rota : Rotavirus vaccine</s>
+<s id='vn14'>Rota : Vắc-xin ngừa viêm ruột và dạ dày</s>
+<a id='ev14'>1-1;4-3;</a>
+</spair>
+<spair id='15'>
+<s id='en15'>4 months</s>
+<s id='vn15'>4 tháng</s>
+<a id='ev15'>1-1;2-2;</a>
+</spair>
+<spair id='16'>
+<s id='en16'>6 months</s>
+<s id='vn16'>6 tháng</s>
+<a id='ev16'>1-1;2-2;</a>
+</spair>
+<spair id='17'>
+<s id='en17'>6 months and annually</s>
+<s id='vn17'>6 tháng và hàng năm</s>
+<a id='ev17'>1-1;2-2;3-3;4-4,5;</a>
+</spair>
+<spair id='18'>
+<s id='en18'>* Seasonal influenza .</s>
+<s id='vn18'>* Cúm mùa .</s>
+<a id='ev18'>2-3;3-2;</a>
+</spair>
+<spair id='19'>
+<s id='en19'>Beginning in the 2010-2011 flu season , the seasonal influenza vaccine will protect against H1N1 flu , as well as other flu strains .</s>
+<s id='vn19'>Bắt đầu mùa cúm 2010-2011 mới có vắc-xin cúm mùa ngừa cúm H1N1 cũng như các loại cúm khác .</s>
+<a id='ev19'>1-1,2;4-5;5-4;6-3;10-9,10;11-8;13-11;15-13;16-12;18-14;19-15;21-19;22-18;23-16,17;</a>
+</spair>
+<spair id='20'>
+<s id='en20'>The vaccine is recommended every year for children older than 6 months .</s>
+<s id='vn20'>Loại vắc-xin này đươc khuyến nghị tiêm phòng hàng năm cho trẻ trên 6 tháng tuổi .</s>
+<a id='ev20'>1-3;2-1,2;4-4,5,6,7,8;5-9;6-10;7-11;8-12;9-13;11-14;12-15;</a>
+</spair>
+<spair id='21'>
+<s id='en21'>Kids under 9 who get a flu vaccine for the first time will receive it in two separate doses a month apart .</s>
+<s id='vn21'>Trẻ dưới 9 tuổi tiêm ngừa vắc-xin cúm lần đầu sẽ được tiêm thành 2 liều riêng biệt cách nhau 1 tháng .</s>
+<a id='ev21'>1-1;2-2;3-3,4;7-6;8-7;11-10;12-9;13-11;14-12;17-15;18-17,18;19-16;20-21;21-22;</a>
+</spair>
+<spair id='22'>
+<s id='en22'>Although children 6 months to 5 years old are still considered the group of kids who need the flu vaccine the most , updated guidelines from the centers for disease control and prevention ( CDC ) now recommend that all older kids and teens get it , too ( as long as enough is available ) .</s>
+<s id='vn22'>Dẫu rằng trẻ từ 6 tháng đến 5 tuổi vẫn được xếp vào nhóm cần tiêm ngừa vắc-xin cúm nhiều nhất , nhưng theo khuyến cáo mới nhất của các Trung tâm kiểm soát và phòng bệnh ( CDC ) thì hiện tất cả các trẻ em trên 5 tuổi và tuổi thanh thiếu niên cũng nên tiêm phòng vắc - xin cúm này ( miễn là còn đủ vắc-xin để tiêm ngừa cho các bé . ) .</s>
+<a id='ev22'>1-1,2;2-3;3-5;4-6;5-7;6-8;7,8-9;10-10;11-11,12;13-14;17-15;19-19;20-18;22-20,21;24-27,28;25-24,25,26;28-30,31,32;31-33,34;32-35;33-36;35-39;37-42;40-43,44;42-45,46,47;43-51;44-52,53,54,55;48-56;50-67;51,52-66,67;53-69;</a>
+</spair>
+<spair id='23'>
+<s id='en23'>It 's especially important for high-risk kids to be vaccinated .</s>
+<s id='vn23'>Trẻ em có nguy cơ nhiễm bệnh cao đặc biệt nên cần được chủng ngừa .</s>
+<a id='ev23'>3-9,10;6-4,5,6,7,8;7-1,2;10-13,14,15;</a>
+</spair>
+<spair id='24'>
+<s id='en24'>High-risk groups include , but are n't limited to , kids with asthma , heart problems , sickle cell anemia , diabetes , and human immunodeficiency virus ( HIV ) .</s>
+<s id='vn24'>Những nhóm trẻ có nguy cơ cao , không giới hạn , như trẻ bị suyễn , bị bệnh tim , bị thiếu máu hồng cầu hình liềm , bị tiểu đường , và bị nhiễm vi-rút HIV .</s>
+<a id='ev24'>1-5,6,7;2-1,2;3-4;7-9;8-10,11;11-14;13-15,16;15-20;16-18,19;18-27,28;19-25,26;20-23,24;22-30,31,32;24-34;27-37;29-38;</a>
+</spair>
+<spair id='25'>
+<s id='en25'>It can take up to 2 weeks after the shot is given for the body to build up immunity against the flu .</s>
+<s id='vn25'>Có thể phải mất 2 tuần sau khi tiêm ngừa cơ thể mới có thể miễn dịch với cúm được .</s>
+<a id='ev25'>2-1,2;3-3,4;6-5;7-6;8-7,8;15-11,12;19-16,17;20-18;22-19;</a>
+</spair>
+<spair id='26'>
+<s id='en26'>6-18 months</s>
+<s id='vn26'>6-18 tháng</s>
+<a id='ev26'>1-1;2-2;</a>
+</spair>
+<spair id='27'>
+<s id='en27'>12-15 months</s>
+<s id='vn27'>12-15 tháng</s>
+<a id='ev27'>1-1;2-2;</a>
+</spair>
+<spair id='28'>
+<s id='en28'>* MMR : Measles , mumps , and rubella vaccine</s>
+<s id='vn28'>* MMR : Vắc-xin ngừa sởi , quai bị , và sởi ru-bê-la</s>
+<a id='ev28'>2,3-2,3;4-6;8-11;9-12;</a>
+</spair>
+<spair id='29'>
+<s id='en29'>12-23 months</s>
+<s id='vn29'>12-23 tháng</s>
+<a id='ev29'>1-1;2-2;</a>
+</spair>
+<spair id='30'>
+<s id='en30'>* Hep A : Hepatitis A vaccine ; given as two shots at least 6 months apart</s>
+<s id='vn30'>* Hep A : Vắc-xin ngừa viêm gan siêu vi A ; được tiêm 2 mũi cách nhau ít nhất là 6 tháng</s>
+<a id='ev30'>2,3-2,3;5-6,7,8,9,10;6-11;7-5;10-17,18;11-15;12-14;13-21;14-19,20,21;15-22;16-23;</a>
+</spair>
+<spair id='31'>
+<s id='en31'>15-18 months</s>
+<s id='vn31'>15-18 tháng</s>
+<a id='ev31'>1-1;2-2;</a>
+</spair>
+<spair id='32'>
+<s id='en32'>4-6 years</s>
+<s id='vn32'>4-6 tuổi</s>
+<a id='ev32'>1-1;2-2;</a>
+</spair>
+<spair id='33'>
+<s id='en33'>11-12 years</s>
+<s id='vn33'>11-12 tuổi</s>
+<a id='ev33'>1-1;2-2;</a>
+</spair>
+<spair id='34'>
+<s id='en34'>* HPV : Human papillomavirus vaccine , given as 3 shots over 6 months .</s>
+<s id='vn34'>* HPV : Vắc-xin ngừa mụn cơm trên người , được tiêm thành 3 mũi trong 6 tháng .</s>
+<a id='ev34'>2-2;4-9;5-5,6,7;6-4;8-11;10-14;11-15;13-17;14-18;</a>
+</spair>
+<spair id='35'>
+<s id='en35'>It 's recommended for girls ages 11 or 12 , and also recommended for girls ages 13 to 18 if they have not yet been vaccinated .</s>
+<s id='vn35'>Vắc-xin HPV được khuyến nghị tiêm phòng cho các bé gái từ 11 đến 12 tuổi , và cũng dùng cho những bạn gái từ 13 đến 18 tuổi nếu chưa được tiêm chủng trước đó .</s>
+<a id='ev35'>3-4,5;5-9,10,11;6-16;7-13;9-15;11-18;12-19;13-20,21;15-22,23,24;16-29;17-26;19-28;20-30;24-31;26-32,33,34;</a>
+</spair>
+<spair id='36'>
+<s id='en36'>The vaccine also may be given to boys ages 9 to 18 .</s>
+<s id='vn36'>Bé trai từ 9 đến 18 tuổi cũng có thể tiêm ngừa loại vắc-xin này .</s>
+<a id='ev36'>1-15;2-14;3-8;4-9,10;8-1,2;9-7;10-4;12-6;</a>
+</spair>
+<spair id='37'>
+<s id='en37'>* Tdap : Tetanus , diphtheria , and pertussis booster</s>
+<s id='vn37'>* Tdap : Vắc-xin bổ sung ngừa uốn ván , bạch hầu , và ho gà</s>
+<a id='ev37'>2-2;4-7,8,9;6-11,12;8-14;9-15,16;</a>
+</spair>
+<spair id='38'>
+<s id='en38'>* MCV : Meningitis vaccine ; should also be given to 13 - to 18-year-olds who have not yet been vaccinated .</s>
+<s id='vn38'>* MCV : Vắc-xin ngừa viêm màng não cũng được khuyến nghị sử dụng cho trẻ từ 13 đến 18 tuổi chưa được chủng ngừa trước đó .</s>
+<a id='ev38'>2-2;4-5,6,7,8;5-4;8-9,10;10-15;11,12-17,18;14-19;15-20,21;19-22;21-23,24,25;</a>
+</spair>
+<spair id='39'>
+<s id='en39'>Children between the ages of 2 and 10 who have certain chronic illnesses will also need this vaccine , with a booster shot a few years later , depending on the age at which the first dose was given .</s>
+<s id='vn39'>Trẻ từ 2 đến 10 tuổi bị các bệnh mãn tính nào đó cũng nên tiêm loại vắc-xin này , và nên tiêm nhắc lại sau một vài năm , tùy vào liều tiêm chích đầu tiên ở độ tuổi nào .</s>
+<a id='ev39'>1-1;4-6;6-3;7-4;8-5;9-12,13;12-10,11;13-8,9;15-14;17-19;18-17,18;25-27,28;26-29;27-26;29-31,32;32-39,40;33-38;34-41;36-36,37;</a>
+</spair>
+<spair id='40'>
+<s id='en40'>College entrants</s>
+<s id='vn40'>Sinh viên mới vào đại học</s>
+<a id='ev40'>1-5,6;2-3;</a>
+</spair>
+<spair id='41'>
+<s id='en41'>* MCV : Meningitis vaccine ; recommended for previously unvaccinated college entrants who will live in dormitories .</s>
+<s id='vn41'>* MCV : Vắc-xin ngừa viêm màng não được khuyến cáo sử dụng cho sinh viên mới vào đại học sống ở ký túc xá chưa được chủng ngừa lần nào trước đó .</s>
+<a id='ev41'>2-2;4-6,7,8;5-4;7-9,10,11,12,13;8-14;11-19,20;12-18;15-21;17-22;</a>
+</spair>
+<spair id='42'>
+<s id='en42'>One dose will suffice for healthy college students whose only risk factor is dormitory living .</s>
+<s id='vn42'>Sinh viên khỏe mạnh sống ở khu tập thể cần chỉ 1 liều duy nhất .</s>
+<a id='ev42'>6-3,4;8-1,2;10-11,12;11-13;14-7,8,9;15-5;</a>
+</spair>
+<spair id='43'>
+<s id='en43'>Your child 's immunization</s>
+<s id='vn43'>Chủng ngừa cho con của bạn</s>
+<a id='ev43'>1-5,6;2-4;4-1,2;</a>
+</spair>
+<spair id='44'>
+<s id='en44'>At birth , infants have protection against certain diseases because antibodies have passed through the placenta from the mother to the unborn child .</s>
+<s id='vn44'>Lúc mới sinh , nhờ kháng thể truyền từ mẹ đến thai nhi qua nhau thai nên trẻ có thể tránh khỏi một số bệnh nào đó .</s>
+<a id='ev44'>1-1;2-2,3;4-18;6-21,22;8-23,24;9-25;11-6,7;13-8;16-15,16;17-9;19-10;20-11;22,23-12,13;</a>
+</spair>
+<spair id='45'>
+<s id='en45'>After birth , breastfedbabies get the continued benefits of additional antibodies in breast milk .</s>
+<s id='vn45'>Sau khi ra đời , trẻ bú mẹ vẫn được bổ sung thêm nhiều kháng thể có trong sữa mẹ giúp bé khoẻ mạnh .</s>
+<a id='ev45'>1-1,2;2-3,4;4-6,7,8;7-9;8-10,11,12;10-13;11-14,15,16;12-18;13,14-19,20;</a>
+</spair>
+<spair id='46'>
+<s id='en46'>But in both cases , the protection is temporary .</s>
+<s id='vn46'>Nhưng trong cả hai trường hợp trên thì sức bảo vệ cho bé chỉ là tạm thời trong một thời gian ngắn thôi .</s>
+<a id='ev46'>1-1;2-2;3-3,4;4-5,6;7-10,11;8-15;9-16,17;</a>
+</spair>
+<spair id='47'>
+<s id='en47'>Immunization ( vaccination ) is a way of creating immunity to certain diseases by using small amounts of a killed or weakened microorganism that causes the particular disease .</s>
+<s id='vn47'>Chủng ngừa ( tiêm chủng ) là cách tạo sức đề kháng với một số bệnh bằng cách sử dụng rất ít vi sinh vật đã chết hoặc bị làm yếu có thể gây một bệnh cụ thể nào đó .</s>
+<a id='ev47'>1-1,2;3-4,5;5-7;7-8;9-9;10-10,11,12;13-14,15,16;14-17;15-18,19,20;16-22;20-26,27;21-28;22-30,31;23-23,24,25;25-34;27-37,38;28-36;</a>
+</spair>
+<spair id='48'>
+<s id='en48'>Microorganisms can be viruses , such as the measles virus , or they can be bacteria , such as pneumococcus .</s>
+<s id='vn48'>Vi sinh vật có thể là vi-rút , như vi-rút sởi , hoặc cũng có thể là vi khuẩn , như khuẩn cầu phổi chẳng hạn .</s>
+<a id='ev48'>1-1,2,3;2-4,5;4-7;6,7-9;9-11;10-10;12-13;14-15,16;16-18,19;18,19-21;20-22,23,24;</a>
+</spair>
+<spair id='49'>
+<s id='en49'>Vaccines stimulate the immune system to react as if there were a real infection - it fends off the " infection " and remembers the organism so that it can fight it quickly should it enter the body later .</s>
+<s id='vn49'>Các vắc-xin có tác dụng làm kích thích hệ miễn dịch phản ứng y như bị nhiễm bệnh thật vậy – hệ miễn dịch của cơ thể lúc này sẽ chống " nhiễm " và có thể " nhớ được " loại sinh vật gây bệnh này để sau này có thể nhanh chóng diệt được nó khi xâm nhập vào cơ thể .</s>
+<a id='ev49'>1-1,2;2-7,8;4-10,11;5-9;7-12,13;9-14,15;13-19,20;14-16,17,18;17-31;21-33;23-35;24-39,40;26-26,27;30-36,37;33-53,54;36-59,60,61;38-62,63;</a>
+</spair>
+<spair id='50'>
+<s id='en50'>Some parents may hesitate to have their kids vaccinated because they 're worried that the children will have serious reactions or may get the illness the vaccine is supposed to prevent .</s>
+<s id='vn50'>Một số cha mẹ có thể lưỡng lự không biết nên cho con mình tiêm ngừa hay không bởi họ lo rằng bé sẽ phản ứng lại vắc-xin một cách trầm trọng hoặc cũng có thể bé bị bệnh giống với bệnh cần tiêm ngừa .</s>
+<a id='ev50'>1-1,2;2-3,4;3-5,6;4-7,8;8-13;9-15,16;10-19;11-20;13-21;14-22;16-23;17-24;19-31,32;20-25,26,27;21-33;22-35,36;25-39;29-42,43;31-44,45;</a>
+</spair>
+<spair id='51'>
+<s id='en51'>Because the components of vaccines are weakened or killed - and in some cases , only parts of the microorganism are used - they 're unlikely to cause any serious illness .</s>
+<s id='vn51'>Vì các thành phần trong vắc-xin đã bị làm yếu hoặc đã chết – và trong một vài trường hợp thì không sử dụng hết vi sinh vật đó – chúng khó có thể gây ra một chứng bệnh nguy hiểm nào .</s>
+<a id='ev51'>1-1;3-2,3,4;4-5;7-7,8,9,10;8-11;9-12,13;11-15;12-16;13-17,18;14-19,20;16-22,23,24;20-26,27,28;24-31;26-32,33,34,35,36;29-37;30-40,41;31-38,39;</a>
+</spair>
+<spair id='52'>
+<s id='en52'>Some vaccines may cause mild reactions , such as soreness where the shot was given or fever , but serious reactions are rare .</s>
+<s id='vn52'>Một số vắc-xin cũng có thể gây ra phản ứng nhẹ như đau nhức vùng tiêm hoặc làm cho bé nóng sốt , nhưng các trường hợp phản ứng nặng rất hiếm xảy ra .</s>
+<a id='ev52'>1-1,2;2-3;3-5,6;4-7,8;5-11;6-9,10;8,9-12;10-13,14;11-15;13-16;16-17;17-21,22;19-24;20-30;21-25,26,27,28,29;23-32;</a>
+</spair>
+<spair id='53'>
+<s id='en53'>The risks of vaccinations are small compared with the health risks associated with the diseases they 're intended to prevent .</s>
+<s id='vn53'>Những rủi ro do tiêm ngừa là rất ít so với các vấn đề sức khỏe do bệnh mà mình muốn phòng tránh gây ra .</s>
+<a id='ev53'>2-1,2,3;4-5,6;5-7;6-8,9;7-10,11;10-15,16;12-17,18;19-24,25;20-22,23;</a>
+</spair>
+<spair id='54'>
+<s id='en54'>The following vaccinations and schedules are recommended by the American Academy of Pediatrics ( AAP ) .</s>
+<s id='vn54'>Lịch chủng ngừa dưới đây do Viện Hàn Lâm Nhi Khoa Hoa Kỳ ( AAP ) khuyến nghị .</s>
+<a id='ev54'>2-4,5;3-2,3;7-17,18;10-12,13;11-7,8,9;13-10,11;15-15;</a>
+</spair>
+<spair id='55'>
+<s id='en55'>Please note that some variations are acceptable and that changes in recommendations frequently occur as new vaccines are developed .</s>
+<s id='vn55'>Nhưng xin lưu ý là cũng được phép thay đổi và thường thay đổi khi có các loại vắc-xin mới ra đời .</s>
+<a id='ev55'>1-2,3,4;5-9,10;7-7,8;8-11;10-13,14;11-15;13-12;16-20;17-17,18,19;19-21,22;</a>
+</spair>
+<spair id='56'>
+<s id='en56'>The AAP recommends that children get combination vaccines ( rather than single vaccines ) whenever possible .</s>
+<s id='vn56'>AAP cũng khuyến nghị trẻ em nên tiêm ngừa vắc-xin kết hợp ( chớ không phải là vắc-xin đơn lẻ ) bất cứ khi nào có thể được .</s>
+<a id='ev56'>2-1;3-3,4;5-5,6;7-11,12;8-10;12-19,20;13-18;15-22,23,24,25;16-26,27;</a>
+</spair>
+<spair id='57'>
+<s id='en57'>Many vaccines are offered in combination to help reduce the number of shots a child receives .</s>
+<s id='vn57'>Nhiều loại vắc-xin kết hợp được đưa vào sử dụng nhằm giúp làm giảm số mũi tiêm chích cho trẻ .</s>
+<a id='ev57'>1-1,2;2-3;6-4,5;8-12,13;9-14;11-15;13-16,17,18;15-20;</a>
+</spair>
+<spair id='58'>
+<s id='en58'>Your doctor will determine the best vaccinations and schedule for your child .</s>
+<s id='vn58'>Bác sĩ sẽ quyết định xem lịch chủng ngừa nào là tốt nhất cho con của bạn .</s>
+<a id='ev58'>2-1,2;3-3;4-4,5;6-12,13;7-8,9;8-10,11;9-7;10-14;11-16,17;12-15;</a>
+</spair>
+<spair id='59'>
+<s id='en59'>Recommended vaccinations :</s>
+<s id='vn59'>Lịch tiêm chủng được khuyến nghị như sau :</s>
+<a id='ev59'>1-5,6;2-2,3,4;</a>
+</spair>
+<spair id='60'>
+<s id='en60'>Hepatitis B</s>
+<s id='vn60'>Bệnh viêm gan siêu vi B</s>
+<a id='ev60'>1-1,2,3;2-6;</a>
+</spair>
+<spair id='61'>
+<s id='en61'>Hepatitis B virus ( HBV ) affects the liver .</s>
+<s id='vn61'>Vi-rút viêm gan siêu vi B ( HBV ) làm ảnh hưởng đến gan .</s>
+<a id='ev61'>1-2,3,4,5;2-6;3-1;5-8;7-10,11,12,13;9-14;</a>
+</spair>
+<spair id='62'>
+<s id='en62'>Those who are infected can become lifelong carriers of the virus and may develop long-term problems such as cirrhosis ( liver disease ) or cancer of the liver .</s>
+<s id='vn62'>Bệnh nhân viêm gan siêu vi B có thể trở thành người sống với vi-rút</s>
+<a id='ev62'>2-1,2;4-3;5-8,9;6-10,11;8-12,13;11-15;12-14;</a>
+</spair>
+<spair id='63'>
+<s id='en63'>Immunization schedule</s>
+<s id='vn63'>Lịch chủng ngừa</s>
+<a id='ev63'>1-2,3;2-1;</a>
+</spair>
+<spair id='64'>
+<s id='en64'>Hepatitis B vaccine usually is given as a series of three injections .</s>
+<s id='vn64'>Vắc-xin viêm gan siêu vi B thường được tiêm ngừa một loạt 3 mũi .</s>
+<a id='ev64'>1-2,3,4,5;2-6;3-1;4-7;6-8,9,10;8-11;9-12;11-13;12-14;</a>
+</spair>
+<spair id='65'>
+<s id='en65'>The first shot is often given to infants shortly after birth .</s>
+<s id='vn65'>Trẻ sơ sinh thường được tiêm mũi đầu tiên ngay sau khi ra đời .</s>
+<a id='ev65'>2-8,9;3-6;5-4;6-5;8-1,2,3;9-10;10-11,12;11-13,14;</a>
+</spair>
+<spair id='66'>
+<s id='en66'>If the mother of a newborn carries the hepatitis B virus in her blood , the infant needs to receive the first shot within 12 hours after birth , along with another shot ( HBIG ) to immediately provide protection against the virus .</s>
+<s id='vn66'>Nếu mẹ dương tính với vi - rút viêm gan siêu vi B trong máu thì trẻ mới sinh cần phải được tiêm mũi đầu trong vòng 12 tiếng đồng hồ sau khi lọt lòng mẹ , cùng với một mũi ( HBIG ) khác để có thể kháng vi-rút ngay lập tức .</s>
+<a id='ev66'>1-1;3-2;9-9,10;10-13;11-12;12-14;14-15;17-18,19;18-20,21;20-22,23;22-25;23-24;24-26,27;25-28;26-29,30,31;27-32,33;28-34,35,36;31-38,39;32-45;33-41;35-43;37-46;38-51,52,53;41-49;43-50;</a>
+</spair>
+<spair id='67'>
+<s id='en67'>If a newborn 's mother shows no evidence of HBV in her blood , the infant may receive the hepatitis B vaccine any time prior to leaving the hospital .</s>
+<s id='vn67'>Nếu mẹ âm tính với vi - rút viêm gan siêu vi B thì trẻ sơ sinh cũng có thể được tiêm ngừa loại vắc-xin này vào bất cứ lúc nào trước khi ra viện .</s>
+<a id='ev67'>1-1;5-2;8-4;16-15,16,17;17-19,20;18-21;19-26;20-9,10;21-13;22-25;23,24-27,28,29,30,31;25-32,33;27-34;29-35;</a>
+</spair>
+<spair id='68'>
+<s id='en68'>It may also be delayed until the 1 - or 2 - month visit to your doctor .</s>
+<s id='vn68'>Bạn cũng có thể hoãn lại mũi chích này đến lần khám bác sĩ trong 1 hay 2 tháng .</s>
+<a id='ev68'>2-3,4;3-2;5-5,6;6-15;8-16;10-17;11-18;13-19;14-10;17-13,14;</a>
+</spair>
+<spair id='69'>
+<s id='en69'>If the first dose is given shortly after birth , the second shot is given at 1 to 2 months and the third at 6 to 18 months .</s>
+<s id='vn69'>Nếu được tiêm ngừa liều đầu tiên sau khi sinh thì liều thứ hai nên cách 1 đến 2 tháng và liều thứ 3 được tiêm từ khoảng 6 đến 18 tháng .</s>
+<a id='ev69'>1-1,2;3-6,7;6-10;8-8,9;12-13,14;14-15;16-16;17-17;18-18;19-19;20-20;21-21;23-23,24;24-28;25-29;26-30;27-31;28-32;</a>
+</spair>
+<spair id='70'>
+<s id='en70'>For infants who do n't receive the first shot until 1 to 2 months , the second shot is given at 3 to 4 months and the third at 6 to 18 months .</s>
+<s id='vn70'>Đối với trẻ sơ sinh được tiêm mũi đầu tiên lúc 1 đến 2 tháng tuổi thì mũi thứ 2 là khoảng từ 3 đến 4 tháng và mũi thứ ba từ khoảng 6 tháng 18 tháng .</s>
+<a id='ev70'>1-1;2-3,4,5;6-6,7;8-9,10;9-8;10-11;11-12;12-13;13-14;14-15,16;17-19,20;18-18;19-21;21-22,23;22-24;23-25;24-26;25-27;26-28;28-30,31;29-32;30,31,32,33-33,34,35,36,37;</a>
+</spair>
+<spair id='71'>
+<s id='en71'>In either case , the second and third shots are usually given in conjunction with other routine childhood immunizations .</s>
+<s id='vn71'>Trong cả hai trường hợp thì mũi thứ 2 và thứ 3 thường được tiêm kết hợp với lịch chủng ngừa thường lệ khác của trẻ .</s>
+<a id='ev71'>1-1;2-2,3;3-4,5;6-8,9;7-10;8-11,12;9-7;11-13;12-14;14,15-16,17,18;16-24;17-22,23;19-20,21;</a>
+</spair>
+<spair id='72'>
+<s id='en72'>Why the vaccine is recommended</s>
+<s id='vn72'>Tại sao phải khuyến nghị dùng vắc-xin</s>
+<a id='ev72'>1-1,2;3-7;5-3,4,5,6;</a>
+</spair>
+<spair id='73'>
+<s id='en73'>The hepatitis B vaccine usually creates long-term immunity .</s>
+<s id='vn73'>Vắc-xin viêm gan siêu vi B thường có thể tạo miễn dịch lâu dài .</s>
+<a id='ev73'>2-2,3,4,5;3-6;4-1;5-7;6-10;7-13,14;8-11,12;</a>
+</spair>
+<spair id='74'>
+<s id='en74'>Infants who receive the HBV series should be protected from hepatitis B infection not only throughout their childhood but also into the adult years .</s>
+<s id='vn74'>Trẻ sơ sinh được tiêm chủng HBV sẽ miễn nhiễm viêm gan siêu vi B không chỉ trong thời thơ ấu mà còn cả giai đoạn tuổi trưởng thành .</s>
+<a id='ev74'>1-1,2,3;3-4,5,6;5-7;9-9,10;11-11,12,13,14;12-15;14-16;15-17;16-18,19;18-20,21;20-22,23;23-27,28,29;</a>
+</spair>
+<spair id='75'>
+<s id='en75'>Eliminating the risk of infection also decreases risk for cirrhosis of the liver , chronic liver disease , and liver cancer .</s>
+<s id='vn75'>Nếu loại trừ được nguy cơ nhiễm bệnh , bạn cũng có thể giảm nguy cơ bị xơ gan , bị bệnh gan mãn tính , và ung thư gan .</s>
+<a id='ev75'>1-2,3;3-4,5,6;5-7,8;6-11;7-14;8-15,16;10-18,19;15-24,25;16-23;17-21,22;19-27;20-30;21-28,29;</a>
+</spair>
+<spair id='76'>
+<s id='en76'>Young adults and adolescents should also receive the vaccine if they did not as infants .</s>
+<s id='vn76'>Thanh niên và thanh thiếu niên cũng nên tiêm ngừa vắc-xin này nếu như chưa được tiêm lần nào lúc nhỏ .</s>
+<a id='ev76'>1,2-1,2;3-3;4-4,5,6;5-8;6-7;7-9;8-12;9-11;10-13,14;13-15;14-20;15-21;</a>
+</spair>
+<spair id='77'>
+<s id='en77'>Possible risks</s>
+<s id='vn77'>Rủi ro có thể xảy ra</s>
+<a id='ev77'>1-3,4;2-1,2;</a>
+</spair>
+<spair id='78'>
+<s id='en78'>There is a very small chance of an allergic reaction with any vaccine .</s>
+<s id='vn78'>Phản ứng dị ứng với vắc-xin là rất ít .</s>
+<a id='ev78'>2-7;4-8;5-9;9-3,4;10-1,2;11-5;13-6;</a>
+</spair>
+<spair id='79'>
+<s id='en79'>Serious problems associated with receiving the HBV vaccine are rare .</s>
+<s id='vn79'>Các vấn đề nghiêm trọng liên quan đến việc tiêm ngừa vắc-xin HBV rất hiếm xảy ra .</s>
+<a id='ev79'>1-4,5;2-1,2,3;3-6,7;7-13;8-12;10-15;</a>
+</spair>
+<spair id='80'>
+<s id='en80'>Problems that do occur tend to be minor , such as fever or redness or tenderness at the injection site .</s>
+<s id='vn80'>Phản ứng sau khi tiêm ngừa thường là rất nhẹ , như nóng sốt hoặc nổi đỏ hoặc bị đau tại vùng tiêm chích .</s>
+<a id='ev80'>7-8;8-9,10;10-12;12-13,14;13-15;14-16,17;15-18;16-19,20;17-21;19-23,24;20-22;</a>
+</spair>
+<spair id='81'>
+<s id='en81'>When to delay or avoid immunization</s>
+<s id='vn81'>Khi nào nên hoãn hoặc không chích ngừa</s>
+<a id='ev81'>1-1,2;2-3;3-4;4-5;5-6;6-7,8;</a>
+</spair>
+<spair id='82'>
+<s id='en82'>* if your child is currently sick , although simple colds or other minor illnesses should not prevent immunization</s>
+<s id='vn82'>* nếu con bạn đang bị bệnh , mặc dù là cảm nhẹ hoặc bị một bệnh nhẹ nào khác thì cũng nên tránh chích ngừa</s>
+<a id='ev82'>2-2;3-4;4-3;5-5;7-6,7;9-9,10;10-11;11-12;12-14;13-19,20;14-18;15-17;16,17-23,24;19-25,26;</a>
+</spair>
+<spair id='83'>
+<s id='en83'>* if a severe allergic reaction ( called anaphylaxis ) occurred after a previous injection of the HBV vaccine</s>
+<s id='vn83'>* nếu xảy ra phản ứng dị ứng nặng ( gọi là sốc mẫn cảm ) sau lần tiêm vắc-xin HBV trước đây</s>
+<a id='ev83'>2-2;4-7,8,9;6-5,6;8-11,12;9-13,14,15;12-17;14-22,23;15-19;18-21;19-20;</a>
+</spair>
+<spair id='84'>
+<s id='en84'>Caring for your child after immunization</s>
+<s id='vn84'>Chăm sóc cho con bạn sau khi tiêm ngừa</s>
+<a id='ev84'>1-1,2;2-3;3-5;4-4;5-6,7;6-8,9;</a>
+</spair>
+<spair id='85'>
+<s id='en85'>The vaccine may cause mild fever , and soreness and redness in the area where the shot was given .</s>
+<s id='vn85'>Vắc-xin có thể gây sốt nhẹ , đau nhức và nổi đỏ ở vùng tiêm ngừa .</s>
+<a id='ev85'>2-1;3-2,3;4-4,5;5-6;8-10;9-8,9;11-11,12;14-14;15-13;17-15,16;</a>
+</spair>
+<spair id='86'>
+<s id='en86'>Depending on the age of your child , pain and fever may be treated with acetaminophen or ibuprofen .</s>
+<s id='vn86'>Tùy vào độ tuổi của bé mà bác sĩ sẽ cho thuốc acetaminophen hoặc ibuprofen để làm giảm đau và hạ sốt .</s>
+<a id='ev86'>1-1,2;4-3,4;5-5;7-6;9-19;10-20;11-21,22;16-13;17-14;18-15;</a>
+</spair>
+<spair id='87'>
+<s id='en87'>Very young infants should not be given either medication , but for older infants or children , check with the doctor about the appropriate medication and dose .</s>
+<s id='vn87'>Trẻ sơ sinh rất nhỏ không nên dùng thuốc , nhưng đối với trẻ sơ sinh lớn hơn hoặc trẻ nhỏ thì bạn nên tham khảo ý kiến của bác sĩ về thuốc và liều dùng thích hợp cho bé nhé .</s>
+<a id='ev87'>1-4;2-5;3-1,2,3;4,5-6,7;9-9;11-11;12-12,13;13-17,18;14-14,15,16;15-19;16-20,21;18,19-27,28;21-30,31;22-32;24-37,38;25-33;26-34;27-35;</a>
+</spair>
+<spair id='88'>
+<s id='en88'>When to call the doctor</s>
+<s id='vn88'>Khi nào nên gọi bác sĩ</s>
+<a id='ev88'>1-1,2;2-3;3-4;5-5,6;</a>
+</spair>
+<spair id='89'>
+<s id='en89'>* if you 're not sure of the recommended schedule for the hepatitis B vaccine</s>
+<s id='vn89'>* nếu bạn chưa rõ về lịch chủng ngừa vắc-xin viêm gan siêu vi B</s>
+<a id='ev89'>2-2;3-3;5-4;6-5;7-6;10-7,8,9;13-11,12;14-15;15-10;</a>
+</spair>
+<spair id='90'>
+<s id='en90'>* if you have concerns about your own HBV carrier state</s>
+<s id='vn90'>* nếu bạn lo lắng về tình trạng mang mầm vi-rút HBV của mình</s>
+<a id='ev90'>2-2;3-3;5-4,5;6-6;7-13,14;9-11,12;10-9;11-7,8;</a>
+</spair>
+<spair id='91'>
+<s id='en91'>* if serious adverse symptom appear after your child has received an HBV injection</s>
+<s id='vn91'>* nếu bạn thấy bất cứ triệu chứng ảnh hưởng xấu nghiêm trọng nào đối với con bạn sau khi bé tiêm ngừa HBV</s>
+<a id='ev91'>2-2;3-9,10,11,12,13;4-5,6;5-7,8;7-19,20;8-18;9-17;13-24;14-22,23;</a>
+</spair>
+<spair id='92'>
+<s id='en92'>Pneumococcal Vaccine ( PCV )</s>
+<s id='vn92'>Vắc-xin chống khuẩn cầu phổi ( PCV )</s>
+<a id='ev92'>1-3,4,5;2-1;4-7;</a>
+</spair>
+<spair id='93'>
+<s id='en93'>The pneumococcal conjugate vaccine ( PCV ) protects against pneumococcal infections .</s>
+<s id='vn93'>Vắc-xin cộng hợp phế cầu ( PCV ) có tác dụng chống nhiễm khuẩn cầu phổi .</s>
+<a id='ev93'>2-4,5;3-2,3;4-1;6-7;8-10,11;9-12;11-13,14;</a>
+</spair>
+<spair id='94'>
+<s id='en94'>The bacterium is a leading cause of serious infections , including pneumonia , blood infections , and bacterial meningitis .</s>
+<s id='vn94'>Vi khuẩn là nguyên nhân hàng đầu của nhiều chứng nhiễm trùng nghiêm trọng , như viêm phổi , nhiễm trùng máu , và viêm màng não do vi khuẩn .</s>
+<a id='ev94'>2-1,2;3-3;5-6,7;6-4,5;7-8;8-13,14;9-9,10,11,12;11-16;12-17,18;14-22;15-20,21;17-24;18-28,29,30;19-25,26,27;</a>
+</spair>
+<spair id='95'>
+<s id='en95'>Children under 2 years old , adults over 65 years old , and people with certain medical conditions are most susceptible to serious pneumococcal infections .</s>
+<s id='vn95'>Trẻ em dưới 2 tuổi , người lớn trên 65 tuổi , và người đang mắc một số bệnh nào đó dễ bị nhiễm khuẩn cầu phổi nhiều nhất .</s>
+<a id='ev95'>1-1,2;2-3;3-4;4-5;5-7,8;8-9;9-10;10,11-11;13-13;14-14;16-20,21;20-28,29;21-22,23;24-26,27;25-24,25;</a>
+</spair>
+<spair id='96'>
+<s id='en96'>Thepneumococcus bacterium is spread through person-to-person contact .</s>
+<s id='vn96'>Khuẩn cầu phổi lây qua tiếp xúc từ người sang người .</s>
+<a id='ev96'>1-2,3;2-1;4-4;5-5;6-9,10,11;7-6,7;</a>
+</spair>
+<spair id='97'>
+<s id='en97'>The vaccine not only prevents the infection in children who receive it , it also helps stop its spread .</s>
+<s id='vn97'>Vắc-xin cộng hợp phế cầu không những giúp trẻ tránh nhiễm bệnh mà còn ngăn chặn lây lan .</s>
+<a id='ev97'>2-1;3-6;4-7;5-15,16;7-17,18;9-9;16-8;17-10;19-11,12;</a>
+</spair>
+<spair id='98'>
+<s id='en98'>Immunization schedule</s>
+<s id='vn98'>Lịch chủng ngừa</s>
+<a id='ev98'>1-2,3;2-1;</a>
+</spair>
+<spair id='99'>
+<s id='en99'>PCV immunizations are given as a series of four injections starting at 2 months of age and following at 4 months , 6 months , and 12 to 15 months .</s>
+<s id='vn99'>Chủng ngừa PCV được tiêm thành một loạt 4 mũi , bắt đầu từ 2 tháng tuổi , 4 tháng tuổi , 6 tháng tuổi , và từ 12 đến 15 tháng tuổi .</s>
+<a id='ev99'>1-3;2-1,2;4-4,5;5-7;7-8;9-9;10-10;11-12,13,14;13-15;14,15,16-16,17;20-19;21-20,21;23-23;24-24,25;26-27;27-29;28-30;29-31;30-32,33;</a>
+</spair>
+<spair id='100'>
+<s id='en100'>Kids who miss the first dose or may have missed subsequent doses due to vaccine shortage should still receive the vaccine , and your doctor can give you a modified schedule for immunization .</s>
+<s id='vn100'>Trẻ bỏ lỡ liều vắc - xin đầu tiên hoặc có thể đã không chích được các liều sau do thiếu vắc-xin thì vẫn sẽ được tiêm ngừa , và bác sĩ sẽ cho bạn biết lịch tiêm chủng có thay đổi của mình .</s>
+<a id='ev100'>1-1;3-2,3,4;5-8,9;7-10;8-11,12;10-13,14,15,16;11-18,19;12-17,18;13-20;15-22;16-21;17-25;18-24;19-26,27,28;23-30;24-43,44;25-31,32;27-34;28-35;30-41,42;31-37;33-38,39;</a>
+</spair>
+<spair id='101'>
+<s id='en101'>Why the vaccine is recommended</s>
+<s id='vn101'>Tại sao phải khuyến nghị dùng vắc-xin</s>
+<a id='ev101'>1-1,2;3-7;5-3,4,5;</a>
+</spair>
+<spair id='102'>
+<s id='en102'>The most serious infections affect children younger than 2 years old , and the vaccine will protect them when they 're at greatest risk .</s>
+<s id='vn102'>Trẻ dưới 2 tuổi thường hay mắc hầu hết các bệnh nhiễm trùng nặng , và vắc-xin sẽ giúp cho trẻ phòng tránh được các bệnh đó khi có nguy cơ lây nhiễm nhiều nhất .</s>
+<a id='ev102'>2-8,9;3-14;4-10,11;5-12,13;6,7-1;8-2;9-3;10,11-4;13-16;15-17;16-18;19-28;23-34,35;24-30,31,32,33;</a>
+</spair>
+<spair id='103'>
+<s id='en103'>PCV also is recommended for kids between 2 and 5 years of age who are at high risk for serious pneumococcal infections because they have medical problems such as :</s>
+<s id='vn103'>PCV cũng được khuyến nghị tiêm phòng cho trẻ từ 2 đến 5 tuổi đang có nguy cơ nhiễm khuẩn cầu phổi nặng vì có thể gây nhiều vấn đề về sức khỏe như :</s>
+<a id='ev103'>1-1;2-2,3;4-4,5,6,7;5-8;6-9;8-11;10-13;11,12,13-14;18-17,18;20-23;21-20,21,22;22-19;23-24;25-25,26,27;26-32,33;27-28,29,30;28,29-34;</a>
+</spair>
+<spair id='104'>
+<s id='en104'>* sickle cell anemia</s>
+<s id='vn104'>* bệnh thiếu máu hồng cầu hình liềm</s>
+<a id='ev104'>2-8;3-6,7;4-2,3,4;</a>
+</spair>
+<spair id='105'>
+<s id='en105'>* a damaged spleen or no spleen</s>
+<s id='vn105'>* lá lách bị hư hoặc không có lá lách</s>
+<a id='ev105'>3-4,5;4-2,3;5-6;6-7;7-9,10;</a>
+</spair>
+<spair id='106'>
+<s id='en106'>* HIV/AIDS</s>
+<s id='vn106'>* HIV/AIDS</s>
+<a id='ev106'>2-2;</a>
+</spair>
+<spair id='107'>
+<s id='en107'>* cochlear implants</s>
+<s id='vn107'>* phải dùng thiết bị trợ thính được cấy dưới da</s>
+<a id='ev107'>2-4,5,6,7;3-9,10,11;</a>
+</spair>
+<spair id='108'>
+<s id='en108'>* a disease that affects the immune system , such as diabetes or cancer</s>
+<s id='vn108'>* bệnh ảnh hưởng đến hệ miễn dịch , như tiểu đường hoặc ung thư</s>
+<a id='ev108'>3-2;5-3,4,5;7-7,8;8-6;10,11-10;12-11,12;13-13;14-14,15;</a>
+</spair>
+<spair id='109'>
+<s id='en109'>* receiving medications that affect the immune system , such as steroids or chemotherapy</s>
+<s id='vn109'>* phải dùng thuốc ảnh hưởng đến hệ miễn dịch , như là xtê-rô-it hoặc hoá trị liệu</s>
+<a id='ev109'>2-2,3;3-4;5-5,6,7;7-9,10;8-8;10,11-12,13;12-14;13-15;14-16,17,18;</a>
+</spair>
+<spair id='110'>
+<s id='en110'>* chronic heart or lung disease</s>
+<s id='vn110'>* bị bệnh tim mãn tính hoặc bệnh về phổi</s>
+<a id='ev110'>2-5,6;3-3,4;4-7;5-10;6-8;</a>
+</spair>
+<spair id='111'>
+<s id='en111'>In addition , these high-risk children may also receive the pneumococcal polysaccharide vaccine ( PPV ) in addition to the PCV when they 're older than 24 months .</s>
+<s id='vn111'>Ngoài ra , những trẻ em có nguy cơ nhiễm bệnh cao cũng có thể được tiêm ngừa vắc-xin pô-li-xa-ca-rít khuẩn cầu phổi ( PPV ) ngoài vắc-xin PCV khi đã trên 24 tháng tuổi .</s>
+<a id='ev111'>1,2-1,2;5-8,9,10,11,12;6-4,5,6;7-14,15;8-13;9-16,17,18;11-21,22,23;12-20;13-19;15-25;17,18-27;21-28,29;22-30;25-32;27-33;28-34,35;</a>
+</spair>
+<spair id='112'>
+<s id='en112'>Possible risks</s>
+<s id='vn112'>Rủi ro có thể xảy ra</s>
+<a id='ev112'>1-3,4,5,6;2-1,2;</a>
+</spair>
+<spair id='113'>
+<s id='en113'>Children who receive the PCV vaccine may have redness , tenderness , or swelling where the shot was given .</s>
+<s id='vn113'>Trẻ được tiêm ngừa vắc-xin PCV cũng có thể bị nổi đỏ , đau nhức , hoặc sưng ở vùng tiêm .</s>
+<a id='ev113'>1-1;3-2,3,4;5-6;6-5;7-8,9;9-11,12;11-14,15;13-17;14-18;15-19,20;17-21;</a>
+</spair>
+<spair id='114'>
+<s id='en114'>A child may also have a fever after receiving the shot .</s>
+<s id='vn114'>Hoặc cũng có thể bị nóng sốt sau khi tiêm ngừa .</s>
+<a id='ev114'>3-3,4;4-2;7-5,6,7;8-8,9;11-10,11;</a>
+</spair>
+<spair id='115'>
+<s id='en115'>There is a very small chance of an allergic reaction with any vaccine .</s>
+<s id='vn115'>Trường hợp phản ứng dị ứng với vắc-xin rất hiếm khi xảy ra .</s>
+<a id='ev115'>9-5,6;10-3,4;11-7;13-8;</a>
+</spair>
+<spair id='116'>
+<s id='en116'>When to delay or avoid immunization</s>
+<s id='vn116'>Khi nào nên hoãn hoặc tránh chủng ngừa</s>
+<a id='ev116'>1-1,2;2-3;3-4;4-5;5-6;6-7,8;</a>
+</spair>
+<spair id='117'>
+<s id='en117'>* if your child is currently sick , although simple colds or other minor illnesses should not prevent immunization</s>
+<s id='vn117'>* nếu con bạn đang bị bệnh , mặc dù là cảm nhẹ hoặc bị một bệnh nhẹ nào khác thì cũng nên tránh chích ngừa</s>
+<a id='ev117'>2-2;3-4;4-3;5-5;7-6,7;9-9,10;10-11;11-12;12-14;13-19,20;14-18;15-17;16,17-23,24;18-26;19-25;</a>
+</spair>
+<spair id='118'>
+<s id='en118'>* if your child has had a severe allergic reaction to a previous dose of the vaccine</s>
+<s id='vn118'>* nếu con bạn xảy ra phản ứng dị ứng nặng với liều vắc-xin trước</s>
+<a id='ev118'>2-2;3-4;4-3;6-5,6;8-11;9-9,10;10-7,8;13-15;14-13;17-14;</a>
+</spair>
+<spair id='119'>
+<s id='en119'>Caring for your child after immunization</s>
+<s id='vn119'>Chăm sóc con bạn sau khi chủng ngừa</s>
+<a id='ev119'>1-1,2;3-4;4-3;5-5,6;6-7,8;</a>
+</spair>
+<spair id='120'>
+<s id='en120'>The vaccine may cause mild fever , and soreness and redness in the area where the shot was given .</s>
+<s id='vn120'>Vắc-xin này có thể gây sốt nhẹ , đau nhức và nổi đỏ ở vùng tiêm .</s>
+<a id='ev120'>1-2;2-1;3-3,4;4-5;5-7;6-6;9-9,10;10-11;11-12,13;12-14;14-15;17-16;</a>
+</spair>
+<spair id='121'>
+<s id='en121'>Depending on the age of your child , pain and fever may be treated with acetaminophen or ibuprofen .</s>
+<s id='vn121'>Tuỳ vào độ tuổi của con bạn , bác sĩ sẽ cho thuốc acetaminophen hay ibuprofen để giảm đau và hạ sốt .</s>
+<a id='ev121'>1-1;2-2;4-3,4;6-5,7;7-6;9-19;10-20;11-21,22;16,17,18-13,14,15,16;</a>
+</spair>
+<spair id='122'>
+<s id='en122'>Check with your doctor to see if you can give either medication , and to find out the appropriate dose .</s>
+<s id='vn122'>Bạn nên tham khảo ý kiến của bác sĩ xem liệu có thể cho bé dùng thuốc gì , và liều lượng như thế nào là thích hợp với bé nhé .</s>
+<a id='ev122'>1,2-5,6;3-7;4-8,9;6-10;7-12,13,14;12-17;14-20;17-26;19-27,28,29;20-21,22;</a>
+</spair>
+<spair id='123'>
+<s id='en123'>When to call the doctor</s>
+<s id='vn123'>Khi nào nên gọi cho bác sĩ</s>
+<a id='ev123'>1-1,2;2-3;3-4;5-6,7;</a>
+</spair>
+<spair id='124'>
+<s id='en124'>* if your child missed a dose in the series</s>
+<s id='vn124'>* nếu con bạn bỏ lỡ một lần tiêm</s>
+<a id='ev124'>2-2;3-4;4-3;5-5,6;6-7,8;</a>
+</spair>
+<spair id='125'>
+<s id='en125'>* if a severe allergic reaction or high fever occurs after immunization</s>
+<s id='vn125'>* nếu sau khi tiêm ngừa bé bị phản ứng dị ứng nặng hoặc sốt cao</s>
+<a id='ev125'>2-2;4-13;5-11,12;6-9,10;7-14;8-16;9-15;11-3,4;12-5,6;</a>
+</spair>
+<spair id='126'>
+<s id='en126'>DTaP</s>
+<s id='vn126'>DTaP</s>
+<a id='ev126'>1-1;</a>
+</spair>
+<spair id='127'>
+<s id='en127'>The DTaP vaccine protects against :</s>
+<s id='vn127'>Vắc-xin DTaP giúp phòng tránh :</s>
+<a id='ev127'>2-2;3-1;4-3;5-4,5;</a>
+</spair>
+<spair id='128'>
+<s id='en128'>* diphtheria - a serious infection of the throat that can block the airway and cause severe breathing difficulty</s>
+<s id='vn128'>* bạch hầu – đây là chứng nhiễm trùng họng nghiêm trọng có thể gây nghẽn đường hô hấp hay nghẽn khí quản và gây khó thở dữ dội</s>
+<a id='ev128'>2-2,3;5-11,12;6-8,9;9-10;11-13,14;12-15,16;14-17,18,19;15-24;16-25;17-28,29;18-27;19-26;</a>
+</spair>
+<spair id='129'>
+<s id='en129'>* tetanus - a nerve disease , which can occur at any age , caused by toxin-producing bacteria contaminating a wound</s>
+<s id='vn129'>* uốn ván – đây là một chứng bệnh thần kinh , có thể xảy ra ở mọi lứa tuổi , do độc tố tạo khuẩn làm nhiễm trùng vết thương</s>
+<a id='ev129'>2-2,3;4-7;5-9,10,11;9-13,14;10-15,16;11-17;12-18;13-19,20;15-22;17-23,24,25;18-26;19-27,28,29;21-30,31;</a>
+</spair>
+<spair id='130'>
+<s id='en130'>* pertussis - a respiratory illness with cold symptoms that progress to severe coughing ( the " whooping " sound occurs when the child breathes in deeply after a severe coughing bout ) ; serious complications of pertussis can occur in children under 1 year of age , and those under 6 months old are especially susceptible .</s>
+<s id='vn130'>* ho gà – là một bệnh về đường hô hấp với các triệu chứng của bệnh cúm phát triển ngày càng tăng dẫn đến ho dữ dội ( nghe như tiếng khò khè khi trẻ hít sâu vào sau một cơn ho rũ rượi ) ; trẻ dưới 1 tuổi thường xảy ra nhiều biến chứng ho gà trầm trọng , và trẻ dưới 6 tháng tuổi cũng rất hay nhiễm bệnh này .</s>
+<a id='ev130'>2-2,3;4-6;5-10,11;6-7;7-8;8-17,18;9-13,14,15;11-19,20;13-28;14-26;18-32,33,34;20-30,31;22-35;24-36;25-37;26-39;27-38;28-40;29-41;31-43,44,45;32-42;35-60,61;36-56,57;38-58,59;42-48;43-49;44-50;45-51;49-63;51-65;52-66;53-67;54-68;57-71,72,73;</a>
+</spair>
+<spair id='131'>
+<s id='en131'>Teens and adults with a persistent cough may not realize they have pertussis , and may pass it to vulnerable infants .</s>
+<s id='vn131'>Thiếu niên và người lớn bị ho dai dẳng cũng có thể không biết mình bị ho gà , và cũng có thể làm lây sang cho trẻ sơ sinh dễ mắc bệnh .</s>
+<a id='ev131'>1-1,2;2-3;3-4,5;6-8,9;7-7;8-11,12;9-13;13-17,18;15-20,21;16-22,23;17-24,25,26;20-31,32,33;21-28,29,30;</a>
+</spair>
+<spair id='132'>
+<s id='en132'>Immunization schedule</s>
+<s id='vn132'>Lịch chủng ngừa</s>
+<a id='ev132'>1-2,3;2-1;</a>
+</spair>
+<spair id='133'>
+<s id='en133'>DTaP immunizations are given as a series of five injections and are usually administered at ages 2 months , 4 months , 6 months , 15 to 18 months , and 4 to 6 years .</s>
+<s id='vn133'>Chủng ngừa DTaP được tiêm thành 1 loạt 5 mũi và thường bắt đầu lúc 2 tháng tuổi , 4 tháng tuổi , 6 tháng tuổi , từ 15 đến 18 tháng tuổi , và từ 4 đến 6 tuổi .</s>
+<a id='ev133'>1-3;2-1,2;4-4,5,6;6-7;7-8;9-9;10-10;11-11;13-12;15-15;16-18;17-16;18-17;20-20;21-21,22;23-24;24-25,26;26-29;27-30;28-31;29-32,33;31-35;32-37;33-38;34-39;35-40;</a>
+</spair>
+<spair id='134'>
+<s id='en134'>After the initial series of immunizations , a vaccine called Tdap ( the booster shot ) should be given at ages 11 to 12 , or to older teens and adults who have n't yet received a booster with pertussis coverage .</s>
+<s id='vn134'>Sau loạt chủng ngừa đầu tiên , vắc-xin Tdap ( tiêm nhắc ) sẽ được tiêm nhắc lại cho độ tuổi từ 11 đến 12 , hoặc cho thiếu niên lớn tuổi hơn và người lớn chưa tiêm nhắc ngừa bệnh ho gà lại .</s>
+<a id='ev134'>1-1;3-5,6;4-2;6-3,4;9-8;11-9;13-11;17-14;19-15,16;21-20,21;22-23;23-24;24-25;26-27;27-28;28-31,32,33;29-29,30;30-34;31-35,36;34,35-37;36-39;40-42,43;</a>
+</spair>
+<spair id='135'>
+<s id='en135'>Then , Td ( tetanus and diphtheria ) boosters are recommended every 10 years .</s>
+<s id='vn135'>Kế đến là các mũi tiêm nhắc ngừa uốn ván , bạch hầu cũng được khuyến nghị là cứ sau 10 năm một lần .</s>
+<a id='ev135'>1-1,2;5-9,10;7-12,13;11-16,17;13-21;14-22,23;</a>
+</spair>
+<spair id='136'>
+<s id='en136'>Why the vaccine is recommended</s>
+<s id='vn136'>Tại sao phải khuyến nghị sử dụng vắc-xin</s>
+<a id='ev136'>1-1,2;3-8;5-3,4,5;</a>
+</spair>
+<spair id='137'>
+<s id='en137'>Use of the DTaP vaccine has virtually eliminated diphtheria and tetanus in childhood and has markedly reduced the number of pertussis cases .</s>
+<s id='vn137'>Việc chủng ngừa vắc-xin DtaP hầu như đã giúp trẻ không còn mắc bệnh bạch hầu và uốn ván ở trẻ em và đã làm giảm đáng kể số ca mắc chứng ho gà .</s>
+<a id='ev137'>4-5;5-4;7-6,7;8-11,12;9-13,14,15,16;10-17;11-18,19;12-20;13-21,22;14-23;16-27,28;17-24,25,26;19-29;21-31,32,33,34;22-30;</a>
+</spair>
+<spair id='138'>
+<s id='en138'>Possible risks</s>
+<s id='vn138'>Rủi ro có thể xảy ra</s>
+<a id='ev138'>1-3,4;2-1,2;</a>
+</spair>
+<spair id='139'>
+<s id='en139'>The vaccine frequently causes mild side effects : fever , mild crankiness , tiredness , loss of appetite , and tenderness , redness , or swelling in the area where the shot was given .</s>
+<s id='vn139'>Vắc-xin chủng ngừa thường gây tác dụng phụ nhẹ như nóng sốt , hơi mệt , mệt mỏi , chán ăn , và đau nhức , nổi đỏ hoặc làm sưng ở vùng tiêm .</s>
+<a id='ev139'>2-1;3-4;4-5;5-9;6-8;7-6,7;9-11,12;11-14;12-15;14-17,18;16-20;18-21;20-23;21-24,25;23-27,28;25-29;26-30,31;27-32;29-33;32-34;</a>
+</spair>
+<spair id='140'>
+<s id='en140'>Rarely , seizures or allergic reactions can occur following DTaP .</s>
+<s id='vn140'>Các trường hợp tai biến ngập máu hay phản ứng dị ứng sau khi tiêm DTaP là rất hiếm xảy ra .</s>
+<a id='ev140'>3-4,5,6,7;4-8;5-11,12;6-9,10;8-20,21;9-13,14;10-16;</a>
+</spair>
+<spair id='141'>
+<s id='en141'>Most of these side effects result from the pertussis component of the vaccine .</s>
+<s id='vn141'>Hầu hết các tác dụng phụ này là do các thành phần trong vắc-xin ngừa ho gà .</s>
+<a id='ev141'>1-1,2;3-7;4-6;5-3,4,5;6-8;7-9;9-16,17;10-10,11,12;11-13;13-14;</a>
+</spair>
+<spair id='142'>
+<s id='en142'>Severe complications caused by DTaP immunization are rare .</s>
+<s id='vn142'>Các biến chứng nghiêm trọng do chủng ngừa DTaP rất hiếm .</s>
+<a id='ev142'>1-4,5;2-1,2,3;4-6;5-9;6-7,8;8-10,11;</a>
+</spair>
+<spair id='143'>
+<s id='en143'>Most kids have little or no problem .</s>
+<s id='vn143'>Phần lớn trẻ em đều gặp rất ít sự cố hoặc không có vấn đề gì .</s>
+<a id='ev143'>1-1,2;2-3,4;4-8;5-11;6-12,13;7-14,15;</a>
+</spair>
+<spair id='144'>
+<s id='en144'>When to delay or avoid immunization</s>
+<s id='vn144'>Khi nào nên hoãn hoặc tránh chủng ngừa</s>
+<a id='ev144'>1-1,2;2-3;3-4;4-5;5-6;6-7,8;</a>
+</spair>
+<spair id='145'>
+<s id='en145'>* if your child is currently sick , although simple colds or other minor illnesses should not prevent immunization</s>
+<s id='vn145'>* nếu con bạn đang bị bệnh , mặc dù là cảm nhẹ hoặc bị một bệnh nhẹ nào khác thì cũng nên tránh chích ngừa</s>
+<a id='ev145'>2-2;3-4;4-3;5-5;7-6,7;9-9,10;10-11;11-12;12-14;13-19,20;14-18;15-17;16-23;18-26;19-24,25;</a>
+</spair>
+<spair id='146'>
+<s id='en146'>* if your child has an uncontrolled seizure disorder or certain neurologic diseases or seems not to be developing normally - the pertussis component of the vaccine may not be given , and your child may receive a DT ( diphtheria and tetanus ) vaccine instead</s>
+<s id='vn146'>* nếu con bạn bị động kinh không kềm chế được hoặc bị một bệnh thần kinh nào đó hoặc có vẻ như phát triển không bình thường thì cũng không nên tiếp xúc với vắc-xin ho gà , bé có thể được tiêm vắc-xin DT ( bạch hầu , uốn ván ) thay cho vắc-xin DTaP .</s>
+<a id='ev146'>2-2;3-4;4-3;7-5,6,7;9-8,9,10,11;10-12;11-18,19;12-16,17;13-15;14-20;15-21,22,23;19-24,25;20-26,27,28;23-37,38;27-36;29-31;35-40;36-41,42;37-43,44;39-45,46;41-48,49;43-51,52;45-56;46-54,55;</a>
+</spair>
+<spair id='147'>
+<s id='en147'>If your child experienced any of the following after an earlier DTaP , consult with your doctor before your child receives another injection of the vaccine :</s>
+<s id='vn147'>Nếu con bạn bị bất kỳ triệu chứng gì sau khi tiêm DTaP ở lần trước , bạn hãy tham khảo ý kiến của bác sĩ trước khi cho bé tiêm một loại vắc-xin nào khác nhé :</s>
+<a id='ev147'>1-1;2-3;3-2;4-4,7,8;5-5,6;9-10,11;12-13;14-20,21;16-24;17-25,26;18-27,28;20-30;22-36;23-31;26-33,34;</a>
+</spair>
+<spair id='148'>
+<s id='en148'>* seizures within 7 days after injection</s>
+<s id='vn148'>* tai biến ngập máu trong vòng 7 ngày sau khi tiêm</s>
+<a id='ev148'>2-2,3,4,5;3-6,7;4-8;5-9;6-10,11;7-12;</a>
+</spair>
+<spair id='149'>
+<s id='en149'>* worsening of seizures</s>
+<s id='vn149'>* tai biến ngập máu ngày càng dữ dội hơn</s>
+<a id='ev149'>2-6,7,8,9,10;4-3,4,5;</a>
+</spair>
+<spair id='150'>
+<s id='en150'>* an allergic reaction after receiving the vaccine , such as mouth , throat , or facial swelling</s>
+<s id='vn150'>* phản ứng dị ứng sau khi tiêm vắc-xin , như là miệng , họng , hoặc mặt sưng lên</s>
+<a id='ev150'>3-4,5;4-2,3;5-6,7;6-8;8-9;10-11,12;12-13;14-15;16-17;17-18;18-19,20;</a>
+</spair>
+<spair id='151'>
+<s id='en151'>* difficulty breathing</s>
+<s id='vn151'>* khó thở</s>
+<a id='ev151'>2-2;3-3;</a>
+</spair>
+<spair id='152'>
+<s id='en152'>* temperature of 105° Fahrenheit ( 40.5° Celsius ) or higher during the first 2 days after injection</s>
+<s id='vn152'>* sốt 105° Pha-ren-het ( 40.5° C ) trở lên trong 2 ngày đầu sau khi tiêm</s>
+<a id='ev152'>2-2;4-3;5-4;7-6;8-7;11-9,10;12-11;14-14;15-12;16-13;17-15,16;18-17;</a>
+</spair>
+<spair id='153'>
+<s id='en153'>* shock or collapse during the first 2 days after injection</s>
+<s id='vn153'>* sốc hoặc suy nhược trong 2 ngày đầu tiên sau khi tiêm</s>
+<a id='ev153'>2-2;3-3;4-4,5;5-6;7-9,10;8-7;9-8;10-11,12;11-13;</a>
+</spair>
+<spair id='154'>
+<s id='en154'>* persistent , uncontrolled crying that lasts for more than 3 hours during the first 2 days after injection</s>
+<s id='vn154'>* khóc dai dẳng không nín hơn 3 tiếng đồng hồ trong 2 ngày đầu tiên sau khi tiêm</s>
+<a id='ev154'>2-3,4;4-5,6;5-2;9-7;11-8;12-9,10,11;13-12;15-15,16;16-13;17-14;18-17,18;19-19;</a>
+</spair>
+<spair id='155'>
+<s id='en155'>Caring for your child after immunization</s>
+<s id='vn155'>Chăm sóc con bạn sau khi tiêm ngừa</s>
+<a id='ev155'>1-1,2;3-4;4-3;5-5,6;6-7,8;</a>
+</spair>
+<spair id='156'>
+<s id='en156'>Your child may experience fever , soreness , and some swelling and redness in the area where the shot was given .</s>
+<s id='vn156'>Con bạn có thể bị nóng sốt , đau nhức và sưng và nổi đỏ ở vùng tiêm .</s>
+<a id='ev156'>1-2;2-1;3-3,4;5-6,7;7-9,10;9-11;11-12;12-13;13-14,15;14-16;16-17;19-18;</a>
+</spair>
+<spair id='157'>
+<s id='en157'>Depending on the age of your child , pain and fever may be treated with acetaminophen or ibuprofen .</s>
+<s id='vn157'>Tuỳ vào độ tuổi của con bạn , bác sĩ sẽ cho thuốc acetaminophen hoặc ibuprofen để làm giảm đau và hạ sốt .</s>
+<a id='ev157'>1-1;2-2;4-3,4;5-5;6-7;7-6;9-20;10-21;11-22,23;15-12,13;16-14;17-15;18-16,17;</a>
+</spair>
+<spair id='158'>
+<s id='en158'>Check with your doctor to see if you can give either medication , and to find out the appropriate dose .</s>
+<s id='vn158'>Bạn hãy tham khảo ý kiến của bác sĩ để xem liệu có thể cho bé sử dụng loại thuốc gì và liều lượng như thế nào cho phù hợp với bé nhé .</s>
+<a id='ev158'>1,2-5,6;3-7;4-8,9;5-10;6-11;7-12;9-13,14,15;12-19,20;14-22;19-29,30;20-23,24;</a>
+</spair>
+<spair id='159'>
+<s id='en159'>A warm , damp cloth or a heating pad also may help reduce soreness .</s>
+<s id='vn159'>Bạn cũng có thể dùng miếng giẻ ẩm , ấm hoặc miếng lót nóng để làm giảm đau .</s>
+<a id='ev159'>2-10;4-8;5-6,7;6-11;8-14;9-12,13;12-16;13-17;14-18;</a>
+</spair>
+<spair id='160'>
+<s id='en160'>Moving or using the limb that has received the injection often reduces the soreness .</s>
+<s id='vn160'>Việc nhúc nhích , cử động chân tay có vùng tiêm ngừa cũng thường giúp bạn giảm đau .</s>
+<a id='ev160'>1-1,2,3;3-5,6;5-7,8;7-9;10-11,12;11-14;12-17;14-18;</a>
+</spair>
+<spair id='161'>
+<s id='en161'>When to call the doctor</s>
+<s id='vn161'>Khi nào nên gọi cho bác sĩ</s>
+<a id='ev161'>1-1,2;2-3;3-4;5-6,7;</a>
+</spair>
+<spair id='162'>
+<s id='en162'>* if you are n't sure whether the vaccine should be postponed or avoided .</s>
+<s id='vn162'>* nếu bạn không biết liệu có nên hoãn hay tránh vắc-xin chủng ngừa này hay không .</s>
+<a id='ev162'>2-2;3-3;5-4;9-12;10,11-8;12-9;13-10;14-11;</a>
+</spair>
+<spair id='163'>
+<s id='en163'>Children who have had certain problems with the DTaP vaccine usually can safely receive the DT vaccine .</s>
+<s id='vn163'>Trẻ em từng gặp sự cố nào đó với vắc - xin DtaP thường có thể tiêm ngừa an toàn với vắc - xin DT .</s>
+<a id='ev163'>1-1,2;3-5,6;5-7,8;7-9;9-13;11-14;12-15,16;13-19,20;16-25;</a>
+</spair>
+<spair id='164'>
+<s id='en164'>* if complications or severe symptoms develop after immunization , including seizures , fever above 105 ° Fahrenheit ( 40.5° Celsius ) , difficulty breathing or other signs of allergy , shock or collapse , or uncontrolled crying for more than 3 hours</s>
+<s id='vn164'>* nếu xảy ra các biến chứng hay các triệu chứng trầm trọng sau khi tiêm ngừa như tai biến ngập máu , sốt trên 105° Pha-ren-het ( 40.5° C ) , khó thở hoặc có các dấu hiệu dị ứng khác , sốc hay bất tỉnh , hoặc khóc dai dẳng không nín hơn 3 tiếng đồng hồ</s>
+<a id='ev164'>2-2;3-5,6,7;5-12,13;6-9,10,11;8-14,15;9-16,17;11-18;12-19,20,21,22;14-24;15-25;16,17-26;18-27;20-29;21-30;24-33;25-34;26-35;27-42;28-37,38,39;30-40,41;32-44;33-45;34-46,47;36-49;37-53,54;38-50;40-55;42-56;43-57,58,59;</a>
+</spair>
+<spair id='165'>
+<s id='en165'>Haemophilus influenzae type b bacteria were the leading cause of meningitis in children under 5 years until the Hib vaccine became available .</s>
+<s id='vn165'>Trước khi vắc-xin Hib ra đời thì vi khuẩn gây viêm màng não mũ do HIB loại B là nguyên nhân hàng đầu gây viêm màng não ở trẻ dưới 5 tuổi .</s>
+<a id='ev165'>4-5,6;5-8,9;8-22,23;9-20,21;11-11,12,13;13-29;14-30;15-31;16-32;19-16;</a>
+</spair>
+<spair id='166'>
+<s id='en166'>Immunization schedule</s>
+<s id='vn166'>Lịch chủng ngừa</s>
+<a id='ev166'>1-2,3;2-1;</a>
+</spair>
+<spair id='167'>
+<s id='en167'>The Hib vaccine is given by injection at ages 2 months , 4 months , and 6 months ( however , some of the Hib vaccines do not require a dose at 6 months ) .</s>
+<s id='vn167'>Vắc-xin Hib được tiêm ở giai đoạn 2 tháng tuổi , 4 tháng tuổi , và 6 tháng tuổi ( tuy nhiên , một số loại vắc-xin Hib không yêu cầu phải tiêm thêm liều ở tháng thứ 6 ) .</s>
+<a id='ev167'>2-2;3-1;5-3,4;8-5;9-10;10-8;11-9;13-12;14-13,14;16-16;17-17;18-18,19;20-21,22;22-24,25;25-28;26-26,27;28-29;29-30,31,32;31-35;32-36;33-38,39;34-37;</a>
+</spair>
+<spair id='168'>
+<s id='en168'>A booster dose is given at 12 to 15 months .</s>
+<s id='vn168'>Trẻ nên được tiêm nhắc lại một lần từ tháng 12 đến tháng 15 .</s>
+<a id='ev168'>5-5,6;7-11;8-12,13;9-14;10-10;</a>
+</spair>
+<spair id='169'>
+<s id='en169'>Why the vaccine is recommended</s>
+<s id='vn169'>Tại sao phải khuyến nghị sử dụng vắc-xin</s>
+<a id='ev169'>1-1,2;3-8;5-3,4,5;</a>
+</spair>
+<spair id='170'>
+<s id='en170'>The vaccine provides long-term protection from Haemophilus influenzae type b .</s>
+<s id='vn170'>Vắc-xin Hib có thể giúp phòng tránh viêm màng não mũ do HIB loại B trong thời gian lâu dài .</s>
+<a id='ev170'>2-1;4-17,18,19,20;5-3,4,5,6,7;6-12;9-14;10-15;</a>
+</spair>
+<spair id='171'>
+<s id='en171'>Those immunized have protection against Hib meningitis , pneumonia , pericarditis ( an infection of the membrane covering the heart ) , and infections of the blood , bones , and joints caused by the bacteria .</s>
+<s id='vn171'>Người được chủng ngừa tránh được bệnh viêm màng não Hib , viêm phổi , viêm màng ngoài tim ( viêm màng tim ) , và nhiễm trùng máu , xương và khớp do vi khuẩn gây ra .</s>
+<a id='ev171'>2-2,3,4;3-5,6;6-11;7-7,8,9,10;9-13,14;11-16,17,18,19;14-21;17-22;20-23;23-26;24-27,28;27-29;29-31;31-32;32-33;33-37,38;36-34,35,36;</a>
+</spair>
+<spair id='172'>
+<s id='en172'>Possible risks</s>
+<s id='vn172'>Rủi ro có thể xảy ra</s>
+<a id='ev172'>1-3,4;2-1,2;</a>
+</spair>
+<spair id='173'>
+<s id='en173'>Minor problems , such as redness , swelling , or tenderness where the shot was given , may occur .</s>
+<s id='vn173'>Cũng có nhiều vấn đề nhỏ sau khi tiêm ngừa , như bé sẽ có thể nổi đỏ , sưng hoặc đau nhức ở vùng tiêm .</s>
+<a id='ev173'>1-6;2-3,4,5;6-17,18;8-20;10-21;11-22,23;12-24,25;14-26;</a>
+</spair>
+<spair id='174'>
+<s id='en174'>There is a very small chance of an allergic reaction with any vaccine .</s>
+<s id='vn174'>Trường hợp phản ứng dị ứng với vắc - xin rất hiếm khi xảy ra .</s>
+<a id='ev174'>4-11,12,13;9-5,6;10-3,4;</a>
+</spair>
+<spair id='175'>
+<s id='en175'>When to delay or avoid immunization</s>
+<s id='vn175'>Khi nào nên hoãn hoặc tránh chủng ngừa</s>
+<a id='ev175'>1-1,2;2-3;3-4;4-5;5-6;6-7,8;</a>
+</spair>
+<spair id='176'>
+<s id='en176'>* if your child is currently sick , although simple colds or other minor illnesses should not prevent immunization</s>
+<s id='vn176'>* nếu con bạn đang bị bệnh , mặc dù là cảm nhẹ hoặc bị một bệnh nhẹ nào khác thì cũng nên tránh chích ngừa</s>
+<a id='ev176'>2-2;3-4;4-3;5-5;7-6,7;9-9,10;10-11;11-12;12-14;13-20;14-18;15-15,16,17;16-23;18-24;19-25,26;</a>
+</spair>
+<spair id='177'>
+<s id='en177'>* if severe allergic reaction occurs after an injection of the Hib vaccine , further Hib immunizations may not be given to your child</s>
+<s id='vn177'>* nếu xảy ra phản ứng dị ứng nặng sau khi tiêm vắc-xin Hib thì chớ nên cho bé tiêm thêm Hib lần sau nữa</s>
+<a id='ev177'>2-2;3-5,6,7,8;6-3,4;7-10,11;9-12;12-14;13-13;15-23,24,25;16-22;19-16;21-18;24-19;</a>
+</spair>
+<spair id='178'>
+<s id='en178'>Caring for your child after immunization</s>
+<s id='vn178'>Chăm sóc con bạn sau khi chủng ngừa</s>
+<a id='ev178'>1-1,2;3-4;4-3;5-5,6;6-7,8;</a>
+</spair>
+<spair id='179'>
+<s id='en179'>The vaccine may cause mild soreness and redness in the area where the shot was given .</s>
+<s id='vn179'>Vắc-xin Hib có thể gây đau nhức nhẹ hay nổi đỏ ở vùng tiêm .</s>
+<a id='ev179'>2-1;3-3,4;4-5;5-8;6-6,7;8-10,11;9-12;11-13;14-14;</a>
+</spair>
+<spair id='180'>
+<s id='en180'>Depending on the age of your child , pain and fever may be treated with acetaminophen or ibuprofen .</s>
+<s id='vn180'>Tuỳ vào độ tuổi của con bạn , bác sĩ sẽ cho thuốc acetaminophen hoặc ibuprofen để giảm đau và hạ sốt .</s>
+<a id='ev180'>1-1;2-2;4-3,4;5-5;6-7;7-6;9-19;10-20;11-21,22;15-12,13;16-14;17-15;18-16;</a>
+</spair>
+<spair id='181'>
+<s id='en181'>Check with your doctor to see if you can give either medication , and to find out the appropriate dose .</s>
+<s id='vn181'>Bạn nên tham khảo ý kiến của bác sĩ để xem liệu nên cho bé dùng thuốc gì và liều lượng như thế nào là thích hợp với bé nhé .</s>
+<a id='ev181'>1-5,6;4-8,9;5-10;6-11;7-12;10-14;12-17;14-19;17-25;19-26,27,28;20-20,21;</a>
+</spair>
+<spair id='182'>
+<s id='en182'>When to call the doctor</s>
+<s id='vn182'>Khi nào nên gọi điện cho bác sĩ</s>
+<a id='ev182'>1-1,2;2-3;3-4,5;5-7,8;</a>
+</spair>
+<spair id='183'>
+<s id='en183'>* if you are n't sure whether the vaccine should be postponed or avoided</s>
+<s id='vn183'>* nếu bạn không biết liệu có nên hoãn hay tránh không tiêm ngừa loại vắc-xin này</s>
+<a id='ev183'>2-2;3-3;5-4;6-5,6;8-17;9-15,16;11-8;12-9;13-10;14-11;</a>
+</spair>
+<spair id='184'>
+<s id='en184'>* if serious adverse reactions appear after the Hib injection</s>
+<s id='vn184'>* nếu thấy các phản ứng xấu nghiêm trọng sau khi tiêm ngừa Hib</s>
+<a id='ev184'>2-2;3-8,9;5-4,5,6;7-10,11;9-14;10-12,13;</a>
+</spair>
+<spair id='185'>
+<s id='en185'>IPV</s>
+<s id='vn185'>IPV</s>
+<a id='ev185'>1-1;</a>
+</spair>
+<spair id='186'>
+<s id='en186'>Polio is a viral infection that can result in permanent paralysis .</s>
+<s id='vn186'>Bệnh bại liệt là bệnh nhiễm vi-rút có thể dẫn đến bại liệt suốt đời .</s>
+<a id='ev186'>1-1,2,3;2-4;4-7;5-5,6;7-8,9;8-10,11;10-14,15;11-12,13;</a>
+</spair>
+<spair id='187'>
+<s id='en187'>Immunization schedule</s>
+<s id='vn187'>Lịch chủng ngừa</s>
+<a id='ev187'>1-2,3;2-1;</a>
+</spair>
+<spair id='188'>
+<s id='en188'>The inactivated poliovirus vaccine ( IPV ) is usually given at ages 2 months , 4 months , 6 to 18 months , and 4 to 6 years .</s>
+<s id='vn188'>Vắc-xin ngừa bại liệt bất hoạt thường được tiêm ngừa ở giai đoạn 2 tháng tuổi , 4 tháng tuổi , từ 6 tháng đến 18 tháng tuổi , và từ 4 đến 6 tuổi .</s>
+<a id='ev188'>2-5,6;4-1;8-11;9-7;12-16;13-14;14-15;16-18;17-19,20;19-23;20-25;21-26;22-27,28;24-30;25-32;26-33;27-34;28-35;</a>
+</spair>
+<spair id='189'>
+<s id='en189'>Until recently , the oral poliovirus vaccine ( OPV ) was given in the United States .</s>
+<s id='vn189'>Gần đây vắc-xin ngừa bại liệt dạng uống đã được đưa vào sử dụng ở Hoa Kỳ .</s>
+<a id='ev189'>2-1,2;7-3;11-9;12-10,11,12;15,16-16,17;</a>
+</spair>
+<spair id='190'>
+<s id='en190'>Updated recommendations by the Advisory Committee on Immunization Practices now call for IPV injections .</s>
+<s id='vn190'>Uỷ ban cố vấn về chủng ngừa mới đây đã yêu cầu nên tiêm IPV .</s>
+<a id='ev190'>5-3,4;6-1,2;7-5;8-6,7;10-8,9;11-10,11,12;13-15;14-14;</a>
+</spair>
+<spair id='191'>
+<s id='en191'>This change eliminates the previous small risk of developing polio after receiving the live oral polio vaccine .</s>
+<s id='vn191'>Sự thay đổi này đã làm dứt nguy cơ rất ít về bệnh bại liệt trước đây sau khi dùng vắc-xin bại liệt sống dạng uống .</s>
+<a id='ev191'>1-4;2-1,2,3;3-5,6,7;5-16,17;6-10,11;7-8,9;8-12;10-13,14,15;11-18,19;14-24;16-22,23;17-21;</a>
+</spair>
+<spair id='192'>
+<s id='en192'>Why the vaccine is recommended</s>
+<s id='vn192'>Tại sao phải khuyến nghị sử dụng vắc-xin</s>
+<a id='ev192'>1-1,2;3-8;5-3,4,5;</a>
+</spair>
+<spair id='193'>
+<s id='en193'>The vaccine offers protection against polio , which can cause paralysis and death .</s>
+<s id='vn193'>Vắc-xin giúp phòng tránh được bệnh bại liệt có thể gây liệt và tử vong .</s>
+<a id='ev193'>2-1;3-2;5-3;6-6,7,8;9-9,10;10-11;11-12;12-13;13-14,15;</a>
+</spair>
+<spair id='194'>
+<s id='en194'>Possible risks</s>
+<s id='vn194'>Rủi ro có thể xảy ra</s>
+<a id='ev194'>1-3,4;2-1,2;</a>
+</spair>
+<spair id='195'>
+<s id='en195'>Side effects include fever and redness or soreness at the site of injection .</s>
+<s id='vn195'>Các tác dụng phụ như nóng sốt và nổi đỏ ở vùng tiêm .</s>
+<a id='ev195'>1-4;2-1,2,3;3-5;4-6,7;5-8;6-9,10;9-11;13-13;</a>
+</spair>
+<spair id='196'>
+<s id='en196'>There is a very small chance of an allergic reaction with any vaccine .</s>
+<s id='vn196'>Rất ít khi xảy ra phản ứng dị ứng với vắc-xin .</s>
+<a id='ev196'>4-1;5-2,3;9-8,9;10-6,7;11-10;13-11;</a>
+</spair>
+<spair id='197'>
+<s id='en197'>When to delay or avoid immunization</s>
+<s id='vn197'>Khi nào nên hoãn hoặc tránh chủng ngừa</s>
+<a id='ev197'>1-1,2;2-3;3-4;4-5;5-6;6-7,8;</a>
+</spair>
+<spair id='198'>
+<s id='en198'>* IPV should not be given to kids with severe allergy to neomycin , streptomycin , or polymyxin B.</s>
+<s id='vn198'>* không nên tiêm IPV cho trẻ bị dị ứng nặng với neomycin , streptomycin , hoặc polymyxin B .</s>
+<a id='ev198'>2-5;3,4-2,3;6-6;8-7;10-8,9,10;12-12;13-13;15-15;17-17;18-18;19-19;</a>
+</spair>
+<spair id='199'>
+<s id='en199'>* IPV should not be given to kids who had a severe allergic reaction to a previous IPV shot .</s>
+<s id='vn199'>* không nên tiêm IPV cho trẻ bị dị ứng nặng với liều tiêm IPV trước .</s>
+<a id='ev199'>2-5;3,4-2,3;6-6;8-7;12-11;13-9,10;15-12;17-16;18-15;19-13,14;</a>
+</spair>
+<spair id='200'>
+<s id='en200'>Caring for your child after immunization</s>
+<s id='vn200'>Chăm sóc con bạn sau khi tiêm ngừa</s>
+<a id='ev200'>1-1,2;3-4;4-3;5-5,6;6-7,8;</a>
+</spair>
+<spair id='201'>
+<s id='en201'>IPV may cause mild fever , and soreness and redness at the site of the injection for several days .</s>
+<s id='vn201'>IPV có thể gây ra sốt nhẹ , đau nhức và nổi đỏ ở vùng tiêm trong một vài ngày .</s>
+<a id='ev201'>1-1;2-2,3;3-4,5;4-7;5-6;8-9,10;9-11;10-12,13;11-14;13-15;16-16;18-18,19;19-20;</a>
+</spair>
+<spair id='202'>
+<s id='en202'>Depending on the age of your child , pain and fever may be treated with acetaminophen or ibuprofen .</s>
+<s id='vn202'>Tuỳ vào độ tuổi của con bạn , bác sĩ sẽ cho thuốc acetaminophen hoặc ibuprofen để giảm đau và hạ sốt .</s>
+<a id='ev202'>1-1;2-2;4-3,4;5-5;6-7;7-6;9-19;10-20;11-21,22;15-12,13;16-14;17-15;18-16;</a>
+</spair>
+<spair id='203'>
+<s id='en203'>Check with your doctor to see if you can give either medication , and to find out the appropriate dose .</s>
+<s id='vn203'>Bạn nên tham khảo ý kiến của bác sĩ để xem nên cho bé sử dụng loại thuốc gì và liều dùng như thế nào là thích hợp nhé .</s>
+<a id='ev203'>1-3,4,5,6;3-7;4-8,9;5-10;6-11;7-13;12-18;14-20;19-27,28;20-21;</a>
+</spair>
+<spair id='204'>
+<s id='en204'>When to call the doctor</s>
+<s id='vn204'>Khi nào nên gọi cho bác sĩ</s>
+<a id='ev204'>1-1,2;2-3;3-4;5-6,7;</a>
+</spair>
+<spair id='205'>
+<s id='en205'>* if you are n't sure whether the vaccine should be postponed or avoided</s>
+<s id='vn205'>* nếu bạn không biết liệu nên hoãn hay không tiêm chủng loại vắc-xin này</s>
+<a id='ev205'>2-2;3-3;5-4;6-6;7-5;8-15;9-14;11-7;12-8;13-9;14-10,11;</a>
+</spair>
+<spair id='206'>
+<s id='en206'>* if severe adverse reactions occur after the immunization</s>
+<s id='vn206'>* nếu có bất kỳ phản ứng xấu nghiêm trọng nào xảy ra sau khi tiêm ngừa</s>
+<a id='ev206'>2-2;3-8,9,10;4-4,5;5-6,7;6-12,13;7-14,15;9-16,17;</a>
+</spair>
+<spair id='207'>
+<s id='en207'>Influenza</s>
+<s id='vn207'>Cúm</s>
+<a id='ev207'>1-1;</a>
+</spair>
+<spair id='208'>
+<s id='en208'>Influenza , or " the flu , " is a highly contagious viral infection of the respiratory tract .</s>
+<s id='vn208'>Cúm là chứng bệnh nhiễm trùng đường hô hấp do vi rút gây ra và lây lan rất nhanh .</s>
+<a id='ev208'>1-1;11-18,19;12-16,17;13-11,12;14-5,6;17-8,9;18-7;</a>
+</spair>
+<spair id='209'>
+<s id='en209'>Immunization schedule</s>
+<s id='vn209'>Lịch chủng ngừa</s>
+<a id='ev209'>1-2,3;2-1;</a>
+</spair>
+<spair id='210'>
+<s id='en210'>Beginning in the 2010-2011 flu season , the seasonal flu vaccine protects against H1N1 flu , as well as other flu viruses .</s>
+<s id='vn210'>Bắt đầu mùa cúm 2010-2011 mới có vắc-xin cúm mùa ngừa cúm H1N1 cũng như các loại vi rút cúm khác .</s>
+<a id='ev210'>1-1,2;4-5;5-4;6-3;9-10,11;10-9;11-8;14-13;15-12;17,18,19-14,15;20-21;21-20;22-16,17,18,19;</a>
+</spair>
+<spair id='211'>
+<s id='en211'>The Centers for Disease Control and Prevention ( CDC ) recommends the flu vaccine for all people age 6 months and older .</s>
+<s id='vn211'>Trung tâm phòng chống bệnh tật ( CDC ) khuyến cáo nên tiêm ngừa vắc-xin cúm cho tất cả mọi người từ 6 tháng tuổi trở lên .</s>
+<a id='ev211'>2-1,2;4-5,6;7-3,4;9-8;11-10,11;13-16;14-15;15-17;16-18,19;17-20,21;18-25;19-23;20-24;22-26,27;</a>
+</spair>
+<spair id='212'>
+<s id='en212'>Certain people are at higher risk of complications from the flu .</s>
+<s id='vn212'>Một số người có nguy cơ biến chứng cúm cao hơn .</s>
+<a id='ev212'>1-1,2;2-3;5-10,11;6-5,6;8-7,8;11-9;</a>
+</spair>
+<spair id='213'>
+<s id='en213'>* pregnant women</s>
+<s id='vn213'>* phụ nữ có thai</s>
+<a id='ev213'>2-4,5;3-2,3;</a>
+</spair>
+<spair id='214'>
+<s id='en214'>* children younger than age 5 , especially those younger than 2</s>
+<s id='vn214'>* trẻ em dưới 5 tuổi , nhất là trẻ dưới 2 tuổi</s>
+<a id='ev214'>2-2,3;4-4;5-6;6-5;8-8,9;10-10;11-11;12-12,13;</a>
+</spair>
+<spair id='215'>
+<s id='en215'>* people age 65 and older</s>
+<s id='vn215'>* người già từ 65 tuổi trở lên</s>
+<a id='ev215'>2-2,3;3-6;4-5;6-7,8;</a>
+</spair>
+<spair id='216'>
+<s id='en216'>* people of any age who have chronic health conditions</s>
+<s id='vn216'>* người bị bệnh mãn tính ở bất kỳ độ tuổi nào</s>
+<a id='ev216'>2-2;4-8,9;5-11;6-12;8-4,5,6;</a>
+</spair>
+<spair id='217'>
+<s id='en217'>Infants younger than 6 months are too young to receive the vaccine , but all other high risk persons should be vaccinated .</s>
+<s id='vn217'>Trẻ sơ sinh dưới 6 tháng tuổi quá nhỏ không tiêm ngừa vắc-xin được , nhưng tất cả những người có nguy cơ mắc bệnh cao khác nên được tiêm phòng .</s>
+<a id='ev217'>2-1,2,3;3-4;4-5;5-6,7;7-8;8-9;10-14;12-13;14-16;15-17,18;16-27;17-26;18-22,23,24,25;19-19,20;20-28;22-29,30,31;</a>
+</spair>
+<spair id='218'>
+<s id='en218'>Health care workers , caregivers , and close contacts of at-risk persons ( including those who care for infants younger than 6 months ) should also get the flu vaccine .</s>
+<s id='vn218'>Các nhân viên chăm sóc y tế , người chăm bệnh , và người thường hay tiếp xúc gần gũi với người có nguy cơ nhiễm bệnh cao ( kể cả người chăm sóc trẻ sơ sinh dưới 6 tháng tuổi ) cũng nên tiêm ngừa vắc-xin .</s>
+<a id='ev218'>1-6,7;2-4,5;3-1,2,3;5-9,10,11;7-13;8-20;9-17,18;11-24,25,26,27,28;12-14;14-30,31;16-32;17-33,34;19-35,36,37;22-39;23-40,41;25-44;26-43;30-47;</a>
+</spair>
+<spair id='219'>
+<s id='en219'>In the past , there have been times when there were vaccine shortages and delays .</s>
+<s id='vn219'>Trước đây đã có tình trạng thiếu và phải hoãn vắc-xin .</s>
+<a id='ev219'>1,2,3-1,2;5-3,4;8-5,6;12-11;13-7;14-8;15-9,10;</a>
+</spair>
+<spair id='220'>
+<s id='en220'>So talk with your doctor about availability .</s>
+<s id='vn220'>Vì vậy bạn nên tham khảo ý kiến của bác sĩ xem vắc - xin có sẵn chưa nhé .</s>
+<a id='ev220'>1-1,2;2-5,6,7,8;5-10,11;</a>
+</spair>
+<spair id='221'>
+<s id='en221'>For kids younger than 9 who are getting the seasonal influenza vaccine for the first time or did not get the H1N1 vaccine during the 2009-2010 flu season , it 's given in two separate shots a month apart .</s>
+<s id='vn221'>Đối với trẻ dưới 9 tuổi chuẩn bị tiêm ngừa vắc-xin cúm mùa lần đầu tiên hoặc chưa tiêm chủng vắc-xin H1N1 trong mùa cúm năm 2009-2010 thì sẽ được tiêm thành 2 mũi riêng biệt cách nhau 1 tháng .</s>
+<a id='ev221'>1-1,2;2-3;4-4;5-5,6;10-13;11-12;12-11;15-15,16;16-14;17-17;19-18;20-19,20;22-22;23-21;24-23;26-26,27;27-25;28-24;31-28;32-30,31,32;34-33;35-35,36;36-34;38-40;</a>
+</spair>
+<spair id='222'>
+<s id='en222'>It can take about 2 weeks after the shot is given for the body to build up protection against the flu .</s>
+<s id='vn222'>Có thể phải mất khoảng 2 tuần sau khi tiêm vắc-xin thì cơ thể mới có thể miễn dịch được với cúm .</s>
+<a id='ev222'>2-1,2;3-3;4-5;5-6;6-7;7-8,9;9-10;14-13,14;18-18,19,20;19-21;21-22;</a>
+</spair>
+<spair id='223'>
+<s id='en223'>A non-shot option called the nasal mist vaccine came on the market in 2003 for the seasonal flu and is now approved for use in healthy 2 - to 49-year-olds .</s>
+<s id='vn223'>Bạn cũng có thể chọn một dạng vắc-xin phòng chống cúm khác mà không phải tiêm chích đó là vắc-xin dạng xịt vào mũi đã được tung ra thị trường năm 2003 để ngừa dịch cúm mùa và hiện đang được sử dụng để chống cúm cho người khỏe mạnh từ 2 đến 49 tuổi .</s>
+<a id='ev223'>6-24;8-20;12-29,30;14-31,32;17-37;18-35,36;19-38;21-39;22-45;24-40,41,42,43;25-44;26-48,49,50;27-52;29-53;30-54,55;</a>
+</spair>
+<spair id='224'>
+<s id='en224'>The nasal mist contains live but weakened virus that will not cause the flu .</s>
+<s id='vn224'>Vắc-xin dạng xịt vào mũi chứa vi-rút còn sống nhưng đã bị làm yếu đi và sẽ không gây cúm .</s>
+<a id='ev224'>2-5;4-6;5-9;6-10;7-11,12,13,14,15;8-7;10-17;11-18;12-19;14-20;</a>
+</spair>
+<spair id='225'>
+<s id='en225'>However , the vaccine is n't recommended for kids with certain medical conditions or pregnant women .</s>
+<s id='vn225'>Tuy nhiên , trẻ bị mắc một chứng bệnh nào đó hoặc phụ nữ có thai thì không nên sử dụng dạng vắc-xin này .</s>
+<a id='ev225'>1-1,2;3-24;4-23;6-18;11-10,11;14-12;15-15,16;16-13,14;</a>
+</spair>
+<spair id='226'>
+<s id='en226'>Talk to your doctor about which vaccine is right for your child .</s>
+<s id='vn226'>Bạn nên tham khảo ý kiến của bác sĩ để biết loại vắc-xin nào là phù hợp cho con của mình nhé .</s>
+<a id='ev226'>1-3,4,5,6;2-2;4-8,9;6-14;7-13;8-15;9-16,17;10-18;11-20,21;12-19;</a>
+</spair>
+<spair id='227'>
+<s id='en227'>Why the vaccine is recommended</s>
+<s id='vn227'>Tại sao phải khuyến nghị sử dụng vắc-xin</s>
+<a id='ev227'>1-1,2;3-8;5-3,4,5;</a>
+</spair>
+<spair id='228'>
+<s id='en228'>The flu vaccine reduces a person 's chances of catching the flu by up to 80 % during the season .</s>
+<s id='vn228'>Vắc-xin ngừa cúm có thể giúp làm giảm nguy cơ mắc bệnh đến 80% trong mùa cúm .</s>
+<a id='ev228'>2-3;3-1;4-8;10-9,10,11,12;12-17;14,15-13;16,17-14;18-15;20-16;</a>
+</spair>
+<spair id='229'>
+<s id='en229'>Getting the shot before the flu season is in full force gives the body a chance to build up immunity to , or protection from , the virus .</s>
+<s id='vn229'>Việc tiêm ngừa đủ liều trước mùa cúm giúp cho cơ thể tăng sức đề kháng , tăng cường sự miễn dịch cho cơ thể kháng lại vi-rút .</s>
+<a id='ev229'>1-1,2,3;3-5;4-6;6-8;7-7;10-13,14;11-15,16;12-9,10;14-11,12;18-18,19;20-20,21,22;21-23;24-26,27;28-28;</a>
+</spair>
+<spair id='230'>
+<s id='en230'>The shot usually becomes available between September and mid-November .</s>
+<s id='vn230'>Vắc-xin thường có vào giữa tháng 9 và giữa tháng 11 .</s>
+<a id='ev230'>3-2;5-3;6-5;7-6,7;8-8;9-9,10,11;</a>
+</spair>
+<spair id='231'>
+<s id='en231'>Although you can get a flu shot well into flu season , it 's best to try to get it earlier rather thanlater .</s>
+<s id='vn231'>Mặc dù là bạn cũng có thể tiêm phòng vắc-xin cúm vào mùa cúm nhưng tốt hơn hết là nên tiêm chủng sớm hơn là muộn .</s>
+<a id='ev231'>1-1,2,3;2-4;3-6,7;4-12;6-9,10,11;7-8;8-16,17;11-13,14;15-24,25;16-20;22-23;23-26;</a>
+</spair>
+<spair id='232'>
+<s id='en232'>However , later in the flu season , it 's still a good idea to get protection .</s>
+<s id='vn232'>Tuy nhiên thì bạn cũng vẫn nên tiêm phòng vào cuối mùa cúm .</s>
+<a id='ev232'>1-1,2;3-11;4-10;6-13;7-12;10-3;11-6;13-7;16-8;17-9;</a>
+</spair>
+<spair id='233'>
+<s id='en233'>Even if you or your child got the seasonal flu vaccine last year , that wo n't protect you from getting the seasonal flu this year , because the protection wears off and flu viruses constantly change .</s>
+<s id='vn233'>Dẫu bạn hay con bạn đã được tiêm vắc-xin cúm mùa năm ngoái rồi thì vắc-xin cũng có thể không giúp bạn không bị cúm năm nay bởi hàm lượng vắc-xin trong cơ thể bạn đã yếu đi và vi-rút cúm biến đổi liên tục .</s>
+<a id='ev233'>1-1;3-2;4-3;5-5;6-4;7-6,7,8;9-11;10-10;11-9;12-13;13-12;16,17-18,19,20;24-25;25-27;26-26;28-28;32-38;33-39;34-41;35-40;36-44,45;37-42,43;</a>
+</spair>
+<spair id='234'>
+<s id='en234'>That 's why the vaccine is updated each year to include the most current strains of the virus .</s>
+<s id='vn234'>Đó là lý do vì sao vắc-xin phải được đổi mới hàng năm để kèm thêm các giống vi-rút mới nhất .</s>
+<a id='ev234'>1-1;2-2;3-3,4,5,6;5-7;7-8,9,10,11;8-12;9-13;10-14;11-15,16;13-20,21;15-17,18;18-19;</a>
+</spair>
+<spair id='235'>
+<s id='en235'>A good example of how flu viruses change ( and sometimes develop new strains ) was the outbreak of the H1N1 flu in 2009 .</s>
+<s id='vn235'>Một ví dụ minh hoạ rõ ràng cho thấy cách vi-rút biến đổi ( và nhiều khi còn phát triển lên thành một giống vi-rút mới ) là đợt bùng nổ dịch cúm H1N1 năm 2009 .</s>
+<a id='ev235'>1-1;2-6,7;3-2,3,4,5;7-11;8-12,13;10-15;11-16,17;12-18,19,20;13-26;14-24;16-28;18-29,30,31;21-34;22-33;24-35,36;</a>
+</spair>
+<spair id='236'>
+<s id='en236'>This flu strain was not included in the 2009-2010 seasonal flu vaccine , so a separate H1N1 flu vaccine was developed .</s>
+<s id='vn236'>Loại cúm này không thuộc dạng chủng ngừa trong vắc-xin cúm mùa năm 2009-2010 , thế nên người ta đã phát triển thêm một vắc-xin cúm H1N1 riêng biệt nữa .</s>
+<a id='ev236'>2-2;4-3;5-4,5;7-9;9-14;10-12;11-11;12-10;14-16;16-28,29;17-27;18-26;20-20;21-21,22;</a>
+</spair>
+<spair id='237'>
+<s id='en237'>Since then , the H1N1 flu shot has been incorporated into the seasonal flu shot .</s>
+<s id='vn237'>Từ đó , cúm H1N1 được tiêm kết hợp với mũi tiêm cúm mùa .</s>
+<a id='ev237'>1,2-1,2;5-5;6-4;10-6,7,8,9;11-10;13-14;14-13;15-12;</a>
+</spair>
+<spair id='238'>
+<s id='en238'>Possible risks</s>
+<s id='vn238'>Rủi ro có thể xảy ra</s>
+<a id='ev238'>1-3,4;2-1,2;</a>
+</spair>
+<spair id='239'>
+<s id='en239'>Usually given as an injection in the upper arm , the flu shot contains killed flu viruses that will not cause someone to get the flu , but will cause the body to make antibodies to fight off a live flu virus if it does enter the body .</s>
+<s id='vn239'>Thường thì vắc-xin phòng cúm này được chích ở vùng trên của cánh tay , mũi tiêm ngừa cúm chứa vi-rút gây cúm đã chết sẽ không làm cho người được tiêm phòng mắc bệnh mà sẽ giúp cho cơ thể tạo kháng thể chống lại vi-rút cúm còn sống khi chúng xâm nhập vào cơ thể .</s>
+<a id='ev239'>1-1;8-9,10,11;9-13,14;12-19;13-16,17;14-20;15-22;16-23;17-21;19-26;20-27;21-28,29;22-30;24-31,32;28-36;29-37;30-38,39;32-40,41;34-42;35-43,44,45,46;40-49,50;41-48;42-47;43-51;44-52;46-53,54,55;48-56,57;</a>
+</spair>
+<spair id='240'>
+<s id='en240'>Some of the most common side effects from the flu shot are soreness , redness , or swelling at the site of the injection .</s>
+<s id='vn240'>Một số tác dụng phụ thường thấy nhất khi tiêm ngừa cúm là đau nhức , nổi đỏ hoặc sưng ở vùng tiêm .</s>
+<a id='ev240'>1-1,2;4-8;5-6,7;6-5;7-3,4;10-12;11-10,11;12-13;13-14,15;15-17,18;17-19;18-20;19-21;21-22;24-23;</a>
+</spair>
+<spair id='241'>
+<s id='en241'>A low-grade fever and aches are also possible .</s>
+<s id='vn241'>Và đôi khi cũng xảy ra trường hợp đau nhức và sốt nhẹ .</s>
+<a id='ev241'>2-13;3-12;4-11;5-9,10;7-4;8-5,6;</a>
+</spair>
+<spair id='242'>
+<s id='en242'>Because the nasal spray flu vaccine is made from live viruses , it may cause mild flu-like symptoms , including runny nose , headache , vomiting , muscle aches , and fever .</s>
+<s id='vn242'>Vì vắc-xin cúm dạng xịt vào mũi dùng vi-rút còn sống nên nó cũng có thể gây ra các triệu chứng giống như cúm nhẹ , bao gồm sổ mũi , nhức đầu , ói mửa , đau nhức cơ và sốt .</s>
+<a id='ev242'>1-1;3-7;4-5;5-3;6-2;8-8;10-11;11-9;13-13;14-15,16;15-17,18;16-25;17-22,23,24;18-19,20,21;20-27,28;21-29;22-30;24-32,33;26-35,36;28-40;29-38,39;31-41;32-42;</a>
+</spair>
+<spair id='243'>
+<s id='en243'>Very rarely , the flu vaccine can cause serious side effects such as a severe allergic reaction .</s>
+<s id='vn243'>Rất hiếm khi vắc-xin phòng cúm có thể gây tác dụng phụ nguy hiểm như phản ứng dị ứng nặng .</s>
+<a id='ev243'>1-1,2,3;5-6;6-4;7-7,8;8-9;9-13,14;10-12;11-10,11;12,13-15;15-20;16-18,19;17-16,17;</a>
+</spair>
+<spair id='244'>
+<s id='en244'>When to delay or avoid immunization</s>
+<s id='vn244'>Khi nào nên hoãn hoặc tránh chủng ngừa</s>
+<a id='ev244'>1-1,2;2-3;3-4;4-5;5-6;6-7,8;</a>
+</spair>
+<spair id='245'>
+<s id='en245'>People who should not get the seasonal flu shot include :</s>
+<s id='vn245'>Không nên tiêm ngừa cúm mùa cho :</s>
+<a id='ev245'>3,4-1,2;7-6;8-5;9-3,4;</a>
+</spair>
+<spair id='246'>
+<s id='en246'>* infants under 6 months old</s>
+<s id='vn246'>* trẻ sơ sinh dưới 6 tháng tuổi</s>
+<a id='ev246'>2-2,3,4;3-5;4-6;5-7;6-8;</a>
+</spair>
+<spair id='247'>
+<s id='en247'>* anyone who 's severely allergic to eggs and egg products .</s>
+<s id='vn247'>* người bị dị ứng nặng với trứng và các sản phẩm làm từ trứng .</s>
+<a id='ev247'>2-2;5-6;6-4,5;8-8;9-9;10-15;11-10,11,12;</a>
+</spair>
+<spair id='248'>
+<s id='en248'>Tell the doctor if your child is allergic before he or she gets a flu shot .</s>
+<s id='vn248'>Bạn nên cho bác sĩ biết nếu con bạn bị dị ứng trước khi cho bé tiêm ngừa nhé .</s>
+<a id='ev248'>1-3;3-4,5;4-7;5-9;6-8;8-11,12;9-13,14;13-15;16-17,18;</a>
+</spair>
+<spair id='249'>
+<s id='en249'>* anyone who 's ever had a severe reaction to a flu vaccination</s>
+<s id='vn249'>* người đã từng bị dị ứng nặng với vắc-xin tiêm ngừa cúm</s>
+<a id='ev249'>2-2;6-3,4;8-8;9-6,7;10-9;12-13;13-10;</a>
+</spair>
+<spair id='250'>
+<s id='en250'>* anyone who 's had Guillain-Barré syndrome ( GBS , a rare medical condition that affects the nerves )</s>
+<s id='vn250'>* người bị hội chứng Guillain-Barré ( GBS là một chứng bệnh hiếm gặp gây ảnh hưởng đến thần kinh )</s>
+<a id='ev250'>2-2;5-3;6-6;7-4,5;9-8;11-10;12-13;14-11,12;16-16,17,18;18-19,20;</a>
+</spair>
+<spair id='251'>
+<s id='en251'>* anyone with a severe illness</s>
+<s id='vn251'>* người bị bệnh nặng</s>
+<a id='ev251'>2-2;5-5;6-3,4;</a>
+</spair>
+<spair id='252'>
+<s id='en252'>Caring for your child after immunization</s>
+<s id='vn252'>Chăm sóc cho con bạn sau khi chủng ngừa</s>
+<a id='ev252'>1-1,2;2-3;3-5;4-4;5-6,7;6-8,9;</a>
+</spair>
+<spair id='253'>
+<s id='en253'>Pain and fever may be treated with acetaminophen or ibuprofen .</s>
+<s id='vn253'>Có thể dùng thuốc acetaminophen hoặc ibuprofen để giảm đau và hạ sốt .</s>
+<a id='ev253'>1-10;2-11;3-12,13;4,5-1,2;6-3,4;8-5;9-6;10-7,8;</a>
+</spair>
+<spair id='254'>
+<s id='en254'>Check with your doctor to see if you can give either medication , and to find out the appropriate dose .</s>
+<s id='vn254'>Bạn nên tham khảo ý kiến của bác sĩ để xem liệu có thể sử dụng thuốc gì và liều lượng như thế nào cho thích hợp .</s>
+<a id='ev254'>1-3,4,5,6;3-7;4-8,9;5-10;6-11;9-13,14;12-17;14-19;19-26,27;20-20,21;</a>
+</spair>
+<spair id='255'>
+<s id='en255'>Some doctors recommend a dose just before the immunization .</s>
+<s id='vn255'>Một vài bác sĩ khuyến nghị nên sử dụng một liều ngay trước khi chủng ngừa .</s>
+<a id='ev255'>1-1,2;2-3,4;3-5,6;4-10;5-11;6-12;7-13,14;9-15,16;</a>
+</spair>
+<spair id='256'>
+<s id='en256'>A warm , damp cloth or a heating pad also may help minimize soreness .</s>
+<s id='vn256'>Bạn cũng có thể dùng một miếng giẻ ướt , ấm hoặc một miếng lót ấm để giảm đau .</s>
+<a id='ev256'>2-11;4-9;5-7,8;6-12;7-13;8-14;9-15;10-2;11-3,4;13-18;14-19;</a>
+</spair>
+<spair id='257'>
+<s id='en257'>Moving or using the limb that has received the injection often reduces the soreness as well .</s>
+<s id='vn257'>Nhúc nhích , cử động tay chân ở vùng tiêm cũng thường có tác dụng giảm đau .</s>
+<a id='ev257'>1-1,2;3-4,5;5-6,7;10-10;11-11,12;12-16;14-17;</a>
+</spair>
+<spair id='258'>
+<s id='en258'>When to call the doctor</s>
+<s id='vn258'>Khi nào nên gọi cho bác sĩ</s>
+<a id='ev258'>1-1,2;2-3;3-4;5-6,7;</a>
+</spair>
+<spair id='259'>
+<s id='en259'>* if you are n't sure if the vaccine should be postponed or avoided</s>
+<s id='vn259'>* nếu bạn không biết chắc là nên hoãn hay tránh tiêm loại vắc-xin đó</s>
+<a id='ev259'>2-2;3-3;4,5-4,5;6-6,7;9-14;11-8;12-9;13-10;14-11;</a>
+</spair>
+<spair id='260'>
+<s id='en260'>* if there are serious problems after the immunization , such as an allergic reaction , high fever , or other concern</s>
+<s id='vn260'>* nếu sau khi tiêm ngừa xảy ra nhiều vấn đề nghiêm trọng như phản ứng dị ứng , sốt cao , hoặc một vấn đề bận tâm nào khác .</s>
+<a id='ev260'>2-2;5-12,13;6-10,11;7-3,4;9-5,6;11,12-14;14-17,18;15-15,16;17-21;18-20;20-23;21-30;22-25,26,27,28;</a>
+</spair>
+<spair id='261'>
+<s id='en261'>MMR ( measles , mumps , rubella )</s>
+<s id='vn261'>MMR ( sởi , quai bị , ru-bê-la )</s>
+<a id='ev261'>1-1;3-3;5-5,6;7-8;</a>
+</spair>
+<spair id='262'>
+<s id='en262'>The MMR vaccine protects against measles , mumps , and rubella .</s>
+<s id='vn262'>Vắc-xin MMR có tác dụng ngừa sởi , quai bị và ru-bê-la .</s>
+<a id='ev262'>2-2;3-1;4-4,5;5-6;6-7;8-9,10;10-11;11-12;</a>
+</spair>
+<spair id='263'>
+<s id='en263'>MMR vaccinations are given by injection in two doses .</s>
+<s id='vn263'>Tiêm ngừa MMR được chia thành 2 liều .</s>
+<a id='ev263'>1-3;2-1,2;4-4;7-6;8-7;9-8;</a>
+</spair>
+<spair id='264'>
+<s id='en264'>The first is administered at age 12 to 15 months ; the second generally is given at age 4 to 6 years .</s>
+<s id='vn264'>Liều đầu tiên được tiêm ở giai đoạn từ 12 đến 15 tháng tuổi ; liều thứ hai thường từ 4 đến 6 tuổi .</s>
+<a id='ev264'>2-2,3;5-6;6-14;7-10;9-12;10-13;13-17,18;14-19;18-24;19-21;20-22;21-23;</a>
+</spair>
+<spair id='265'>
+<s id='en265'>Why the vaccine is recommended</s>
+<s id='vn265'>Tại sao phải nên khuyến nghị dùng vắc-xin</s>
+<a id='ev265'>1-1,2;3-8;4-4;5-5,6;</a>
+</spair>
+<spair id='266'>
+<s id='en266'>Measles , mumps , and rubella are infections that can lead to significant illness .</s>
+<s id='vn266'>Sởi , quai bị và ru-bê-la là những bệnh lây nhiễm có thể gây bệnh nghiêm trọng .</s>
+<a id='ev266'>1-1;3-3,4;5-5;6-6;7-7;8-8,9,10,11;10-12,13;13-16,17;14-15;</a>
+</spair>
+<spair id='267'>
+<s id='en267'>More than 95 % of children receiving MMR will be protected from the three diseases throughout their lives .</s>
+<s id='vn267'>Hơn 95% trẻ em được tiêm ngừa MMR có thể miễn nhiễm với 3 bệnh này suốt đời .</s>
+<a id='ev267'>1-1;3,4-2;6-3,4;7-5,6,7;8-8;9-9,10;11-11,12;13-16;14-14;15-15;18-17,18;</a>
+</spair>
+<spair id='268'>
+<s id='en268'>Possible risks</s>
+<s id='vn268'>Rủi ro có thể xảy ra</s>
+<a id='ev268'>1-3,4;2-1,2;</a>
+</spair>
+<spair id='269'>
+<s id='en269'>Serious problems such as allergic reactions are rare .</s>
+<s id='vn269'>Các vấn đề nghiêm trọng như phản ứng dị ứng rất hiếm khi xảy ra ; .</s>
+<a id='ev269'>1-4,5;2-1,2,3;3,4-6;5-9,10;6-7,8;8-12,13,14,15;</a>
+</spair>
+<spair id='270'>
+<s id='en270'>Potential mild to moderate adverse effects include rash , fever , swollen cheeks , febrile seizures , and mild joint pain .</s>
+<s id='vn270'>Nhưng cũng có thể gây ảnh hưởng xấu từ nhẹ đến vừa phải như phát ban , sốt , sưng má</s>
+<a id='ev270'>1-2,3,4,5;2-10;3-11;4-12,13;5-8;6-6,7;7-14;8-15,16;10-18;12-20;13-21;</a>
+</spair>
+<spair id='271'>
+<s id='en271'>When to delay or avoid immunization</s>
+<s id='vn271'>Khi nào nên hoãn hoặc tránh chủng ngừa</s>
+<a id='ev271'>1-1,2;2-3;3-4;4-5;5-6;6-7,8;</a>
+</spair>
+<spair id='272'>
+<s id='en272'>* if your child is currently sick , although simple colds or other minor illnesses should not prevent immunization</s>
+<s id='vn272'>* nếu con bạn đang bị bệnh , mặc dù là cảm nhẹ hoặc bị một bệnh nhẹ nào khác thì cũng nên tránh chích ngừa</s>
+<a id='ev272'>2-2;3-4;4-3;5-5;7-6,7;9-9,10;10-13;11-12;12-14;13-20;14-18;15-17;16,17-23;18-24;19-25,26;</a>
+</spair>
+<spair id='273'>
+<s id='en273'>* if your child has an allergy to gelatin or to the antibiotic neomycin , check with your doctor about immunization</s>
+<s id='vn273'>* nếu con bạn bị dị ứng với gelatin hoặc với kháng sinh neomycin thì bạn nên tham khảo ý kiến của bác sĩ về việc chủng ngừa cho bé nhé .</s>
+<a id='ev273'>2-2;3-4;4-3;7-5,6,7;8-8;9-9;10-10;11-11;13-12,13;14-14;16-18,19,20,21;18-22;19-23,24;20-25,26;21-27,28;</a>
+</spair>
+<spair id='274'>
+<s id='en274'>* if your child had a severe allergic reaction to a previous dose of MMR vaccine</s>
+<s id='vn274'>* nếu con bạn bị dị ứng nặng với liều vắc-xin MMR trước</s>
+<a id='ev274'>2-2;3-4;4-3;7-8;8-6,7;10-9;12-13;13-10;15-12;16-11;</a>
+</spair>
+<spair id='275'>
+<s id='en275'>* if your child has recently received gamma globulin or a blood transfusion , check with your doctor about immunization</s>
+<s id='vn275'>* nếu con bạn mới được tiêm gamma globulin hoặc mới được truyền máu thì bạn nên tham khảo ý kiến của bác sĩ về việc chủng ngừa cho bé nhé .</s>
+<a id='ev275'>2-2;3-4;4-3;6-5;7-6;8,9-8,9;10-10;12-14;13-13;15-18,19,20,21;17-22;18-23,24;19-25,26;20-27,28;</a>
+</spair>
+<spair id='276'>
+<s id='en276'>* if your child has a medical problem that affects the immune system , such as cancer</s>
+<s id='vn276'>* nếu con bạn đang bị một bệnh nào đó ảnh hưởng đến hệ miễn dịch , như là bị ung thư</s>
+<a id='ev276'>2-2;3-4;4-3;6-7;7-8;8-5,6;9-9,10;10-11,12,13;12-15,16;13-14;15,16-18,19;17-21,22;</a>
+</spair>
+<spair id='277'>
+<s id='en277'>* if your child is taking pred nisone , steroids , or other immunosuppressive drugs</s>
+<s id='vn277'>* nếu con bạn đang dùng thuốc prednisone , steroids , hoặc các thuốc ức chế miễn dịch khác</s>
+<a id='ev277'>2-2;3-4;4-3;5-5,6;7,8-8;10-10;12-12;13-19;14-15,16,17,18;15-13,14;</a>
+</spair>
+<spair id='278'>
+<s id='en278'>* if your child is undergoing chemotherapy or radiation therapy</s>
+<s id='vn278'>* nếu con của bạn đang dùng hoá trị liệu hoặc đang điều trị bằng bức xạ</s>
+<a id='ev278'>2-2;3-4,5;4-3;6-6,7;7-8,9,10;8-11;9-16,17;10-13,14;</a>
+</spair>
+<spair id='279'>
+<s id='en279'>* if your child has ever had a low platelet count , check with your doctor about immunization</s>
+<s id='vn279'>* nếu con bạn từng bị tiểu huyết cầu thấp , bạn hãy nên tham khảo ý kiến với bác sĩ về việc chủng ngừa cho bé nhé</s>
+<a id='ev279'>2-2;3-4;4-3;6-5;7-6;9-10;10-7,8,9;13-15,16,17,18;14-19;16-20,21;17-22,23;18-24,25;</a>
+</spair>
+<spair id='280'>
+<s id='en280'>* pregnant women should wait until after delivery for the vaccine</s>
+<s id='vn280'>* phụ nữ có thai nên đợi cho đến khi sinh xong mới có thể tiêm ngừa vắc-xin</s>
+<a id='ev280'>2-4,5;3-2,3;4-6;5-7;6-8,9,10;8-11;11-18;</a>
+</spair>
+<spair id='281'>
+<s id='en281'>Caring for your child after immunization</s>
+<s id='vn281'>Chăm sóc con bạn sau khi tiêm ngừa</s>
+<a id='ev281'>1-1,2;3-4;4-3;5-5,6;6-7,8;</a>
+</spair>
+<spair id='282'>
+<s id='en282'>If a rash develops without other symptoms , no treatment is necessary and it should resolve within several days .</s>
+<s id='vn282'>Nếu bé bị nổi ban mà không có triệu chứng gì khác thì cũng không cần thiết phải chữa trị gì và nó sẽ tự khỏi trong vòng một vài ngày .</s>
+<a id='ev282'>1-1;3-3,4,5;5-6;6-12;7-9,10;9-15;10-19,20;11-18;12-16,17;13-22;14-23;15-24;16-25,26;17-27,28;18-30;19-31;</a>
+</spair>
+<spair id='283'>
+<s id='en283'>Pain and fever may be treated with acetaminophen or ibuprofen .</s>
+<s id='vn283'>Bạn có thể dùng acetaminophen hoặc ibuprofen để giảm đau và hạ sốt cho bé .</s>
+<a id='ev283'>1-10;2-11;3-12,13;8-5;9-6;10-7;</a>
+</spair>
+<spair id='284'>
+<s id='en284'>Check with your doctor to see if you can give either medication , and find out the appropriate dose .</s>
+<s id='vn284'>Nên tham khảo ý kiến của bác sĩ để xem liệu bạn nên sử dụng thuốc gì và liều lượng như thế nào là thích hợp .</s>
+<a id='ev284'>1-2,3,4,5;3-6;4-7,8;5-9;6-10;7-11;8-12;12-16;14-18;18-25,26;19-19,20;</a>
+</spair>
+<spair id='285'>
+<s id='en285'>When to call the doctor</s>
+<s id='vn285'>Khi nào nên gọi cho bác sĩ</s>
+<a id='ev285'>1-1,2;2-3;3-4;5-6,7;</a>
+</spair>
+<spair id='286'>
+<s id='en286'>* if you are n't sure if the vaccine should be postponed or avoided</s>
+<s id='vn286'>* nếu bạn không biết chắc là có nên hoãn hay tránh không tiêm vắc-xin nữa</s>
+<a id='ev286'>2-2;3-3;5-4,5;6-6,7;9-15;10,11-9;12-10;13-11;14-12;</a>
+</spair>
+<spair id='287'>
+<s id='en287'>* if there are problems after the immunization</s>
+<s id='vn287'>* nếu có vấn đề gì đó sau khi tiêm ngừa xong</s>
+<a id='ev287'>2-2;3-3;5-4,5;6-8,9;8-10,11;</a>
+</spair>
+<spair id='288'>
+<s id='en288'>Varicella ( chickenpox )</s>
+<s id='vn288'>Bệnh thuỷ đậu</s>
+<a id='ev288'>1-1,2,3;</a>
+</spair>
+<spair id='289'>
+<s id='en289'>The varicella vaccine protects against chickenpox ( varicella ) , a common and very contagious childhood viral illness .</s>
+<s id='vn289'>Vắc-xin thủy đậu có tác dụng ngừa thủy đậu – một chứng bệnh do vi-rút thường thấy và rất hay lây lan của trẻ em .</s>
+<a id='ev289'>2-2,3;3-1;4-5,6;6-7;8-8,9;11-11;12-16,17;13-18;14-19,20;15-21,22;16-24,25;17-15;18-12,13;</a>
+</spair>
+<spair id='290'>
+<s id='en290'>Immunization schedule</s>
+<s id='vn290'>Lịch chủng ngừa</s>
+<a id='ev290'>1-2,3;2-1;</a>
+</spair>
+<spair id='291'>
+<s id='en291'>The varicella vaccine is given by injection between the ages of 12 and 15 months , followed by a booster shot at 4 to 6 years of age for further protection .</s>
+<s id='vn291'>Vắc-xin thủy đậu được tiêm ở giai đoạn từ 12 đến 15 tháng tuổi và được tiêm nhắc lại từ 4 đến 6 tuổi để phòng tránh thêm cho bé .</s>
+<a id='ev291'>2-2,3;3-1;5-4,5;6-6;8-7,8;10-14;12-10;13-11;14-12;15-13;20-18,19;23-21;24-22;25-23;26-24;29-25;31-26,27;</a>
+</spair>
+<spair id='292'>
+<s id='en292'>Older kids under the age of 13 years who have not had chickenpox may also receive the vaccine , with the two doses given at least 3 months apart .</s>
+<s id='vn292'>Trẻ dưới 13 tuổi chưa bị bệnh thủy đậu cũng có thể tiêm loại vắc-xin này với 2 liều riêng biệt cách nhau ít nhất là 3 tháng .</s>
+<a id='ev292'>2-1;3-2;5-4;7-3;13-7,8,9;14-11,12;15-10;17-16;18-15;20-17;22-18;23-19;24-24,25,26;27-27;28-28;</a>
+</spair>
+<spair id='293'>
+<s id='en293'>Kids 13 years or older who have not had either chickenpox or the vaccine need two vaccine doses at least 1 month apart .</s>
+<s id='vn293'>Trẻ từ 13 tuổi trở lên chưa bị bệnh thủy đậu hoặc chưa tiêm ngừa vắc-xin thì cũng cần phải tiêm 2 liều vắc-xin cách nhau ít nhất là 1 tháng .</s>
+<a id='ev293'>1-1;2-3;3-4;4-12;5-5,6;8-13;11-14,15;14-16;15-19,20;16-22;17-24;18-23;20-27,28,29;21-30;22-31;</a>
+</spair>
+<spair id='294'>
+<s id='en294'>Why the vaccine is recommended</s>
+<s id='vn294'>Tại sao phải nên khyến nghị sử dụng vắc-xin</s>
+<a id='ev294'>1-1,2;3-9;5-5,6;</a>
+</spair>
+<spair id='295'>
+<s id='en295'>The varicella vaccine prevents severe illness in almost all children who are immunized .</s>
+<s id='vn295'>Vắc-xin thủy đậu có tác dụng ngăn ngừa được trường hợp bệnh nặng ở hầu hết trẻ em có tiêm chủng .</s>
+<a id='ev295'>2-2,3;3-1;4-7,8,9;5-13;6-12;7-14;8-15,16;10-17,18;12-19;13-20,21;</a>
+</spair>
+<spair id='296'>
+<s id='en296'>It 's up to 85 % effective in preventing mild illness .</s>
+<s id='vn296'>Vắc-xin có thể phòng tránh được đến 85% trường hợp bệnh nhe .</s>
+<a id='ev296'>2-2,3;3,4-7;5,6-8;7-9,10;9-4,5;10-12;11-11;</a>
+</spair>
+<spair id='297'>
+<s id='en297'>Vaccinated kids who do get chickenpox generally have a mild case .</s>
+<s id='vn297'>Những trẻ em đã được chủng ngừa thường bị thuỷ đậu nhẹ .</s>
+<a id='ev297'>1-5,6,7;2-1,2,3;6-10,11;7-8,9;10-12;</a>
+</spair>
+<spair id='298'>
+<s id='en298'>Possible risks</s>
+<s id='vn298'>Rủi ro có thể xảy ra</s>
+<a id='ev298'>1-3,4;2-1,2;</a>
+</spair>
+<spair id='299'>
+<s id='en299'>Serious reactions such as allergic reactions are extremely rare .</s>
+<s id='vn299'>Các phản ứng nghiêm trọng như phản ứng dị ứng là rất hiếm .</s>
+<a id='ev299'>1-4,5;2-1,2,3;3,4-6;5-9,10;6-7,8;7-11;8-12;9-13;</a>
+</spair>
+<spair id='300'>
+<s id='en300'>Possible mild effects are tenderness and redness where the shot was given , fever , fatigue , and a varicella-like illness .</s>
+<s id='vn300'>Có thể xảy ra tình trạng đau nhức nhẹ và nổi đỏ ở vùng tiêm , sốt , mệt mỏi , và bệnh giống như thuỷ đậu .</s>
+<a id='ev300'>1-1,2,3,4;2-9;3-7,8;5-5,6;6-10;7-11,12;11-13;12-15;14-17;16-19,20;18-22;20-24,25,26,27;21-23;</a>
+</spair>
+<spair id='301'>
+<s id='en301'>A rash can occur up to 1 month after the injection .</s>
+<s id='vn301'>Chứng phát ban có thể xảy ra 1 tháng sau khi tiêm ;</s>
+<a id='ev301'>2-1,2,3;3-4,5;4-6,7;7-8;8-9;9-10,11;11-12;</a>
+</spair>
+<spair id='302'>
+<s id='en302'>It may last for several days but will disappear on its own without treatment .</s>
+<s id='vn302'>Có thể kéo dài vài ngày nhưng sẽ tự khỏi mà không cần phải chữa trị gì .</s>
+<a id='ev302'>2-1,2;3-3,4;5-5;6-6;7-7;9-9,10;13-12,13,14;14-15,16;</a>
+</spair>
+<spair id='303'>
+<s id='en303'>There is a very small risk of febrile seizures after vaccination .</s>
+<s id='vn303'>Rất hiếm khi xảy ra tai biến ngập máu do sốt sau khi tiêm ngừa vắc-xin .</s>
+<a id='ev303'>4-1;8-11;9-6,7,8,9;10-12,13;11-14,15,16;</a>
+</spair>
+<spair id='304'>
+<s id='en304'>When to delay or avoid immunization</s>
+<s id='vn304'>Khi nào nên hoãn hoặc tránh chủng ngừa</s>
+<a id='ev304'>1-1,2;2-3;3-4;4-5;5-6;6-7,8;</a>
+</spair>
+<spair id='305'>
+<s id='en305'>* if your child is currently sick , although simple colds or other minor illnesses should not prevent immunization</s>
+<s id='vn305'>* nếu con bạn đang bị bệnh , mặc dù là cảm nhẹ hoặc bị một bệnh nhẹ nào khác thì cũng nên tránh chích ngừa</s>
+<a id='ev305'>2-2;3-4;4-3;5-5;7-6,7;9-9,10;10-13;11-12;12-14;13-20;14-18;15-17;16,17-23;18-24;19-25,26;</a>
+</spair>
+<spair id='306'>
+<s id='en306'>* if your child has an allergy to gelatin or to the antibiotic neomycin</s>
+<s id='vn306'>* nếu con bạn bị dị ứng với gelatin hoặc với kháng sinh neomycin</s>
+<a id='ev306'>2-2;3-4;4-3;7-6,7;8-8;9-9;10-10;11-11;13-12,13;14-14;</a>
+</spair>
+<spair id='307'>
+<s id='en307'>* if your child had a severe allergic reaction to a previous dose of varicella vaccine</s>
+<s id='vn307'>* nếu con bạn bị phản ứng dị ứng nặng với liều vắc-xin thủy đậu trước</s>
+<a id='ev307'>2-2;3-4;4-3;7-6,7,8,9;12-16;13-12;15-14,15;16-13;</a>
+</spair>
+<spair id='308'>
+<s id='en308'>* if your child has recently received gamma globulin or a blood transfusion , talk to your doctor about immunization</s>
+<s id='vn308'>* nếu con bạn mới được tiêm gamma globulin hoặc mới được truyền máu , bạn nên tham khảo ý kiến của bác sĩ về việc tiêm ngừa cho bé nhé</s>
+<a id='ev308'>2-2;3-4;4-3;6-5;7-6,7;8,9-8,9;10-10;12-14;13-13;15-18,19,20,21;18-23,24;20-26,27,28;</a>
+</spair>
+<spair id='309'>
+<s id='en309'>* if your child has a disorder that affects the immune system , such as cancer ; is taking prednisone , steroids , or other immunosuppressive drugs ; or is undergoing chemotherapy or radiation therapy</s>
+<s id='vn309'>* nếu con bạn bị bệnh ảnh hưởng đến hệ miễn dịch , như là bị ung thư chẳng hạn ; nếu bé đang dùng prednisone , steroids , hoặc các thuốc ức chế miễn dịch khác ; hoặc đang dùng hoá trị liệu hoặc đang điều trị bằng bức xạ</s>
+<a id='ev309'>2-2;3-4;4-3;9-7,8,9;11-11,12;12-10;14-14,15;16-17,18;20-26;22-28;24-30;25-37;26-33,34,35,36;27-31,32;29-39;30-40,41;31-42,43;32-44;33-45;34-50,51;35-46,47,48;</a>
+</spair>
+<spair id='310'>
+<s id='en310'>* pregnant women should wait until after delivery for vaccination</s>
+<s id='vn310'>* phụ nữ có thai nên đợi cho đến khi sinh xong mới có thể tiêm ngừa vắc-xin</s>
+<a id='ev310'>2-4,5;3-2,3;4-6;5-7;6-8,9;7-10;8-11;10-16,17,18;</a>
+</spair>
+<spair id='311'>
+<s id='en311'>Caring for your child after immunization</s>
+<s id='vn311'>Chăm sóc con bạn sau khi tiêm ngừa</s>
+<a id='ev311'>1-1,2;3-4;4-3;5-5,6;6-7,8;</a>
+</spair>
+<spair id='312'>
+<s id='en312'>Pain and fever may be treated with acetaminophen or ibuprofen .</s>
+<s id='vn312'>Bạn có thể dùng acetaminophen hoặc ibuprofen để giảm đau và hạ sốt cho bé .</s>
+<a id='ev312'>1-10;2-11;3-12,13;8-5;9-6;10-7,8;</a>
+</spair>
+<spair id='313'>
+<s id='en313'>Check with your doctor to see if you can give either medication , and find out the appropriate dose .</s>
+<s id='vn313'>Nên tham khảo ý kiến của bác sĩ để xem liệu có thể sử dụng loại thuốc gì và liều lượng như thế nào là thích hợp .</s>
+<a id='ev313'>1-2,3,4,5;3-6;4-7,8;5-9;6-10;9-12,13;12-17;14-19;18-26,27;19-20,21;</a>
+</spair>
+<spair id='314'>
+<s id='en314'>When to call the doctor</s>
+<s id='vn314'>Khi nào nên gọi cho bác sĩ</s>
+<a id='ev314'>1-1,2;2-3;3-4;5-6,7;</a>
+</spair>
+<spair id='315'>
+<s id='en315'>* if you are n't sure if the vaccine should be postponed or avoided</s>
+<s id='vn315'>* nếu bạn không biết chắc là liệu nên hoãn hay tránh tiêm loại vắc-xin đó</s>
+<a id='ev315'>2-2;3-3;4,5-4,5;6-6,7;7-8;9-15;10,11-9;12-10;13-11;14-12;</a>
+</spair>
+<spair id='316'>
+<s id='en316'>* if there are problems after the immunization</s>
+<s id='vn316'>* nếu xảy ra vấn đề gì sau khi chủng ngừa</s>
+<a id='ev316'>2-2;5-5,6;6-8,9;8-10,11;</a>
+</spair>
+<spair id='317'>
+<s id='en317'>MCV4</s>
+<s id='vn317'>MCV4</s>
+<a id='ev317'>1-1;</a>
+</spair>
+<spair id='318'>
+<s id='en318'>The meningitis vaccine protects against meningococcal disease , a serious bacterial infection that can lead to bacterial meningitis .</s>
+<s id='vn318'>Vắc-xin viêm màng não có tác dụng ngăn ngừa bệnh do khuẩn cầu màng não gây ra , đây là một chứng bệnh nhiễm khuẩn nghiêm trọng có thể dẫn đến viêm màng não do vi khuẩn .</s>
+<a id='ev318'>2-2,3,4;3-1;4-6,7;5-8,9;7-10;9-21;10-26,27;11-25;12-22,23,24;14-28,29;15-30,31;17-36,37;18-32,33,34;</a>
+</spair>
+<spair id='319'>
+<s id='en319'>The vaccine is recommended for kids at age 11 or 12 years , at ages 13 to 18 years if not previously vaccinated , and older teens who are entering college and will be living in a dormitory setting , and those entering the military .</s>
+<s id='vn319'>Vắc-xin được khuyến nghị sử dụng cho trẻ từ 11 đến 12 tuổi , trẻ từ 13 đến 18 tuổi chưa được tiêm chủng trước đây và thiếu niên lớn tuổi hơn sắp vào đại học và sống ở môi trường tập thể và những người sắp nhập ngũ .</s>
+<a id='ev319'>2-1;4-2,3,4;6-8;8-13;9-10;11-12;16-17;17-18;18-19;19-20;21-21;22-25,26;23-22,23,24;25-27;26-30,31,32;27-28,29;30-34;31-35,36;32-37;33-42,43;34-39;35-38;41-44;43-48,49;45-45,46;</a>
+</spair>
+<spair id='320'>
+<s id='en320'>It is also recommended for children between the ages of 2 and 10 with certain high risk medical problems .</s>
+<s id='vn320'>Vắc-xin này cũng được khuyến nghị sử dụng cho trẻ từ 2 đến 10 tuổi có nguy cơ nhiễm bệnh cao .</s>
+<a id='ev320'>3-3;4-4,5,6;6-10;9-15;11-12;13-14;16-21;17-17,18;18-19,20;</a>
+</spair>
+<spair id='321'>
+<s id='en321'>When medical problems continue , these kids also need a follow-up booster dose a few years later , depending on the age at which the first dose was given .</s>
+<s id='vn321'>Khi bệnh còn tiếp tục thì những trẻ em này cũng cần thêm một liều tiêm nhắc sau một vài năm , tuỳ vào độ tuổi bé khi được tiêm chích mũi đầu tiên .</s>
+<a id='ev321'>1-1;4-4,5;6-10;7-7,8,9;8-11;9-12;10-14;11-17;13-15;15-19,20;16-21;17-18;19-23;20-24;22-25,26;23-28;26-33,34;27-32;29-29,30,31;</a>
+</spair>
+<spair id='322'>
+<s id='en322'>Why the vaccine is recommended</s>
+<s id='vn322'>Tại sao phải nên khuyến nghị sử dụng vắc-xin</s>
+<a id='ev322'>1-1,2;3-9;5-5,6;</a>
+</spair>
+<spair id='323'>
+<s id='en323'>Bacterial meningitis , an inflammation of the membrane that protects the brain and spinal cord , is a rare but highly contagious disease that can spread rapidly among kids who are in close quarters .</s>
+<s id='vn323'>Viêm màng não do vi khuẩn là một chứng bệnh viêm màng bảo vệ não và tuỷ sống , là một bệnh hiếm gặp nhưng rất hay lây lan có thể lây lan nhanh từ trẻ này sang trẻ khác trong vùng lân cận .</s>
+<a id='ev323'>1-4,5,6;2-1,2,3;4-8;5-9,10,11;8-12;10-13,14;12-15;13-16;14-17,18;17-20;18-21;19-23;20-25;21-26,27;22-28,29;23-22;25-30,31;26-32,33;27-34;29-36;33-41,42;34-43,44;</a>
+</spair>
+<spair id='324'>
+<s id='en324'>It can be life-threatening if not promptly treated .</s>
+<s id='vn324'>Bệnh này có thể nguy hiểm đến tính mạng nếu không được chữa trị kịp thời .</s>
+<a id='ev324'>2-3,4;3-2;4-5,6,7,8,9;5-10,11;7-15,16;8-12,13,14;</a>
+</spair>
+<spair id='325'>
+<s id='en325'>Possible risks</s>
+<s id='vn325'>Rủi ro có thể xảy ra</s>
+<a id='ev325'>1-3,4;2-1,2;</a>
+</spair>
+<spair id='326'>
+<s id='en326'>Some of the most common side effects are swelling , redness , and pain at the site of the injection , along with headache , fever , or fatigue .</s>
+<s id='vn326'>Một số tác dụng phụ thường thấy nhất là da bị sưng , nổi đỏ và đau nhức ở vùng tiêm , cùng với triệu chứng nhức đầu , sốt , hoặc mệt mỏi .</s>
+<a id='ev326'>1-1,2;4-8,9;5-6,7;6-5;7-3,4;9-12;11-14,15;13-16;14-17,18;15-19;17-20;20-21;22,23-23,24;24-25,26,27,28;26-30;28-32;29-33,34;</a>
+</spair>
+<spair id='327'>
+<s id='en327'>Severe problems , such as allergic reactions , are rare .</s>
+<s id='vn327'>Các vấn đề nghiêm trọng như phản ứng dị ứng rất hiếm xảy ra .</s>
+<a id='ev327'>1-4,5;2-1,2,3;4,5-6;6-9,10;7-7,8;10-12;</a>
+</spair>
+<spair id='328'>
+<s id='en328'>When to delay or avoid immunization</s>
+<s id='vn328'>Khi nào nên hoãn hoặc tránh chủng ngừa</s>
+<a id='ev328'>1-1,2;2-3;3-4;4-5;5-6;6-7,8;</a>
+</spair>
+<spair id='329'>
+<s id='en329'>* if your child has had allergic reactions to the DTaP vaccine or to latex</s>
+<s id='vn329'>* nếu con bạn đã từng phản ứng dị ứng với vắc-xin DtaP hoặc dị ứng với nhựa mủ</s>
+<a id='ev329'>2-2;3-4;4-3;6-5,6;7-9,10;8-7,8;9-11;11-13;12-12;13-14;14-17;15-18,19;</a>
+</spair>
+<spair id='330'>
+<s id='en330'>* if your child has a history of Guillain-Barré syndrome , a disease of the nervous system which causes progressive weakness</s>
+<s id='vn330'>* nếu con bạn có tiền sử hội chứng Guillain-Barré , đây là một chứng bệnh của hệ thần kinh làm kém phát triển</s>
+<a id='ev330'>2-2;3-4;4-3;5-5,6;7-7;9-10;10-8,9;12-14;13-15,16;14-17;16-19,20;17-18;19-21;20-23,24;21-22;</a>
+</spair>
+<spair id='331'>
+<s id='en331'>* if your child is currently sick , although simple colds or other minor illnesses should not prevent immunization</s>
+<s id='vn331'>* nếu con bạn đang bị bệnh , mặc dù là cảm nhẹ hoặc bị một bệnh nhẹ nào khác thì cũng nên tránh chích ngừa</s>
+<a id='ev331'>2-2;3-4;4-3;5-5;7-7;9-9,10;10-11;11-12;12-14;13-20;14-18;15-17;16,17-23;18-24;19-25,26;</a>
+</spair>
+<spair id='332'>
+<s id='en332'>Caring for your child after immunization</s>
+<s id='vn332'>Chăm sóc con bạn sau khi chủng ngừa</s>
+<a id='ev332'>1-1,2;3-4;4-3;5-5,6;6-7,8;</a>
+</spair>
+<spair id='333'>
+<s id='en333'>Your child may experience fever , soreness , and some swelling and redness in the area where the shot was given .</s>
+<s id='vn333'>Con bạn có thể bị sốt , đau nhức và da bị sưng và nổi đỏ ở vùng tiêm .</s>
+<a id='ev333'>1-2;2-1;3-3,4;5-5,6;7-8,9;9-10;11-12,13;12-14;13-15,16;14-17;16-18;19-19;</a>
+</spair>
+<spair id='334'>
+<s id='en334'>Pain and fever may be treated with acetaminophen or ibuprofen .</s>
+<s id='vn334'>Bạn có thể cho bé dùng acetaminophen hoặc ibuprofen để giảm đau và hạ sốt .</s>
+<a id='ev334'>1-12;2-13;3-14,15;4-2,3;5-5;8-7;9-8;10-9;</a>
+</spair>
+<spair id='335'>
+<s id='en335'>Check with your doctor to see if you can give either medication , and to find out the appropriate dose .</s>
+<s id='vn335'>Hãy tham khảo ý kiến của bác sĩ để xem liệu nên sử dụng thuốc gì và liều lượng như thế nào là thích hợp nhé .</s>
+<a id='ev335'>1-2,3,4,5;3-6;4-7,8;5-9;6-10;7-11;12-15;14-17;19-24,25;20-18,19;</a>
+</spair>
+<spair id='336'>
+<s id='en336'>A warm , damp cloth or a heating pad also may help reduce soreness .</s>
+<s id='vn336'>Bạn cũng có thể giảm đau bằng một miếng giẻ ướt , ấm .</s>
+<a id='ev336'>2-13;4-11;5-9,10;10-2;11-3,4;13-5;14-6;</a>
+</spair>
+<spair id='337'>
+<s id='en337'>Moving or using the limb that has received the injection often reduces the soreness .</s>
+<s id='vn337'>Nhúc nhích , cử động tay chân vùng tiêm cũng thường giúp giảm đau nhức .</s>
+<a id='ev337'>1-1,2;3-4,5;5-6,7;10-9;11-11;12-13;14-14,15;</a>
+</spair>
+<spair id='338'>
+<s id='en338'>When to Call the Doctor</s>
+<s id='vn338'>Khi nào nên gọi cho bác sĩ</s>
+<a id='ev338'>1-1,2;2-3;3-4;5-6,7;</a>
+</spair>
+<spair id='339'>
+<s id='en339'>* if you are n't sure if the vaccine should be postponed or avoided</s>
+<s id='vn339'>* nếu bạn không biết liệu nên hoãn hay tránh tiêm loại vắc-xin đó</s>
+<a id='ev339'>2-2;3-3;4,5-4,5;6-6;9-13;10,11-7;12-8;13-9;14-10;</a>
+</spair>
+<spair id='340'>
+<s id='en340'>* if there are problems after the immunization</s>
+<s id='vn340'>* nếu xảy ra vấn đề gì sau khi tiêm ngừa</s>
+<a id='ev340'>2-2;5-5,6;6-8,9;8-10,11;</a>
+</spair>
+<spair id='341'>
+<s id='en341'>Hepatitis A</s>
+<s id='vn341'>Bệnh viêm gan siêu vi A</s>
+<a id='ev341'>1-1,2,3;2-6;</a>
+</spair>
+<spair id='342'>
+<s id='en342'>The hepatitis A virus ( HAV ) causes fever , nausea , vomiting , and jaundice , and can lead to community-wide epidemics .</s>
+<s id='vn342'>Vi-rút viêm gan siêu vi A ( HAV ) gây ra sốt , buồn nôn , ói mửa , vàng da , và có thể dẫn đến đại dịch trong cộng đồng .</s>
+<a id='ev342'>2-2,3;3-6;4-1;6-8;8-10,11;9-12;11-14,15;13-17,18;16-20,21;18-23;19-24,25;20-26,27;22-31,32;23-28,29;</a>
+</spair>
+<spair id='343'>
+<s id='en343'>Childcare centers are a common site of outbreaks .</s>
+<s id='vn343'>Những trung tâm chăm sóc và giám sát trẻ em thường là nơi bùng phát bệnh viêm gan siêu vi A .</s>
+<a id='ev343'>1-4,5,6,7,8,9,10;2-1,2,3;5-11;6-13;8-14,15,16;</a>
+</spair>
+<spair id='344'>
+<s id='en344'>The vaccine is recommended for children 12 to 23 months old , followed by a second dose 6 months later .</s>
+<s id='vn344'>Vắc-xin viêm gan siêu vi A được khuyến nghị sử dụng cho trẻ từ 12 đến 23 tháng tuổi và tiêm thêm liều thứ hai sau 6 tháng .</s>
+<a id='ev344'>2-1;4-7,8,9,10,11;6-13;7-15;8-16;9-17;10-18;11-19;13-22;16-24,25;17-23;18-27;19-28;20-26;</a>
+</spair>
+<spair id='345'>
+<s id='en345'>Although in the past the vaccine was recommended for older kids and adults who were at high risk for the disease ( such as those who lived in or traveled to locations with high rates of HAV ) , the vaccine is now recommended for anyone who desires immunity to the disease .</s>
+<s id='vn345'>Mặc dù lúc trước loại vắc-xin này được khuyến cáo cho trẻ lớn tuổi hơn và người lớn có nguy cơ nhiễm bệnh cao ( như người sống hoặc đến các vùng có tỉ lệ người mắc HAV cao ) , ngày nay vắc-xin này được khuyến nghị sử dụng cho tất cả mọi người có nhu cầu muốn miễn dịch với bệnh .</s>
+<a id='ev345'>1-1,2;2-3;4-4;5-7;6-5,6;8-8,9,10,11;10-13,14,15;11-12;12-16;13-17,18;15-19;17-24;18-20,21;21-22,23;23,24-26;26-27;27-28;29-29;30-30;32-31,32;34-39;35-34,35;37-38;40-45;41-44;43-42,43;44-46,47,48,49,50;45-51;46-52,53,54,55;48-59;49-60,61;52-63;</a>
+</spair>
+<spair id='346'>
+<s id='en346'>Why the vaccine is recommended</s>
+<s id='vn346'>Tại sao phải nên khuyến nghị sử dụng vắc-xin</s>
+<a id='ev346'>1-1,2;3-9;5-5,6,7,8;</a>
+</spair>
+<spair id='347'>
+<s id='en347'>Vaccination against HAV can help stop epidemics from developing in the community , in addition to protecting the individual child .</s>
+<s id='vn347'>Tiêm ngừa HAV không những giúp ngăn chặn dịch bệnh lan rộng trong cộng đồng mà còn giúp phòng tránh bệnh cho từng đứa trẻ một .</s>
+<a id='ev347'>1-1,2;3-3;5-5,6;6-7,8;7-9,10;9-11,12;10-13;12-14,15;17-16,17,18,19,20;19-23;20-24,25;</a>
+</spair>
+<spair id='348'>
+<s id='en348'>Some infected children do not have any symptoms , and can spread the virus to others .</s>
+<s id='vn348'>Một số trẻ bị nhiễm bệnh không có bất kỳ triệu chứng gì và có thể lây vi-rút cho những đứa trẻ khác .</s>
+<a id='ev348'>1-1,2;2-5,6;3-3;4,5-7,8;7-9,10;8-11,12;10-14;11-15,16;12-17;14-18;15-19;16-23;</a>
+</spair>
+<spair id='349'>
+<s id='en349'>The more young children who are vaccinated against HAV , the more limited the spread of disease will be in a community .</s>
+<s id='vn349'>Càng nhiều trẻ em được tiêm chủng HAV thì bệnh sẽ ít lây lan trong cộng đồng hơn .</s>
+<a id='ev349'>1,2-1;3-3,4;7-5,6,7;9-8;12-18;13-12;15-13,14;17-10;18-11;20-15;22-16,17;</a>
+</spair>
+<spair id='350'>
+<s id='en350'>Possible risks</s>
+<s id='vn350'>Rủi ro có thể xảy ra</s>
+<a id='ev350'>1-3,4;2-1,2;</a>
+</spair>
+<spair id='351'>
+<s id='en351'>Side effects are usually mild fever , and tenderness , swelling , and redness at the site of the injection .</s>
+<s id='vn351'>Các tác dụng phụ thường gặp là sốt nhẹ , đau nhức , da bị sưng và nổi đỏ ở vùng tiêm .</s>
+<a id='ev351'>1-1,2,3,4;3-7;4-5,6;5-9;6-8;9-11,12;11-15,16;13-17;14-18,19;15-20;17-21;20-22;</a>
+</spair>
+<spair id='352'>
+<s id='en352'>Allergic reactions to the vaccine are rare .</s>
+<s id='vn352'>Rất hiếm khi xảy ra trường hợp phản ứng dị ứng với vắc-xin .</s>
+<a id='ev352'>1-10,11;2-8,9;3-12;5-13;7-1,2,3,4,5;</a>
+</spair>
+<spair id='353'>
+<s id='en353'>When to delay or avoid immunization</s>
+<s id='vn353'>Khi nào nên hoãn hoặc tránh chủng ngừa</s>
+<a id='ev353'>1-1,2;2-3;3-4;4-5;5-6;6-7,8;</a>
+</spair>
+<spair id='354'>
+<s id='en354'>* if your child is currently sick , although simple colds or other minor illnesses should not prevent immunization</s>
+<s id='vn354'>* nếu con bạn đang bị bệnh , mặc dù là cảm nhẹ hoặc bị một bệnh nhẹ nào khác thì cũng nên tránh chích ngừa</s>
+<a id='ev354'>2-2;4-3;5-5;7-7;9-9,10;10-11;11-12;12-14;13-20;14-18;15-17;16,17-23;18-24;19-25,26;</a>
+</spair>
+<spair id='355'>
+<s id='en355'>* if your child had an allergic reaction to the first dose of hepatitis A vaccine</s>
+<s id='vn355'>* nếu con bạn bị dị ứng với liều vắc-xin viêm gan siêu vi A đầu tiên</s>
+<a id='ev355'>2-2;3-4;4-3;5-5;7-6,7;9-8;11-16,17;12-9;14-11,12,13,14;15-15;16-10;</a>
+</spair>
+<spair id='356'>
+<s id='en356'>Caring for your child after immunization</s>
+<s id='vn356'>Chăm sóc con bạn sau khi tiêm ngừa</s>
+<a id='ev356'>1-1,2;3-4;4-3;5-5,6;6-7,8;</a>
+</spair>
+<spair id='357'>
+<s id='en357'>Your child may experience fever , soreness , and some swelling and redness in the area where the shot was given .</s>
+<s id='vn357'>Con bạn có thể bị sốt , đau nhức , da bị sưng và nổi đỏ ở vùng tiêm .</s>
+<a id='ev357'>1-2;2-1;3-3,4;5-6;7-8,9;11-13;12-14;13-15,16;14-17;16-18;19-19;</a>
+</spair>
+<spair id='358'>
+<s id='en358'>Pain and fever may be treated with acetaminophen or ibuprofen .</s>
+<s id='vn358'>Bạn có thể dùng acetaminophen hoặc ibuprofen để giảm đau và hạ sốt cho bé .</s>
+<a id='ev358'>1-10;2-11;3-12,13;8-5;9-6;10-7;</a>
+</spair>
+<spair id='359'>
+<s id='en359'>Check with your doctor to see if you can give either medication , and to find out .</s>
+<s id='vn359'>Nên tham khảo ý kiến của bác sĩ để xem liệu có thể sử dụng thuốc gì và liều lượng như thế nào là thích hợp cho bé nhé .</s>
+<a id='ev359'>1-2,3,4,5;3-6;4-7,8;5-9;6-10;7-11;9-12,13;10-27;12-16;14-18;</a>
+</spair>
+<spair id='360'>
+<s id='en360'>When to call the doctor</s>
+<s id='vn360'>Khi nào nên gọi cho bác sĩ</s>
+<a id='ev360'>1-1,2;2-3;3-4;5-6,7;</a>
+</spair>
+<spair id='361'>
+<s id='en361'>* if you are n't sure if the vaccine should be postponed or avoided</s>
+<s id='vn361'>* nếu bạn không biết chắc liệu có nên hoãn hay tránh chủng ngừa vắc-xin đó</s>
+<a id='ev361'>2-2;3-3;5-4,5;6-6,7;9-15;11-9;12-10;13-11;14-12;</a>
+</spair>
+<spair id='362'>
+<s id='en362'>* if there are problems after the immunization</s>
+<s id='vn362'>* nếu xảy ra vấn đề gì đó sau khi chủng ngừa</s>
+<a id='ev362'>2-2;5-5,6;6-9,10;8-11,12;</a>
+</spair>
+<spair id='363'>
+<s id='en363'>Rotavirus</s>
+<s id='vn363'>Vi rút gây bệnh viêm ruột và dạ dày</s>
+<a id='ev363'></a>
+</spair>
+<spair id='364'>
+<s id='en364'>Rotavirus is a common virus that causes diarrhea , especially in infants and young children .</s>
+<s id='vn364'>Vi rút gây bệnh viêm ruột và dạ dày là vi-rút thường thấy gây bệnh tiêu chảy , nhất là đối với trẻ sơ sinh và trẻ nhỏ .</s>
+<a id='ev364'>4-12,13;5-11;7-14;8-15,16,17;10-19,20;12-23,24,25;13-26;14-28;15-27;</a>
+</spair>
+<spair id='365'>
+<s id='en365'>Childcare centers are a common site of outbreaks .</s>
+<s id='vn365'>Các trung tâm chăm sóc và giám sát trẻ em thường là những nơi bùng phát dịch bệnh .</s>
+<a id='ev365'>1-4,5,6,7,8;2-1,2,3;5-11;6-13,14;8-15,16,17,18;</a>
+</spair>
+<spair id='366'>
+<s id='en366'>The vaccine , which is a liquid given by mouth , is recommended at ages 2 and 4 months , as well as a dose at 6 months depending on the brand vaccine used .</s>
+<s id='vn366'>Vắc-xin này ở dạng chất lỏng và được dùng đường uống ; được khuyến nghị sử dụng cho trẻ từ 2 đến 4 tháng tuổi , cũng như 1 liều ở giai đoạn 6 tháng tuổi tuỳ thuộc vào loại vắc-xin được tiêm ngừa .</s>
+<a id='ev366'>1-2;2-1;7-5,6;13-13,14,15,16,17;15-25;16-21;17-22;18-23;19-24;21,22,23-27,28;24-29;25-30;27-34;28-35,36;29-37,38,39;32-40;33-41;</a>
+</spair>
+<spair id='367'>
+<s id='en367'>Why the vaccine is recommended</s>
+<s id='vn367'>Tại sao phải khuyến nghị sử dụng vắc-xin</s>
+<a id='ev367'>1-1,2;3-8;5-3,4,5,6,7;</a>
+</spair>
+<spair id='368'>
+<s id='en368'>Rotavirus can cause dehydration secondary to large amounts of diarrhea , and can result in children requiring hospita lization .</s>
+<s id='vn368'>Vi rút gây bệnh viêm ruột và dạ dày có thể gây mất nước thứ phát đến tiêu chảy nặng và có thể bắt trẻ phải nhập viện .</s>
+<a id='ev368'>1-1,2,3,4,5,6,7,8,9;2-10,11;3-12;4-14;5-15,16;6-17;10-18,19,20;13-22,23;16-25;17-26;18,19-27,28;</a>
+</spair>
+<spair id='369'>
+<s id='en369'>Vaccination against rotavirus can help stop spread in the community , in addition to protecting the individual child .</s>
+<s id='vn369'>Việc chủng ngừa vi rút gây bệnh viêm ruột và dạ dày có thể giúp ngăn chặn lây lan trong cộng đồng và giúp phòng tránh bệnh cho từng trẻ một .</s>
+<a id='ev369'>1-1,2,3;3-4,5,6,7,8,9,10,11,12;4-13,14;5-15;6-16,17;7-18,19;8-20;10-21,22;13-24;15-25,26,27;17-29;18-30;</a>
+</spair>
+<spair id='370'>
+<s id='en370'>Possible risks</s>
+<s id='vn370'>Rủi ro có thể xảy ra</s>
+<a id='ev370'>1-3,4;2-1,2;</a>
+</spair>
+<spair id='371'>
+<s id='en371'>Side effects can include diarrhea and vomiting , in addition to fever .</s>
+<s id='vn371'>Các tác dụng phụ thường gặp là tiêu chảy , ói mửa và sốt .</s>
+<a id='ev371'>1-4;2-1,2,3;4-5,6;5-8,9;6-13;7-11,12;12-14;</a>
+</spair>
+<spair id='372'>
+<s id='en372'>When to delay or avoid immunization</s>
+<s id='vn372'>Khi nào nên hoãn hoặc tránh chủng ngừa</s>
+<a id='ev372'>1-1,2;2-3;3-4;4-5;5-6;6-7,8;</a>
+</spair>
+<spair id='373'>
+<s id='en373'>* if your child is currently sick , although simple colds should not prevent immunization</s>
+<s id='vn373'>* nếu con bạn đang bị bệnh , mặc dù là cảm nhẹ thì cũng không nên chủng ngừa</s>
+<a id='ev373'>2-2;3-4;4-3;7-6,7;9-9,10;10-13;11-12;12-17;13-16;15-18,19;</a>
+</spair>
+<spair id='374'>
+<s id='en374'>* if your child had an allergic reaction to a previous dose of the vaccine</s>
+<s id='vn374'>* nếu con bạn bị dị ứng với liều vắc-xin trước</s>
+<a id='ev374'>2-2;3-4;4-3;5-5;7-6,7;9-8;11-11;12-9;15-10;</a>
+</spair>
+<spair id='375'>
+<s id='en375'>* let the doctor know if your child has an allergy to latex</s>
+<s id='vn375'>* nếu con bạn bị dị ứng với nhựa mủ thì bạn nên thông báo cho bác sĩ biết</s>
+<a id='ev375'>2-16;4-17,18;5-19;6-2;7-4;8-3;9-5;11-6,7;12-8;13-9,10;</a>
+</spair>
+<spair id='376'>
+<s id='en376'>* if your child has an abnormality of the digestive system or a gastrointestinal disease , talk to your doctor about immunization</s>
+<s id='vn376'>* nếu con bạn bị dị tật về hệ tiêu hoá hoặc bệnh dạ dày - ruột thì bạn nên tham khảo ý kiến của bác sĩ về việc chủng ngừa cho bé nhé</s>
+<a id='ev376'>2-2;3-4;4-3;5-5;7-6,7;8-8;10-10,11;11-9;12-12;14-14,15,17;15-13;17-21,22,23,24;18-25;20-26,27;21-28,29;22-30,31;</a>
+</spair>
+<spair id='377'>
+<s id='en377'>* if your child has a history of intussusception , a type of serious bowel blockage , talk to your doctor about immunization</s>
+<s id='vn377'>* nếu con bạn có tiền sử lồng ruột , một bệnh tắt nghẽn ruột nghiêm trọng thì bạn nên tham khảo ý kiến của bác sĩ về việc chủng ngừa cho bé</s>
+<a id='ev377'>2-2;3-4;4-3;5-5;7-6,7;9-8,9;11-11;14-16,17;15-15;18-21,22,23,24;21-26,27;22-28,29;23-30,31;</a>
+</spair>
+<spair id='378'>
+<s id='en378'>* if your child has recently received gamma globulin or a blood transfusion</s>
+<s id='vn378'>* nếu con bạn mới được tiêm gamma globulin hoặc mới được truyền máu</s>
+<a id='ev378'>2-2;3-4;4-3;6-5;7-6,7;8,9-8,9;10-10;11-11;12-14;13-12,13;</a>
+</spair>
+<spair id='379'>
+<s id='en379'>* if your child has immune system problems from a disease such as cancer ; is taking steroids or other immunosuppressive drugs ; or is undergoing chemotherapy or radiation therapy</s>
+<s id='vn379'>* nếu con bạn có vấn đề về hệ miễn dịch như bị ung thư ; nếu bé đang dùng thuốc steroid hay các thuốc ức chế miễn dịch khác ; hoặc bé đang dùng hoá trị liệu hoặc đang điều trị bằng bức xạ</s>
+<a id='ev379'>2-2;3-4;4-3;6-10,11;7-9;8-5,6,7;12,13-12;14-14,15;18-22;19-23;20-30;22-24,25;26-34,35;27-36,37,38;28-39;29-44,45;30-40,41,42;</a>
+</spair>
+<spair id='380'>
+<s id='en380'>Caring for your child after immunization</s>
+<s id='vn380'>Chăm sóc con bạn sau khi chủng ngừa</s>
+<a id='ev380'>1-1,2;3-4;4-3;5-5,6;6-7,8;</a>
+</spair>
+<spair id='381'>
+<s id='en381'>Depending on the age of your child , fever may be treated with acetaminophen or ibuprofen .</s>
+<s id='vn381'>Tuỳ vào độ tuổi của con bạn mà bác sĩ có thể cho acetaminophen hoặc ibuprofen để giảm đau và hạ sốt .</s>
+<a id='ev381'>1-1,2;4-3,4;5-5;6-7;7-6;10-11,12;13-13;14-14;15-15;16-16,17;</a>
+</spair>
+<spair id='382'>
+<s id='en382'>Check with your doctor to see if you can give either medication , and to find out the appropriate dose .</s>
+<s id='vn382'>Hãy tham khảo ý kiến của bác sĩ để biết xem có thể sử dụng thuốc gì và liều lượng như thế nào là thích hợp .</s>
+<a id='ev382'>1-2,3,4,5;3-6;4-7,8;5-9;6-11;9-12,13;12-16;14-18;19-25,26;20-19,20;</a>
+</spair>
+<spair id='383'>
+<s id='en383'>If vomiting or diarrhea occur , make sure to give your child frequent amounts of fluid and watch for signs of dehydration , such as less urine than usual .</s>
+<s id='vn383'>Nếu bé bị ói mửa hoặc tiêu chảy thì phải đảm bảo nên cho bé uống nước thường xuyên và theo dõi xem bé có dấu hiệu mất nước không , chẳng hạn như nước tiểu ít hơn bình thường .</s>
+<a id='ev383'>1-1;2-3,4,5;3-6;4-7,8;8-11,12;9-13;10-14;12-15;13-18,19;17-20;18-21,22;20-26,27;21-25;22-28,29;24,25-32,33,34;26-37,38;27-35,36;29-39,40;</a>
+</spair>
+<spair id='384'>
+<s id='en384'>When to call the doctor</s>
+<s id='vn384'>Khi nào nên gọi điện cho bác sĩ</s>
+<a id='ev384'>1-1,2;2-3;3-4,5;5-7,8;</a>
+</spair>
+<spair id='385'>
+<s id='en385'>* if you are n't sure if the vaccine should be postponed or avoided</s>
+<s id='vn385'>* nếu bạn không biết chắc liệu có nên hoãn hay tránh chủng ngừa loại vắc-xin đó</s>
+<a id='ev385'>2-2;3-3;4,5-4,5;6-6;7-7;9-16;10,11-9;12-10;13-11;14-12;</a>
+</spair>
+<spair id='386'>
+<s id='en386'>* if there are problems after the immunization</s>
+<s id='vn386'>* nếu xảy ra vấn đề gì đó sau khi chủng ngừa</s>
+<a id='ev386'>2-2;5-5,6;6-9,10;8-11,12;</a>
+</spair>
+<spair id='387'>
+<s id='en387'>HPV</s>
+<s id='vn387'>HPV</s>
+<a id='ev387'>1-1;</a>
+</spair>
+<spair id='388'>
+<s id='en388'>Human papillomavirus ( HPV ) is a sexually transmitted disease ( STD ) that causes genital warts and changes in the cervix that can result in cervical cancer .</s>
+<s id='vn388'>Vi-rút gây bệnh mụn cơm trên người ( HPV ) là bệnh lây truyền qua đường tình dục ( STD ) gây nổi mụn cóc ở bộ phận sinh dục và gây ra những thay đổi trong cổ tử cung có thể dẫn đến ung thư cổ tử cung .</s>
+<a id='ev388'>1-7;2-1,2,3,4,5;4-9;6-11;8-16,17,18;9-13,14;10-12;12-20;15-22;16-27,28,29,30;17-23,24,25;18-31;19-34,35,36;20-37;22-38,39,40;24-41,42;25-43,44;27-47,48,49;28-45,46;</a>
+</spair>
+<spair id='389'>
+<s id='en389'>The vaccine is given as a series of three shots over a 6-month period and is recommended for girls 11 or 12 years old , as well as for older girls who are unvaccinated .</s>
+<s id='vn389'>Vắc-xin được tiêm ngừa thành một loạt 3 mũi trong vòng 6 tháng và được khuyến nghị sử dụng cho bé gái từ 11 hoặc 12 tuổi , cũng như các bé gái lớn tuổi hơn chưa được tiêm chủng .</s>
+<a id='ev389'>2-1;4-2,3,4;5-5;6-6;7-7;9-8;10-9;13-12,13;14-10,11;15-14;17-15,16,17,18,19;18-20;19-21,22;20-24;21-25;22-26;23,24-27;26,27,28-29,30;30-34,35,36;31-31,32,33;34-37,38,39,40;</a>
+</spair>
+<spair id='390'>
+<s id='en390'>The vaccine can also be given to boys ages 9 through 18 years , to prevent the development of genital warts .</s>
+<s id='vn390'>Loại vắc-xin này cũng được sử dụng cho bé trai từ 9 đến 18 tuổi nhằm phòng tránh chứng nổi mụn cóc ở bộ phận sinh dục .</s>
+<a id='ev390'>1-3;2-1,2;3-5,6,7;4-4;6-8;8-9,10;9,13-15;10-12;12-14;20-24,25,26,27;21-20,21,22;</a>
+</spair>
+<spair id='391'>
+<s id='en391'>Why the vaccine is recommended</s>
+<s id='vn391'>Tại sao phải khuyến nghị sử dụng vắc-xin</s>
+<a id='ev391'>1-1,2;3-8;5-3,4,5,6,7;</a>
+</spair>
+<spair id='392'>
+<s id='en392'>Because HPV can cause serious problems such as genital warts and cervical cancer , a vaccine is an important step in preventing infection and protecting against the spread of HPV .</s>
+<s id='vn392'>Vì vi-rút HPV có thể gây nhiều vấn đề nghiêm trọng như nổi mụn cóc ở bộ phận sinh dục và ung thư cổ tử cung , nên vắc-xin là một biện pháp quan trọng nhằm phòng tránh lây nhiễm và ngăn ngừa lây lan HPV .</s>
+<a id='ev392'>1-1;2-2,3;3-4,5,6;5-10,11;6-7,8,9;7-12;9-19,20;10-13,14,15;11-21;12-24,25,26;13-22,23;16-29;17-30;18-31;19-34,35;20-32,33;22-42,43;23-39,40;24-41;26-37,38;28-44,45;30-46;</a>
+</spair>
+<spair id='393'>
+<s id='en393'>It works best when given before a girl becomes sexually active .</s>
+<s id='vn393'>Vắc-xin này có hiệu quả tốt nhất nếu tiêm ngừa cho bé gái trước khi quan hệ tình dục .</s>
+<a id='ev393'>3-6,7;5-11;6-14,15;8-12,13;10-16,17,18,19;</a>
+</spair>
+<spair id='394'>
+<s id='en394'>Possible risks</s>
+<s id='vn394'>Rủi ro có thể xảy ra</s>
+<a id='ev394'>1-3,4;2-1,2;</a>
+</spair>
+<spair id='395'>
+<s id='en395'>Side effects are usually mild fever and tenderness , swelling , and redness at the site of the injection .</s>
+<s id='vn395'>Các tác dụng phụ thường gặp là sốt nhẹ , đau nhức , da sưng và nổi đỏ ở vùng tiêm ;</s>
+<a id='ev395'>1-1,2,3,4;3-7;4-5,6;5-9;6-8;8-11,12;10-14,15;12-16;13-17,18;14-19;16-20;19-21;</a>
+</spair>
+<spair id='396'>
+<s id='en396'>Dizziness , fainting , nausea , and vomiting may also occur after the shot .</s>
+<s id='vn396'>Cũng có thể bị chóng mặt , choáng váng , buồn nôn và ói mửa sau khi tiêm ngừa .</s>
+<a id='ev396'>1-4,5,6;3-8,9;5-11,12;7-13;8-14,15;9-2,3;12-16,17;14-18,19;</a>
+</spair>
+<spair id='397'>
+<s id='en397'>Allergic reactions to the vaccine occur rarely .</s>
+<s id='vn397'>Trường hợp dị ứng với vắc-xin rất hiếm khi xảy ra .</s>
+<a id='ev397'>1-3,4;2-1,2;3-5;5-6;6-10,11;7-7,8,9;</a>
+</spair>
+<spair id='398'>
+<s id='en398'>When to delay or avoid immunization</s>
+<s id='vn398'>Khi nào nên hoãn hoặc tránh chủng ngừa</s>
+<a id='ev398'>1-1,2;2-3;3-4;4-5;5-6;6-7,8;</a>
+</spair>
+<spair id='399'>
+<s id='en399'>* if your daughter is currently sick , although simple colds or other minor illnesses should not prevent immunization</s>
+<s id='vn399'>* nếu con gái của bạn đang bị bệnh , mặc dù là cảm nhẹ hoặc bị một bệnh nhẹ nào khác thì cũng nên tránh chích ngừa</s>
+<a id='ev399'>2-2;3-5,6;4-3,4;5-7;7-8,9;9-11,12;10-15;11-14;12-16;13-22;14-20;15-19;16,17-25;18-26;19-27,28;</a>
+</spair>
+<spair id='400'>
+<s id='en400'>* if your daughter had an allergic reaction to the first dose of HPV vaccine</s>
+<s id='vn400'>* nếu con gái của bạn đã bị dị ứng với liều vắc-xin HPV đầu tiên</s>
+<a id='ev400'>2-2;3-5,6;4-3,4;5-7;7-9,10;9-11;11-15,16;12-12;14-14;15-13;</a>
+</spair>
+<spair id='401'>
+<s id='en401'>* if your daughter has had a severe allergic reaction to yeast</s>
+<s id='vn401'>* nếu con gái của bạn đã bị dị ứng nặng với men ( rượu bia )</s>
+<a id='ev401'>2-2;3-5,6;4-3,4;6-7,8;8-11;9-9,10;11-12;12-13;</a>
+</spair>
+<spair id='402'>
+<s id='en402'>* if your daughter is pregnant</s>
+<s id='vn402'>* nếu con gái của bạn đang có thai</s>
+<a id='ev402'>2-2;3-5,6;4-3,4;5-7;6-8,9;</a>
+</spair>
+<spair id='403'>
+<s id='en403'>* if your daughter has a bleeding disorder ( discuss with your hematologist )</s>
+<s id='vn403'>* nếu con gái của bạn bị bệnh máu loãng ( bạn nên tham khảo ý kiến của bác sĩ chuyên khoa huyết học nhé )</s>
+<a id='ev403'>2-2;3-5,6;4-3,4;5-7;7-8,9,10;13-19,20,21,22,23,24;</a>
+</spair>
+<spair id='404'>
+<s id='en404'>Caring for your child after immunization</s>
+<s id='vn404'>Chăm sóc con bạn sau khi chủng ngừa</s>
+<a id='ev404'>1-1,2;3-4;4-3;5-5,6;6-7,8;</a>
+</spair>
+<spair id='405'>
+<s id='en405'>Your child may experience fever , soreness , and some swelling and redness in the area where the shot was given .</s>
+<s id='vn405'>Con của bạn có thể bị sốt , đau nhức , da sưng và nổi đỏ ở vùng tiêm .</s>
+<a id='ev405'>1-2,3;2-1;3-4,5;5-7;7-9,10;11-12,13;12-14;13-15,16;14-17;16-18;19-19;</a>
+</spair>
+<spair id='406'>
+<s id='en406'>Pain and fever may be treated with acetaminophen or ibuprofen .</s>
+<s id='vn406'>Bạn có thể dùng acetaminophen hoặc ibuprofen để giảm đau và hạ sốt cho bé .</s>
+<a id='ev406'>1-10;2-11;3-12,13;8-5;9-6;10-7;</a>
+</spair>
+<spair id='407'>
+<s id='en407'>Check with your doctor to see if you can give either medication , and find out the appropriate dose .</s>
+<s id='vn407'>Hãy tham khảo ý kiến của bác sĩ để xem liệu có thể sử dụng thuốc gì và liều lượng như thế nào là thích hợp .</s>
+<a id='ev407'>1-2,3,4,5;3-6;4-7,8;5-9;6-10;7-11;9-12,13;12-16;14-18;18-25,26;19-19,20;</a>
+</spair>
+<spair id='408'>
+<s id='en408'>When to call the doctor</s>
+<s id='vn408'>Khi nào nên gọi cho bác sĩ</s>
+<a id='ev408'>1-1,2;2-3;3-4;5-6,7;</a>
+</spair>
+<spair id='409'>
+<s id='en409'>* if you are n't sure if the vaccine should be postponed or avoided</s>
+<s id='vn409'>* nếu bạn không biết chắc liệu có nên hoãn hay tránh chủng ngừa loại vắc-xin đó</s>
+<a id='ev409'>2-2;3-3;5-4,5;6-6;7-7;9-16;10,11-9;12-10;13-11;14-12;</a>
+</spair>
+<spair id='410'>
+<s id='en410'>* if there are problems after the immunization</s>
+<s id='vn410'>* nếu xảy ra vấn đề gì sau khi chủng ngừa</s>
+<a id='ev410'>2-2;5-5,6;6-8,9;8-10,11;</a>
+</spair>
+<spair id='411'>
+<s id='en411'>Immunization schedule</s>
+<s id='vn411'>Lịch chủng ngừa</s>
+<a id='ev411'>1-2,3;2-1;</a>
+</spair>
+<spair id='412'>
+<s id='en412'>This immunization schedule is a handy reference to help you keep track of which vaccines your child needs to receive and when .</s>
+<s id='vn412'>Lịch chủng ngừa này là bảng tham khảo tiện lợi có thể giúp cho bạn theo dõi được các loại vắc-xin cần thiết với con mình và thời gian tiêm ngừa cho bé .</s>
+<a id='ev412'>1-4;2-2,3;3-1;4-5;7-7,8;9-13,14;10-15;11-16,17,18;15-19,20,21;16-26;17-25;18-22,23;21-27;22-28,29;</a>
+</spair>
+<spair id='413'>
+<s id='en413'>Types of vaccines</s>
+<s id='vn413'>Các loại vắc-xin</s>
+<a id='ev413'>1-1,2;3-3;</a>
+</spair>
+<spair id='414'>
+<s id='en414'>Some types of vaccines are :</s>
+<s id='vn414'>Một số loại vắc-xin thường gặp :</s>
+<a id='ev414'>1-1,2;2-3;4-4;</a>
+</spair>
+<spair id='415'>
+<s id='en415'>1 . Attenuated ( weakened ) live viruses are used in some vaccines such as in the measles , mumps , and rubella ( MMR ) vaccine .</s>
+<s id='vn415'>1 . Vi-rút còn sống nhưng đã bị làm yếu đi được dùng trong một số loại vắc-xin như vắc-xin sởi , ru-bê-la và quai bị .</s>
+<a id='ev415'>1-1;5-9,10,11;7-5;8-3;10-12,13;11-14;12-15,16;13-17,18;14,15-19;18-21;20-25,26;22-24;23-23;27-20;</a>
+</spair>
+<spair id='416'>
+<s id='en416'>2 . Killed ( inactivated ) viruses or bacteria are used in some vaccines , such as in IPV .</s>
+<s id='vn416'>2 . Vi-rút hoặc vi khuẩn đã chết ( hoặc bất hoạt ) được sử dụng trong một số loại vắc-xin như vắc-xin IPV .</s>
+<a id='ev416'>1-1;3-7,8;5-11,12;7-3;8-4;9-5,6;11-14,15,16;12-17;13-18,19;14-20,21;16,17-22;19-24;</a>
+</spair>
+<spair id='417'>
+<s id='en417'>3 . Toxoid vaccines contain an inactivated toxin produced by the bacterium .</s>
+<s id='vn417'>3 . Vắc-xin giải độc tố chứa độc tố tô-xin bất hoạt do vi khuẩn tạo ra .</s>
+<a id='ev417'>1-1;4-3;8-8,9,10;9-16,17;12-13,14,15;</a>
+</spair>
+<spair id='418'>
+<s id='en418'>For example , the diphtheria and tetanus vaccines are toxoid vaccines .</s>
+<s id='vn418'>Chẳng hạn như vắc-xin bạch hầu và uốn ván là các vắc-xin giải độc tố .</s>
+<a id='ev418'>2-1,2,3;5-5,6;6-7;7-8,9;8-4;9-10;10-13,14,15;11-11,12;</a>
+</spair>
+<spair id='419'>
+<s id='en419'>4 . Conjugate vaccines ( such as Hib ) contain parts of bacteria combined with proteins .</s>
+<s id='vn419'>4 . Vắc-xin kết hợp ( như Hib ) chứa các thành phần vi khuẩn kết hợp với prô-tê-in .</s>
+<a id='ev419'>1-1;3-4,5;4-3;6,7-7;8-8;10-10;11-11,12,13;13-14,15;14-16,17;15-18;16-19;</a>
+</spair>
+<spair id='420'>
+<s id='en420'>Immunizations for travel</s>
+<s id='vn420'>Chủng ngừa khi đi du lịch</s>
+<a id='ev420'>1-1,2;3-4,5,6;</a>
+</spair>
+<spair id='421'>
+<s id='en421'>Specific information about which immunizations are required by travelers to each country worldwide is available directly from the Centers for Disease Control and Prevention ( CDC ) .</s>
+<s id='vn421'>Các Trung tâm phòng chống bệnh tật ( CDC ) sẽ cung cấp trực tiếp thông tin cụ thể về chủng ngừa cho khách du lịch đến từng quốc gia trên toàn cầu .</s>
+<a id='ev421'>1-18,19;2-16,17;3-20;5-21,22;7-11,12,13,14,15;9-24,25,26;10-27;11-28;12-29,30;13-31,32,33;19-1,2,3;21-6,7;24-4,5;26-9;</a>
+</spair>
+<spair id='422'>
+<s id='en422'>Ask your doctor for more information .</s>
+<s id='vn422'>Bạn nên tham khảo ý kiến của bác sĩ để biết thêm thông tin nhé .</s>
+<a id='ev422'>3-8,9;4-10;5-12;6-13,14;</a>
+</spair>
+<spair id='423'>
+<s id='en423'>Depending on the type and length of travel , some vaccines may be recommended .</s>
+<s id='vn423'>Tùy thuộc vào loại hình du lịch và thời gian đi du lịch mà người ta khuyến nghị nên sử dụng một số loại vắc-xin .</s>
+<a id='ev423'>1-1,2,3;4-4,5;5-8;8-6,7;10-22,23;11-24,25;14-17,18,19,20,21;</a>
+</spair>
+<spair id='424'>
+<s id='en424'>Most immunizations should be given at least 1 month before travel .</s>
+<s id='vn424'>Hầu hết các vắc-xin chủng ngừa đều được tiêm trước khi đi du lịch ít nhất là 1 tháng .</s>
+<a id='ev424'>1-1,2;2-5,6;5-8;7-15,16;8-18;9-19;10-10,11;11-12,13,14;</a>
+</spair>
+<spair id='425'>
+<s id='en425'>Take your child 's immunization records with when you travel internationally .</s>
+<s id='vn425'>Bạn nên mang theo hồ sơ chủng ngừa của bé bất kể khi nào bạn đi du lịch quốc tế nhé .</s>
+<a id='ev425'>1-3,4;3-10;4-9;5-7,8;6-5,6;7-11,12;8-13,14;9-15;10-16,17,18;11-19,20;</a>
+</spair>
+<spair id='426'>
+<s id='en426'>Helping kids through vaccine injections</s>
+<s id='vn426'>Giúp trẻ vượt qua nỗi sợ hãi chủng ngừa</s>
+<a id='ev426'>1-1;2-2;3-3,4;4-8,9;</a>
+</spair>
+<spair id='427'>
+<s id='en427'>Sometimes it 's hard to tell who dreads immunizations more - parents and kids .</s>
+<s id='vn427'>Nhiều khi khó biết được giữa bố mẹ và trẻ con - ai là người sợ chủng ngừa hơn .</s>
+<a id='ev427'>1-1,2;4-3;6-4,5;7-13;8-16;9-17,18;10-19;12-7,8;13-9;14-10,11;</a>
+</spair>
+<spair id='428'>
+<s id='en428'>Here are some tips to help make the procedure easier for everyone :</s>
+<s id='vn428'>Dưới đây là một số bí quyết giúp cho quy trình tiêm chủng trở nên dễ dàng cho tất cả mọi người .</s>
+<a id='ev428'>1-1,2;2-3;3-4,5;4-6,7;6-8,9;9-10,11,12,13;10-16,17;11-18;12-19,20,21,22;</a>
+</spair>
+<spair id='429'>
+<s id='en429'>* Tell older kids what 's going to happen and that the shot helps to keep them healthy .</s>
+<s id='vn429'>* Hãy nói cho những trẻ lớn tuổi hơn biết chuyện gì sẽ xảy ra và tiêm ngừa có thể giúp chúng khoẻ mạnh hơn</s>
+<a id='ev429'>2-2,3;3-7,8,9;4-5,6;5-11,12;9-14,15;10-16;13-17;14-21;15-19;16-20;17-22;18-23,24,25;</a>
+</spair>
+<spair id='430'>
+<s id='en430'>* Tell younger kids that it 's OK to cry , but also encourage them to be brave .</s>
+<s id='vn430'>* Hãy nói với trẻ nhỏ là nếu bé khóc thì cũng được thôi nhưng bạn cũng nên khuyến khích chúng hãy can đảm lên .</s>
+<a id='ev430'>2-2,3,4;3-5,6;4-9;8-12,13,14;10-10;12-15;13-17;14-19,20;15-21;18-23,24;</a>
+</spair>
+<spair id='431'>
+<s id='en431'>* Try to be calm yourself .</s>
+<s id='vn431'>* Bạn hãy tỏ ra bình tĩnh nhé .</s>
+<a id='ev431'>3-4;4-5;5-6,7;</a>
+</spair>
+<spair id='432'>
+<s id='en432'>Your child can pick up on your concerns .</s>
+<s id='vn432'>Con của bạn cũng có thể để ý được mối lo lắng của bạn đấy .</s>
+<a id='ev432'>1-2,3;2-1;3-5,6;7-13,14;8-10,11,12;</a>
+</spair>
+<spair id='433'>
+<s id='en433'>* Distraction at the moment of the injection is help ful .</s>
+<s id='vn433'>* Việc làm cho bé phân tâm lúc này cũng có tác dụng tốt .</s>
+<a id='ev433'>2-2,3;5-8,9;6-11,12,13,14;</a>
+</spair>
+<spair id='434'>
+<s id='en434'>Try having kids count , sing a song with you , or look away ( perhaps at a picture on the wall ) .</s>
+<s id='vn434'>Bạn hãy thử cho bé đếm , cùng hát một bài hát với bạn , hoặc nhìn sang chỗ khác ( có thể nhìn một bức tranh trên tường ) .</s>
+<a id='ev434'>1-3;3-5;4-6;6-9;7-10;8-11,12;9-13;10-14;12-16;13-17;14-18,19,20;16-22,23;18-25;19-26,27;20-28;22-29;</a>
+</spair>
+<spair id='435'>
+<s id='en435'>You may want to have a joke or funny comment ready .</s>
+<s id='vn435'>Bạn cũng nên chuẩn bị sẵn một chuyện đùa hoặc một lời nói dí dỏm nào đó cho bé nhé .</s>
+<a id='ev435'>1-1;3-3;6-7;7-8,9;8-10;9-14,15;10-12,13;</a>
+</spair>
+<spair id='436'>
+<s id='en436'>* Offer praise after the injection is over .</s>
+<s id='vn436'>* Hãy khen bé sau khi đã tiêm ngừa xong .</s>
+<a id='ev436'>3-3;4-5,6;6-8,9;8-10;</a>
+</spair>
+<spair id='437'>
+<s id='en437'>* Plan something fun for after the appointment .</s>
+<s id='vn437'>* Bạn nên chuẩn bị một việc gì đó vui vẻ sau khi bé chích ngừa xong .</s>
+<a id='ev437'>3-6,7,8,9;4-10,11;6-12,13;8-15,16,17;</a>
+</spair>
+<spair id='438'>
+<s id='en438'>A trip to the park or playground can make the overall immunization experience less unpleasant .</s>
+<s id='vn438'>Một chuyến đi công viên hay chơi ở sân chơi cũng có thể làm cho cuộc tiêm ngừa trở nên dễ chịu hơn .</s>
+<a id='ev438'>1-1;2-2,3;5-4,5;6-6;7-9,10;8-12,13;9-14,15;12-16,17,18;14-23;15-21,22;</a>
+</spair>
+<spair id='439'>
+<s id='en439'>As uneasy as getting vaccinated may make both you and your child , remember that immunizations are one of the best means of protection against contagious diseases .</s>
+<s id='vn439'>Việc tiêm chủng có thể khiến cho cả bạn và con bạn cảm thấy không thoải mái tí nào , nhưng xin nhớ rằng chủng ngừa là một trong những biện pháp bảo vệ tốt nhất giúp phòng tránh các bệnh lây nhiễm .</s>
+<a id='ev439'>2-15,16,17;5-1,2,3;6-4,5;7-6,7;8-8;9-9;10-10;11-12;12-11;14-22,23;16-25,26;17-27;18-28;21-35,36;22-30,31,32;24-33,34;25-38,39;26-42,43;27-40,41;</a>
+</spair>
+</text>
+</doc>

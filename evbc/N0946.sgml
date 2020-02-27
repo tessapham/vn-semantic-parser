@@ -1,0 +1,317 @@
+﻿<doc id='N0946'>
+<head>
+<title>The Basics Of Business Forecasting</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>22/10/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>The Basics Of Business Forecasting</s>
+<s id='vn1'>Những kiến thức cơ bản về dự báo kinh doanh</s>
+<a id='ev1'>2-1,2,3,4,5;3-6;4-9,10;5-7,8;</a>
+</spair>
+<spair id='2'>
+<s id='en2'>It is not unusual to hear a company 's management speak about forecasts : " Our sales did not meet the forecasted numbers , " or " we feel confident in the forecasted economic growth and expect to exceed our targets . "</s>
+<s id='vn2'>Không lạ gì khi nghe ban quản trị công ty nào đó nói về dự báo : " Doanh số của chúng tôi không đạt được so với dự báo " hoặc " chúng tôi cảm thấy tin tưởng vào mức tăng trưởng kinh tế dự báo và kỳ vọng vượt xa các mục tiêu của mình . "</s>
+<a id='ev2'>3-1;4-2,3;5-4;6-5;8-9,10;10-6,7,8;11-13;12-14;13-15,16;16-21,22,23;17-19,20;19-24;20-25,26;22-29,30;26-32;28-34,35;29-36,37;30-38,39,40;33-46,47;34-44,45;35-41,42,43;36-48;37-49,50;39-51,52;40-56,57;41-53,54,55;</a>
+</spair>
+<spair id='3'>
+<s id='en3'>In the end , all financial forecasts , whether about the specifics of a business , like sales growth , or predictions about the economy as a whole , are informed guesses .</s>
+<s id='vn3'>Rốt cuộc thì tất cả các dự báo tài chính , dù là về các biến số cụ thể của một doanh nghiệp , như mức tăng trưởng doanh số , hoặc những dự báo về nền kinh tế nói chung , đều là những suy đoán có cơ sở .</s>
+<a id='ev3'>1,2,3-1,2;5-4,5;6-9,10;7-6,7,8;9-12,13;10-14;12-15,16,17,18,19;13-20;14-21;15-22,23;17-25;18-29,30;19-26,27,28;21-32;22-33,34,35;23-36;25-37,38,39;28-40,41;30-43,44;31-48,49,50;32-45,46,47;</a>
+</spair>
+<spair id='4'>
+<s id='en4'>In this article , we 'll look at some of the methods behind financial forecasts , as well as the actual process and some of the risks that crop up when we seek to predict the future .</s>
+<s id='vn4'>Trong bài báo này , chúng ta sẽ tìm hiểu một số phương pháp đằng sau những dự báo tài chính , cũng như quy trình trên thực tế và một vài rủi ro bất ngờ xảy ra khi chúng ta tìm cách dự đoán tương lai .</s>
+<a id='ev4'>1-1;2-4;3-2,3;5-6,7;6-8;7-9,10;9-11,12;12-13,14;13-15,16;14-20,21;15-17,18,19;17,18,19-23,24;21-27,28,29;22-25,26;23-30;24-31,32;27-33,34;29,30-37,38;31-39;32-40,41;33-42,43;35-44,45;37-46,47;</a>
+</spair>
+<spair id='5'>
+<s id='en5'>Financial Forecasting Methods</s>
+<s id='vn5'>Những phương pháp dự báo tài chính</s>
+<a id='ev5'>1-6,7;2-4,5;3-1,2,3;</a>
+</spair>
+<spair id='6'>
+<s id='en6'>There are a number of different methods by which a business forecast can be made .</s>
+<s id='vn6'>Có một số phương pháp khác nhau có thể dùng để tiến hành dự báo kinh doanh .</s>
+<a id='ev6'>1-1;3-2;4-3;6-6,7;7-4,5;11-16,17;12-14,15;13-8,9;15-10,11,12,13;</a>
+</spair>
+<spair id='7'>
+<s id='en7'>All the methods fall into one of two overarching approaches : qualitative and quantitative .</s>
+<s id='vn7'>Tất cả các phương pháp đều thuộc về một trong hai cách tiếp cận bao quát : định tính và định lượng .</s>
+<a id='ev7'>1-1,2;3-3,4,5;4-7;5-8;6-9;7-10;8-11;9-15,16;10-12,13,14;12-18,19;13-20;14-21,22;</a>
+</spair>
+<spair id='8'>
+<s id='en8'>Qualitative Models</s>
+<s id='vn8'>Những mô hình định tính</s>
+<a id='ev8'>1-4,5;2-1,2,3;</a>
+</spair>
+<spair id='9'>
+<s id='en9'>Qualitative models have generally been successful with short-term predictions , where the scope of the forecast is limited .</s>
+<s id='vn9'>Những mô hình định tính lâu nay thường thành công với những dự báo ngắn hạn , phạm vi dự báo có giới hạn .</s>
+<a id='ev9'>1-4,5;2-1,2,3;4-8;6-9,10;7-11;8-15,16;9-12,13,14;13-18,19;16-20,21;18-22,23,24;</a>
+</spair>
+<spair id='10'>
+<s id='en10'>Qualitative forecasts can be thought of as expert-driven , in that they depend on market mavens or the market as a whole to weigh in with an informed consensus .</s>
+<s id='vn10'>Dự báo định tính có thể được coi là chịu tác động của các nhà chuyên môn , chúng phụ thuộc vào các chuyên gia thị trường hoặc thị trường nói chung để đưa ra một sự nhất trí có căn cứ .</s>
+<a id='ev10'>1-3,4;2-1,2;3-5,6;5-7,8,9;8-11,12,13,14,15,16,17;12-19;13-20,21;14-22;15-26,27;16-23,24,25;17-28;19-29,30;22-31,32;23-33;24-34,35;27-36;28-40,41,42;29-37,38,39;</a>
+</spair>
+<spair id='11'>
+<s id='en11'>Qualitative models can be useful in predicting the short-term success of companies , products and services , but meets limitations due to its reliance on opinion over measurable data .</s>
+<s id='vn11'>Những mô hình định tính có thể hữu dụng khi dự báo về thành công ngắn hạn của công ty , sản phẩm và dịch vụ , nhưng bị hạn chế vì phụ thuộc vào sự đánh giá những dữ liệu đo được .</s>
+<a id='ev11'>1-4,5;2-1,2,3;3-6,7;5-8,9;6-10;7-11,12;9-16,17;10-14,15;11-18;12-19,20;14-22,23;15-24;16-25,26;18-28;19-29;20-30,31;21-32;24-33,34;25-35;26-36,37,38;28-42,43;29-39,40,41;</a>
+</spair>
+<spair id='12'>
+<s id='en12'>Qualitative models include :</s>
+<s id='vn12'>Các mô hình định tính bao gồm :</s>
+<a id='ev12'>1-4,5;2-1,2,3;3-6,7;</a>
+</spair>
+<spair id='13'>
+<s id='en13'>Market Research : Polling a large number of people on a specific product or service to predict how many people will buy or use it once launched .</s>
+<s id='vn13'>Nghiên cứu thị trường : thăm dò ý kiến nhiều người về một sản phẩm hoặc dịch vụ cụ thể nào đó để dự báo xem có bao nhiêu người sẽ mua hoặc sử dụng nó khi được tung ra .</s>
+<a id='ev13'>1-3,4;2-1,2;4-6,7,8,9;6,7-10;9-11;10-12;11-13;12-19,20;13-14,15;14-16;15-17,18;16-23;17-24,25;18,19-28,29;20-30;21-31;22-32;23-33;24-34,35;25-36;26-37;27-38,39,40;</a>
+</spair>
+<spair id='14'>
+<s id='en14'>Delphi Method : Asking field experts for general opinions and then compiling them into a forecast .</s>
+<s id='vn14'>Phương pháp Delphi : hỏi ý kiến chung của các chuyên gia trong ngành rồi đưa các ý kiến ấy vào dự báo .</s>
+<a id='ev14'>1-3;2-1,2;4-5;5-13,14;6-10,11,12;8-8;9-6,7;11-15;12-16;13-17,18,19,20;14-21;16-22,23;</a>
+</spair>
+<spair id='15'>
+<s id='en15'>Quantitative Models</s>
+<s id='vn15'>Những mô hình định lượng</s>
+<a id='ev15'>1-4,5;2-1,2,3;</a>
+</spair>
+<spair id='16'>
+<s id='en16'>Quantitative models discount the expert factor and try to take the human element out of the analysis .</s>
+<s id='vn16'>Những mô hình định lượng thì xem nhẹ yếu tố chuyên gia và cố gắng loại bỏ yếu tố con người ra khỏi phép phân tích .</s>
+<a id='ev16'>1-4,5;2-1,2,3;3-7,8;5-11,12;6-9,10;7-13;8-14,15;10-16,17;12-20,21;13-18,19;14-22,23;17-24,25,26;</a>
+</spair>
+<spair id='17'>
+<s id='en17'>These approaches are concerned solely with data and avoid the fickleness of the people underlying the numbers .</s>
+<s id='vn17'>Những cách tiếp cận này chỉ quan tâm đến các dữ liệu và tránh tính không kiên định của con người dưới những con số .</s>
+<a id='ev17'>1-5;2-1,2,3,4;4-7,8;5-6;6-9;7-10,11,12;8-13;9-14;11-15,16,17,18;12-19;14-20,21;15-22;17-23,24,25;</a>
+</spair>
+<spair id='18'>
+<s id='en18'>They also try to predict where variables like sales , gross domestic product , housing prices and so on , will be in the long-term , measured in months or years .</s>
+<s id='vn18'>Chúng cũng cố gắng dự báo các biến số như doanh thu , tổng sản phẩm quốc nội , giá nhà ở , v.v. sẽ như thế nào trong dài hạn , được tính bằng tháng hoặc năm .</s>
+<a id='ev18'>1-1;2-2;3-3,4;5-5,6;7-7,8,9;8-10;9-11,12;11-14;12-17,18;13-15,16;15-21,22;16-20;18,19-24;21-25;22-26,27,28;23-29;25-30,31;27-33,34;28-35;29-36;30-37;31-38;</a>
+</spair>
+<spair id='19'>
+<s id='en19'>Quantitative models include :</s>
+<s id='vn19'>Các mô hình định lượng bao gồm :</s>
+<a id='ev19'>1-4,5;2-1,2,3;3-6,7;</a>
+</spair>
+<spair id='20'>
+<s id='en20'>The Indicator Approach : The indicator approach depends on the relationship between certain indicators , for example GDP and unemployment rates , remaining relatively unchanged over time .</s>
+<s id='vn20'>Phương pháp chỉ số : Phương pháp chỉ số phụ thuộc vào quan hệ giữa các chỉ số nhất định , ví dụ như GDP và tỷ lệ thất nghiệp , nó vẫn giữ nguyên , thay đổi tương đối ít qua thời gian .</s>
+<a id='ev20'>2-3,4;3-1,2;6-8,9;7-6,7;8-10,11;9-12;11-13,14;12-15;13-19,20;14-16,17,18;17-22,23,24;18-25;19-26;20-29,30;21-27,28;23-33;24-37,38,39,40,41;25-34,35;26-42;27-43,44;</a>
+</spair>
+<spair id='21'>
+<s id='en21'>By following the relationships and then following indicators that are leading , you can estimate the performance of the lagging indicators , by using the leading indicator data .</s>
+<s id='vn21'>Bằng việc dựa vào các quan hệ và các chỉ số đang đứng hàng đầu , bạn có thể ước lượng được kết quả của chỉ số lạc hậu , nhờ sử dụng dữ liệu chỉ số hàng đầu .</s>
+<a id='ev21'>1-1;2-2,3,4;4-5,6,7;5-8;8-9,10,11;11-12,13,14,15;13-17;14-18,19;15-20,21,22;17-23,24;18-25;20-28,29;21-26,27;23-31;24-32,33;26-38,39;27-36,37;28-34,35;</a>
+</spair>
+<spair id='22'>
+<s id='en22'>Econometric Modeling : This is a more mathematically rigorous version of the indicator approach .</s>
+<s id='vn22'>Lập mô hình kinh-toán học : Đây là loại phương pháp chỉ số khắt khe hơn về mặt toán học .</s>
+<a id='ev22'>1-4,5;2-1,2,3;4-7;5-8;7-16;8-17,18,19,20;9-14,15;10-9;13-12,13;14-10,11;</a>
+</spair>
+<spair id='23'>
+<s id='en23'>Instead of assuming that relationships stay the same , econometric modeling tests the internal consistency of data sets over time and the significance or strength of the relationship between data sets .</s>
+<s id='vn23'>Thay vì giả định các quan hệ giữ nguyên không đổi , mô hình toán kinh tế kiểm tra tính ổn định nội tại của các bộ dữ liệu qua thời gian và mức quan trọng hay sức bền của mối quan hệ giữa các bộ dữ liệu .</s>
+<a id='ev23'>1-1,2;3-3,4;5-5,6,7;6-8,9;8-10,11;10-15,16,17;11-13,14;12-18,19;14-23,24;15-20,21,22;16-25;17-28,29;18-26,27;19-30;20-31,32;21-33;23-34,35,36;24-37;25-38,39;26-40;28-41,42,43;29-44;30-47,48;31-45,46;</a>
+</spair>
+<spair id='24'>
+<s id='en24'>Econometric modeling is sometimes used to create custom indicators that can be used for a more accurate indicator approach .</s>
+<s id='vn24'>Lập mô hình toán kinh tế đôi khi được sử dụng để tạo ra các chỉ số tuỳ chọn có thể được sử dụng cho phương pháp chỉ số chính xác hơn .</s>
+<a id='ev24'>1-4,5,6;2-1,2,3;4-7,8;5-9,10,11;6-12;7-13,14;8-18,19;9-15,16,17;11-20,21;13-22,23,24;14-25;16-32;17-30,31;18-28,29;19-26,27;</a>
+</spair>
+<spair id='25'>
+<s id='en25'>However , the econometric models are more often used in academic fields to evaluate economic policies .</s>
+<s id='vn25'>Tuy nhiên , các mô hình toán kinh tế thường được sử dụng trong những môi trường học thuật nhiều hơn nhằm đánh giá các chính sách kinh tế .</s>
+<a id='ev25'>1-1,2;4-7,8,9;5-4,5,6;7-20,21;8-10;9-11,12,13;10-14;11-18,19;12-15,16,17;13-22;14-23,24;15-28,29;16-25,26,27;</a>
+</spair>
+<spair id='26'>
+<s id='en26'>Time Series Methods : This refers to a collection of different methodologies that use past data to predict future events .</s>
+<s id='vn26'>Những phương pháp chuỗi thời gian : Đề cập đến một tập hợp các hệ phương pháp khác nhau sử dụng dữ liệu quá khứ để dự báo các sự kiện tương lai .</s>
+<a id='ev26'>1-5,6;2-4;3-1,2,3;6-8,9;7-10;8-11;9-12,13;11-18,19;12-14,15,16,17;14-20,21;15-24,25;16-22,23;17-26;18-27,28;19-32,33;20-29,30,31;</a>
+</spair>
+<spair id='27'>
+<s id='en27'>The difference between the time series methodologies is usually in fine details , like giving more recent data more weight or discounting certain outlier points .</s>
+<s id='vn27'>Sự khác biệt giữa các hệ phương pháp chuỗi thời gian thường ở những chi tiết nhỏ , như đưa ra nhiều dữ liệu gần đây hơn có tầm quan trọng hơn , hoặc giảm bớt một số điểm nằm ngoài .</s>
+<a id='ev27'>2-1,2,3;3-4;5-10,11;6-9;7-5,6,7,8;9-12;10-13;11-17;12-14,15,16;14-19;15-20,21;16-27;17-25,26;18-23,24;19-32;20-29,30,31;21-34;22-35,36;23-37,38;24-40,41;25-39;</a>
+</spair>
+<spair id='28'>
+<s id='en28'>By tracking what happened in the past , the forecaster hopes to be able to give a better than average prediction about the future .</s>
+<s id='vn28'>Bằng việc theo dõi những gì đã diễn ra trong quá khứ , nhà dự báo hi vọng có thể đưa ra dự báo về tương lai chính xác hơn mức bình thường .</s>
+<a id='ev28'>1-1;2-2,3,4;3-5,6;4-7,8,9;5-10;7-11,12;10-14,15,16;11-17,18;14-19,20;16-21,22;18-28,29,30;20-31,32,33;21-23,24;22-25;24-26,27;</a>
+</spair>
+<spair id='29'>
+<s id='en29'>This is the most common type of business forecasting , because it is cheap and really no better or worse than other methods .</s>
+<s id='vn29'>Đây là loại dự báo phổ biến nhất trong kinh doanh , vì nó rẻ và thật sự thì cũng không tốt hơn hay thua xa các phương pháp khác .</s>
+<a id='ev29'>1-1;2-2;4-8;5-6,7;6-3;7-9;8-10,11;9-4,5;11-13;12-14;14-15;15-16;16-17,18;17-21;18-22,23;19-24;20-25,26;22-30;23-27,28,29;</a>
+</spair>
+<spair id='30'>
+<s id='en30'>How Does Forecasting Work ?</s>
+<s id='vn30'>Công tác dự báo được tiến hành như thế nào ?</s>
+<a id='ev30'>1-8,9,10;3-1,2,3,4;4-5,6,7;</a>
+</spair>
+<spair id='31'>
+<s id='en31'>There is a lot of variation on a practical level when it comes to business forecasting .</s>
+<s id='vn31'>Khi đề cập đến dự báo kinh doanh thì có rất nhiều thay đổi trên thực tế .</s>
+<a id='ev31'>1-10;4-11,12;6-13,14;9-15,16,17;11-1;13-4,5;15-7,8;16-6;</a>
+</spair>
+<spair id='32'>
+<s id='en32'>However , on a conceptual level , all forecasts follow the same process .</s>
+<s id='vn32'>Tuy nhiên , về mặt lý thuyết thì tất cả các dự báo đều tuân theo quy trình giống nhau .</s>
+<a id='ev32'>1-1,2;3-4;5-6,7;6-5;8-9,10;9-11,12,13;10-15,16;12-19,20;13-17,18;</a>
+</spair>
+<spair id='33'>
+<s id='en33'>1 . A problem or data point is chosen .</s>
+<s id='vn33'>1 . Điểm dữ liệu hay vấn đề được chọn .</s>
+<a id='ev33'>1-1;4-7,8;5-6;6-4,5;7-3;9-9,10;</a>
+</spair>
+<spair id='34'>
+<s id='en34'>This can be something like " will people buy a high-end coffee maker ? " or " what will our sales be in March next year ? "</s>
+<s id='vn34'>Có thể đại loại như là " mọi người sẽ mua một chiếc máy pha cà phê cao cấp ? " hoặc " doanh số của chúng ta tháng ba năm tới sẽ thế nào ? "</s>
+<a id='ev34'>2-1,2;4-5,6;5-3,4;7-10;8-9;9-11;10-12;11-18,19;12-15,16,17;13-13,14;16-22;18-34,35;19-33;20-26,27,28;24-29,30;26-31;</a>
+</spair>
+<spair id='35'>
+<s id='en35'>2 . Theoretical variables and an ideal data set are chosen .</s>
+<s id='vn35'>2 . Các biến số lý thuyết và một tập hợp dữ liệu lý tưởng được chọn .</s>
+<a id='ev35'>1-1;3-6,7;4-3,4,5;5-8;6-9;7-14,15;8-12,13;9-10,11;11-16,17;</a>
+</spair>
+<spair id='36'>
+<s id='en36'>This is where the forecaster identifies the relevant variables that need to be considered and decides how to collect the data .</s>
+<s id='vn36'>Đây là trường hợp nhà dự báo nhận diện các biến số liên quan cần được xem xét và quyết định làm thế nào để thu thập dữ liệu .</s>
+<a id='ev36'>1-1;2-2;5-6,7;6-8,9;8-13,14;9-10,11,12;11-15,16;14-17,18;15-19;16-20,21;17-22,23,24;18-25;19-26,27;21-28,29;</a>
+</spair>
+<spair id='37'>
+<s id='en37'>3 . Assumption time .</s>
+<s id='vn37'>3 . Thời gian giả định .</s>
+<a id='ev37'>1-1;3-5,6;4-3,4;</a>
+</spair>
+<spair id='38'>
+<s id='en38'>To cut down the time and data needed to make a forecast , the forecaster makes some explicit assumptions to simplify the process .</s>
+<s id='vn38'>Để giảm thời gian và dữ liệu cần thiết khi dự báo , nhà dự báo thực hiện một số giả định rõ ràng nhằm đơn giản hoá quy trình .</s>
+<a id='ev38'>1-1;2-2;5-3,4;6-5;7-6,7;8-8,9;12-11,12;15-14,15,16;16-17,18;17-19,20;18-23,24;19-21,22;20-25;21-26,27,28;23-29,30;</a>
+</spair>
+<spair id='39'>
+<s id='en39'>4 . A model is chosen .</s>
+<s id='vn39'>4 . Mô hình được chọn .</s>
+<a id='ev39'>1-1;4-3,4;6-5,6;</a>
+</spair>
+<spair id='40'>
+<s id='en40'>The forecaster picks the model that fits the data set , selected variables and assumptions .</s>
+<s id='vn40'>Nhà dự báo chọn mô hình phù hợp với tập hợp dữ liệu , các biến số và các giả định đã chọn .</s>
+<a id='ev40'>2-1,2,3;3-4;5-5,6;7-7,8,9;9-12,13;10-10,11;12-22,23;13-15,16,17;14-18;15-19,20,21;</a>
+</spair>
+<spair id='41'>
+<s id='en41'>5 . Analysis .</s>
+<s id='vn41'>5 . Phân tích .</s>
+<a id='ev41'>1-1;3-3,4;</a>
+</spair>
+<spair id='42'>
+<s id='en42'>Using the model , the data is analyzed and a forecast made from the analysis .</s>
+<s id='vn42'>Sử dụng mô hình , dữ liệu được phân tích và đưa ra dự báo từ việc phân tích đó .</s>
+<a id='ev42'>1-1,2;3-3,4;6-6,7;8-9,10;9-11;11-14,15;12-12,13;13-16;15-17,18,19;</a>
+</spair>
+<spair id='43'>
+<s id='en43'>6 . Verification .</s>
+<s id='vn43'>6 . Kiểm tra .</s>
+<a id='ev43'>1-1;3-3,4;</a>
+</spair>
+<spair id='44'>
+<s id='en44'>The forecaster compares the forecast to what actually happens to tweak the process , identify problems or in the rare case of an absolutely accurate forecast .</s>
+<s id='vn44'>Nhà dự báo đối chiếu dự báo với những gì diễn ra trên thực tế để điều chỉnh quy trình dự báo , nhận ra các vấn đề hoặc trong trường hợp hiếm hoi là dự báo hoàn toàn chính xác .</s>
+<a id='ev44'>2-1,2,3;3-4,5;5-6,7;6-8;7-9,10;8-13,14,15;9-11,12;10-16;11-17,18;13-19,20;15-24,25;16-26,27,28;17-29;18-30;20-33,34;21-31,32;23-36,37;24-38,39;25-40,41;26-21,22;</a>
+</spair>
+<spair id='45'>
+<s id='en45'>Problems With Forecasting</s>
+<s id='vn45'>Những vấn đề về dự báo</s>
+<a id='ev45'>1-1,2,3;2-4;3-5,6;</a>
+</spair>
+<spair id='46'>
+<s id='en46'>Business forecasting is very useful for businesses , as it allows them to plan production , financing and so on .</s>
+<s id='vn46'>Dự báo kinh doanh rất hữu ích đối với các doanh nghiệp , vì nó cho phép họ lập kế hoạch sản xuất , huy động vốn , vân vân .</s>
+<a id='ev46'>1-3,4;2-1,2;4-5;5-6,7;6-8,9;7-10,11,12;9-14;10-15;11-16,17;12-18;14-19,20,21;15-22,23;17-25,26,27;19,20-29,30;</a>
+</spair>
+<spair id='47'>
+<s id='en47'>However , there are three problems with relying on forecasts :</s>
+<s id='vn47'>Tuy nhiên , có ba vấn đề cùng với việc tin tưởng vào những dự báo :</s>
+<a id='ev47'>1-1,2;3-4;5-5;6-6,7;7-8,9;8-10,11,12;9-13;10-14,15,16;</a>
+</spair>
+<spair id='48'>
+<s id='en48'>1 . The data is always going to be old .</s>
+<s id='vn48'>1 . Dữ liệu bao giờ cũng càng ngày càng cũ .</s>
+<a id='ev48'>1-1;4-3,4;6-5,6,7;7,9-8,9,10;10-11;</a>
+</spair>
+<spair id='49'>
+<s id='en49'>Historical data is all we have to go on and there is no guarantee that the conditions in the past will persist into the future .</s>
+<s id='vn49'>Các dữ liệu lịch sử là tất cả những gì chúng ta có để căn cứ vào và không chắc chắn là những điều kiện trong quá khứ sẽ tiếp tục xuất hiện trong tương lai .</s>
+<a id='ev49'>1-4,5;2-1,2,3;3-6;4-7,8;5-11,12;7-13;8-14;9-15,16,17;10-18;13-19,20,21;15-22;17-23,24,25;18-26;20-27,28;21-29;22-30,31;25-35,36;</a>
+</spair>
+<spair id='50'>
+<s id='en50'>2 . It is impossible to factor in unique or unexpected events , or externalities .</s>
+<s id='vn50'>2 . Không thể tính đến những sự kiện bất ngờ hoặc độc nhất vô nhị , hay các yếu tố ngoại vi .</s>
+<a id='ev50'>1-1;4-6;5-3,4,5;9-13,14,15,16;10-12;11-9,10,11;12-7,8;14-18;15-19,20,21,22,23;</a>
+</spair>
+<spair id='51'>
+<s id='en51'>Assumptions are dangerous , such as the assumptions that banks were properly screening borrows prior to the subprime meltdown , and black swan events have become more common as our dependence on forecasts has grown .</s>
+<s id='vn51'>Những giả định có rủi ro , chẳng hạn giả định ngân hàng đã thẩm tra thích đáng những khoản vay trước khi xảy ra cuộc khủng hoảng tài chính trên thị trường vay thế chấp ( cuộc khủng hoảng nợ dưới chuẩn ) , và những sự kiện thiên nga đen ngày càng trở nên phổ biến hơn khi chúng ta phụ thuộc ngày càng nhiều vào các dự báo .</s>
+<a id='ev51'>1-1,2,3;2-4;3-5,6;5,6-8,9;8-10,11;10-12,13;11-14;12-18;13-15,16;14-21,22;15-23;16-24,25;21-46;23-50,51;24-47,48,49;26-55,56;27-59;28-57,58;29-60;30-61,62;31-63,64;32-65,66;33-69,70,71;</a>
+</spair>
+<spair id='52'>
+<s id='en52'>3 . Forecasts ca n't integrate their own impact .</s>
+<s id='vn52'>3 . Các dự báo không thể thoả lấp tác động của chính chúng .</s>
+<a id='ev52'>3-3,4,5;4,5-6,7;6-9;7-12;8-13;9-10,11;</a>
+</spair>
+<spair id='53'>
+<s id='en53'>By having forecasts , accurate or inaccurate , the actions of businesses are influenced by a factor that ca n't be included as a variable .</s>
+<s id='vn53'>Vì có các dự báo , chính xác hoặc không chính xác , các hoạt động của doanh nghiệp chịu ảnh hưởng của một yếu tố mà không bao gồm trong đó là một biến số bất kì .</s>
+<a id='ev53'>2-2;3-3,4,5;5-7,8;6-9;7-10,11,12;10-14,15,16;11-17;12-18,19;14-20,21,22;17-24,25,26;19,20-27,28;21-32,33;22-29,30;24-34;25-35,36;</a>
+</spair>
+<spair id='54'>
+<s id='en54'>This is a conceptual knot .</s>
+<s id='vn54'>Đây là vấn đề lý thuyết nan giải .</s>
+<a id='ev54'>1-1;2-2;4-5,6;5-3,4;</a>
+</spair>
+<spair id='55'>
+<s id='en55'>In a worst case scenario , management becomes a slave to historical data and trends rather than worrying about what the business is doing now .</s>
+<s id='vn55'>Trong trường hợp xấu nhất có thể xảy ra , các nhà quản trị trở thành nô lệ của các dữ liệu và xu hướng trong quá khứ hơn là lo lắng xem công ty đang làm gì lúc này .</s>
+<a id='ev55'>1-1;3-4,5;4-2,3;5-6,7,8,9;7-11,12,13,14;8-15,16;10-17,18;11-19;12-27,28;13-20,21,22;14-23;15-24,25;16,17-29,30;18-31,32;19-33;20-38;22-34,35;24-36,37;25-39,40;</a>
+</spair>
+<spair id='56'>
+<s id='en56'>The Bottom Line</s>
+<s id='vn56'>Kết luận</s>
+<a id='ev56'>1,2,3-1,2;</a>
+</spair>
+<spair id='57'>
+<s id='en57'>Forecasting can be a dangerous art , because the forecasts become a focus for companies and governments , mentally limiting their range of actions , by presenting the short to long-term future as already being determined .</s>
+<s id='vn57'>Dự báo có thể là một nghệ thuật chứa đựng rủi ro , vì các dự báo trở thành trung tâm gây chú ý đối với các công ty và chính phủ , hạn chế về mặt tinh thần phạm vi hoạt động của họ , vì hầu như đã xác định được tương lai từ trước mắt đến lâu dài .</s>
+<a id='ev57'>1-1,2;2-3,4;3-5;4-6;5-9,10,11,12;6-7,8;8-14;10-15,16,17;11-18,19;13-20,21;14-25,26;15-27,28,29;16-30;17-31,32;19-36,37,38,39;20-34,35;21-44,45;22-40,41;24-42,43;29-58;30-59;31-60,61;32-54,55;34-50;36-51,52,53;</a>
+</spair>
+<spair id='58'>
+<s id='en58'>Moreover , forecasts can easily breakdown due to random elements that ca n't be incorporated into a model , or they can be just plain wrong from the beginning .</s>
+<s id='vn58'>Tuy nhiên , các dự báo có thể dễ dàng vô tác dụng bởi những yếu tố ngẫu nhiên không thể hợp thành một mô hình , và chúng có thể rõ ràng là sai ngay từ đầu .</s>
+<a id='ev58'>1-1,2;3-4,5,6;4-7,8;5-9,10;9-18,19;10-15,16,17;14-22,23;15-21;17-24;18-25,26;21-29;22-30,31;24-32,33,34;26-35;29-38;</a>
+</spair>
+<spair id='59'>
+<s id='en59'>The negatives aside , business forecasting is n't going anywhere .</s>
+<s id='vn59'>Gạt hết những hạn chế sang một bên , thì dự báo kinh doanh sẽ không đi tới đâu cả .</s>
+<a id='ev59'>3-6,7,8;5-13,14;6-11,12;8-16;9-17,18;10-19;</a>
+</spair>
+<spair id='60'>
+<s id='en60'>Used properly , forecasting allows businesses to plan ahead of their needs , raising their chances of keeping healthy through all markets .</s>
+<s id='vn60'>Dự báo được sử dụng một cách đúng đắn sẽ cho phép các doanh nghiệp lập kế hoạch trước các nhu cầu của họ , tăng các cơ hội luôn thuận lợi trên mọi thị trường .</s>
+<a id='ev60'>1-3,4,5;2-6,7,8,9;4-1,2;5-11,12;6-13,14,15;8-16,17,18,19;11-23,24;12-20,21,22;14-26;16-27,28,29;19-32;20-33;21-34;22-35,36;</a>
+</spair>
+<spair id='61'>
+<s id='en61'>That 's one function of business forecasting that all investors can appreciate .</s>
+<s id='vn61'>Đó là một nhiệm vụ của dự báo kinh doanh mà tất cả các nhà đầu tư đều có thể thấu hiểu rõ .</s>
+<a id='ev61'>1-1;2-2;3-3;4-4,5;5-6;6-9,10;7-7,8;9-12,13;10-14,15,16,17;11-19,20;12-21,22,23;</a>
+</spair>
+</text>
+</doc>

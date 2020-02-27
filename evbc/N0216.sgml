@@ -1,0 +1,862 @@
+﻿<doc id='N0216'>
+<head>
+<title>A Guide for Time Parents</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>22/10/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>A Guide for Time Parents</s>
+<s id='vn1'>Cẩm nang cho những người lần đầu làm bố mẹ</s>
+<a id='ev1'>2-1,2;3-3;4-4,5,6,7;5-9,10;</a>
+</spair>
+<spair id='2'>
+<s id='en2'>You 've survived 9 months of pregnancy .</s>
+<s id='vn2'>Bạn đã vượt qua 9 tháng mang thai .</s>
+<a id='ev2'>1-1;3-2,3,4;4-5;5-6;7-7,8;</a>
+</spair>
+<spair id='3'>
+<s id='en3'>You 've made it through the excitement of labor and delivery , and now you 're ready to head home and begin life with your baby .</s>
+<s id='vn3'>Bạn đã qua khỏi tình trạng phấn khích của cơn đau đẻ , và bây giờ bạn sẵn sàng về nhà và bắt đầu cuộc sống với đứa con của mình .</s>
+<a id='ev3'>1-1;3-2,3;5-4;7-5,6,7,8;8-9;9-10;11-11,12;13-14;14-15,16;15-17;17-18,19;19-20;20-21;21-22;22-23,24;23-25,26;24-27;25-30,31;26-28,29;</a>
+</spair>
+<spair id='4'>
+<s id='en4'>Once home , though , and frantically realize you have no idea what you 're doing !</s>
+<s id='vn4'>Thế nhưng cũng có đôi khi bạn ở nhà và hoang mang nhận ra rằng mình chẳng biết làm gì hết !</s>
+<a id='ev4'>1-3,4,5,6,7;2-8,9;4-1,2;6-10;7-11,12;8-13,14;9-16;11-17;12-18;16-19,20,21;</a>
+</spair>
+<spair id='5'>
+<s id='en5'>Brushing up on these tips can help time parents feel confident about caring for a newborn in no time .</s>
+<s id='vn5'>Xem lại những bí quyết này có thể giúp những người lần đầu làm bố mẹ cảm thấy tự tin về việc chăm sóc trẻ sơ sinh rất nhanh .</s>
+<a id='ev5'>1-1;2-2;4-6;5-3,4,5;6-7,8;7-9;8-10,11,12,13;9-15,16;10-17,18;11-19,20;12-21,22;13-23,24;16-25,26,27;18-28;19-29;</a>
+</spair>
+<spair id='6'>
+<s id='en6'>getting help after the birth</s>
+<s id='vn6'>Được giúp đỡ sau khi sinh</s>
+<a id='ev6'>1-1;2-2,3;3-4,5;5-6;</a>
+</spair>
+<spair id='7'>
+<s id='en7'>Consider recruiting help from friends and family to get through this time .</s>
+<s id='vn7'>Hãy quan sát sự giúp đỡ ban đầu của bạn bè và gia đình để vượt qua giai đoạn này .</s>
+<a id='ev7'>1-1,2,3;2-7,8;3-4,5,6;4-9;5-10,11;6-12;7-13,14;8-15;9-16;10-17;11-20;12-18,19;</a>
+</spair>
+<spair id='8'>
+<s id='en8'>While in the hospital , use the expertise around you .</s>
+<s id='vn8'>Trong lúc còn ở bệnh viện , nên quan sát các chuyên gia quanh mình .</s>
+<a id='ev8'>1-1,2;2-3,4;4-5,6;6-8,9,10;8-11,12,13;9-14;10-15;</a>
+</spair>
+<spair id='9'>
+<s id='en9'>Many hospitals have feeding specialists or lactation consultants who can help you get started nursing or feeding .</s>
+<s id='vn9'>Nhiều bệnh viện có chuyên gia nuôi dưỡng hoặc chuyên viên tư vấn về thời kỳ tiết sữa có thể giúp bạn bắt đầu cho bé bú mẹ hay bú bình .</s>
+<a id='ev9'>1-1;2-2,3;3-4;4-7,8;5-5,6;6-9;7-14,15,16,17,18;8-10,11,12,13;10-19,20;11-21;12-22;14-23,24;15-25,26,27,28;16-29;17-30,31;</a>
+</spair>
+<spair id='10'>
+<s id='en10'>In addition , nurses are a great resource to show you how to hold , burp , change , and care for baby .</s>
+<s id='vn10'>Ngoài ra , y tá còn là những người hướng dẫn tuyệt vời sẽ chỉ cho bạn cách bồng bế , vỗ cho bé ợ , thay quần áo , và chăm sóc em bé .</s>
+<a id='ev10'>1-1;2-2;4-4,5;7-12,13;8-8,9,10,11;10-14,15,16;11-17;12-18;14-19,20;16-22,23,24,25;18-27,28,29;20-31;21-32,33;23-34,35;</a>
+</spair>
+<spair id='11'>
+<s id='en11'>For home help , you might want to hire a baby nurse or a responsible neighborhood teenager to help you for a short time after the birth .</s>
+<s id='vn11'>Đối với việc hỗ trợ ở nhà , bạn có thể thuê một vú em hay một em thiếu niên gần nhà để giúp bạn trong một thời gian ngắn sau sinh .</s>
+<a id='ev11'>1-1,2;2-6,7;3-3,4,5;5-9;6-10,11;9-12;10-13;11-15;12-14;13-16;14-17;16-21,22;17-18,19,20;18-23;19-24;20-25;23-30;24-26,27,28,29;25-31;27-32;</a>
+</spair>
+<spair id='12'>
+<s id='en12'>In addition , relatives and friends can be a great resource .</s>
+<s id='vn12'>Ngoài ra , họ hàng và bạn bè đều là những người hỗ trợ tuyệt vời .</s>
+<a id='ev12'>1-1;2-2;4-4,5;5-6;6-7,8;7-9,10;10-15,16;11-11,12,13;</a>
+</spair>
+<spair id='13'>
+<s id='en13'>They may be more than eager to help , and although you may disagree on certain things , don't dismiss their experience .</s>
+<s id='vn13'>Có thể là họ lúc nào cũng háo hức giúp đỡ , và dẫu bạn không đồng ý chuyện gì , đừng coi thường kinh nghiệm của họ .</s>
+<a id='ev13'>1-4;2-1,2;4-5,6;5-7;6-8,9;8-10,11;10-13;11-14;12-15;14-16,17,18;16-20;17-19;19-22;20-23,24;21-27,28;22-25,26;</a>
+</spair>
+<spair id='14'>
+<s id='en14'>But if you don't feel up to having guests or you have other concerns , don't feel guilty about restrictions on visitors .</s>
+<s id='vn14'>Nhưng nếu bạn không có đủ sức khỏe để tiếp khách hay do việc gì đó , đừng cảm thấy khó chịu về việc mình hạn chế khách khứa .</s>
+<a id='ev14'>1-1;2-2;3-3;4-4;5-5,6;6-7,8;7-9;8-10;9-11;10-12;12-13;13-16;14-14,15;16-18;17-19,20;18-21,22;19-23,24;20-26,27;22-28,29;</a>
+</spair>
+<spair id='15'>
+<s id='en15'>Handling a newborn</s>
+<s id='vn15'>Bồng bế trẻ sơ sinh</s>
+<a id='ev15'>1-1,2;3-3,4,5;</a>
+</spair>
+<spair id='16'>
+<s id='en16'>If you haven't spent a lot of time around newborns , their fragility may be intimidating .</s>
+<s id='vn16'>Nếu bạn không dành nhiều thời gian cho bé , có thể bạn sẽ sợ vẻ yếu ớt của trẻ sơ sinh đấy .</s>
+<a id='ev16'>1-1;2-2;3-3;4-4;5,6,7-5;8-6,7;9-8;10-9;12-19,20,21,22;13-16,17,18;14-11,12;16-13,14,15;</a>
+</spair>
+<spair id='17'>
+<s id='en17'>Here are a few basics to remember :</s>
+<s id='vn17'>Dưới đây là một vài điều cơ bản cần ghi nhớ :</s>
+<a id='ev17'>1-1,2;4-4,5;5-6,7,8;6-9;7-10,11;</a>
+</spair>
+<spair id='18'>
+<s id='en18'>Be careful to support your baby 's head and neck .</s>
+<s id='vn18'>Hãy cẩn thận khi đỡ đầu và cổ bé .</s>
+<a id='ev18'>1-1;2-2,3;3-4;4-5;6-9;8-6;9-7;10-8;</a>
+</spair>
+<spair id='19'>
+<s id='en19'>Cradle the head when carrying baby and support the head when carrying the baby upright or when you lay her down .</s>
+<s id='vn19'>Khi bế bé bạn hãy đỡ đầu và cũng đỡ đầu khi bế bé dậy hay cả khi bạn đặt bé nằm xuống .</s>
+<a id='ev19'>1-5,6;3-7;4-1;5-2;6-3;7-8;8-9,10;10-11;11-12;12-13;14-14;15-15;16-16;17-17,18;18-19;19-20;20-21;21-22,23;</a>
+</spair>
+<spair id='20'>
+<s id='en20'>Be careful not to shake your newborn , whether in play or in frustration .</s>
+<s id='vn20'>Hãy cẩn thận đừng rung lắc trẻ sơ sinh dù là để giỡn chơi hay do bạn tức giận .</s>
+<a id='ev20'>1-1;2-2,3;3-4;5-5,6;7-7,8,9;9-10,11;10-12;11-13,14;12-15;13-16,17;14-18,19;</a>
+</spair>
+<spair id='21'>
+<s id='en21'>Shaking that is vigorous can cause bleeding in the brain and even death .</s>
+<s id='vn21'>Việc rung lắc mạnh có thể làm cho bé bị xuất huyết não và thậm chí tử vong .</s>
+<a id='ev21'>1-1,2,3;4-4;5-5,6;6-7,8,9;7-10,11,12;10-13;11-14;12-15,16;13-17,18;</a>
+</spair>
+<spair id='22'>
+<s id='en22'>If you need to wake your infant , don't do it by shaking instead , tickle your baby 's feet or blow gently on a cheek .</s>
+<s id='vn22'>Nếu muốn đánh thức bé , chớ lắc bé như thế , cù vào bàn chân hay thổi nhè nhẹ lên má bé .</s>
+<a id='ev22'>1-1;3-2;5-3,4;7-5;9-7;11-9;13-8;14-10,11;16-13;18-23;20-15,16;21-17;22-18;23-19,20;24-21;26-22;</a>
+</spair>
+<spair id='23'>
+<s id='en23'>Make sure your baby is securely fastened into the carrier , stroller , or car seat .</s>
+<s id='vn23'>Hãy chắc bé của bạn đã được cài dây an toàn vào xe chở , xe đẩy hoặc ghế nhỏ của bé trên xe hơi .</s>
+<a id='ev23'>1-1;2-2;3-4,5;4-3;6-9,10,11;7-6,7,8;8-12;10-13,14;12-16,17;14-18;15-24,25;16-19,20;</a>
+</spair>
+<spair id='24'>
+<s id='en24'>Limit any activity that would be too rough or bouncy .</s>
+<s id='vn24'>Hãy hạn chế bất kỳ hoạt động quá mạnh hay xóc nẩy .</s>
+<a id='ev24'>1-1,2,3;2-4,5;3-6,7;7-8;8-9;9-10;10-11,12;</a>
+</spair>
+<spair id='25'>
+<s id='en25'>Remember that your newborn is not ready for rough play , such as being jiggled on the knee or thrown in the air .</s>
+<s id='vn25'>Nên nhớ là trẻ sơ sinh chưa sẵn sàng cho các hoạt động mạnh bạo , như xóc nhẹ trên đầu gối hay thảy lên cao .</s>
+<a id='ev25'>1-1,2;2-3;4-4,5,6;6-7;7-8,9;8-10;9-14,15;10-11,12,13;12,13-17;15-18,19;16-20;18-21,22;19-23;20-24;21-25;23-26;</a>
+</spair>
+<spair id='26'>
+<s id='en26'>Bonding and soothing techniques</s>
+<s id='vn26'>Kỹ thuật ôm ấp dỗ dành</s>
+<a id='ev26'>1-3,4;3-5,6;4-1,2;</a>
+</spair>
+<spair id='27'>
+<s id='en27'>Bonding , probably one of the most pleasurable aspects of infant care , occurs during this sensitive time in the first hours and days after birth when parents make a deep connection with their infant .</s>
+<s id='vn27'>Sự ôm ấp có thể là một trong những thứ dễ chịu nhất đối với việc chăm sóc bé , có thể thấy trong thời gian nhạy cảm này trong những giờ và những ngày sau sinh khi bố mẹ tạo mối liên hệ mật thiết với đứa con mới chào đời của mình .</s>
+<a id='ev27'>1-1,2,3;3-4,5,6;4-7;5-8;7-13;8-11,12;9-9,10;10-14,15;11-19;12-16,17,18;14-21,22,23;15-24;16-29;17-27,28;18-25,26;19-30;22-31,32;23-33;24-34,35;25-36;26-37;27-38;28-39,40;29-41;31-45,46;32-42,43,44;33-47;34-53,54;35-48,49,50,51,52;</a>
+</spair>
+<spair id='28'>
+<s id='en28'>Physical closeness can promote an emotional connection .</s>
+<s id='vn28'>Sự gần gũi cơ thể có thể làm kết nối cảm xúc mạnh mẽ hơn .</s>
+<a id='ev28'>1-4,5;2-1,2,3;3-6,7;4-13,14,15;6-11,12;7-9,10;</a>
+</spair>
+<spair id='29'>
+<s id='en29'>For infants , the attachment contributes to their emotional growth , which also affects their development in other areas , such as physical growth .</s>
+<s id='vn29'>Đối với trẻ sơ sinh , sự gắn bó làm cho chúng phát triển về mặt xúc cảm , có thể ảnh hưởng tới sự phát triển nhiều mặt khác của chúng , như là sự phát triển về mặt thể chất .</s>
+<a id='ev29'>1-1,2;2-3,4,5;5-7,8,9;6-10,11;8-12;9-16,17,18;10-13,14;13-20,21;14-22,23;15-31,32;16-25,26,27;18-30;19-28,29;21-34;22-35;23-39,40,41,42;24-36,37,38;</a>
+</spair>
+<spair id='30'>
+<s id='en30'>Another way to think of bonding is " falling in love " with your baby .</s>
+<s id='vn30'>Một cách khác để nghĩ đến việc ôm ấp vuốt ve là " yêu thương " con bạn .</s>
+<a id='ev30'>1-3;2-1,2;3-4;4-5,6;6-7,8,9,10,11;7-12;9-15;11-14;14-18;15-17;</a>
+</spair>
+<spair id='31'>
+<s id='en31'>Children thrive from having a parent or other adult in their life who loves them unconditionally .</s>
+<s id='vn31'>Trẻ lớn nhanh do có bố mẹ hay một người nào đó sống với chúng và yêu thương chúng vô điều kiện .</s>
+<a id='ev31'>1-1;2-2,3;3-4;6-6,7;7-8;8-11,12;9-9,10;11-14,15;12-13;13-16;14-17,18;15-19;16-20,21,22;</a>
+</spair>
+<spair id='32'>
+<s id='en32'>Begin bonding by cradling your baby and gently stroking him or her in different patterns .</s>
+<s id='vn32'>Bắt đầu ôm ấp bé bằng cách bồng bế và nhẹ nhàng vuốt ve bằng nhiều kiểu khác nhau .</s>
+<a id='ev32'>1-1,2;2-3,4;3-6,7;4-8,9;6-5;7-10;8-11,12;9-13,14;13-15;14-18,19;15-16,17;</a>
+</spair>
+<spair id='33'>
+<s id='en33'>Both you and your partner can also take the opportunity to be " skin , " holding your newborn against your own skin while feeding or cradling .</s>
+<s id='vn33'>Cả bố và mẹ có thể nhân cơ hội bồng bế bé để bé " da chạm da " , hãy bồng bé tựa vào người bạn khi cho ăn hay bế .</s>
+<a id='ev33'>1-1;2-2;3-3;5-4;6-5,6;8-10,11;10-7,8,9;12-14;14-16,17,18;17-22;19-23;20-24,25;21-27;23-26;24-28;25-29,30;26-31;27-32;</a>
+</spair>
+<spair id='34'>
+<s id='en34'>Babies , especially premature babies and those with medical problems , may respond to infant massage .</s>
+<s id='vn34'>Trẻ sơ sinh , đặc biệt là trẻ sinh non và những trẻ bị bệnh , có thể dùng phương pháp xoa bóp cho bé .</s>
+<a id='ev34'>1-1,2,3;3-5,6,7;4-9,10;5-8;6-11;7-12,13;8-14;9,10-15;12-17,18;13-19;14-24;15-25;16-20,21,22,23;</a>
+</spair>
+<spair id='35'>
+<s id='en35'>Massage may enhance bonding and help with infant growth and development .</s>
+<s id='vn35'>Việc xoa bóp có thể làm tăng yêu thương và giúp bé phát triển và lớn nhanh hơn .</s>
+<a id='ev35'>1-1,2,3;2-4,5;3-6,7;4-8,9;5-10;6-11;8-12;9-13,14;10-15;11-16,17,18;</a>
+</spair>
+<spair id='36'>
+<s id='en36'>Many books and videos cover infant massage - ask doctor for recommendations .</s>
+<s id='vn36'>Có nhiều quyển sách và băng từ chuyên dạy cho bạn cách để xoa bóp cho trẻ sơ sinh – hỏi bác sĩ để được tư vấn thêm .</s>
+<a id='ev36'>1-1,2;2-3,4;3-5;4-6,7;5-8,9,10,11,12;6-17,18,19;7-13,14,15;9-21;10-22,23;11-24;12-25,26,27,28;</a>
+</spair>
+<spair id='37'>
+<s id='en37'>Be careful , however - babies are not as strong as adults , so massage your baby gently .</s>
+<s id='vn37'>Tuy nhiên , hãy nên nhớ rằng trẻ sơ sinh không khỏe mạnh như người lớn , hãy xoa bóp cho chúng một cách nhẹ nhàng .</s>
+<a id='ev37'>1-4,5;2-6,7;4-1,2;6-8,9,10;8-11;10-12,13;11-14;12-15,16;14-21;15-18,19,20;17-22;18-23,24,25,26;</a>
+</spair>
+<spair id='38'>
+<s id='en38'>Babies usually love vocal sounds , such as talking , bab bling , singing , and cooing .</s>
+<s id='vn38'>Trẻ sơ sinh thường thích nghe âm thanh , như là tiếng nói , tiếng bi bô , hát và thủ thỉ .</s>
+<a id='ev38'>1-1,2,3;2-4;3-5;4-7,8;5-6;7-10,11;9-12,13;11-15;12-16,17;14-19;16-20;17-21,22;</a>
+</spair>
+<spair id='39'>
+<s id='en39'>Your baby will probably also love listening to music .</s>
+<s id='vn39'>Con của bạn chắc cũng sẽ thích nghe nhạc .</s>
+<a id='ev39'>1-2,3;2-1;3-6;4-4;5-5;6-7;7-8;9-9;</a>
+</spair>
+<spair id='40'>
+<s id='en40'>Baby rattles and musical mobiles are other good ways to stimulate your infant 's hearing .</s>
+<s id='vn40'>Những chiếc lúc lắc và điện thoại có nhạc cũng là những cách để kích thích thính giác của trẻ sơ sinh .</s>
+<a id='ev40'>1-3,4;2-1,2;3-5;4-8,9;5-6,7;6-10,11;9-12,13;10-14;11-15,16;13-20,21,22;14-19;15-17,18;</a>
+</spair>
+<spair id='41'>
+<s id='en41'>If your little one is being fussy , try singing , reciting poetry and nursery rhymes or reading aloud as you sway or rock your baby gently in a chair .</s>
+<s id='vn41'>Nếu bé của bạn đang quấy khóc , hãy thử hát , đọc thơ và thơ ca thiếu nhi hay đọc to lên khi đu đưa bé nhè nhẹ trên ghế .</s>
+<a id='ev41'>1-1;2-3,4;3-2;7-5,6,7;9-9,10;10-11;12-13;13-14;14-15;15-18,19;16-16,17;17-20;18-21;19-22,23;20-24;22-25;24-26;26-27;27-28,29;28-30;30-31;</a>
+</spair>
+<spair id='42'>
+<s id='en42'>Some babies can be unusually sensitive to touch , light , or sound , and might startle and cry , sleep less than you might expect , or turn their faces away when you speak or sing to them .</s>
+<s id='vn42'>Một số trẻ có thể nhạy cảm khác thường với việc sờ chạm , ánh sáng hoặc âm thanh và có thể dễ bị giật mình và khóc , ngủ ít hơn bình thường hay là quay mặt đi khi bạn nói hoặc hát cho bé nghe .</s>
+<a id='ev42'>1-1,2;2-3;3-4,5;5-8,9;6-6,7;7-10;8-11,12,13;10-15,16;12-17;13-18,19;15-20;16-21,22;17-23,24,25,26;18-27;19-28;21-30;22-31;23-32;25-33;26-34;28-35,36;29-37;31-38;32-39;33-40;34-41;35-42;36-43;37-44;38-45;39-46,47;</a>
+</spair>
+<spair id='43'>
+<s id='en43'>Keep noise and light levels moderate .</s>
+<s id='vn43'>Thế nên hãy giữ mức độ âm thanh và ánh sáng một cách dịu nhẹ thôi .</s>
+<a id='ev43'>1-1,2,3,4;2-7,8;3-9;4-10,11;5-5,6;6-12,13,14,15,16;</a>
+</spair>
+<spair id='44'>
+<s id='en44'>Swaddling is another soothing technique parents should learn .</s>
+<s id='vn44'>Bọc quấn bé cũng là cách êm dịu khác mà những người lần đầu làm bố mẹ nên biết .</s>
+<a id='ev44'>1-1,2,3;2-4,5;3-9;4-7,8;5-6;6-11,12,13,14;7-16,17;8-18;9-19;</a>
+</spair>
+<spair id='45'>
+<s id='en45'>Swaddling keeps a baby 's arms close to the body and legs snuggled together .</s>
+<s id='vn45'>Việc quấn bọc bé giữ cho tay , mình và chân bé được đặt gần vào nhau .</s>
+<a id='ev45'>1-1,2,3;2-5;4-4;5-9;6-7;7-15;10-12;11-10;12-11;13-13,14;14-16,17;</a>
+</spair>
+<spair id='46'>
+<s id='en46'>Not only does this keep a baby warm , but to give most newborns a sense of security and comfort .</s>
+<s id='vn46'>Việc làm này không những giữ ấm cho bé mà còn mang lại cho hầu hết các trẻ sơ sinh cảm giác an toàn và thoải mái .</s>
+<a id='ev46'>1-4,5;3-1,2;4-3;5-6;7-9;8-7;10-10,11;12-12,13,14;13-15,16;14-17,18,19,20;16-21,22;18-23,24;19-25;20-26,27;</a>
+</spair>
+<spair id='47'>
+<s id='en47'>Swaddling works well for some babies during their first few weeks .</s>
+<s id='vn47'>Việc quấn bọc này có tác dụng tốt với nhiều trẻ sơ sinh trong vài tuần đầu .</s>
+<a id='ev47'>1-2,3;2-1;3-5,6,7,8;4-9;5-10;6-11,12,13;7-14;9-17;10-15;11-16;</a>
+</spair>
+<spair id='48'>
+<s id='en48'>Here 's how to swaddle a baby :</s>
+<s id='vn48'>Sau đây là cách quấn bọc cho bé :</s>
+<a id='ev48'>1-1,2;2-3;3-4;5-5,6;7-7,8;</a>
+</spair>
+<spair id='49'>
+<s id='en49'>Spread out the receiving blanket , with one corner folded over slightly .</s>
+<s id='vn49'>Trải chiếc chăn quấn ra , một góc được gấp nhẹ lại .</s>
+<a id='ev49'>1-1;4-4,5;5-2,3;8-7;9-8;10-9,10;11-12;12-11;</a>
+</spair>
+<spair id='50'>
+<s id='en50'>Lay the baby on the blanket , his or her head above the folded corner .</s>
+<s id='vn50'>Đặt bé nằm ngửa trên chăn , đầu kê trên góc được gấp .</s>
+<a id='ev50'>1-1;3-2;4-3,4;5-5;12-8;13-9,10;15-12,13;</a>
+</spair>
+<spair id='51'>
+<s id='en51'>Wrap the left corner over the body and tuck it beneath the back of the baby , going under the right arm .</s>
+<s id='vn51'>Quấn góc trái của chăn qua mình bé và nhét vào dưới lưng bé , quấn qua dưới cánh tay phải .</s>
+<a id='ev51'>1-1;3-3;4-2;5-6;7-7,8;8-9;9-10,11;11-12;13-13;16-14;18-16,17;19-18;21-21;22-19,20;</a>
+</spair>
+<spair id='52'>
+<s id='en52'>Bring the bottom corner up over the baby 's feet and pull it toward the head , folding the fabric down if it gets close to the face .</s>
+<s id='vn52'>Vắt góc dưới cùng qua chân bé và kéo về phía hướng lên đầu , hãy gấp miếng vải xuống nếu gần sát với mặt .</s>
+<a id='ev52'>1-1;3-3,4;4-2;6-5;8-7;10-6;11-8;12-9;14-10,11;16-12,13;18-16,17;20-18,19;21-20;22-21;25-22,23;26-24;28-25;</a>
+</spair>
+<spair id='53'>
+<s id='en53'>Wrap the right corner around the baby , and tuck it under the baby 's back on the left side , leaving only the neck and head exposed .</s>
+<s id='vn53'>Quấn góc phải quanh mình bé , nhét xuống dưới lưng bên trái của bé , chỉ để cổ và đầu của bé ở ngoài thôi .</s>
+<a id='ev53'>1-1;3-3;4-2;5-4;7-5,6;10-8;12-9,10;16-11;19-13;20-12;22-18;23-17;25-19;26-20;27-21;28-24,25,26;</a>
+</spair>
+<spair id='54'>
+<s id='en54'>Diapering Dos and Don'ts</s>
+<s id='vn54'>Những điều nên làm và không nên làm về việc quấn tã lót</s>
+<a id='ev54'>1-9,10,11,12,13;2-1,2,3,4;3-5;4-6,7,8;</a>
+</spair>
+<spair id='55'>
+<s id='en55'>You 'll probably decide before you bring your baby home whether you 'll use cloth or disposable diapers .</s>
+<s id='vn55'>Trước khi mang bé về nhà thì bạn sẽ phải chọn liệu sẽ dùng tã vải hay tã giấy .</s>
+<a id='ev55'>1-8;3-9,10;4-11;5-1,2;7-3;9-4;10-5,6;11-12;14-13,14;15-15,16;16-17;17-19;18-18;</a>
+</spair>
+<spair id='56'>
+<s id='en56'>Whichever you use , the baby will dirty diapers about 10 times a day , or about 70 times a week .</s>
+<s id='vn56'>Cho dù bạn sử dụng tã nào đi nữa , bé sẽ làm bẩn tã khoảng 10 lần một ngày , hoặc khoảng 70 lần một tuần .</s>
+<a id='ev56'>1-1,2;2-3;3-4,5;6-11;7-12;8-13,14;9-15;10-16;11-17;12-18;13-19;14-20;16-22;17-23;18-24;19-25;20-26;21-27;</a>
+</spair>
+<spair id='57'>
+<s id='en57'>Before diapering a baby , make sure you have all supplies within reach so you won't have to leave your baby unattended on the changing table .</s>
+<s id='vn57'>Trước khi thay tã cho bé , chắc rằng mình đã có đủ hết các thứ cần thiết và bạn sẽ không bỏ mặc bé trên bàn thay tã .</s>
+<a id='ev57'>1-1,2;2-3,4;4-5,6;6-8;7-9;8-10;9-11,12;10-13,14;11-15,16,17,18;14-19;15-20;16-21,22;19-23,24;21-25;23-26;25-28,29;26-27;</a>
+</spair>
+<spair id='58'>
+<s id='en58'>You 'll need :</s>
+<s id='vn58'>Bạn cần phải có :</s>
+<a id='ev58'>1-1;3-2,3,4;</a>
+</spair>
+<spair id='59'>
+<s id='en59'>a clean diaper</s>
+<s id='vn59'>tã lót sạch</s>
+<a id='ev59'>2-3;3-1,2;</a>
+</spair>
+<spair id='60'>
+<s id='en60'>a fastener ( if cloth is used )</s>
+<s id='vn60'>dây buộc ( nếu bạn sử dụng tả vải )</s>
+<a id='ev60'>2-1,2;4-4;5-8,9;6-5;7-6,7;</a>
+</spair>
+<spair id='61'>
+<s id='en61'>ointment if the baby has a rash</s>
+<s id='vn61'>thuốc mỡ nếu bé bị hăm</s>
+<a id='ev61'>1-1,2;2-3;4-4;7-5,6;</a>
+</spair>
+<spair id='62'>
+<s id='en62'>a container of warm water</s>
+<s id='vn62'>bình đựng nước ấm</s>
+<a id='ev62'>2-1,2;4-4;5-3;</a>
+</spair>
+<spair id='63'>
+<s id='en63'>clean washcloth , diaper wipes , or cotton balls</s>
+<s id='vn63'>khăn lau sạch , tã lau , hoặc bông</s>
+<a id='ev63'>1-2,3;2-1;4-5;5-6;7-8;8,9-9;</a>
+</spair>
+<spair id='64'>
+<s id='en64'>After each bowel movement or if the diaper is wet , lay your baby on his or her back and remove the dirty diaper .</s>
+<s id='vn64'>Sau mỗi lần đại tiện hoặc nếu tã lót bị ướt , hãy đặt bé nằm ngửa và rút tã bẩn ra .</s>
+<a id='ev64'>1-1;2-2,3;3-4;4-5;5-6;6-7;8-8,9;10-10,11;12-13,14;14-15;19-16,17;20-18;21-19;23-21,22;24-20;</a>
+</spair>
+<spair id='65'>
+<s id='en65'>Use the water , cotton balls and washcloth or the wipes to gently wipe your baby 's genital area clean .</s>
+<s id='vn65'>Dùng nước , bông và khăn lau hoặc khăn tay để lau nhẹ vùng sinh dục của bé sạch sẽ .</s>
+<a id='ev65'>1-1;3-2;5-4;7-5;8-6,7;9-8;11-9,10;12-11;13-13;14-12;16-18;17-17;18-15,16;19-14;20-19,20;</a>
+</spair>
+<spair id='66'>
+<s id='en66'>When removing a boy 's diaper , do so carefully because exposure to the air may make him urinate .</s>
+<s id='vn66'>Khi thay tã cho bé trai , hãy làm cẩn thận vì việc đưa trần ra ngoài như thế này có thể làm cho bé đi tiểu .</s>
+<a id='ev66'>1-1;2-2;4-5,6;6-3;8-8,9;10-10,11;11-12;12-16,17,18,19,20;15-14,15;16-21,22;17-23;18-24,25;19-26,27;</a>
+</spair>
+<spair id='67'>
+<s id='en67'>When wiping a girl , wipe her bottom from front to back to avoid a urinary tract infection .</s>
+<s id='vn67'>Khi lau cho bé gái , nên lau mông đít của bé từ trước ra sau để tránh nhiễm trùng đường tiểu .</s>
+<a id='ev67'>1-1;2-2,3;4-4,5;6-7,8;7-11,12;8-9,10;9-13;10-14;11-15;12-16;13-17;14-18;16-22;17-21;18-19,20;</a>
+</spair>
+<spair id='68'>
+<s id='en68'>To prevent or heal a rash , apply ointment .</s>
+<s id='vn68'>Để tránh hoặc chữa hăm tã n,ên dùng thuốc mỡ .</s>
+<a id='ev68'>1-1;2-2;3-3;4-4;6-5,6;8-8;9-9,10;</a>
+</spair>
+<spair id='69'>
+<s id='en69'>Always remember to wash your hands thoroughly after changing a diaper .</s>
+<s id='vn69'>Hãy luôn nhớ rửa tay cẩn thận sau khi thay tã lót .</s>
+<a id='ev69'>1-1,2;2-3;4-4;6-5;7-6,7;8-8,9;9-10;11-11,12;</a>
+</spair>
+<spair id='70'>
+<s id='en70'>Diaper rash is a common concern .</s>
+<s id='vn70'>Chứng hăm tã là vấn đề thường gặp .</s>
+<a id='ev70'>1-3;2-1,2;3-4;5-7,8;6-5,6;</a>
+</spair>
+<spair id='71'>
+<s id='en71'>Typically the rash is red , bumpy and will go away in a few days with warm baths , some diaper cream and a little time out of the diaper .</s>
+<s id='vn71'>chứng hăm tã thường đỏ , gây khó chịu và sẽ hết trong vài ngày tắm bằng nước ấm , kem chữa hăm và không dùng tã một thời gian ngắn .</s>
+<a id='ev71'>1-4;3-1,2,3;5-5;7-7,8,9;8-10;9-11;10,11-12;12-13;14-14;15-15;16-17;17-18,19;18-16;21-22,23;22-21;23-24;25-31;26-28,29,30;27-25,26;30-27;</a>
+</spair>
+<spair id='72'>
+<s id='en72'>Most rashes occur because the baby 's skin is sensitive and becomes irritated by the wet or poopy diaper .</s>
+<s id='vn72'>Hầu hết các chứng hăm tã đều là do da của bé nhạy cảm và trở nên tấy rát do tã bị ẩm ướt hay dơ bẩn .</s>
+<a id='ev72'>1-1,2;2-3,4,5,6;4-7,8,9;6-12;7-11;8-10;10-13,14;11-15;12-16,17;13-18,19;14-20;16-22,23,24;17-25;18-26,27;19-21;</a>
+</spair>
+<spair id='73'>
+<s id='en73'>To prevent or heal diaper rash , try these tips :</s>
+<s id='vn73'>Để ngăn ngừa hoặc chữa chứng hăm tã , thử các mẹo sau đây :</s>
+<a id='ev73'>1-1;2-2,3;3-4;4-5;5-7,8;6-6;8-10;9-13,14;10-11,12;</a>
+</spair>
+<spair id='74'>
+<s id='en74'>Change your baby 's diaper frequently , and as soon as possible after bowel movements .</s>
+<s id='vn74'>Thay tã lót cho bé thường xuyên , và càng sớm càng tốt sau khi đại tiện .</s>
+<a id='ev74'>1-1,2;3-4,5;5-3;6-6,7;8-9;9-10;10-11;11-12;12-13;13-14,15;14-16;15-17;</a>
+</spair>
+<spair id='75'>
+<s id='en75'>After cleaning this area with mild soap and water or a wipe , apply a diaper rash or " barrier " cream .</s>
+<s id='vn75'>Sau khi vệ sinh vùng này bằng nước và xà phòng dịu nhẹ hoặc bằng khăn tay , nên xức kem chống hăm hoặc kem " bảo vệ " .</s>
+<a id='ev75'>1-1,2;2-3,4;3-6;4-5;5-7;6-12,13;7-10,11;8-9;9-8;10-14;12-15,16,17;14-19,20;17-22,23;18-24;20-27,28;22-21,25;</a>
+</spair>
+<spair id='76'>
+<s id='en76'>Creams with zinc oxide are preferable because they form a barrier against moisture .</s>
+<s id='vn76'>Các loại kem chứa kẽm ô xít rất thích hợp vì chúng có khả năng chống ẩm .</s>
+<a id='ev76'>1-1,2,3;2-4;3-5;4-6,7;6-8,9,10;7-11;8-12;9-13;11-14,15;12-16;13-17;</a>
+</spair>
+<spair id='77'>
+<s id='en77'>If you use cloth diapers , wash them in dye and free detergents .</s>
+<s id='vn77'>Nếu bạn dùng tã vải thì , giặt tã bằng loại xà phòng không màu và không có hương thơm .</s>
+<a id='ev77'>1-1;2-2;3-3;4-5;5-4;7-8;8-9;9-10;10-14,15;11-16;12-17,18,19,20;13-11,12,13;</a>
+</spair>
+<spair id='78'>
+<s id='en78'>Let the baby go undiapered for part of the day .</s>
+<s id='vn78'>Hãy để cho bé thoáng bằng cách không dùng tã một lúc nào đó trong ngày .</s>
+<a id='ev78'>1-1,2,3;3-4;4-5;5-6,7,8,9,10;7-11,12,13,14;8-15;10-16;</a>
+</spair>
+<spair id='79'>
+<s id='en79'>This gives the skin a chance to air out .</s>
+<s id='vn79'>Điều này làm cho da bé thông thoáng và mát mẻ .</s>
+<a id='ev79'>1-1,2;2-3,4;4-5,6;8-7,8,10,11;</a>
+</spair>
+<spair id='80'>
+<s id='en80'>If the diaper rash continues for more than 3 days or seems to be getting worse , call your doctor - it may be caused by a fungal infection that requires a prescription .</s>
+<s id='vn80'>Nếu bé bị hăm tã liên tiếp kéo dài hơn 3 ngày hay có vẻ càng ngày càng trầm trọng hơn , gọi bác sĩ - có thể bé bị nhiễm nấm và cần được kê toa uống thuốc .</s>
+<a id='ev80'>1-1;3-5;4-3,4;5-6,7;6-8,9;7,8-10;9-11;10-12;11-13;12-14,15;16-16,17,18,19,20,21;18-23;20-24,25;22-29;23-27,28;25-30;28-32;29-31;30-33;31-34,35,36;33-37,38,39;</a>
+</spair>
+<spair id='81'>
+<s id='en81'>Bathing basics</s>
+<s id='vn81'>Điều cơ bản nên biết khi tắm</s>
+<a id='ev81'>1-6,7;2-1,2,3;</a>
+</spair>
+<spair id='82'>
+<s id='en82'>You should give your baby a sponge bath until :</s>
+<s id='vn82'>Bạn nên dùng bọt biển để tắm cho bé cho đến khi :</s>
+<a id='ev82'>1-1;2-2;3-3;5-9;7-4,5;8-7;9-10,11,12;</a>
+</spair>
+<spair id='83'>
+<s id='en83'>the umbilical cord falls off ( 4 weeks )</s>
+<s id='vn83'>cuống rốn rụng ( 4 tuần )</s>
+<a id='ev83'>2-2;3-1;4,5-3;7-5;8-6;</a>
+</spair>
+<spair id='84'>
+<s id='en84'>the circumcision heals ( 2 weeks )</s>
+<s id='vn84'>thủ thuật cắt bao quy đầu lành ( 2 tuần )</s>
+<a id='ev84'>2-1,2,3,4,5,6;3-7;5-9;6-10;</a>
+</spair>
+<spair id='85'>
+<s id='en85'>the navel heals completely ( 4 weeks )</s>
+<s id='vn85'>rốn khô hoàn toàn ( 4 tuần )</s>
+<a id='ev85'>2-1;3-2;4-3,4;6-6;7-7;</a>
+</spair>
+<spair id='86'>
+<s id='en86'>A bath two or three times a week in the first year is sufficient .</s>
+<s id='vn86'>Trong năm đầu mỗi tuần nên tắm cho bé hai hay ba lần là đủ rồi .</s>
+<a id='ev86'>2-7;3-10;4-11;5-12;6-13;7-4;8-5;9-1;11-3;12-2;14-14,15,16;</a>
+</spair>
+<spair id='87'>
+<s id='en87'>More frequent bathing may be drying to the skin .</s>
+<s id='vn87'>Việc tắm nhiều có thể làm cho da bé bị khô .</s>
+<a id='ev87'>1-3;3-1,2;4-4,5;6-10,11;7-6,7;9-8;</a>
+</spair>
+<spair id='88'>
+<s id='en88'>You 'll need the following items before bathing your baby :</s>
+<s id='vn88'>Trước khi tắm cho bé bạn cũng cần có những thứ này :</s>
+<a id='ev88'>1-6;3-8,9;6-10,11,12;7-1,2;8-3;10-4,5;</a>
+</spair>
+<spair id='89'>
+<s id='en89'>a soft and clean washcloth</s>
+<s id='vn89'>khăn mặt sạch và mềm</s>
+<a id='ev89'>2-5;3-4;4-3;5-1,2;</a>
+</spair>
+<spair id='90'>
+<s id='en90'>mild , unscented baby soap and shampoo</s>
+<s id='vn90'>xà phòng và dầu gội đầu em bé không mùi , dịu nhẹ</s>
+<a id='ev90'>1-12,13;3-9,10;4-7,8;5-1,2;6-3;7-4,5,6;</a>
+</spair>
+<spair id='91'>
+<s id='en91'>a soft brush to stimulate the baby 's scalp</s>
+<s id='vn91'>bàn chải mềm để kích thích da đầu của em bé</s>
+<a id='ev91'>2-3;3-1,2;4-4;5-5,6;7-10,11;8-9;9-7,8;</a>
+</spair>
+<spair id='92'>
+<s id='en92'>towels or blankets</s>
+<s id='vn92'>khăn tắm hoặc chăn</s>
+<a id='ev92'>1-1,2;2-3;3-4;</a>
+</spair>
+<spair id='93'>
+<s id='en93'>an infant tub with 2 to 3 inches of warm - not hot ! - water ( to test the water temperature , feel the water with the inside of your elbow or wrist ) .</s>
+<s id='vn93'>chậu tắm em bé chứa từ 2 đến 3 sơ nước ấm – không phải là nước nóng ( để thử độ nóng của nước , dùng mặt trong khuỷu tay hay cổ tay để chạm vào nước ) .</s>
+<a id='ev93'>2-3,4;3-1,2;4-5;5-7;6-8;7-9;8-10;10-12;12-14,15,16;13-18;16-11,17;18-20;19-21;21-25;22-22,23;24-36,37;26-38;29-27,28,29;32-30,31;33-32;34-33,34;</a>
+</spair>
+<spair id='94'>
+<s id='en94'>An infant tub is a plastic tub that can fit in the bathtub and is better fitted for the infant and makes bath time easier to manage .</s>
+<s id='vn94'>Chậu tắm em bé là chậu tắm bằng nhựa có thể đặt vừa vào bồn tắm và thích hợp hơn cho trẻ và có thể làm cho việc tắm rửa cho bé trở nên dễ dàng hơn .</s>
+<a id='ev94'>2-3,4;3-1,2;4-5;6-8,9;7-6,7;9-10,11;10-12,13;11-14;13-15,16;14-17;16-20;17-18,19;18-21;20-22;21-23;23-28,29,30;24-31,32;25-33,34,35,36;27-24,25,26,27;</a>
+</spair>
+<spair id='95'>
+<s id='en95'>a clean diaper</s>
+<s id='vn95'>tã lót sạch</s>
+<a id='ev95'>2-3;3-1,2;</a>
+</spair>
+<spair id='96'>
+<s id='en96'>clean clothes</s>
+<s id='vn96'>quần áo sạch</s>
+<a id='ev96'>1-3;2-1,2;</a>
+</spair>
+<spair id='97'>
+<s id='en97'>Sponge baths .</s>
+<s id='vn97'>Tắm bằng bọt biển</s>
+<a id='ev97'>1-2,3,4;2-1;</a>
+</spair>
+<spair id='98'>
+<s id='en98'>For a sponge bath , pick a warm room and a flat surface , such as a changing table or floor .</s>
+<s id='vn98'>Đối với việc tắm bằng bọt biển , chọn một phòng ấm áp và có bề mặt phẳng , như bàn thay đồ hay sàn nhà .</s>
+<a id='ev98'>1-1,2;3-6,7;4-3,4;6-9;7-10;8-12,13;9-11;10-14;12-18;13-15,16,17;15,16-20;18-22,23;19-21;20-24;21-25,26;</a>
+</spair>
+<spair id='99'>
+<s id='en99'>Undress the baby .</s>
+<s id='vn99'>Cởi quần áo em bé .</s>
+<a id='ev99'>1-1,2,3;3-4,5;</a>
+</spair>
+<spair id='100'>
+<s id='en100'>Wipe your infant 's eyes with a washcloth dampened with water only , starting with one eye and wiping from the inner corner to the outer corner .</s>
+<s id='vn100'>Lau mắt bé bằng khăn mặt được làm ẩm bằng nước thôi , bắt đầu lau từng mắt một và lau từ khóe trong đến khóe ngoài .</s>
+<a id='ev100'>1-1;3-3;5-2;6-4;8-5,6;9-7,8,9;10-10;11-11;12-12;14-14,15;15-16;16-19;17-17,18;18-20;19-21;20-22;22-24;23-23;24-25;26-27;27-26;</a>
+</spair>
+<spair id='101'>
+<s id='en101'>Use a clean corner of the washcloth to wash the other eye .</s>
+<s id='vn101'>Dùng góc sạch của khăn mặt để lau mắt còn lại .</s>
+<a id='ev101'>1-1;3-3;4-2;5-4;7-5,6;8-7;9-8;11-10,11;12-9;</a>
+</spair>
+<spair id='102'>
+<s id='en102'>Clean your baby 's nose and ears with the washcloth .</s>
+<s id='vn102'>Lau mũi và tai bé bằng khăn mặt .</s>
+<a id='ev102'>1-1;3-5;5-2;6-3;7-4;8-6;10-7,8;</a>
+</spair>
+<spair id='103'>
+<s id='en103'>Then wet the cloth again and using a little soap , wash his or her face gently and pat it dry .</s>
+<s id='vn103'>Sau đó nhúng ướt khăn lại và giặt khăn với một chút xà phòng , lau mặt bé nhẹ nhàng rồi giũ nhẹ cho khô .</s>
+<a id='ev103'>1-1,2;2-3,4;4-5;5-6;6-7;7-8,9;9-11,12;10-13,14;12-16;13,14,15-18;16-17;17-19,20;18-21;19-22,23;21-24,25;</a>
+</spair>
+<spair id='104'>
+<s id='en104'>Next , using baby shampoo , create a lather and gently wash your baby 's head .</s>
+<s id='vn104'>Sau đó dùng dầu gội đầu , tạo bọt và nhẹ nhàng gội đầu cho bé .</s>
+<a id='ev104'>1-1,2;3-3;5-4,5,6;7-8;9-9;10-10;11-11,12;12-13;14-15,16;16-14;</a>
+</spair>
+<spair id='105'>
+<s id='en105'>Using a wet cloth and soap , gently wash the rest of the baby , special attention to creases under the arms , behind the ears , around the neck , and the genital area .</s>
+<s id='vn105'>Dùng một miếng vải ướt và xà phòng , nhẹ nhàng tắm rửa phần còn lại của cơ thể bé , chú ý đặc biệt ở những nếp da dưới cánh tay , sau lỗ tai , quanh cổ và vùng sinh dục .</s>
+<a id='ev105'>1-1;2-2,3;3-5;4-4;5-6;6-7,8;8-10,11;9-12,13;11-14,15,16;12-17;14-18,19,20;16-24,25;17-22,23;18-26;19-27,28,29;20-30;22-31,32;24-34;26-35,36;28-38;30-39;32-40;34-42,43;35-41;</a>
+</spair>
+<spair id='106'>
+<s id='en106'>Once you have washed those areas , make sure they are dry and then diaper and dress your baby .</s>
+<s id='vn106'>Một khi bạn đã vệ sinh các vùng này , chắc rằng da bé phải khô sạch và rồi bạn nên bọc tã và mặc áo quần cho bé .</s>
+<a id='ev106'>1-1,2;2-3;4-4,5,6;5-9;6-7,8;8-11;9-12;10-13,14;12-15,16,17;13-18;14-19;15-20,21,22,23;16-24;17-25,26,27;19-29;</a>
+</spair>
+<spair id='107'>
+<s id='en107'>Tub baths .</s>
+<s id='vn107'>Tắm bằng chậu tắm</s>
+<a id='ev107'>1-1;2-3,4;</a>
+</spair>
+<spair id='108'>
+<s id='en108'>When your baby is ready for tub baths , the first baths should be gentle and brief .</s>
+<s id='vn108'>Khi con bạn đủ lớn sẵn sàng tắm bằng chậu , những lần tắm đầu tiên nên nhẹ nhàng và nhanh lẹ .</s>
+<a id='ev108'>1-1;2-3;3-2;5-4,5,6,7;7-9,10;8-8;11-15,16;12-12,13,14;13-17;15-18,19;16-20;17-21,22;</a>
+</spair>
+<spair id='109'>
+<s id='en109'>If he or she becomes upset , go back to sponge baths for a week or two , then try the bath again .</s>
+<s id='vn109'>Nếu bé trở nên khó chịu , hãy quay lại tắm bằng bọt biển một hay hai tuần rồi thử tắm chậu lại .</s>
+<a id='ev109'>1-1;2,3,4-2;5-3,4;6-5,6;8-8;9-9,10;11-12,13,14;12-11;14-15;15-18;16-16;17-17;19-19;20-20;22-21,22;23-23;</a>
+</spair>
+<spair id='110'>
+<s id='en110'>Undress your baby and then place him or her in the water immediately , in a warm room , to prevent chills .</s>
+<s id='vn110'>Cởi quần áo bé rồi đặt bé vào chậu nước ngay lập tức , trong phòng ấm , để khỏi bị lạnh .</s>
+<a id='ev110'>1-1,2,3;3-4;5-5;6-6;7,8,9-7;10-8;12-9,10;13-11,12,13;15-15;17-17;18-16;20-19;21-20;22-21,22;</a>
+</spair>
+<spair id='111'>
+<s id='en111'>Make sure the water in the tub is no more than 2 to 3 inches deep .</s>
+<s id='vn111'>Chắc rằng nước trong chậu không sâu quá 2 đến 3 sơ .</s>
+<a id='ev111'>1-1;2-2;4-3;5-4;7-5;9-6;11-8;12-9;13-10;14-11;15-12;16-7;</a>
+</spair>
+<spair id='112'>
+<s id='en112'>Use one of your hands to support the head , the other hand to guide the baby in first .</s>
+<s id='vn112'>Một tay bạn đỡ đầu bé , một tay cho bé vào chậu trong tư thế ngồi hai chân duỗi thẳng ra trước .</s>
+<a id='ev112'>2-1;5-2;7-4;9-5;12-8;13-9;15-12,13;17-11;18-14;19-15,16,17,18,19,20,21,22,23;</a>
+</spair>
+<spair id='113'>
+<s id='en113'>Speaking gently , slowly lower your baby up to the chest into the tub .</s>
+<s id='vn113'>Nói ngọt ngào , từ từ hạ người của bé xuống tới ngực trong chậu tắm .</s>
+<a id='ev113'>1-1;2-2,3;4-5,6;5-7;6-8,9;7-10;8-11;9-12;11-13;12-14;14-15,16;</a>
+</spair>
+<spair id='114'>
+<s id='en114'>Use a washcloth to wash his or her face and hair .</s>
+<s id='vn114'>Dùng khăn tắm để lau mặt và tóc cho bé .</s>
+<a id='ev114'>1-1;3-2,3;4-4;5-5;6,7,8-10;9-6;10-7;11-8;</a>
+</spair>
+<spair id='115'>
+<s id='en115'>Gently massage your baby 's scalp with the pads of your fingers or a soft baby hairbrush , including the area over the fontanelles ( soft spots ) on the top of the head .</s>
+<s id='vn115'>Nhẹ nhàng mát - xa da đầu của bé bằng cùi ngón tay hoặc lược mềm em bé , kể cả vùng thóp ( chỗ mềm ) trên đỉnh đầu của bé .</s>
+<a id='ev115'>1-1,2;2-3,5;4-9;5-8;6-6,7;7-10;9-11;12-12,13;13-14;15-16;16-17,18;17-15;19-20,21;21-22;24-23;26-26;27-25;29-28;31-29;32-31;34-30;</a>
+</spair>
+<spair id='116'>
+<s id='en116'>When you rinse the soap or shampoo from your baby 's head , cup your hand across the forehead so the suds run toward the sides and doesn't get into the eyes .</s>
+<s id='vn116'>Khi bạn lau xà phòng hoặc dầu gội khỏi đầu bé thì hãy khum tay thành hình chén qua trán để bọt nước xà phòng chảy về bên hông và không bị vướng vào mắt bé .</s>
+<a id='ev116'>1-1;2-2;3-3;5-4,5;6-6;7-7,8;8-9;10-11;12-10;14-13,14,16,17,18;16-15;17-19;19-20;20-21;22-22,23,24,25;23-26;24-27;26-28,29;27-30;28-31;29-32,33;30-34;32-35,36;</a>
+</spair>
+<spair id='117'>
+<s id='en117'>Gently wash the rest of your baby 's body with water and a small amount of soap .</s>
+<s id='vn117'>Nhẹ nhàng tắm phần còn lại của người bé bằng nước và một chút xà phòng .</s>
+<a id='ev117'>1-1,2;2-3;4-5,6;5-4;6-7;7-9;9-8;10-10;11-11;12-12;13-13;15-14;17-15,16;</a>
+</spair>
+<spair id='118'>
+<s id='en118'>Throughout the bath , regularly pour water gently over your baby 's body so he or she doesn't get cold .</s>
+<s id='vn118'>Khi tắm , thường xuyên giội nước nhè nhẹ lên người bé để bé khỏi bị lạnh .</s>
+<a id='ev118'>1-1;3-2;5-4,5;6-6;7-7;8-8,9;9-10;11-12;13-11;14-13;15,16,17-14;18-15;19-16;20-17;</a>
+</spair>
+<spair id='119'>
+<s id='en119'>After the bath , wrap your baby in a towel immediately , making sure to cover his or her head .</s>
+<s id='vn119'>Sau khi tắm , nên quấn bé lại ngay lập tức bằng khăn tắm , đảm bảo phải trùm được cả đầu của bé .</s>
+<a id='ev119'>1-1,2;3-3;5-5,6;7-7;8-12;10-13,14;11-9,10,11;13-16;14-17;15-18;16-19,20;17,18,19-24;20-22;</a>
+</spair>
+<spair id='120'>
+<s id='en120'>Baby towels with hoods are great for keeping a freshly washed baby warm .</s>
+<s id='vn120'>Khăn tắm có mũ rất thích hợp để giữ ấm cho bé lúc mới tắm xong .</s>
+<a id='ev120'>2-1,2;4-3,4;6-5,6,7;7-8;8-9;10-14;11-15,16;12-11,12;13-10;</a>
+</spair>
+<spair id='121'>
+<s id='en121'>While bathing your infant , never leave the baby alone .</s>
+<s id='vn121'>Trong khi tắm cho bé , đừng bao giờ bỏ bé một mình .</s>
+<a id='ev121'>1-1,2;2-3;4-4,5;6-7,8,9;7-10;9-11;10-12,13;</a>
+</spair>
+<spair id='122'>
+<s id='en122'>If you need to leave the bathroom , wrap the baby in a towel and take him or her with you .</s>
+<s id='vn122'>Nếu bạn cần ra khỏi nhà tắm , hãy quấn bé trong khăn tắm và mang bé đi .</s>
+<a id='ev122'>1-1;2-2;3-3;4,5-4,5;7-6,7;9-9,10;11-11;12-12;14-13,14;15-15;16-16,18;17,18,19-17;</a>
+</spair>
+<spair id='123'>
+<s id='en123'>Circumcision and umbilical cord care</s>
+<s id='vn123'>Cắt bao quy đầu và chăm sóc cuống rốn</s>
+<a id='ev123'>1-1,2,3,4;2-5;3-9;4-8;5-6,7;</a>
+</spair>
+<spair id='124'>
+<s id='en124'>Immediately after circumcision , the tip of the penis is usually covered with gauze coated with petroleum jelly to keep the wound from sticking to the diaper .</s>
+<s id='vn124'>Ngay sau khi cắt bao quy đầu , đầu dương vật thường được quấn bằng một miếng gạc có bôi một chút mỡ trơn để vết thương không dính vào tã lót .</s>
+<a id='ev124'>1-1;2-2,3;3-4,5,6,7;6-9;9-10,11;11-12;12-13,14;13-15;14-16,17,18;16-19;17-20,21,22,23;18-24;19-25;22-26,27;23-28;24-29;25-30;27-31,32;</a>
+</spair>
+<spair id='125'>
+<s id='en125'>Gently wipe the tip clean after a diaper change , then apply petroleum jelly to the tip so it doesn't n't stick to the diaper .</s>
+<s id='vn125'>Hãy nhẹ nhàng lau đầu dương vật sạch sẽ sau mỗi lần thay tã và xức một chút mỡ trơn lên đầu dương vật để khỏi dính vào tã .</s>
+<a id='ev125'>1-1,2,3;2-4;4-5,6,7;5-8,9;6-10;8-14;9-13;11-15;12-16;13-17,18,19;14-20;15-21;17-22,23,24;20-26;22-27;23-28;25-29;</a>
+</spair>
+<spair id='126'>
+<s id='en126'>Redness or irritation of the penis should heal within a few days , but if the redness or swelling increases or if filled blisters form , infection and you should call your baby 's doctor immediately .</s>
+<s id='vn126'>Dương vật sẽ hết đỏ hay tấy rát trong vài ngày , nhưng nếu tình trạng đỏ hay sưng tấy nhiều thêm hoặc nếu đầu dương vật bị giộp da mưng mủ , nhiễm trùng thì bạn có thể gọi bác sĩ ngay lập tức .</s>
+<a id='ev126'>1-5;2-6;3-7,8;6-1,2;9-9;11-10;12-11;14-13;15-14;17-15,16,17;18-18;19-19,20;20-21,22;21-23;22-24;23-26,27;24-28,29,30,31,32;25-25;27-34,35;28-36;29-37;30-38,39;31-40;35-41,42;36-43,44,45;</a>
+</spair>
+<spair id='127'>
+<s id='en127'>Umbilical cord care in newborns is also important .</s>
+<s id='vn127'>Việc chăm sóc cuống rốn đối với trẻ sơ sinh cũng rất quan trọng .</s>
+<a id='ev127'>1-5;2-4;3-1,2,3;4-6,7;5-8,9,10;7-11;8-12,13,14;</a>
+</spair>
+<spair id='128'>
+<s id='en128'>Some doctors suggest swabbing the area with rubbing alcohol until the cord stump dries up and falls off , usually in 10 days to 3 weeks , but others recommend leaving the area alone .</s>
+<s id='vn128'>Nhiều bác sĩ đề nghị lau vùng rốn bằng cồn rửa vết thương cho đến khi cuống rốn khô và rụng , thường thì trong khoảng từ 10 ngày đến 3 tuần , nhưng nhiều bác sĩ khác khuyên để yên vùng rốn .</s>
+<a id='ev128'>1-1;2-2,3;3-4,5;4-6;6-7,8;7-9;8-11,12,13;9-10;10-14,15,16;12-18;13-17;14-19;16-20;17-21;20-23;21-25,26;22-28;23-29,30;25-31;26-32;28-34;29-35,36,37,38;30-39;31-40;33-42,43;34-41;</a>
+</spair>
+<spair id='129'>
+<s id='en129'>Talk to your child 's doctor to see what he or she prefers .</s>
+<s id='vn129'>Hãy tham khảo ý kiến bác sĩ để biết bạn nên làm gì cho bé .</s>
+<a id='ev129'>1-1,2,3,4,5;6-6,7;8-8,9;9-12,13;10,11,12-15;13-14;</a>
+</spair>
+<spair id='130'>
+<s id='en130'>The infant 's navel area shouldn't be submerged in water until the cord stump falls off and healed .</s>
+<s id='vn130'>Vùng rốn của trẻ sơ sinh không nên để ngập nước cho đến khi cuống rốn rụng và khô lành .</s>
+<a id='ev130'>2-4,5,6;3-3;4-2;5-1;6-7,8;8-9,10;10-11;11-12,13,14;13-16;14-15;15-17;17-18;18-19,20;</a>
+</spair>
+<spair id='131'>
+<s id='en131'>Until it falls off , the cord stump will change color from yellow to brown or black - this is normal .</s>
+<s id='vn131'>Đến khi cuống rốn rụng , nó sẽ đổi màu từ vàng sang nâu hoặc đen – điều này bình thường .</s>
+<a id='ev131'>1-1,2;2-3,4;3-5;7,8-7;9-8;10-9;11-10;12-11;13-12;14-13;15-14;16-15;17-16;19-18,19;21-20,21;</a>
+</spair>
+<spair id='132'>
+<s id='en132'>Consult your doctor if the navel area becomes reddened or if a foul odor or discharge develops .</s>
+<s id='vn132'>nếu vùng rốn của bé trở nên đỏ tấy hoặc có mùi hôi hay bị chảy mủ thì bạn hãy tham khảo ý kiến bác sĩ của bạn .</s>
+<a id='ev132'>1-20,21,22,23,24;2-27,28;3-25,26;4-1;6-3;7-2;8-6,7;9-8,9;10-10;14-12,13;16-15,16;17-17;</a>
+</spair>
+<spair id='133'>
+<s id='en133'>Feeding and burping your baby</s>
+<s id='vn133'>Cho bé ăn và vỗ cho bé ợ</s>
+<a id='ev133'>1-1,2,3;2-4;3-5,6,8;5-7;</a>
+</spair>
+<spair id='134'>
+<s id='en134'>Whether feeding your newborn by breast or a bottle , you may be stumped as to how often to do so .</s>
+<s id='vn134'>Dù bạn nuôi con bằng sữa mẹ hay bú bình , bạn cũng có thể phải bối rối không biết là nên cho con bú bao lâu một lần .</s>
+<a id='ev134'>1-1,2;2-3;4-4;5-5;6-6,7;7-8;9-9,10;11-12;12-13,14,15;14-16,17,18;15-19,20,21;17-26,27;18-28,29;20-23,24,25;21-22;</a>
+</spair>
+<spair id='135'>
+<s id='en135'>Generally , it 's recommended that babies be fed on demand - whenever they seem hungry .</s>
+<s id='vn135'>Nói chung , người ta khuyên rằng con nít nên được cho ăn theo nhu cầu – bất kể khi nào chúng đói .</s>
+<a id='ev135'>1-1,2;3-4,5;5-6;6-7;7-8,9;9-10,11,12,13;10-14;11-15,16;13-18,19,20,21;14-22;16-23;</a>
+</spair>
+<spair id='136'>
+<s id='en136'>Your baby may cue you by crying , putting fingers in his or her mouth , or making sucking noises .</s>
+<s id='vn136'>Bé của bạn có thể ra tín hiệu cho bạn biết bằng cách khóc , thọc ngón tay vào miệng , hoặc tạo ra những âm thanh như bú .</s>
+<a id='ev136'>1-2,3;2-1;3-4,5;4-6,7,8;5-9,10,11;6-12,13;7-14;9-16;10-17,18;11-19;15-20;17-22;18-23,24;19-28,29;20-25,26,27;</a>
+</spair>
+<spair id='137'>
+<s id='en137'>A newborn baby needs to be fed every 2 to 3 hours .</s>
+<s id='vn137'>Một đứa trẻ sơ sinh cần được cho bú 2 đến 3 tiếng đồng hồ một lần .</s>
+<a id='ev137'>1-1;2-4,5;3-2,3;4-6,7;7-8,9;8-16,17;9-10;10-11;11-12;12-13,14,15;</a>
+</spair>
+<spair id='138'>
+<s id='en138'>If you 're breastfeeding , give your baby the chance to nurse about 15 minutes at each breast .</s>
+<s id='vn138'>Nếu bạn nuôi con bằng sữa mẹ , cho bé bú mỗi bên ngực khoảng từ 10 đến 15 phút .</s>
+<a id='ev138'>1-1;2-2;4-3,4,5,6,7;6-9,11;8-10;13-15;14-17,18,19;15-20;17-12,13;18-14;</a>
+</spair>
+<spair id='139'>
+<s id='en139'>If you 're feeding , your baby will most likely take about 3 ounces ( 90 milliliters ) at each feeding .</s>
+<s id='vn139'>Nếu bạn cho bé bú bằng sữa bột , mỗi lần bé bú có thể từ 2 đến 3 xơ ( 90ml ) .</s>
+<a id='ev139'>1-1;2-2;4-3,4,5,6,7,8;7-12;11-14,15;12-16;13-17,18,19;14-20;16,17-22;20-10,11;21-13;</a>
+</spair>
+<spair id='140'>
+<s id='en140'>Some newborns need to be awakened every few hours to make sure they get enough to eat .</s>
+<s id='vn140'>Một số trẻ sơ sinh cần được đánh thức dậy vài tiếng đồng hồ một lần để đảm bảo chúng bú đủ .</s>
+<a id='ev140'>1-1,2;2-3,4,5;3-6;6-7,8,9,10;7-15,16;8-11;9-12,13,14;10-17;11-18;12-19;13-20;14-21;15,16,17-22;</a>
+</spair>
+<spair id='141'>
+<s id='en141'>Call your baby 's doctor if you need to awaken your newborn frequently or if your baby doesn't seem interested in eating or sucking .</s>
+<s id='vn141'>Hãy gọi cho bác sĩ xem liệu bạn có cần đánh thức bé thường xuyên không hay xem liệu con bạn không thích ăn hay bú .</s>
+<a id='ev141'>1-1,2,3;5-4,5;6-6,7;7-8;8-9,10;10-11,12;12-13;13-14,15,16;14-17;15-18,19;16-21;17-20;20-22,23;22-24;23-25;24-26;</a>
+</spair>
+<spair id='142'>
+<s id='en142'>If you 're feeding , you can easily monitor if your baby is getting enough , but if you 're breastfeeding , it can be a little trickier .</s>
+<s id='vn142'>Nếu bạn cho con bú bằng sữa bột , bạn có thể dễ dàng kiểm tra được xem bé có bú đủ chưa , nhưng nếu bạn cho con bú bằng sữa mẹ , việc này khó khăn hơn một chút .</s>
+<a id='ev142'>1-1;2-2;4-3,4,5,6,7,8;6-10;7-11,12;8-13,14;9-15,16,17;10-18;12-19;14-20,21;15-22,23;17-25;18-26;19-27;21-28,29,30,31,32,33;23-35,36;27-40,41;28-37,38,39;</a>
+</spair>
+<spair id='143'>
+<s id='en143'>If your baby seems satisfied , about six wet diapers and several stools a day , sleeps well , and is gaining weight regularly , then he or she is probably eating enough .</s>
+<s id='vn143'>Nếu bé tiểu khoảng 6 lần và đi cầu vài lần một ngày , ngủ ngon và tăng cần đều , có thể là bé đã bú đủ rồi .</s>
+<a id='ev143'>1-1;2,3-2;7-4;8-5,6;9,10-3;11-7;12-10,11;13-8,9;14-12;15-13;17-15;18-16;20-17;22-18;23-19;24-20;26-22,23;27,28,29-25;31-26;32-27;33-28,29;</a>
+</spair>
+<spair id='144'>
+<s id='en144'>Talk to your doctor if you have concerns about your child 's growth or feeding schedule .</s>
+<s id='vn144'>Hãy trao đổi với bác sĩ nếu bạn quan tâm về sự phát triển và thời gian ăn uống của bé .</s>
+<a id='ev144'>1-1,2,3;2-4;4-5,6;5-7;6-8;8-9,10;9-11;11-21;12-20;13-12,13,14;14-15;15-18,19;16-16,17;</a>
+</spair>
+<spair id='145'>
+<s id='en145'>Babies often swallow air during feedings , which can make them fussy .</s>
+<s id='vn145'>Trẻ sơ sinh thường nuốt không khí khi bú , có thể làm cho chúng quấy khóc .</s>
+<a id='ev145'>1-1,2,3;2-4;3-5;4-6,7;5-8;6-9;9-11,12;10-13,14;11-15;12-16,17;</a>
+</spair>
+<spair id='146'>
+<s id='en146'>You can prevent this by burping your baby frequently .</s>
+<s id='vn146'>Bạn có thể ngăn chặn điều này bằng cách vỗ cho bé ợ thường xuyên .</s>
+<a id='ev146'>1-1;2-2,3;3-4,5;4-6,7;5-8,9;6-10,11,13;8-12;9-14,15;</a>
+</spair>
+<spair id='147'>
+<s id='en147'>Try burping your baby every 2 to 3 ounces ( 90 milliliters ) if you feed and each time you switch breasts if you breastfeed .</s>
+<s id='vn147'>Cố vỗ cho bé ợ hơi mỗi lần 2 đến 3 xơ ( 90ml ) nếu bạn cho bé bú bình và mỗi lần bạn đổi ngực nếu bạn cho bé bú mẹ .</s>
+<a id='ev147'>1-1;2-2,3,5,6;4-4;5-7,8;6-9;7-10;8-11;9-12;11,12-14;14-16;15-17;16-18,19,20,21;17-22;18-23;19-24;20-25;21-26;22-27;23-28;24-29;25-30,31,32,33;</a>
+</spair>
+<spair id='148'>
+<s id='en148'>If your baby tends to be gassy , has gastroesophageal reflux , or seems fussy , try burping your baby every ounce during feeding or every 5 minutes during breastfeeding .</s>
+<s id='vn148'>Nếu con bạn hay bị đầy hơi , bị trào ngược dạ dày thực quản , cố vỗ cho bé ợ cứ mỗi ao - xơ trong suốt thời gian cho bé bú bình hoặc cứ 5 phút một trong thời gian bé bú mẹ .</s>
+<a id='ev148'>1-1;2-3;3-2;4,5-4;7-5,6,7;10-9,10;11-11;15-12,13,14,15;17-17;18-18,21;20-20;21-22,23;22-24,26;23-27,28,29,30;24-31,32,33,34;25-35;26-36,39;27-37;28-38;29-40,41,42;30-43,44,45;</a>
+</spair>
+<spair id='149'>
+<s id='en149'>The following are burping strategies :</s>
+<s id='vn149'>Dưới đây là các cách vỗ cho bé ợ hơi :</s>
+<a id='ev149'>2-1,2;4-6,7,8,9,10;5-4,5;</a>
+</spair>
+<spair id='150'>
+<s id='en150'>Hold your baby upright with his or her head on your shoulder .</s>
+<s id='vn150'>Ôm bé thẳng dậy cho đầu bé tựa vào vai của bạn .</s>
+<a id='ev150'>1-1;3-2;4-3,4;5-5;6,7,8-7;9-6;10-8,9;11-11,12;12-10;</a>
+</spair>
+<spair id='151'>
+<s id='en151'>Support your baby 's head and back while gently patting the back with your other hand .</s>
+<s id='vn151'>Đỡ cổ và lưng bé trong khi dùng bàn tay khác vỗ nhẹ nhàng vào lưng bé .</s>
+<a id='ev151'>1-1;3-5;5-2;6-3;7-4;8-6,7;9-13,14;10-12;12-15,16,17;13-8;15-11;16-9,10;</a>
+</spair>
+<spair id='152'>
+<s id='en152'>Sit your baby on your lap .</s>
+<s id='vn152'>Để bé ngồi vào lòng bạn .</s>
+<a id='ev152'>1-3;3-1,2;4-4;5-6;6-5;</a>
+</spair>
+<spair id='153'>
+<s id='en153'>Support your baby 's chest and head with one hand by cradling your baby 's chin in the palm of your hand and resting the heel of your hand on your baby 's chest ( be careful to grip your baby 's chin - not throat ) .</s>
+<s id='vn153'>Một tay đỡ ngực và đầu bé bằng cách giữ nhẹ cằm bé trong lòng bàn tay bạn và dựa cùi tay lên ngực bé ( cẩn thận giữ chặt cằm của bé – không phải là cổ họng ) .</s>
+<a id='ev153'>5-4;6-5;7-6;9-1;10-2;11-8,9;12-10,11;14-13;16-12;17-14;19-15,16,17;21,22-18;23-19;24-20;26-21,22;30-23;32-25;34-24;37-27,28;39-29,30;41-33;42-32;43-31;45-35,36,37;46-38,39;</a>
+</spair>
+<spair id='154'>
+<s id='en154'>Use the other hand to gently pat your baby 's back .</s>
+<s id='vn154'>Dùng tay kia vỗ nhẹ nhàng lưng của bé .</s>
+<a id='ev154'>1-1;3-3;4-2;6-5,6;7-4;9-9;10-8;11-7;</a>
+</spair>
+<spair id='155'>
+<s id='en155'>Lay your baby down on your lap .</s>
+<s id='vn155'>Đặt bé nằm sấp vào lòng của bạn .</s>
+<a id='ev155'>1-1;3-2;4-3,4;5-5;6-7,8;7-6;</a>
+</spair>
+<spair id='156'>
+<s id='en156'>Support baby 's head , making sure it 's higher than chest , and gently pat or rub his or her back .</s>
+<s id='vn156'>Đỡ đầu của bé , đảm bảo rằng đầu phải cao hơn ngực , rồi vỗ hoặc chà nhẹ nhàng vào lưng của bé .</s>
+<a id='ev156'>1-1;2-4;3-3;4-2;6-6;7-7,8;8-9;9-10;10-11;11-12;12-13;14-15;15-19,20;16-16;17-17;18-18;19,20,21-24;22-21,22;</a>
+</spair>
+<spair id='157'>
+<s id='en157'>If your baby doesn't burp after a few minutes , change the baby 's position and try burping for another few minutes before feeding again .</s>
+<s id='vn157'>Nếu sau một vài phút mà bé không ợ , hãy thay đổi tư thế của bé và cố vỗ cho bé ợ thêm vài phút nữa trước khi cho bé ăn trở lại .</s>
+<a id='ev157'>1-1;3-7;4-8;5-9;6-2;8-3,4;9-5;11-11,12,13;13-17;14-16;15-14,15;16-18;17-19;18-20,21,22,23,24;20-27;21-25;22-26;23-28,29;24-30,31,32;25-33,34;</a>
+</spair>
+<spair id='158'>
+<s id='en158'>Always burp your baby when feeding time is over , then keep him or her in an upright position for at least 15 minutes to avoid spitting up .</s>
+<s id='vn158'>Hãy luôn vỗ cho bé ợ khi đã cho bé ăn xong , sau đó hãy bế bé thẳng dậy ít nhất từ 10 đến 15 phút để đừng nôn .</s>
+<a id='ev158'>1-1,2;2-3,4,6;4-5;5-7;6-8,9,10,11;9-12;11-14,15;12-16,17;13,14,15-18;18-19;19-20;21-21;22-22;23-24,25,26;24-27;25-28;26-29;27,28-30;</a>
+</spair>
+<spair id='159'>
+<s id='en159'>Sleeping basics</s>
+<s id='vn159'>Những điều cơ bản về giấc ngủ</s>
+<a id='ev159'>1-6,7;2-1,2,3,4;</a>
+</spair>
+<spair id='160'>
+<s id='en160'>As a new parent , you may be surprised to learn that your newborn , who seems to need you every minute of the day , actually sleeps about 16 hours or more !</s>
+<s id='vn160'>Vì mới lần đầu làm bố mẹ , bạn có thể cảm thấy ngạc nhiên khi biết con bạn có vẻ cần bạn từng giờ từng phút một , thực ra chúng ngủ khoảng chừng 16 tiếng đồng hồ hoặc nhiều hơn nữa !</s>
+<a id='ev160'>1-1;3-2,3,4;4-5,6,7;6-9;7-10,11;9-12,13,14,15;10-16;11-17;13-19;14-18;17-20,21;19-22;20-23;21-24;22-25,26,27,28;27-30,31;28-32,33;29-34,35;30-36;31-37,38,39;32-40;33-41,42,43;</a>
+</spair>
+<spair id='161'>
+<s id='en161'>Newborns typically sleep for periods of 4 hours .</s>
+<s id='vn161'>Trẻ sơ sinh thường ngủ những giấc từ 3 đến 4 tiếng đồng hồ .</s>
+<a id='ev161'>1-1,2,3;2-4;3-5;5-6,7;7-9,10,11;8-12,13,14;</a>
+</spair>
+<spair id='162'>
+<s id='en162'>Don't expect yours to sleep through the night - the digestive system of babies is so small that they need nourishment every few hours and should be awakened if they haven't been fed for 5 hours ( or more frequently ) .</s>
+<s id='vn162'>Bạn cũng đừng mong chờ là con của bạn sẽ ngủ suốt đêm – hệ tiêu hóa của trẻ sơ sinh quá nhỏ đến nỗi chúng cần thức ăn vài giờ một lần và sẽ bị thức giấc nếu chúng không được cho bú trong 5 tiếng đồng hồ ( hoặc nhiều hơn nữa ) .</s>
+<a id='ev162'>1-3;2-4,5;3-7,8,9;4-10;5-11;6-12;8-13;11-16,17;12-15;13-18;14-19,20,21;15-22;17-23;18-24,25;19-26;20-27;21-28,29;22-32,33;23-30;24-31;25-34;26-35;28-36,37,38;29-39;30-40;33-41,42,43,44;34-45;35-46;36-47,48,49;38-51;39-52,53;40-54;</a>
+</spair>
+<spair id='163'>
+<s id='en163'>When can you expect your baby to sleep through the night ?</s>
+<s id='vn163'>Khi nào thì bạn có thể mong cho con mình ngủ suốt cả đêm ?</s>
+<a id='ev163'>1-1,2;2-5,6;3-4;4-7;5-10;6-9;8-11;9-12,13;11-14;</a>
+</spair>
+<spair id='164'>
+<s id='en164'>Many babies sleep through the night ( between 8 hours ) at 3 months of age , but if yours doesn't , it 's not a cause for concern .</s>
+<s id='vn164'>Nhiều trẻ ngủ suốt đêm ( từ 6 đến 8 tiếng ) khi chúng lên 3 tháng tuổi , nhưng nếu con bạn không ngủ được , cũng chẳng là vấn đề gì khiến bạn phải lo lắng .</s>
+<a id='ev164'>1-1;2-2;3-3;4-4;6-5;8-7;9-8,9,10;10-11;12-13;13-16;14-17;16-18;18-20;19-21;20-22,23;21-24,25,26;23-28,29,30,31,32,33;27-34,35;28-36;29-37,38;</a>
+</spair>
+<spair id='165'>
+<s id='en165'>Like adults , babies must develop their own sleep patterns and cycles , so if your newborn is gaining weight and healthy , don't despair if he or she hasn't slept through the night at 3 months .</s>
+<s id='vn165'>Giống như người lớn , trẻ sơ sinh cũng phải phát triển kiểu và chu kỳ ngủ của mình , vì thế nếu con bạn tăng cân và khỏe mạnh , chớ thất vọng nếu bé không ngủ suốt cả đêm vào 3 tháng tuổi .</s>
+<a id='ev165'>1-1,2,3;2-4;4-6,7,8;5-10;6-11,12;7-18;8-19;9-17;10-13;11-14;12-15,16;14-21,22;15-23;16-25;17-24;19-26;20-27;21-28;22-29,30;24-32;25-33,34;26-35;27,28,29-36;30-37;31-38;32-39,40;34-41;35-42;36-43;37-44,45;</a>
+</spair>
+<spair id='166'>
+<s id='en166'>It 's important to place babies on their backs to sleep to reduce the risk of sudden infant death syndrome .</s>
+<s id='vn166'>Điều quan trọng nên để bé nằm ngửa khi ngủ để giảm nguy cơ hội chứng đột tử ở trẻ .</s>
+<a id='ev166'>1-1;3-2,3;4-4;5-5;6-6;7-7;8,9-8;10-9;11-10;12-11;13-12;15-13,14;17-17;18-20;19-18;20-15,16;</a>
+</spair>
+<spair id='167'>
+<s id='en167'>In addition , remove all fluffy bedding , quilts , sheepskins , stuffed animals , and pillows from the crib to ensure that your baby doesn't get tangled in them or suffocate .</s>
+<s id='vn167'>Ngoài ra , hãy bỏ đi các bộ đồ giường bằng lông , mền bông , chăn làm bằng da cừu , thú nhồi , và gối ra khỏi giường ngủ để đảm bảo rằng bé không bị quấn hoặc bị ngộp thở .</s>
+<a id='ev167'>1-1;2-2;4-4,5,6;5-7;6-11,12;7-8,9,10;9-14,15;11-17,18,19,20,21;13-24;14-23;16-26;17-27;18-28,29;20-30,31;21-32;22-33,34;23-35;25-36;26-37;28-38,39;31-40;32-41,42,43;</a>
+</spair>
+<spair id='168'>
+<s id='en168'>Also be sure to alternate the position of your baby 's head from night to night ( first right , then left , and so on ) to prevent being flat on one side of the head .</s>
+<s id='vn168'>Bạn cũng đảm bảo việc thay đổi tư thế đầu của bé từng đêm một ( quay phải , rồi quay trái , v.v . ) để tránh bị dẹp một bên đầu của bé .</s>
+<a id='ev168'>1-2;3-3,4;5-5,6,7;7-8,9;10-12;11-11;12-10;14-13;15-14;16-15;18-17;19-18;21-20;22-21,22;24,25,26-24;28-27;29-28;31-29,30;33-31;34-32;35-34;37-33,35;</a>
+</spair>
+<spair id='169'>
+<s id='en169'>Even though you may feel anxious about handling a newborn , in a few short weeks you 'll develop a routine and be parenting like a pro!</s>
+<s id='vn169'>Mặc dù bạn có thể cảm thấy lo âu về việc trông nom trẻ sơ sinh , bạn sẽ nhanh tạo thói quen và có thể nuôi con thông thạo trong vài tuần ngắn thôi !</s>
+<a id='ev169'>1-1;2-2;3-3;4-4,5;5-6,7;6-8,9;7-10;8-11,12,13;10-14,15,16;12-31;14-32;15-34;16-33;17-18;18-19;19-20,21;21-22,23;22-24;24-25,26,27,28;27-29,30;</a>
+</spair>
+<spair id='170'>
+<s id='en170'>If you have any questions or concerns , ask your doctor to recommend resources that can help you and your baby grow together .</s>
+<s id='vn170'>Nếu bạn quan tâm hay muốn đặt câu hỏi về bât kỳ vấn đề gì , hãy tham khảo ý kiến bác sĩ để được khuyên về các phương pháp có thể giúp cả bạn và bé cùng nhau phát triển .</s>
+<a id='ev170'>1-1;2-2;4-11,12,13,14,15;5-6,7,8,9;6-5;7-3,4;9-17,18,19;11-20,21,22,23;13-25,26;14-28,29,30;16-31,32;17-33;18-34,35;19-36;21-37;22-40,41;23-38,39;</a>
+</spair>
+</text>
+</doc>

@@ -1,0 +1,142 @@
+﻿<doc id='N0234'>
+<head>
+<title>Brown rice - white rice</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>22/10/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Brown rice - white rice</s>
+<s id='vn1'>Gạo lức gạo trắng</s>
+<a id='ev1'>1-2;2-1;4-4;5-3;</a>
+</spair>
+<spair id='2'>
+<s id='en2'>Brown rice - an environmentally friendlier choice</s>
+<s id='vn2'>Gạo lức - sự lựa chọn thân thiện hơn về phương diện môi trường</s>
+<a id='ev2'>1,2-1,2;5-10,11,12,13,14;6-7,8,9;7-4,5,6;</a>
+</spair>
+<spair id='3'>
+<s id='en3'>Brown rice is not only better for you , but_also it 's better for the environment than white rice too .</s>
+<s id='vn3'>Gạo lức không chỉ tốt cho sức khỏe của bạn , mà còn tốt hơn cho môi trường so với gạo trắng nữa .</s>
+<a id='ev3'>1,2-1,2;4,5-3,4;6-5;7-6;8-10;10,11-12,13;14-14,15;15-16;17-17,18;18-19,20;19,20-21,22;</a>
+</spair>
+<spair id='4'>
+<s id='en4'>So what 's the difference ?</s>
+<s id='vn4'>Vậy sự khác biệt đó là gì ?</s>
+<a id='ev4'>1-1;2-7;3-6;4-5;5-2,3,4;</a>
+</spair>
+<spair id='5'>
+<s id='en5'>Rice goes through a variety of processes before it 's ready for cooking .</s>
+<s id='vn5'>Gạo được qua nhiều quy trình chế biến trước khi đem nấu .</s>
+<a id='ev5'>1-1;2-2;3-3;5-4;7-5,6,7,8;8-9,10;13-12;</a>
+</spair>
+<spair id='6'>
+<s id='en6'>After harvesting , the seeds are run through a rice huller husker for milling to remove the outer grain husks .</s>
+<s id='vn6'>Sau khi thu hoạch , gạo được qua quá trình bóc vỏ để tách lớp vỏ ngoài .</s>
+<a id='ev6'>1-1,2;2-3,4;5-6;7-7;8-8;11,12-12;14-11;15-13;16-14;18-17;20-15,16;</a>
+</spair>
+<spair id='7'>
+<s id='en7'>After this process , you 're left with brown rice .</s>
+<s id='vn7'>Sau quá trình này , chúng ta có gạo lức .</s>
+<a id='ev7'>1-1;2-4;3-2,3;5-6,7;8-8;9,10-9,10;</a>
+</spair>
+<spair id='8'>
+<s id='en8'>Nice and simple .</s>
+<s id='vn8'>Thật đơn giản và thoải mái .</s>
+<a id='ev8'>1-5,6;2-4;3-2,3;</a>
+</spair>
+<spair id='9'>
+<s id='en9'>To create white rice , there 's added steps .</s>
+<s id='vn9'>Để có được gạo trắng , cần thêm nhiều bước nữa .</s>
+<a id='ev9'>1-1;2-2,3;3,4-4,5;8-8;9-9,10;</a>
+</spair>
+<spair id='10'>
+<s id='en10'>The germ and the inner husk ( bran ) is removed , the grain is then polished , usually using glucose or talc .</s>
+<s id='vn10'>Mầm và lớp vỏ lụa bên trong hạt gạo ( cám ) được tẩy sạch và hạt gạo qua quy trình đánh bóng , thường bằng glucoza hoặc bột talc .</s>
+<a id='ev10'>2-1;3-2;5-6,7;6-4,5;8-11;11-13,14,15;14-17,18;17-22,23;19-25;21-27;22-28;23-29,30;</a>
+</spair>
+<spair id='11'>
+<s id='en11'>The loss of nutrients is broad and substantial .</s>
+<s id='vn11'>Lượng dưỡng chất mất đi rất đáng kể và giá trị .</s>
+<a id='ev11'>2-4,5;4-1,2,3;6-7,8;7-9;8-10,11;</a>
+</spair>
+<spair id='12'>
+<s id='en12'>Plain white rice has far less Vitamin E , Thiamin , Riboflavin , Niacin , Vitamin B6 , Folacin , Potassium , Magnesium , Iron and over dozen other nutrients .</s>
+<s id='vn12'>Gạo trắng có rất ít vitamin E , ti-a-min , vitamin B2 , ni-a-xin , vi-ta-min B6 , a-xít phô-lích , ka-li , ma-giê , sắt và nhiều dưỡng chất khác nữa .</s>
+<a id='ev12'>2,3-1,2;4-3;5-4;6-5;7-6;8-7;10-9;12-11,12;14-14;16-16;17-17;19-19,20;21-22;23-24;25-26;26-27;29-31;30-28,29,30;</a>
+</spair>
+<spair id='13'>
+<s id='en13'>Added to that , the dietary fiber contained in white rice is around a quarter of brown rice .</s>
+<s id='vn13'>Hơn nữa , lượng chất xơ trong gạo trắng khoảng chừng ¼ lượng chất xơ trong gạo lức .</s>
+<a id='ev13'>1-1,2;6-4,5;7-6;8-7;10,11-8,9;13-10,11;15-12;16-16;18-17,18;</a>
+</spair>
+<spair id='14'>
+<s id='en14'>So , brown rice certainly appears to be more healthy , but where does the environmental benefit come from ?</s>
+<s id='vn14'>Vì vậy , gạo lức chắc chắn là có lợi cho sức khỏe hơn rồi , nhưng lợi ích môi trường ở đâu ?</s>
+<a id='ev14'>1-1,2;4-4,5;5-6,7;9-14;10-9,10,11;13-22,23;14-12,13;16-20,21;17-18,19;</a>
+</spair>
+<spair id='15'>
+<s id='en15'>It 's basically down to processing - the less processing of a food , the less energy required .</s>
+<s id='vn15'>Cơ bản là do quá trình chế biến - càng ít chế biến thực phẩm thì càng ít sử dụng năng lượng .</s>
+<a id='ev15'>2-3;3-1,2;6-5,6,7,8;9-10,11;10-12,13;13-14,15;16-17,18;17-21,22;18-19,20;</a>
+</spair>
+<spair id='16'>
+<s id='en16'>These sorts of processes are well known for their negative impact on the environment .</s>
+<s id='vn16'>Các quá trình chế biến này cũng có ảnh hưởng xấu đến môi trường .</s>
+<a id='ev16'>1-6;4-1,2,3,4,5;5,6,7-7;11-8,9,10,11;12-12;14-13,14;</a>
+</spair>
+<spair id='17'>
+<s id='en17'>If you 're accustomed to white rice , making the switch to brown suddenly can cause a taste bud rebellion - it certainly did for me .</s>
+<s id='vn17'>Nếu bạn quen với gạo trắng thì việc chuyển sang gạo lức đột ngột có thể làm bạn không hợp vị - dĩ nhiên tôi cũng có cảm giác tương tự .</s>
+<a id='ev17'>1-1;2-2;4-3;6,7-5,6;11-8,9,10;13-11,12;14-13,14;15-15,16;16-17,18;18-20,21;20-19;23-23,24;26-25;</a>
+</spair>
+<spair id='18'>
+<s id='en18'>It 's somewhat of an acquired taste for many people .</s>
+<s id='vn18'>Đối với nhiều người cần phải mất một thời gian mới quen dần hương vị này .</s>
+<a id='ev18'>3-8,9,10;6-5,6,7;7-14,15;8-1,2;9-3;10-4;</a>
+</spair>
+<spair id='19'>
+<s id='en19'>I suggest adding extra sauces to mask the " wilder " taste of brown rice for a while to allow your tastes to adjust .</s>
+<s id='vn19'>Tôi đề nghị là nên thêm vào nước xốt để át bớt đi hương vị " thuần tuý " của gạo lức trong một thời gian để bạn có thể điều chỉnh thích hợp vị giác của mình .</s>
+<a id='ev19'>1-1;2-2,3;3-6,7;5-8,9;6-10;7-11,12,13;10-17,18;12-14,15;13-20;14,15-21,22;16-23;17-24;18-25,26;19-27;21-37,38;22-35,36;24-31,32,33,34;</a>
+</spair>
+<spair id='20'>
+<s id='en20'>Once you 've acquired a taste for brown rice , it 's likely you 'll never go back to white .</s>
+<s id='vn20'>Một khi mà bạn đã quen hương vị gạo lức thì có thể sẽ chẳng bao giờ muốn quay lại ăn gạo trắng đâu .</s>
+<a id='ev20'>1-1,2;2-4;4-5,6;6-7,8;9-9,10;12-11;13-12,13;15-14;16-15,16,17;17,18-20,21;20-22,23;</a>
+</spair>
+<spair id='21'>
+<s id='en21'>When you buy rice , because it keeps so well , try and buy in quantity to save on packaging .</s>
+<s id='vn21'>Khi bạn mua gạo , vì gạo bảo quản rất tốt , thế nên cố mua nhiều để tiết kiệm bao bì .</s>
+<a id='ev21'>1-1;3-3;4-4;6-6;7-19,20;8-8,9;9-13;10-11;12-15;14-16;16-17;18-18;20-21,22;</a>
+</spair>
+<spair id='22'>
+<s id='en22'>The rice we buy comes in cloth bags which we 've put to very good use after finishing the contents .</s>
+<s id='vn22'>Gạo chúng ta mua thường đựng trong túi vải và chúng ta sử dụng được sau khi ăn hết gạo .</s>
+<a id='ev22'>2-1;3-2,3;4-4;5-6;6-7;7-9;8-8;10-11,12;16-13,14,15;17-16,17;18-18,19;20-20;</a>
+</spair>
+<spair id='23'>
+<s id='en23'>Added notes : A couple of readers have pointed out ( thanks by the way ! ) that uncooked brown rice does n't keep for as long as white rice .</s>
+<s id='vn23'>Lưu ý thêm là một vài độc giả đã chỉ ( dù sao cũng cảm ơn ! ) gạo lức chưa nấu không bảo quản được lâu như gạo trắng .</s>
+<a id='ev23'>1-3;2-1,2;4-5,6;7-7,8;9-10;10-9;12-15,16;15-12,13;19-21,22;21-19,20;23-23;24-24,25;26,27-27;28-28;29,30-29,30;</a>
+</spair>
+<spair id='24'>
+<s id='en24'>Stored in an airtight container , I 'm told brown rice will keep fresh for about six months .</s>
+<s id='vn24'>Hãy bảo quản gạo trong chỗ đựng kín gió , tôi được biết là gạo lức sẽ có thể được bảo quản trong vòng khoảng chừng 6 tháng .</s>
+<a id='ev24'>1-1,2,3;2-5;4-8,9;5-6,7;7-11;9-12,13,14;10,11-15,16;12-17;13-21,22;15-23,24;16-25,26;17-27;18-28;</a>
+</spair>
+<spair id='25'>
+<s id='en25'>Brown rice does take a little longer to cook than white rice , but the time is n't much longer if you pre-soak the rice for a while and cook using the absorption method .</s>
+<s id='vn25'>Nấu cơm lức phải mất thời gian hơn cơm gạo trắng một chút , nhưng nếu bạn ngâm gạo trước một lúc và nấu bằng phương pháp hấp thụ thì sẽ chẳng mất thời gian nhiều .</s>
+<a id='ev25'>1-4;2-2,3;3-1;6-13;7-7,8,9;11-12;12-10,11;16-35,36;18-33,34;21-17;22-18;23-19;25-20;26-21;27-22;28-23;29-24;30-25;31-26;33-29,30;34-27,28;</a>
+</spair>
+<spair id='26'>
+<s id='en26'>This is where you use less water and cover the pot , leaving very little excess water left by the time the rice has cooked - the steam generated using this method also helps speed up the cooking process .</s>
+<s id='vn26'>Phương pháp này dùng ít nước hơn và đậy nắp nồi , để nước tràn rất ít trong thời gian nấu cơm - hơi nước bốc ra bằng phương pháp này cũng giúp cho quy trình nấu bếp nhanh chóng hơn nhiều .</s>
+<a id='ev26'>1-1,2,3;5-4;6-5,7;7-6;8-8;9-10;11-11;13-13;14-16;15-17;16-15;17-14;19-18;21-19,20;23-22;25-21;28-24,25;29-26,27;31-31;32-29,30;33-32;34-33,34;35-39,40;38-37,38;39-35,36;</a>
+</spair>
+</text>
+</doc>

@@ -1,0 +1,107 @@
+﻿<doc id='N0293'>
+<head>
+<title>Blocking a gene stops cancer cells spreading</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>22/10/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Blocking a gene stops cancer cells spreading</s>
+<s id='vn1'>Ức chế gien là ngăn chận tế bào ung thư lây lan</s>
+<a id='ev1'>1-1,2;3-3;4-4,5,6;5-9,10;6-7,8;7-11,12;</a>
+</spair>
+<spair id='2'>
+<s id='en2'>A gene which encourages cancer to move around the body has been discovered by the University of East Anglia .</s>
+<s id='vn2'>Gien giúp ung thư phát tán quanh cơ thể đã được Đại học East Anglia tìm ra .</s>
+<a id='ev2'>2-1;4-2;5-3,4;7-5,6;8-7;10-8,9;13-10,11,16,17;16-12,13;18-14;19-15;</a>
+</spair>
+<spair id='3'>
+<s id='en3'>Experiments on tissue cultures , published in Oncogene , suggest that blocking it would prevent cancers spreading .</s>
+<s id='vn3'>Các thí nghiệm về nuôi cấy mô , được xuất bản trên Oncogene , cho thấy rằng ức chế nó sẽ ngăn chận được ung thư lây lan .</s>
+<a id='ev3'>1-1,2,3;2-4;3-7;4-5,6;6-9,10,11;7-12;8-13;10-15,16;11-17;12-18,19;13-20;14-21;15-22,23;16-25,26;17-27,28;</a>
+</spair>
+<spair id='4'>
+<s id='en4'>The researchers hope their work will lead to a new generation of cancer drugs within the decade .</s>
+<s id='vn4'>Các nhà nghiên cứu hy vọng công trình của họ sẽ dẫn tới một thế hệ thuốc mới điều trị ung thư trong vòng một thập kỷ .</s>
+<a id='ev4'>2-1,2,3,4;3-5,6;4-9,10;5-7,8;6-11;7-12,13;9-14;10-18;11-15,16;13-19,20,21,22;14-17;15-23,24;17-25,26,27;</a>
+</spair>
+<spair id='5'>
+<s id='en5'>Cancer Research UK said the study improved understanding of this disease , but was still at the laboratory stage .</s>
+<s id='vn5'>Viện nghiên cứu ung thư Anh quốc nói rằng nghiên cứu đã mở mang kiến thức về căn bệnh này , nhưng nó vẫn còn trong giai đoạn thí nghiệm .</s>
+<a id='ev5'>1-4,5;2-1,2,3;3-6,7;4-8,9;6-10,11;7-12,13,14;8-15,16;9-17;10-20;11-18,19;13-22;15-23,24,25;16-26;18-29,30;19-27,28;</a>
+</spair>
+<spair id='6'>
+<s id='en6'>There are treatments for primary cancers , but tumours have the potential to spread .</s>
+<s id='vn6'>Có nhiều cách điều trị ung thư thời kỳ đầu , nhưng các khối u có khả năng lây lan .</s>
+<a id='ev6'>1-1;3-2,3,4,5;5-8,9,10;6-6,7;8-12;9-13,14,15;10-16;12-17,18;14-19,20;</a>
+</spair>
+<spair id='7'>
+<s id='en7'>Cells can break off and travel around the body , through the bloodstream or lymph fluid , and start a new or secondary tumour where they land , a process known as metastasis .</s>
+<s id='vn7'>Các tế bào có thể vỡ ra và di chuyển quanh cơ thể , qua dòng máu hoặc dịch bạch huyết , và bắt đầu hình thành khối u mới hoặc khối u thứ phát chỗ mà chúng tới , quá trình này được gọi là sự di căn .</s>
+<a id='ev7'>1-1,2,3;2-4,5;3-6;4-7;5-8;6-9,10;7-11;9-12,13;11-15;13-16,17;14-18;15-20,21;16-19;18-23;19-24,25,26,27;21-30;22-31;23-34,35;24-28,29,32,33;25-36,37;26-38;27-39;30-41,42,43;31-44,45;32-46;33-47,48,49;</a>
+</spair>
+<spair id='8'>
+<s id='en8'>Breast cancers are known to spread to lymph nodes , the bones and the lungs .</s>
+<s id='vn8'>Ta biết là ung thư vú lan sang hạch bạch huyết , xương và phổi .</s>
+<a id='ev8'>1-6;2-4,5;4-1,2,3;6-7;7-8;8-10,11;9-9;12-13;13-14;15-15;</a>
+</spair>
+<spair id='9'>
+<s id='en9'>These secondary tumours are difficult to treat .</s>
+<s id='vn9'>Các khối u thứ phát này rất khó trị .</s>
+<a id='ev9'>1-6;2-4,5;3-1,2,3;5-7,8;7-9;</a>
+</spair>
+<spair id='10'>
+<s id='en10'>The rogue gene</s>
+<s id='vn10'>Gien sai lệch</s>
+<a id='ev10'>2-2,3;3-1;</a>
+</spair>
+<spair id='11'>
+<s id='en11'>The team at the University of East Anglia has found a gene which helps the cancer spread .</s>
+<s id='vn11'>Nhóm tại Đại học East Anglia đã tìm ra gien giúp ung thư lây lan .</s>
+<a id='ev11'>2-1;3-2;5-3,4;7-5;8-6;10-7,8,9;12-10;14-11;16-12,13;17-14,15;</a>
+</spair>
+<spair id='12'>
+<s id='en12'>The gene , WWP2 , leads to the breakdown of an inhibitor that normally keeps cells in check .</s>
+<s id='vn12'>Gien , WWP2 , làm tan chất ức chế , bình thường chất này ức chế tế bào .</s>
+<a id='ev12'>2-1;4-3;6-5;9-6;12-7,8,9;14-11,12;15-13,14,15,16;16-17,18;</a>
+</spair>
+<spair id='13'>
+<s id='en13'>The researchers showed , in tissue cultures , that without the inhibitor , Smad7 , cancer progressed very quickly and spread .</s>
+<s id='vn13'>Các nhà nghiên cứu cho thấy , trong khi nuôi cấy mô mà không có chất ức chế , Smad7 , ung thư phát triển rất nhanh và lây lan .</s>
+<a id='ev13'>2-1,2,3,4;3-5,6;5-8,9;6-12;7-10,11;9-13;10-14,15;12-16,17,18;14-20;16-22,23;17-24,25;18-26;19-27;20-28;21-29,30;</a>
+</spair>
+<spair id='14'>
+<s id='en14'>Blocking the gene prevented that spread .</s>
+<s id='vn14'>Ức chế gien là ngăn chặn lây lan .</s>
+<a id='ev14'>1-5,6;3-3;4-1,2;6-7,8;</a>
+</spair>
+<spair id='15'>
+<s id='en15'>Dr Andrew Chantry , who led the study , said : " I think we 're really onto something important if we can put a wall around a cancer and lock it in place . "</s>
+<s id='vn15'>Tiến sĩ Andrew Chantry , người dẫn đầu công trình nghiên cứu nói : " Tôi nghĩ chúng ta thật sự tìm được cái gì đó quan trọng nếu chúng ta có thể bao vây và phong toả ung thư . "</s>
+<a id='ev15'>1-1,2;2-3;3-4;5-6;6-7,8;8-9,10,11,12;10-13;13-16;14-17;15-18,19;17-20,21;18-22,23;19-24,25,26;20-27,28;21-29;22-30,31;23-32,33;24-34;27-35;30-36;31-37,38;32-39,40;</a>
+</spair>
+<spair id='16'>
+<s id='en16'>" This discovery could lead to the development of a new generation of drugs within the decade that could be used to stop the aggressive spread of most forms of this disease . "</s>
+<s id='vn16'>" Khám phá này có thể dẫn đến việc phát triển một thế hệ thuốc mới trong một thập kỷ có thể dùng để ngăn chận việc lây lan nhanh bệnh này dưới nhiều hình thức . "</s>
+<a id='ev16'>2-4;3-2,3;4-5,6;5-7,8;8-9,10,11;10-12;11-16;12-13,14;14-15;15-17;17-18,19,20;21-21,22,23;22-24;23-25,26;25-30;26-27,28,29;28-34;29-35,36;31-32;32-31;</a>
+</spair>
+<spair id='17'>
+<s id='en17'>This team are now recruiting chemists to help them design a drug which could interrupt the gene 's activity .</s>
+<s id='vn17'>Hiện nay nhóm này đang tuyển dụng các nhà hoá học để giúp họ tạo ra một loại kế thuốc có thể ngăn chận hoạt động của gien .</s>
+<a id='ev17'>1-4;2-3;4-1,2;5-5,6,7;6-8,9,10,11;7-12;8-13;9-14;10-15,16;11-17;12-18,19,20;14-21,22;15-23,24;17-28;18-27;19-25,26;</a>
+</spair>
+<spair id='18'>
+<s id='en18'>Dr Kat Arney , science information manager at Cancer Research UK , said : " Over recent decades researchers all over the world have discovered genes that drive the growth and spread of cancer , and this research adds one more to this ever-growing list .</s>
+<s id='vn18'>Tiến sĩ Kat Arney , người phụ trách về thông tin khoa học tại Viện nghiên cứu ung thư Anh quốc , đã nói : " Trong những thập kỷ gần đây các nhà nghiên cứu khắp thế giới đã khám phá ra gien làm phát triển và lây lan ung thư , và nghiên cứu này coi như làm cho danh sách này dài ra thêm .</s>
+<a id='ev18'>1-1,2;2-3;3-4;5-12,13;6-10,11;7-6,7,8;8-14;9-18,19;10-15,16,17;11-20,21;13-23,24;16-27;17-31,32;18-28,29,30;19-33,34,35,36;20,21-37;23-38,39;25-40,41,42,43;26-44;28-45;30-46,47;31-48;32-49,50;34-51,52;36-54;37-57;38-55,56;39-58,59,60,61;41-65,66,67;43-64;45-62,63;</a>
+</spair>
+<spair id='19'>
+<s id='en19'>" But , while these new results aid our understanding of the complexities of cancer and could point towards potential leads for future anti-cancer drugs , this work is still at the laboratory stage . "</s>
+<s id='vn19'>" Nhưng trong khi các kết quả mới này giúp chúng tôi hiểu về tính phức tạp của ung thư và có thể hướng đến những bước tiến mới về thuốc trị ung thư trong tương lai , công trình này vẫn còn trong giai đoạn thí nghiệm . "</s>
+<a id='ev19'>2-2;4-3,4;5-9;6-8;7-5,6,7;8-10;9-11,12;10-13;11-14;13-15,16,17;14-18;15-19,20;16-21;17-22,23;18-24;19-25;20-29;21-26,27,28;22-30;23-35,36,37;24-32,33,34;25-31;27-41;28-39,40;30-42,43;31-44;33-47,48;34-45,46;</a>
+</spair>
+</text>
+</doc>

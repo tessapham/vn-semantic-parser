@@ -1,0 +1,137 @@
+﻿<doc id='N0390'>
+<head>
+<title>Intel New Launches .NET SDK and Visual Studio Plug-In</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>22/10/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Intel New Launches .NET SDK and Visual Studio Plug-In</s>
+<s id='vn1'>Intel Ra Mắt Bộ Công Cụ Phát Triển Phần Mềm .NET mới và Phần tích hợp thêm cho Visual Studio</s>
+<a id='ev1'>1-1;2-12;3-2,3;4-11;5-4,5,6,7,8,9,10;6-13;7-19;8-20;9-14,15,16,17;</a>
+</spair>
+<spair id='2'>
+<s id='en2'>Intel has delivered a new .NET software development kit for .NET applications and a plug-in for Microsoft Visual Studio to its AppUp developer program .</s>
+<s id='vn2'>Intel vừa ra mắt bộ công cụ phát triển phần mềm .NET mới cho các ứng dụng .NET và một plug-in tích hợp với Microsoft Visual Studio để các nhà phát triển kho ứng dụng AppUp lập trình .</s>
+<a id='ev2'>1-1;2,3-2,3,4;5-13;6-12;7-10,11;8-8,9;9-5,6,7;10-14;11-18;12-15,16,17;13-19;14-20;15-21,22,23;16-24;17-25;18-26;19-27;20-28;22-33,34,35,36;23-29,30,31,32;24-37,38;</a>
+</spair>
+<spair id='3'>
+<s id='en3'>Intel has launched a new software development kit for .NET applications to its AppUp developer program .</s>
+<s id='vn3'>Intel vừa mới mắt bộ công cụ phát triển phần mềm mới cho các ứng dụng .NET để các nhà phát triển kho ứng dụng AppUp lập trình .</s>
+<a id='ev3'>1-1;2,3-2,3,4;5-12;6-10,11;7-8,9;8-5,6,7;9-13;10-17;11-14,15,16;12-18;14-23,24,25,26;15-19,20,21,22;16-27,28;</a>
+</spair>
+<spair id='4'>
+<s id='en4'>The new .NET SDK joins Intel 's support for other platforms as part of AppUp .</s>
+<s id='vn4'>SDK .NET mới kết hợp sự hỗ trợ của Intel cho các nền tảng khác như là một phần của AppUp .</s>
+<a id='ev4'>2-3;3-2;4-1;5-4,5;6-10;7-9;8-6,7,8;9-11;10-15;11-12,13,14;12-16,17;13-18,19;14-20;15-21;</a>
+</spair>
+<spair id='5'>
+<s id='en5'>Intel 's AppUp program initially launched with support for C C++ applications , and Intel later launched support for AIR applications in August .</s>
+<s id='vn5'>Chương trình AppUp của Intel ban đầu ra mắt với sự hỗ trợ cho các ứng dụng được viết bằng C C++ , và sau đó Intel ra mắt hỗ trợ các ứng dụng nền tảng AIR vào tháng 8 .</s>
+<a id='ev5'>1-5;2-4;3-3;4-1,2;5-6,7;6-8,9;7-10;8-11,12,13;10-21;11-22;12-15,16,17;14-24;15-27;16-25,26;17-28,29;18-30,31;20-37;21-32,33,34;22-38;23-39,40;</a>
+</spair>
+<spair id='6'>
+<s id='en6'>" The addition of .NET continues Intel 's growing 'port of choice " approach , allowing developers to use the tools and environment they already know to create apps for distribution through the AppUp center store , " said Intel community manager Bob Duffy in an Oct. 17 blog post .</s>
+<s id='vn6'>Bob Duffy nhà quản lí cộng đồng của Intel cho biết trên blog vào ngày 17 tháng 10 : " Việc bổ sung nền tảng .NET duy trì phương pháp " chuyển đổi sự lựa chọn " phát triển của Intel , cho phép các nhà phát triển sử dụng các công cụ và môi trường quen thuộc với họ để tạo ra các ứng dụng cho việc phát hành thông qua kho trung tâm ứng dụng AppUp " .</s>
+<a id='ev6'>3-21,22,23;5-24,25;6-27,28;7-41;8-40;9-38,39;10-32,33;12-34,35,36;14-29,30;16-43,44;17-45,46,47,48;19-49,50;21-51,52,53;22-54;23-55,56;24-60;25,26-57,58;27-61;28-62,63;29-64,65,66;30-67;31-68,69,70;32-71,72;34-76,77,78;35-74,75;36-73;39-10,11;40-9;41-6,7;42-3,4,5;43-1;44-2;47-17,18;48-15,16;49,50-13;</a>
+</spair>
+<spair id='7'>
+<s id='en7'>Along with the .NET , SDK , Intel has also released the much anticipated AppUp IDE Plug-In for Visual Studio 2008 .</s>
+<s id='vn7'>Cùng với .NET , SDK , Intel cũng đã phát hành trước nhiều Plug-In IDE của AppUp cho Visual Studio 2008 .</s>
+<a id='ev7'>1,2-1,2;4-3;6-5;8-7;10-8;11-9,10,11;13-13;15-17;16-15;17-14;18-18;19-19;20-20;21-21;</a>
+</spair>
+<spair id='8'>
+<s id='en8'>" This plug-in reduces the time and effort to integrate the AppUp SDKs and build the MSI needed to submit your application to the store " .</s>
+<s id='vn8'>" Plug-in này giảm thời gian và nỗ lực tích hợp bộ SDK AppUp và tạo ra các tập tin MSI cần thiết để gửi các ứng dụng của bạn lên kho lưu trữ " .</s>
+<a id='ev8'>2-3;3-2;4-4;6-5,6;7-7;8-8,9;10-10,11;12-14;13-12,13;14-15;15-16,17;17-18,19,20,21;18-22,23;19-24;20-25;21-29,30;22-26,27,28;23-31;25-32,33,34;</a>
+</spair>
+<spair id='9'>
+<s id='en9'>The IDE Plug-in support both the C C++ and .NET SDK for Windows when using Visual Studio 2008 .</s>
+<s id='vn9'>Plug-in IDE hỗ trợ cả C C++ và bộ công cụ phát triển phần mềm .NET cho Windows khi sử dụng Visual Studio 2008 .</s>
+<a id='ev9'>2-2;3-1;4-3,4;5-5;7-6;8-7;9-8;10-16;11-10,11,12,13,14,15;12-17;13-18;14-19;15-20,21;16-22;17-23;18-24;</a>
+</spair>
+<spair id='10'>
+<s id='en10'>The new SDK can be downloaded at http://appdeveloper.intel.com/sdk .</s>
+<s id='vn10'>Bộ SDK mới có thể được tải về tại http://appdeveloper.intel.com/sdk .</s>
+<a id='ev10'>2-3;3-1,2;4-4,5;6-6,7,8;7-9;8-10;</a>
+</spair>
+<spair id='11'>
+<s id='en11'>Intel 's AppUp is a destination for developers to find everything they need to easily develop and sell applications for the Intel AppUp center , such as : Tools - including SDKs , easy deployment and validation , a Developer Catalog to buy and sell application components , application labs and a vibrant online community for support .</s>
+<s id='vn11'>AppUp của Intel là đích ngắm cho các nhà phát triển tìm thấy mọi thứ mà họ cần để dễ dàng phát triển và bán các ứng dụng cho trung tâm AppUp của Intel chẳng hạn như : Tools - bao gồm SDK , dễ dàng triển khai và phê chuẩn , Developer Catalog để mua và bán các thành phần ứng dụng , nghiên cứu ứng dụng và một cộng đồng trực tuyến lớn mạnh để hỗ trợ .</s>
+<a id='ev11'>1-3;2-2;3-1;4-4;6-5,6;7-7;8-8,9,10,11;10-12,13;11-14,15;12-17;13-18;14-19;15-20,21;16-22,23;17-24;18-25;19-26,27,28;20-29;22-34;23-32;24-30,31;26,27-35,36,37;29-39;31-41,42;32-43;34-45,46;35-47,48;36-49;37-50,51;40-53;41-54;42-55;43-56;44-57;45-58;46-62,63;47-59,60,61;49-67,68;50-65,66;51-69;52-70;53-75,76;54-73,74;55-71,72;56-77;57-78,79;</a>
+</spair>
+<spair id='12'>
+<s id='en12'>Duffy also said :" The launch of this new SDK allows the large community of .NET developers to take part in the growing app ecosystem .</s>
+<s id='vn12'>Duffy cũng đã cho biết " Việc ra mắt SDK mới này cho phép cộng đồng lớn các nhà phát triển .NET tham gia vào việc phát triển hệ sinh thái ứng dụng .</s>
+<a id='ev12'>1-1;2-2;3-3,4,5;6-7,8,9;8-12;9-11;10-10;11-13,14;13-17;14-15,16;16-22;17-18,19,20,21;19,20-23,24;21-25;23-26,27,28;24-32,33;25-29,30,31;</a>
+</spair>
+<spair id='13'>
+<s id='en13'>By integrating Intel 's .NET SDK , for AppUp into their applications , developers can submit their .NET apps for distribution and sales via the AppUp Center stores .</s>
+<s id='vn13'>Bằng cách tích hợp SDK .NET của Intel cho kho ứng dụng AppUp của họ các nhà phát triển có thể gửi lên các ứng dụng .NET của họ để phân phối và bán chúng thông qua kho trung tâm AppUp .</s>
+<a id='ev13'>1-1,2;2-3,4;3-8;4-7;6-5;8-9;9-13;11-14,15;12-10,11,12;14-16,17,18,19;15-20,21;16-22,23;17-28,29;18-27;19-24,25,26;20-30;21-31,32;22-33;23-34;24-36,37;26-41;27-39,40;28-38;</a>
+</spair>
+<spair id='14'>
+<s id='en14'>As of the publishing of this post , Intel 's AppUp store is focused on netbook devices but plans to expand it to support tablets , smartphones , TV , and other computing devices .</s>
+<s id='vn14'>Khi xuất bản bài viết này , kho ứng dụng AppUp của Intel tập trung vào các thiết bị netbook nhưng kế hoạch được mở rộng để hỗ trợ cho các máy tính bảng , điện thoại thông minh , TV và các thiết bị điện toán khác .</s>
+<a id='ev14'>1-1;4-2,3;6-6;7-4,5;9-13;10-12;11-9,10,11;12-8;14-14,15;15-16;16-20;17-17,18,19;18-21;19-22,23;21-24,25,26;23-27;24-28,29;25-31,32,33,34;27-36,37,38,39;29-41;31-42;32-48;33-46,47;34-43,44,45;</a>
+</spair>
+<spair id='15'>
+<s id='en15'>Intel has also announced additional AppUp stores with Dixon electronics in Europe , Croma retail in India , Best Buy and ASUS and more to be announced early next year .</s>
+<s id='vn15'>Intel cũng đã công bố kho ứng dụng AppUp của mình liên kết với Châu Âu , Dixon electronics , Croma ở Ấn Độ , Best Buy và ASUS và nhiều hơn nữa sẽ được công bố vào đầu năm sau .</s>
+<a id='ev15'>1-1;3-2;4-3,4,5;5-12,13;6-7,8,9;7-6;8-14;9-18;10-19;12-15,16;14-21;16-22;17-23,24;19-26;20-27;21-28;22-29;23-30;24-31,32,33;27-35,36,37;28-39;29-41;30-40;</a>
+</spair>
+<spair id='16'>
+<s id='en16'>Each store will sell netbooks with AppUp pre-installed , opening up AppUp applications to a large distribution of customers . "</s>
+<s id='vn16'>Mỗi kho lưu trữ sẽ bán các netbook kèm ứng dụng AppUp đươc cài đặt sẵn , tạo điều khiện thuận lợi cho các ứng dụng của AppUp có thể phân phối rộng đến khách hàng .</s>
+<a id='ev16'>1-1;2-2,3,4;3-5;4-6;5-7,8;6-9;7-10,11,12;8-13,14,15,16;10-18,19,20,21,22;12-28;13-24,25,26;16-33;17-31,32;19-35,36;</a>
+</spair>
+<spair id='17'>
+<s id='en17'>Also , with the launch of the AppUp .NET SDK , Intel opens up the AppUp distribution platform to its widest set of developers to date , Duffy said .</s>
+<s id='vn17'>Hơn nữa , với việc ra mắt bộ công cụ .NET SDK cho AppUp , Intel mở ra nền tảng phân phối AppUp đến toàn bộ giới phát triển , Duffy cho biết " .</s>
+<a id='ev17'>1-1,2;3-4;5-5,6,7;8-14;9-11;10-8,9,10,12;12-16;13-17,18;16-23;17-21,22;18-19,20;19-24;21-25,26;22-27;24-28,29;28-31;29-32,33;</a>
+</spair>
+<spair id='18'>
+<s id='en18'>With .NET Windows base devices using App Up , consumers will be able to get a wider range of rich applications that take advantage of the .NET development framework " .</s>
+<s id='vn18'>Với các thiết bị dựa vào nền tảng .NET của Windows sử dụng AppUp , khách hàng sẽ có thể nhận được nhiều ứng dụng phong phú hơn nhờ tận dụng các lợi thế của NET Framwork . " .</s>
+<a id='ev18'>1-1;2-9;3-11;4-5,6,7,8;5-2,3,4;6-12,13;7,8-14;10-16,17;11-18;13-19,20;15-21,22;17,18-23,28;20-26,27;21-24,25;23-30,31;24-32,33,34;25-35;27-36;29-37;</a>
+</spair>
+<spair id='19'>
+<s id='en19'>Meanwhile , Duffy added a few caveats regarding the new SDK :</s>
+<s id='vn19'>Trong khi đó , Duffy đã nói thêm một số dự đoán liên quan đến bộ SDK mới :</s>
+<a id='ev19'>1-1,2,3;3-5;4-6,7,8;5,6-9,10;7-11,12;8-13,14;10-18;11-16,17;</a>
+</spair>
+<spair id='20'>
+<s id='en20'>" Currently the submission section of the AppUp developer program site will not include a selection for .NET.</s>
+<s id='vn20'>" Hiện tại phần đệ trình của trang web chương trình phát triển AppUp không bao gồm sự lựa chọn cho .NET .</s>
+<a id='ev20'>2-2,3;4-5,6;5-4;8-14;9-12,13;10-10,11;11-8,9;14-16,17;16-18,19,20;17-21;</a>
+</spair>
+<spair id='21'>
+<s id='en21'>You can instead select Windows as you do with C_C++ submissions and include your .MSI as normal .</s>
+<s id='vn21'>Bạn có thể thay cho chọn lựa là Windows nếu như bạn muốn làm với C C++ và .MSI theo cách thông thường .</s>
+<a id='ev21'>1-1;2-2,3;3-4,5;4-6,7;5-9;6-10,11;7-12;8-14;9-15;10-16;11-17;13-18;16-19;17-20,21;18-22,23;</a>
+</spair>
+<spair id='22'>
+<s id='en22'>The submission portal will be updated with a .NET option during the next release cycle for the Website later in the year .</s>
+<s id='vn22'>Cổng thông tin đệ trình sẽ được cập nhật với các tuỳ chọn .NET trong lần phát hành kế tiếp cho Website này vào dịp gần cuối năm nay .</s>
+<a id='ev22'>2-2,3,4,5;3-1;4-6;6-7,8,9;7-10;9-14;10-11,12,13;11-15,16;13-19,20;14-17,18;16-21;17-23;18-22;19-26,27;21-29;22-28;</a>
+</spair>
+<spair id='23'>
+<s id='en23'>Currently the .NET SDK works with version 3.5 of .NET.</s>
+<s id='vn23'>Hiện bộ SDK .NET làm việc với phiên bản .NET 3.5 .</s>
+<a id='ev23'>1-1;3-4;4-2,3;5-5,6;6-7;7-8,9;8-11;10-10;</a>
+</spair>
+<spair id='24'>
+<s id='en24'>Applications using version 4.0 may have an issue with this SDK and could fail validation .</s>
+<s id='vn24'>Các ứng dụng sử dụng phiên bản 4.0 có thể gặp vấn đề với bộ SDK này và có thể không đạt hợp lệ .</s>
+<a id='ev24'>1-1,2,3;2-4,5;3-6,7;4-8;5-9,10;6-11;8-12,13;9-14;10-17;11-15,16;12-18;13-19,20;14-21,22;15-23,24;</a>
+</spair>
+<spair id='25'>
+<s id='en25'>It is recommended that your applications use version 3.5 to ensure application validation and a good consumer experience . "</s>
+<s id='vn25'>Intel đề xuất các ứng dụng của bạn sử dụng phiên bản 3.5 để đảm bảo ứng dụng hợp lệ và trải nghiệm người dùng tốt hơn . "</s>
+<a id='ev25'>1-1;3-2,3;5-7,8;6-4,5,6;7-9,10;8-11,12;9-13;10-14;11-15,16;12-17,18;13-19,20;14-21;16-26,27;17-24,25;18-22,23;</a>
+</spair>
+</text>
+</doc>

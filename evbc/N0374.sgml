@@ -1,0 +1,107 @@
+﻿<doc id='N0374'>
+<head>
+<title>Adobe , Oracle Plug Over 60 Security Vulnerabilities in Updates</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>22/10/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Adobe , Oracle Plug Over 60 Security Vulnerabilities in Updates</s>
+<s id='vn1'>Adobe , Oracle vá hơn 60 lỗ hổng bảo mật trong bản cập nhật</s>
+<a id='ev1'>1-1;3-3;4-4;5-5;6-6;7-9,10;8-7,8;9-11;10-12,13,14;</a>
+</spair>
+<spair id='2'>
+<s id='en2'>Adobe Systems and Oracle joined Microsoft today in releasing security updates , fixing a total of 62 vulnerabilities between the two of them</s>
+<s id='vn2'>Hôm nay Adobe Systems và Oracle cùng với Microsoft phát hành bản cập nhật bảo mật , cùng vá tổng cộng 62 lỗ hổng giữa hai trong số ba hãng này</s>
+<a id='ev2'>1-3;2-4;3-5;4-6;5-7,8;6-9;7-1,2;9-10,11;10-15,16;11-12,13,14;13-19;15-20,21;17-22;18-23,24;19-25;21-26;22-27;23-28,29,30,31;</a>
+</spair>
+<spair id='3'>
+<s id='en3'>Microsoft was n't the only company to issue security patches today .</s>
+<s id='vn3'>Ngày nay Microsoft không còn là công ty duy nhất đưa ra bản vá bảo mật .</s>
+<a id='ev3'>1-3;2-6;3-4,5;5-9,10;6-7,8;8-11,12;9-15,16;10-13,14;11-1,2;</a>
+</spair>
+<spair id='4'>
+<s id='en4'>Oracle and Adobe Systems pushed out updates to their products as well .</s>
+<s id='vn4'>Oracle và Adobe Systems cũng đã tung ra bản cập nhật cho các sản phẩm của họ .</s>
+<a id='ev4'>1-1;2-2;3-3;4-4;5-6,7;6-8;7-9,10,11;8-12;9-16,17;10-13,14,15;12-5;</a>
+</spair>
+<spair id='5'>
+<s id='en5'>Oracle plugged 47 security holes in a massive update , the company 's second of the year .</s>
+<s id='vn5'>Oracle đã vá 47 lỗ hổng bảo mật bằng một bản cập nhật lớn , đây là lần cập nhật thứ hai trong năm của hãng .</s>
+<a id='ev5'>1-1;2-2,3;3-4;4-7,8;5-5,6;6-9;7-10;8-14;9-11,12,13;12-26;13-25;14-21,22;15-23;17-24;</a>
+</spair>
+<spair id='6'>
+<s id='en6'>Sixteen of the Oracle vulnerabilities are tied to the Oracle Solaris ( formerly under Sun Microsystems ) product suite .</s>
+<s id='vn6'>16 lỗ hổng bảo mật của Oracle vẫn nằm trong bộ sản phẩm Oracle Solaris ( trước đây là thuộc công ty Sun Microsystems ) .</s>
+<a id='ev6'>1-1;2-6;4-7;5-2,3,4,5;7-8,9;10-14;11-15;13-17,18;14-19;15-23;16-24;18-12,13;19-11;</a>
+</spair>
+<spair id='7'>
+<s id='en7'>Eight of those 16 are remotely exploitable without user authentication .</s>
+<s id='vn7'>8 trong 16 lỗi này có thể được khai thác từ xa mà không cần xác nhận người dùng .</s>
+<a id='ev7'>1-1;2-2;3-5;4-3;6-11,12;7-9,10;8-13,14;9-18,19;10-16,17;</a>
+</spair>
+<spair id='8'>
+<s id='en8'>Oracle also fixed eight bugs in its e-business suite portfolio , seven database vulnerabilities , one flaw in the Oracle Collaboration suite and five security fixes for Oracle Fusion Middleware .</s>
+<s id='vn8'>Oracle cũng đã vá 8 lỗi trong danh mục bộ phần mềm kinh doanh điện tử , 7 lỗ hổng cơ sở dữ liệu , 1 lỗi trong bộ phần mềm Oracle Collaboration và 5 bản vá bảo mật cho Oracle Fusion Middleware .</s>
+<a id='ev8'>1-1;2-2;3-3,4;4-5;5-6;6-7;8-11,12,13,14,15,16;9-10;10-8,9;12-18;13-21,22,23,24;14-19,20;16-26;17-27;18-28;20-32;21-33;22-29,30,31;23-34;24-35;25-38,39;26-36,37;27-40;28-41;29-42;30-43;</a>
+</spair>
+<spair id='9'>
+<s id='en9'>The update also included patches for four bugs in Oracle People Soft and JD Edwards Enterprise One Suite and six fixes for vulnerabilities in the Oracle Industry Applications Suite .</s>
+<s id='vn9'>Bản cập nhật cũng bao gồm bản vá cho 4 lỗi trong Oracle People Soft và JD Edwards Enterprise One Suite và 6 bản vá lỗ hổng bảo mật trong Oracle Industry Applications Suite .</s>
+<a id='ev9'>2-1,2,3;3-4;4-5,6;5-7,8;6-9;7-10;8-11;9-12;10-13;11-14;12-15;13-16;14-17;15-18;16-19;17-20;18-21;19-22;20-23;21-25;23-26,27,28,29;24-30;26-31;27-32;28-33;29-34;</a>
+</spair>
+<spair id='10'>
+<s id='en10'>Adobe meanwhile fixed 15 vulnerabilities in Adobe Reader and Acrobat and went forward with its plans for its new updater technology .</s>
+<s id='vn10'>Đồng thời Adobe cũng vá được 15 lỗ hổng trong Adobe Reader và Acrobat và tiến tới thực hiện kế hoạch phát triển cho công nghệ trình cập nhật mới của hãng .</s>
+<a id='ev10'>1-3;2-1,2;3-5,6;4-7;5-8,9;6-10;7-11;8-12;9-13;10-14;11-15;12,13-16,17;16-20,21;17-24;18-31,32;19-30;20-27,28,29;21-25,26;</a>
+</spair>
+<spair id='11'>
+<s id='en11'>The feature , explained Adobe Security Product of Director and Privacy Brad Arkin , will help protect users by ensuring they are running the most current versions of Adobe software .</s>
+<s id='vn11'>Tính năng này theo Giám đốc bộ phận Bảo đảm về Bảo mật Sản phẩm của hãng Adobe Brad Arkin giải thích nó sẽ giúp bảo vệ người dùng bằng cách đảm bảo rằng họ đang chạy các phiên bản mới nhất của phần mềm Adobe .</s>
+<a id='ev11'>1-3;2-1,2;4-21,22;5-18;6-12,13;7-14,15;8-16;9-5,6;11-9,10;12-19;13-20;15-24;16-25;17-26,27;18-28,29;19-30,31;20-32,33;21-35;23-36,37;25-41,42;27-38,39,40;28-43;29-46;30-44,45;</a>
+</spair>
+<spair id='12'>
+<s id='en12'>" Most users who ever encountered a security problem using Adobe products were attacked via a known vulnerability that was patched in more recent versions of the software , " he blogged .</s>
+<s id='vn12'>Ông đã viết trong blog rằng " Hầu hết những người dùng đã từng gặp vấn đề về bảo mật khi dùng các sản phẩm của Adobe đã bị tấn công thông qua một lỗ hổng đã phát hiện và đã được vá trong nhiều phiên bản phần mềm gần đây hơn .</s>
+<a id='ev12'>2-8,9;3-10,11,12;5-13,14;6-15;8-19,20;9-16,17;10-22;11-27;12-23,24,25;14-28,29,30,31;15-32,33;16-34;17-38,39;18-35,36;21-41,42,43;22-44;23-52;24-50,51;25-45,46,47;28-48,49;31-1;32-3,4,5;</a>
+</spair>
+<spair id='13'>
+<s id='en13'>The new updater technology was designed to address part of this problem .</s>
+<s id='vn13'>Công nghệ của trình cập nhật mới được thiết kế để giải quyết phần nào vấn đề này .</s>
+<a id='ev13'>2-7;3-4,5,6;4-1,2;6-8,9,10;7-11;8-12,13;9-14,15;11-18;12-16,17;</a>
+</spair>
+<spair id='14'>
+<s id='en14'>With the new updater , Windows users will be able to set Adobe Reader and Acrobat to automatically download updates without any user interaction .</s>
+<s id='vn14'>Với trình cập nhật mới , người dùng Windows sẽ có thể thiết lập Adobe Reader và Acrobat tự động tải các bản cập nhật mà không cần bất cứ sự tương tác nào của người dùng .</s>
+<a id='ev14'>1-1;3-5;4-2,3,4;6-9;7-7,8;8-10;10-11,12;12-13,14;13-15;14-16;15-17;16-18;18-19,20;19-21;20-22,23,24,25;21-26,27;22-29,30;23-36,37;24-31,32,33;</a>
+</spair>
+<spair id='15'>
+<s id='en15'>Qualys CTO Wolfgang Kandek said the feature should help slash the half-life - the time it takes to cut the occurrence of a vulnerability by half - for many users .</s>
+<s id='vn15'>Giám đốc công nghệ Qualys Wolfgang Kandek cho biết tính năng này sẽ giúp giảm bớt phân nửa chu kì cập nhật mà họ phải bỏ ra để giảm đi phân nữa sự xuất hiện một lỗ hổng cho nhiều người dùng .</s>
+<a id='ev15'>1-5;2-1,2,3,4;3-6;4-7;5-8,9;6-12;7-10,11;8-13;9-14;10-15,16;12-17,18,19,20;17-25;18-26,27;19-29,30;21-33,34,35;23-36;24-37,38;26-31,32;28-39;29-40;30-41,42;</a>
+</spair>
+<spair id='16'>
+<s id='en16'>" The overall half-life for Adobe Reader is slightly over 60 days , compared to just under 30 days for all software , and under 15 days for core Operating System software , " he said .</s>
+<s id='vn16'>Ông ta cho biết " Nữa chu kì cập nhật toàn bộ cho Adobe Reader là nhỉnh hơn 60 ngày so với dưới 30 ngày cho tất cả phần mềm , và dưới 15 ngày dành cho phần mềm Hệ điều hành lõi " .</s>
+<a id='ev16'>3-11,12;4-6,7,8;5-13;6-14;7-15;8-16;10-18;11-19;12-20;14-21,22;17-23;18-24;19-25;20-26;21-27,28;22-29,30;24-32;25-33;26-34;27-35;28-37;29-43;30,31-40,41,42;32-38,39;35-1,2;36-3,4;</a>
+</spair>
+<spair id='17'>
+<s id='en17'>" The silent updater will have a positive effect on updates for Adobe .</s>
+<s id='vn17'>Trình cập nhật ngầm sẽ có một ảnh hưởng khả quan đối với bản cập nhật cho Adobe .</s>
+<a id='ev17'>3-4;4-1,2,3;5-5;6-6;7-7;8-10,11;9-8,9;10-12,13;11-14,15,16;12-17;13-18;</a>
+</spair>
+<spair id='18'>
+<s id='en18'>We see much better update performance on Adobe Reader v9 then for the mix of v9.8 and v7 and attribute that to the existing updater in v9 .</s>
+<s id='vn18'>Chúng tôi thấy hiệu suất cập nhật tốt hơn rất nhiều trên Adobe Reader v9 sau đó cho phiên bản hỗn hợp v9.8 và v7 và thuộc tính mà có trong trình cập nhật hiện có ở phiên bản v9 .</s>
+<a id='ev18'>1-1,2;2-3;3-11;4-8,9;5-6,7;6-4,5;7-12;8-13;9-14;10-15;11-16,17;12-18;14-19,20,21,22;16-23;17-24;18-25;19-26;20-27,28;21-29;24-35,36;25-32,33,34;26-37;27-40;</a>
+</spair>
+<spair id='19'>
+<s id='en19'>I would expect the silent updater to further increase this gap . "</s>
+<s id='vn19'>Tôi hi vọng bản cập nhật ngầm sẽ tăng thêm khoảng cách này . "</s>
+<a id='ev19'>1-1;2-8;3-2,3;5-7;6-4,5,6;8-10;9-9;10-13;11-11,12;</a>
+</spair>
+</text>
+</doc>

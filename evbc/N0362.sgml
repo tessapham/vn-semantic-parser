@@ -1,0 +1,382 @@
+﻿<doc id='N0362'>
+<head>
+<title>2 . How Banks Make Money ?</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>22/10/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>2 . How Banks Make Money ?</s>
+<s id='vn1'>2 . Ngân hàng kiếm tiền như thế nào ?</s>
+<a id='ev1'>1-1;3-7,8,9;4-3,4;5-5,6;</a>
+</spair>
+<spair id='2'>
+<s id='en2'>As mentioned before , banks basically make money by lending money at rates higher than the cost of the money they lend .</s>
+<s id='vn2'>Như đã đề cập , về cơ bản ngân hàng kiếm tiền bằng cách cho vay tiền với lãi suất cao hơn chi phí vay số tiền họ cho vay đó .</s>
+<a id='ev2'>1-1;2-2,3,4;5-9,10;6-6,7,8;7-11;8-12;9-13,14;10-15,16;11-17;12-18;13-19,20;14-21,22;17-23,24;20-27,28;22-29,30;</a>
+</spair>
+<spair id='3'>
+<s id='en3'>More specifically , banks collect interest on loans and interest payments from the debt securities they own , and pay interest on deposits , and short-term borrowings .</s>
+<s id='vn3'>Cụ thể hơn , ngân hàng thu lãi các khoản cho vay và tiền trả lãi từ chứng khoán nợ họ sở hữu , và trả lãi tiền gửi , các chứng chỉ tiền gửi , và tiền vay ngắn hạn .</s>
+<a id='ev3'>1-3;2-2;4-5,6;5-7,8;6-11,12;8-9,10;9-13;10-14,15;11-16;12-17;14-20;15-18,19;16-21;17-22,23;19-25;20-26,27;21-28,29;23-31,32,33,34,35;25-37;26-40,41;27-38,39;</a>
+</spair>
+<spair id='4'>
+<s id='en4'>The difference is known as the " spread , " or the net interest income , and when that net interest income is divided by the bank 's earning assets , it is known as the net interest margin .</s>
+<s id='vn4'>Sự chênh lệch ấy được coi là " lợi nhuận do chênh lệch phí " hay thu nhập lãi ròng , và là tỷ lệ thu nhập lãi cận biên khi chia thu nhập lãi ròng cho tài sản tạo ra thu nhập của ngân hàng .</s>
+<a id='ev4'>1-4;2-1,2,3;4-5,6,7;8-9,10;11-16;13-20;14-19;15-17,18;17-22;18-23;20-36;21-35;22-33,34;24-32;27-45,46;28-44;29-40,41;30-38,39;38-28;39-29,30;</a>
+</spair>
+<spair id='5'>
+<s id='en5'>Deposits</s>
+<s id='vn5'>Tiền gửi</s>
+<a id='ev5'>1-1,2;</a>
+</spair>
+<spair id='6'>
+<s id='en6'>The largest source by far of funds for banks is deposits ; money that account holders entrust to the bank for safekeeping and use in future transactions , as well as modest amounts of interest .</s>
+<s id='vn6'>Nguồn tiền lớn nhất của ngân hàng là tiền gửi ; tiền các chủ tài khoản giao phó cho ngân hàng cất giữ an toàn và dùng trong các giao dịch tương lai , cũng như số tiền lãi khiêm tốn .</s>
+<a id='ev6'>2-3,4;3-1,2;7-5;9-6,7;10-8;11-9,10;13-12;15-13,14,15,16;17-17,18;18-19;20-20,21;22-22,23,24,25;23-26;24-27;25-28;26-32,33;27-29,30,31;29,30,31-35,36;32-40,41;33-37,38;35-39;</a>
+</spair>
+<spair id='7'>
+<s id='en7'>Generally referred to as " core deposits , " these are typically the checking and savings accounts that so many people currently have .</s>
+<s id='vn7'>Tên gọi thông thường là " số tiền gửi cơ sở " , chúng thường là tài khoản tiết kiệm và tài khoản vãng lai mà rất nhiều người hiện nay có .</s>
+<a id='ev7'>1-3,4;2-1,2;4-5;6-10,11;7-8,9;10-14;11-16;12-15;14-24,25;15-21;16-19,20;17-17,18;18-26;19-27;20-28;21-29;22-30,31;23-32;</a>
+</spair>
+<spair id='8'>
+<s id='en8'>In most cases , these deposits have very short terms .</s>
+<s id='vn8'>Trong hầu hết các trường hợp , những khoản tiền gửi này có thời hạn rất ngắn .</s>
+<a id='ev8'>1-1;2-2,3;3-4,5,6;5-12;6-8,9,10,11;7-13;8-16;9-17;10-14,15;</a>
+</spair>
+<spair id='9'>
+<s id='en9'>While people will typically maintain accounts for years at a time with a particular bank , the customer reserves the right to withdraw the full amount at any time .</s>
+<s id='vn9'>Mặc dù mọi người mỗi lần thường giữ tài khoản trong nhiều năm với một ngân hàng cụ thể nào đó , nhưng khách hàng lại có quyền rút đủ số tiền bất kỳ lúc nào .</s>
+<a id='ev9'>1-1,2;2-3,4;3-7;5-8;6-9,10;7-11;8-12,13;10-5;11-6;12-14;13-15;14-18,19;15-16,17;18-24,25;19-26,27;21-28;23-29;25-30;26-31,32;28-33,34;29-35,36;</a>
+</spair>
+<spair id='10'>
+<s id='en10'>Customers have the option to withdraw money upon demand and the balances are fully insured , up to $ 250,000 , therefore , banks do not have to pay much for this money .</s>
+<s id='vn10'>Khách hàng có quyền lựa chọn rút tiền theo nhu cầu và số dư được bảo đảm đầy đủ , lên tới 250,000 đô la , vì vậy , ngân hàng không phải trả lãi nhiều cho số tiền này .</s>
+<a id='ev10'>1-1,2;2-3;4-4,5,6;6-7,8;8-9;9-10,11;10-12;12-13,14;14-18,19;15-15,16,17;17,18-21,22;19-24,25;20-23;22-27,28;24-30,31;26-32;27,28-33;29-34;30-36;31-37;32-40;33-38,39;</a>
+</spair>
+<spair id='11'>
+<s id='en11'>Many banks pay no interest at all on checking account balances , or at least pay very little , and pay interest rates for savings accounts that are well below U.S. Treasury bond rates .</s>
+<s id='vn11'>Nhiều ngân hàng không trả chút tiền lãi nào đối với số dư tài khoản vãng lai , hoặc có chăng là trả rất ít , và thanh toán lãi suất tài khoản tiết kiệm thấp hơn nhiều so với lãi suất trái phiếu kho bạc Hoa Kỳ .</s>
+<a id='ev11'>1-1;2-2,3;3-5;4-4;5-7,8;6,7-6;8-10,11;9-16,17;10-14,15;11-12,13;13-19;14,15-20,21;16-23;17-24;18-25;20-27;21-28,29;22-30;23-31;25-34,35;26-32,33;29-38;30-36,37;31-47,48;32-45,46;33-43,44;34-41,42;</a>
+</spair>
+<spair id='12'>
+<s id='en12'>Wholesale Deposits</s>
+<s id='vn12'>Tiền gửi số lượng lớn</s>
+<a id='ev12'>1-3,4,5;2-1,2;</a>
+</spair>
+<spair id='13'>
+<s id='en13'>If a bank cannot attract a sufficient level of core deposits , that bank can turn to wholesale sources of funds .</s>
+<s id='vn13'>Nếu ngân hàng không thể thu hút đủ mức tiền gửi cơ sở , thì có thể tìm đến những nguồn vốn quy mô lớn .</s>
+<a id='ev13'>1-1;3-2,3;4-4,5;5-6,7;7-8;8-9;10-12,13;11-10,11;15-16,17;16,17-18,19;18-23,24,25;19-20,21,22;</a>
+</spair>
+<spair id='14'>
+<s id='en14'>In many respects these wholesale funds are much like interbank CDs .</s>
+<s id='vn14'>Trong nhiều phương diện , số vốn lớn này rất giống các chứng chỉ tiền gửi liên ngân hàng .</s>
+<a id='ev14'>1-1;2-2;3-3,4;4-9;5-8;6-6,7;8-10;9-11;10-17,18,19;11-12,13,14,15,16;</a>
+</spair>
+<spair id='15'>
+<s id='en15'>There is nothing necessarily wrong with wholesale funds , but investors should consider what it says about a bank when it relies on this funding source .</s>
+<s id='vn15'>Chẳng có vấn đề gì với vốn quy mô lớn cả , nhưng nhà đầu tư nên chú ý xem nó nói lên điều gì về ngân hàng khi ngân hàng ấy dựa vào nguồn vốn này .</s>
+<a id='ev15'>1-2;3-1,3,4,5;6-6;7-8,9,10;8-7;10-13;11-14,15,16;12-17;13-18,19;15-21;16-22,23;17-26;19-27,28;20-29;21-30,31,32;22-33,34;24-37;25-36;26-35;</a>
+</spair>
+<spair id='16'>
+<s id='en16'>While some banks de-emphasiz​e the branch-based deposit-gathering model , in favor of wholesale funding , heavy reliance on this source of capital can be a warning that a bank is not as competitive as its peers .</s>
+<s id='vn16'>Khi một số ngân hàng không mấy chú trọng mô hình thu nhận tiền gửi dựa vào chi nhánh , mà thiên về vốn quy mô lớn , thì việc lệ thuộc quá nhiều vào nguồn vốn này có thể là một cảnh báo : ngân hàng nào đó không có sức cạnh tranh như những ngân hàng khác .</s>
+<a id='ev16'>1-1;2-2,3;3-4,5;4-6,7,8,9;6-16,17,18,19;7-12,13,14,15;8-10,11;11-22,23;13-25,26,27;14-24;16-33,34;17-31,32;18-35;19-38;20-36,37;23-39,40;24-41;25-42;26-43,44;29-46,47;31-50,51,52;33-53,54;34-55;36-56,57,58;</a>
+</spair>
+<spair id='17'>
+<s id='en17'>Investors should also note that the higher cost of wholesale funding means that a bank either has to settle for a narrower interest spread , and lower profits , or pursue higher yields from its lending and investing , which usually means taking on greater risk .</s>
+<s id='vn17'>Nhà đầu tư cũng nên lưu ý điều này : chi phí vốn quy mô lớn cao hơn có nghĩa là ngân hàng phải chấp nhận chênh lệch lãi suất ít hơn , và lợi nhuận thấp hơn , hoặc phải đeo đuổi những khoản lợi nhuận cao hơn từ đầu tư và cho vay của mình mà thường đồng nghĩa với việc chịu rủi ro lớn hơn .</s>
+<a id='ev17'>1-1,2,3;2-5;3-4;4-6,7;5-8,9;7-17,18;8-11,12;10-14,15,16;11-13;12-19,20,21;15-22,23;17,18-24;19-25,26;22-31,32;23-29,30;24-27,28;26-34;27-37,38;28-35,36;30-40;31-42,43;32-48,49;33-44,45,46,47;34-50;35-56,57;36-54,55;37-53;38-51,52;40-58;41-59;42-60,61;44-62;45-67,68;46-65,66;</a>
+</spair>
+<spair id='18'>
+<s id='en18'>Share Equity</s>
+<s id='vn18'>Vốn cổ phần</s>
+<a id='ev18'>1-2,3;2-1;</a>
+</spair>
+<spair id='19'>
+<s id='en19'>While deposits are the primary source of loanable funds for almost every bank , shareholder equity is an important part of a bank 's capital .</s>
+<s id='vn19'>Nếu như tiền gửi là nguồn vốn chính có thể cho vay đối với hầu hết các ngân hàng thì vốn cổ đông là bộ phận quan trọng trong vốn ngân hàng .</s>
+<a id='ev19'>1-1,2;2-3,4;3-5;5-8;6-6,7;8-9,10,11,12;10-13,14;11-15,16;13-17,18,19;15-22,23;16-21;17-24;19-27,28;20-25,26;21-29;23-31,32;</a>
+</spair>
+<spair id='20'>
+<s id='en20'>Several important regulatory ratios are based upon the amount of shareholder capital a bank has and shareholder capital is , in many cases , the only capital that a bank knows will not disappear .</s>
+<s id='vn20'>Một số tỷ lệ theo quy định quan trọng được dựa vào số vốn cổ đông ngân hàng có và trong nhiều trường hợp , vốn cổ đông là vốn duy nhất mà ngân hàng biết đến sẽ không biến mất .</s>
+<a id='ev20'>1-1,2;2-8,9;3-6,7;4-3,4;6-10,11,12;9-13;11-15,16;12-14;14-17,18;16-20;17-27,28;18-26;19-29;21-21;22-22;23-23,24;26-31,32;27-30;28-33;30-34,35;31-36,37;32-38;33-39;34-40,41;</a>
+</spair>
+<spair id='21'>
+<s id='en21'>Common equity is straight forward .</s>
+<s id='vn21'>Vốn cổ phần phổ thông là thuật ngữ dễ hiểu .</s>
+<a id='ev21'>1-4,5;2-1,2,3;3-6;4-9,10;5-7,8;</a>
+</spair>
+<spair id='22'>
+<s id='en22'>This is capital that the bank has raised by selling shares to outside investors .</s>
+<s id='vn22'>Đây là vốn ngân hàng đã huy động được bằng cách bán cổ phiếu cho nhà đầu tư bên ngoài .</s>
+<a id='ev22'>1-1;2-2;3-3;6-4,5;7-9;8-6,7,8;9-11;10-12;11-13,14;12-15;13-19,20;14-16,17,18;</a>
+</spair>
+<spair id='23'>
+<s id='en23'>While banks , especially larger banks , do often pay dividends on their common shares , there is no requirement for them to do so .</s>
+<s id='vn23'>Mặc dù những ngân hàng , đặc biệt là ngân hàng lớn , thường xuyên trả cổ tức cho cổ phiếu phổ thông , nhưng không có quy định nào bắt buộc họ làm như vậy .</s>
+<a id='ev23'>1-1,2;2-3,4,5;4-7,8,9;5-12;6-10,11;9-14,15;10-16;11-17,18;12-19;14-22,23;15-20,21;17-27;19-26;20-28,29;22-33;24-34;25-35,36;</a>
+</spair>
+<spair id='24'>
+<s id='en24'>Banks often issue preferred shares to raise capital .</s>
+<s id='vn24'>Ngân hàng thường phát hành cổ phiếu ưu đãi để huy động vốn .</s>
+<a id='ev24'>1-1,2;2-3;3-4,5;4-8,9;5-6,7;6-10;7-11,12;8-13;</a>
+</spair>
+<spair id='25'>
+<s id='en25'>As this capital is expensive , and generally issued only in times of trouble , or to facilitate an acquisition , banks will often make these shares callable .</s>
+<s id='vn25'>Vì loại vốn này tốn kém và nhìn chung chỉ phát hành những khi gặp khó khăn , hay để tạo điều kiện thuận lợi cho hoạt động mua lại ngân hàng , nên ngân hàng thường sẽ làm cho những cổ phiếu này có thể thu hồi .</s>
+<a id='ev25'>1-1;2-4;3-2,3;5-5,6;7-7;8-8,9;9-11,12;10-10;12-13,14;14-15,16,17;16-19;17-20;18-21,22,23,24,25;20-27,28,29,30;22-35,36;23-38;24-37;25-39,40;26-44;27-41,42,43;28-45,46,47,48;</a>
+</spair>
+<spair id='26'>
+<s id='en26'>This gives the bank the right to buy back the shares at a time when the capital position is stronger , and the bank no longer needs such expensive capital .</s>
+<s id='vn26'>Việc này cho phép ngân hàng có quyền mua lại các cổ phiếu vào thời điểm tình hình vốn vững mạnh hơn , và ngân hàng không còn cần loại vốn đắt đỏ ấy nữa .</s>
+<a id='ev26'>1-1,2;2-3,4;4-5,6;6-8;7-7;8-9,10;11-11,12,13;14-15,16;15-14;17-19;18-17,18;20-20,21,22;22-24;24-25,26;25-27,28;27-29;28-34;29-32,33;30-30,31;</a>
+</spair>
+<spair id='27'>
+<s id='en27'>Equity capital is expensive , therefore , banks generally only issue shares when they need to raise funds for an acquisition , or when they need to repair their capital position , typically after a period of elevated bad loans .</s>
+<s id='vn27'>Vốn cổ phần tốn kém nên ngân hàng thường chỉ phát hành cổ phiếu khi họ cần huy động vốn cho một thương vụ thâu tóm , hoặc khi cần cải thiện tình hình vốn của mình , thường sau giai đoạn nợ xấu tăng cao .</s>
+<a id='ev27'>1-2,3;2-1;4-4,5;6-6;8-7,8;9-9;10-10;11-11,12;12-13,14;13-15;14-16;15-17;17-18,19;18-20;19-21;20-22;21-23,24,25,26;23-28;24-29;26-30;28-31,32;29-36,37;30-35;31-33,34;33-39;34-40;36-41,42;38-45,46;39-44;40-43;</a>
+</spair>
+<spair id='28'>
+<s id='en28'>Apart from the initial capital raised to fund a new bank , banks do not typically issue equity in order to fund loans .</s>
+<s id='vn28'>Ngoài vốn ban đầu huy động tài trợ cho một ngân hàng mới , ngân hàng thường không phát hành vốn cổ phần để tài trợ các khoản vay .</s>
+<a id='ev28'>1,2-1;4-3,4;5-2;6-5,6;8-7,8;9-10;10-13;11-11,12;13-15,16;15-18;16-17;17-19,20;18-21,22,23;19,20,21-24;22-25,26;23-27,28,29;</a>
+</spair>
+<spair id='29'>
+<s id='en29'>Debt</s>
+<s id='vn29'>Nợ</s>
+<a id='ev29'>1-1;</a>
+</spair>
+<spair id='30'>
+<s id='en30'>Banks will also raise capital through debt issuance .</s>
+<s id='vn30'>Ngân hàng cũng sẽ huy động vốn thông qua phát hành nợ .</s>
+<a id='ev30'>1-1,2;2-4;3-3;4-5,6;5-7;6-8,9;7-12;8-10,11;</a>
+</spair>
+<spair id='31'>
+<s id='en31'>Banks most often use debt to smooth out the ups and downs in their funding needs , and will call upon sources like repurchase agreements or the Federal Home Loan Bank system , to access debt funding on a short term basis .</s>
+<s id='vn31'>Ngân hàng thường sử dụng nợ để điều tiết nhu cầu vốn của mình nhất , và kêu gọi các nguồn như những hợp đồng mua lại hoặc hệ thống Ngân hàng Cho vay Mua nhà Liên bang để huy động vốn ngắn hạn .</s>
+<a id='ev31'>1-1,2;3-3;4-4,5;5-6;6-7;7-8,9;14-13,14;15-12;16-10,11;18-17;20-18,19;22-20,21;23-22;24-26,27;25-23,24,25;26-28;28-37,38;29-36;30-33,34;31-31,32;32-29,30;34-39;35-40,41;37-42;40,41-43,44;</a>
+</spair>
+<spair id='32'>
+<s id='en32'>There is frankly nothing particularly unusual about bank-issued debt , and like regular corporations , bank bonds may be callable and/or convertible .</s>
+<s id='vn32'>Thực sự chẳng có gì quá đặc biệt về công cụ nợ ngân hàng phát hành , và giống như trái phiếu các công ty thông thường , trái phiếu ngân hàng cũng có thể thu hồi và/hoặc chuyển đổi .</s>
+<a id='ev32'>2-4;3-1,2;4-3,5;5-6;6-7,8;7-9;8-13,14,15,16;9-12;12-19,20;13-26,27;14-23,24,25;16-31,32;17-29,30;18-34,35;20-36,37;21-38;22-39,40;</a>
+</spair>
+<spair id='33'>
+<s id='en33'>Although debt is relatively common on bank balance sheets , it is not a critical source of capital for most banks .</s>
+<s id='vn33'>Mặc dù nợ xuất hiện tương đối phổ biến trong bảng cân đối kế toán ngân hàng , nhưng nó không phải là một nguồn vốn then chốt đối với hầu hết các ngân hàng .</s>
+<a id='ev33'>1-1,2;2-3;3-4,5;4-6,7;5-8,9;7-16,17;8-12,13;9-11;11-20;12-23;13-21,22;14-24;15-27,28;16-25;18-26;19-29,30;20-31,32;21-33,34,35;</a>
+</spair>
+<spair id='34'>
+<s id='en34'>Although debt/equity ratios are typically over 100 % in the banking sector , this is largely a function of the relatively low level of equity at most banks .</s>
+<s id='vn34'>Mặc dù tỷ lệ nợ so với vốn thường trên 100% trong lĩnh vực ngân hàng , nhưng tỷ lệ này chủ yếu có chức năng cho thấy mức vốn cổ đông tương đối thấp tại hầu hết các ngân hàng .</s>
+<a id='ev34'>1-1,2;2-5,8;3-3,4;5-9;6-10;7,8-11;9-12;11-15,16;12-13,14;14-19,20,21;16-22,23;18-24,25,26;21-33,34;22-35;23-29;25-30;27-37,38;28-39,40,41;</a>
+</spair>
+<spair id='35'>
+<s id='en35'>Seen differently , debt is usually a much smaller percentage of total deposits or loans at most banks and is , accordingly , not a vital source of loanable funds .</s>
+<s id='vn35'>Được nhìn nhận một cách khác biệt , nợ thường là một tỷ lệ phần trăm nhỏ hơn rất nhiều trong tổng số tiền gửi hoặc tiền cho vay ở hầu hết các ngân hàng và vì vậy , không phải là nguồn kinh phí thiết yếu có thể cho vay .</s>
+<a id='ev35'>1-2,3;2-4,5,6,7;4-9;5-11;6-10;7-12;8-20;9-17,18;10-13,14,15,16;11-21;12-22,23,24;13-25;14-26;15-27,28,29;16-30;17-31,32;18-33,34,35;19-36;22-37,38;24-40,41;26-46,47;27-43;29-48,49,50,51;30-44,45;</a>
+</spair>
+<spair id='36'>
+<s id='en36'>Use of Funds</s>
+<s id='vn36'>Sử dụng tiền</s>
+<a id='ev36'>1-1,2;3-3;</a>
+</spair>
+<spair id='37'>
+<s id='en37'>Loans</s>
+<s id='vn37'>Cho vay</s>
+<a id='ev37'>1-1,2;</a>
+</spair>
+<spair id='38'>
+<s id='en38'>For most banks , loans are the primary use of their funds and the principal way in which they earn income .</s>
+<s id='vn38'>Đối với hầu hết các ngân hàng , cho vay là mục đích chính trong việc sử dụng quỹ tiền của họ và là cách chủ yếu đem lại thu nhập cho họ .</s>
+<a id='ev38'>1-1,2;2-3,4;3-5,6,7;5-9,10;6-11;8-14;9-12,13;10-15;11-21,22;12-19,20;13-23;15-26,27;16-25;19-33;20-28,29;21-30,31;</a>
+</spair>
+<spair id='39'>
+<s id='en39'>Loans are typically made for fixed terms , at fixed rates and are typically secured with real property ; often the property that the loan is going to be used to purchase .</s>
+<s id='vn39'>Các khoản cho vay thường được thực hiện theo những kỳ hạn nhất định , với những mức lãi suất cố định và thường được bảo đảm bằng bất động sản , thường là tài sản mà khoản cho vay sẽ được sử dụng để mua .</s>
+<a id='ev39'>1-1,2,3,4;3-5;4-6,7,8;6-13,14;7-10,11,12;9-16;10-21,22;11-17,18,19,20;12-23;14-24;15-25,26,27;16-28;17,18-29,30,31;20-33;22-35,36;23-37;25-38,39,40;27,28-41;30-42,43,44;31-45;32-46;</a>
+</spair>
+<spair id='40'>
+<s id='en40'>While banks will make loans with variable or adjustable interest rates and borrowers can often repay loans early , with little or no penalty , banks generally shy away from these kinds of loans , as it can be difficult to match them with appropriate funding sources .</s>
+<s id='vn40'>Mặc dù ngân hàng sẽ cho vay với những lãi suất có thể thay đổi hoặc có thể điều chỉnh và người đi vay thường có thể trả tiền vay sớm , kèm theo mức tiền phạt nho nhỏ hoặc không bị phạt , nhưng nhìn chung các ngân hàng thường tránh các kiểu cho vay này , vì khó có thể bù trừ chúng với những nguồn cấp vốn thích hợp .</s>
+<a id='ev40'>1-1,2;2-3,4;3-5;5-6,7;6-8;7-12,13,14,15;8-16;9-17,18,19,20;10-9,10,11;12-21;13-22,23,24;14-26,27;15-25;16-28;17-29,30;18-31;20-33,34;21-38,39;22-40;23-41;24-35,36,37;26-48,49,50;27-46,47;28,29-52;31-57;32-53,54;34-55,56;36-59;38-61,62;40-60;42-63,64;43-65;44-66;45-71,72;46-70;47-67,68,69;</a>
+</spair>
+<spair id='41'>
+<s id='en41'>Part and parcel of a bank 's lending practices is its evaluation of the credit worthiness of a potential borrower and the ability to charge different rates of interest , based upon that evaluation .</s>
+<s id='vn41'>Phần quan trọng trong hoạt động cho vay của ngân hàng là đánh giá khả năng chi trả của người đi vay tiềm năng và khả năng tính các mức lãi suất khác nhau , dựa vào sự đánh giá đó .</s>
+<a id='ev41'>1-1;3-2,3;6-10,11;7-9;8-7,8;9-5,6;12-13,14;15-17,18;16-15,16;19-23,24;20-20,21,22;21-25;23-26,27;25-28;26-33,34;27-29,30;29-31,32;31-36,37;33-41;34-38,39,40;</a>
+</spair>
+<spair id='42'>
+<s id='en42'>When considering a loan , banks will often evaluate the income , assets and debt of the prospective borrower , as well as the credit history of the borrower .</s>
+<s id='vn42'>Khi xem xét cho vay , ngân hàng sẽ đánh giá thu nhập , tài sản và nợ của người đi vay tương lai cũng như quá trình tín dụng của người vay .</s>
+<a id='ev42'>1-1;2-2,3;4-4,5;6-7,8;7-9;9-10,11;11-12,13;13-15,16;14-17;15-18;16-19;18-23,24;19-20,21,22;21,22,23-25,26;25-29,30;26-27,28;27-31;29-32,33;</a>
+</spair>
+<spair id='43'>
+<s id='en43'>The purpose of the loan is also a factor in the loan underwriting decision ; loans taken out to purchase real property , such as homes , cars , inventory , etc. , are generally considered less risky , as there is an underlying asset of some value that the bank can reclaim in the event of nonpayment .</s>
+<s id='vn43'>Mục đích của khoản vay cũng là một yếu tố trong việc quyết định bảo đảm cho vay ; tiền vay dùng để mua tài sản thực , chẳng hạn như nhà cửa , xe cộ , hàng tồn kho , v.v. thường được coi là ít rủi ro , vì có tài sản cơ sở có giá trị mà ngân hàng có thể thu hồi trong trường hợp không trả nợ .</s>
+<a id='ev43'>1,2-1,2;3-3;5-4,5;6-7;7-6;9-8,9,10;10-11;12-17,18;13-15,16;14-12,13,14;16-20,21;17-22;19-23;20-24;21-27;22-25,26;24-29,30,31;26-32,33;28-35,36;30-38,39,40;35-43;36-44,45,46;37-47;38-48,49;40-51;44-55,56;45-52,53,54;48-57,58,59;51-61,62;52-63,64;53-65,66;54-67;56-68,69;58-70,71,72;</a>
+</spair>
+<spair id='44'>
+<s id='en44'>As such , banks play an under-appreciated role in the economy .</s>
+<s id='vn44'>Như vậy , ngân hàng đóng một vai trò không được đánh giá đúng mức trong nền kinh tế .</s>
+<a id='ev44'>2-1,2;4-4,5;5-6;6-7;7-10,11,12,13,14,15;8-8,9;11-17,18,19;</a>
+</spair>
+<spair id='45'>
+<s id='en45'>To some extent , bank loan officers decide which projects , and/or businesses , are worth pursuing and are deserving of capital .</s>
+<s id='vn45'>Trong chừng mực nào đó , cán bộ tín dụng ngân hàng quyết định dự án nào , và/hoặc doanh nghiệp nào , đáng theo đuổi và xứng đáng được vay vốn .</s>
+<a id='ev45'>1-1;3-2,3;5-11,12;6-9,10;7-7,8;8-13,14;10-15,16;12-19;13-20,21;16-24,25,26;18-27;20-28,29,30,31;22-32;</a>
+</spair>
+<spair id='46'>
+<s id='en46'>Consumer Lending</s>
+<s id='vn46'>Cho vay tiêu dùng</s>
+<a id='ev46'>1-3,4;2-1,2;</a>
+</spair>
+<spair id='47'>
+<s id='en47'>Consumer lending makes up the bulk of North American bank lending , and of this , residential mortgages make up by far the largest share .</s>
+<s id='vn47'>Hoạt động cho vay tiêu dùng chiếm phần chủ yếu trong hoạt động cho vay của ngân hàng tại Bắc Mỹ , và trong số này , các khoản vay thế chấp nhà ở chiếm phần lớn nhất .</s>
+<a id='ev47'>1-5,6;2-3,4;3,4-7;6-8,9,10;7-11;8-20;9-21;10-17,18;11-14,15;13-23;14-24;15-25,26;17-33,34;18-28,29,30,31,32;19,20-35;24-37,38;25-36;</a>
+</spair>
+<spair id='48'>
+<s id='en48'>Mortgages are used to buy residences and the homes themselves are often the security that collateralizes the loan .</s>
+<s id='vn48'>Tiền vay thế chấp thường dùng để mua nhà cửa và bản thân các ngôi nhà thường là vật thế chấp để vay .</s>
+<a id='ev48'>1-1,2,3,4;3-5,6;4-7;5-8;6-9,10;7-11;9-14,15,16;10-12,13;11-18;12-17;14-19,20,21;18-23;</a>
+</spair>
+<spair id='49'>
+<s id='en49'>Mortgages are typically written for 30 year repayment periods and interest rates may be fixed , adjustable , or variable .</s>
+<s id='vn49'>Các hợp đồng vay thế chấp thường được soạn có thời hạn hoàn trả 30 năm và lãi suất có thể cố định , có thể điều chỉnh hoặc có thể thay đổi .</s>
+<a id='ev49'>1-1,2,3,4,5,6;3-7;4-8,9;6-15;7-16;8-13,14;9-11,12;10-17;11-18,19;13-20,21;15-22,23;17-25,26,27,28;19-29;20-30,31,32,33;</a>
+</spair>
+<spair id='50'>
+<s id='en50'>Although a variety of more exotic mortgage products were offered during the U.S. housing bubble of the 2000s , many of the riskier products , including " pick-a-payment " mortgages and negative amortization loans , are much less common .</s>
+<s id='vn50'>Mặc dù nhiều sản phẩm cho vay thế chấp kỳ cục được chào mời trong giai đoạn bong bóng nhà đất của Mỹ những năm 2000 , nhưng nhiều sản phẩm rủi ro hơn , bao gồm những khoản cho vay thế chấp lựa chọn thanh toán và khoản vay trả nợ âm , lại ít được biết đến hơn .</s>
+<a id='ev50'>1-1,2;3-3;6-10,11;7-6,7,8,9;8-4,5;10-12,13,14;11-15,16,17;13-23;14-20;15-18,19;18-24,25,26;20-29;23-32,33,34;24-30,31;26-36,37;28-44,45,46,47;30-38,39,40,41,42,43;31-48;32-53;33-51,52;34-49,50;38-56,60;39-58,59;</a>
+</spair>
+<spair id='51'>
+<s id='en51'>Follow the money ... to Singapore</s>
+<s id='vn51'>Theo tiền … đến Singapore</s>
+<a id='ev51'>1-1;3-2;5-4;6-5;</a>
+</spair>
+<spair id='52'>
+<s id='en52'>Singapore 's more investor friendly rules may allow it and other Asian cities to keep attracting capital from developed markets in the West .</s>
+<s id='vn52'>Những luật lệ thân thiện với nhà đầu tư hơn có thể cho phép Singapore và những thành phố khác ở châu Á tiếp tục thu hút vốn từ các thị trường phát triển phương Tây .</s>
+<a id='ev52'>1-15;3-10;4-8,9;5-4,5,6;6-1,2,3;7-11,12,13,14;10-16;11-20;12-22,23;13-17,18,19;15-24,25;16-26,27;17-28;18-29;19-33,34;20-30,31,32;23-35,36;</a>
+</spair>
+<spair id='53'>
+<s id='en53'>It 's no secret for anyone who follows markets closely that Southeast Asia , and in particular China , will be the engine of growth for the 21st century .</s>
+<s id='vn53'>Với bất kỳ ai , chuyện theo dõi sát sao thị trường , việc Đông Nam Á , và đặc biệt Trung Quốc , sẽ là động lực tăng trưởng trong thế kỷ 21 .</s>
+<a id='ev53'>5-1;6-2,3,4;8-7,8;9-11,12;10-9,10;12-15,16;13-17;15-19;16,17-20,21;18-22,23;20-25;21-26;23-27,28;25-29,30;26-31;28-34;29-32,33;</a>
+</spair>
+<spair id='54'>
+<s id='en54'>This observation is based on a very simple idea .</s>
+<s id='vn54'>Nhận xét này dựa trên một ý tưởng hết sức đơn giản .</s>
+<a id='ev54'>1-3;2-1,2;4-4,5;6-6;7-9,10;8-11,12;9-7,8;</a>
+</spair>
+<spair id='55'>
+<s id='en55'>Capital flows to where it is treated the best .</s>
+<s id='vn55'>Vốn luôn chảy đến nơi nó được đối xử tốt nhất .</s>
+<a id='ev55'>1-1;2-3;3-4;4-5;5-6;7-7,8,9,10;9-11;</a>
+</spair>
+<spair id='56'>
+<s id='en56'>If traders would stop and look beyond the U.S. and Europe , they would see what legendary investor ( and current Singapore resident ) Jim Rogers sees : money is fleeing the West and heading East .</s>
+<s id='vn56'>Nếu các thương nhân dừng lại và tìm kiếm cơ hội ngoài Châu Âu và Mỹ , họ sẽ nhìn thấy những gì mà nhà đầu tư huyền thoại ( và hiện là cư dân của Singapore ) Jim Rogers thấy : tiền đang chạy khỏi phương Tây và hướng về phương Đông .</s>
+<a id='ev56'>1-1;2-2,3,4;4-5,6;5-7;6-8,9;7-12;9-16;10-15;11-13,14;13-18;14-19;15-20,21;17-28,29;18-25,26,27;20-31;21-32;22-37;23-34,35;25-39;26-40;27-41;29-43;30-44;31-45,46;33-47,48;34-49;35-50,51;36-52,53;</a>
+</spair>
+<spair id='57'>
+<s id='en57'>Recently , I came across a statistic that confirmed my personal observations from living in Ho Chi Minh City and traveling around Southeast Asia .</s>
+<s id='vn57'>Gần đây , nhờ sống ở Thành phố Hồ Chí Minh và đi đây đó khắp Đông Nam Á , tôi tình cờ bắt gặp một số liệu thống kê xác thực cho những nhận xét cá nhân của mình .</s>
+<a id='ev57'>1-1,2;4,5-21,22,23,24;7-25,26,27,28,29;9-30,31;10-38,39;11-36,37;12-33,34,35;14-5;15-6;16-9;17-10;18,20-11;19-7,8;21-12,13,14;22-15;23-16,17;24-18;</a>
+</spair>
+<spair id='58'>
+<s id='en58'>According to the Financial Times " DFI division , Singapore not only receives more financial foreign investment than any other major financial center in the world , it receives more than New York , London , Frankfurt and Switzerland ... combined .</s>
+<s id='vn58'>Theo bộ phận FDI của tờ Financial Times , Singapore không chỉ nhận vốn đầu tư tài chính nước ngoài nhiều hơn bất kỳ trung tâm tài chính lớn nào khác trên thế giới , mà còn nhận nhiều hơn cả New York , Luân Đôn , Frankfurt và Thụy Sĩ ... hợp lại .</s>
+<a id='ev58'>1-1;4-7;5-8;7-4;8-2,3;10-10;11-11;12-12;13-13;14-21,22;15-17,18;16-19,20;17-14,15,16;20-31;21-29;22-27,28;23-25,26;26-33,34;29-38;30-39,40;32-42;33-43;35-45,46;37-48;38-49;39-50,51;41-53,54;</a>
+</spair>
+<spair id='59'>
+<s id='en59'>This is because Singapore is actively courting new capital in response to the abuse that is being dished out to investors in the West .</s>
+<s id='vn59'>Là bởi vì Singapore đang chủ động đón lấy những đồng vốn mới trong khi các nhà đầu tư bị bạc đãi ở phương Tây .</s>
+<a id='ev59'>2-1;3-2,3;4-4;5-5;6-6,7;7-8,9;8-13;9-10,11,12;10-14,15;14-21,22;21-16,17,18,19;22-23;24-24,25;</a>
+</spair>
+<spair id='60'>
+<s id='en60'>For example , Singapore 's central bank , The Monetary Authority of Singapore , is moving to take advantage of the massive flows of gold and silver .</s>
+<s id='vn60'>Chẳng hạn , ngân hàng trung ương Singapore , Cục quản lý tiền tệ Singapore , đang tiến đến lợi dụng những luồng vàng và bạc khổng lồ .</s>
+<a id='ev60'>1,2-1,2;4-8;6-6,7;7-4,5;10-13,14;11-10,11,12;13-15;16-17,18;17-19;18,19-20,21;22-27,28;23-22,23;25-24;26-25;27-26;</a>
+</spair>
+<spair id='61'>
+<s id='en61'>It plans to treat them as currencies - and not commodities -- by removing the 7 % goods and services tax that was collected on all precious metals transactions .</s>
+<s id='vn61'>Họ định xử lý chúng như là tiền tệ - mà không phải hàng hoá - bằng cách gỡ bỏ 7% thuế hàng hoá và dịch vụ mà trước đó đánh vào tất cả các giao dịch kim loại quý .</s>
+<a id='ev61'>1-1;2-2;4-3,4;5-5;6-6,7;7-8,9;9-11;10-12,13;11-14,15;13-17,18;14-19,20;16,17-21;18-23,24;19-25;20-26,27;21-22;24-31,32;26-33,34;27-40;28-38,39;29-35,36,37;</a>
+</spair>
+<spair id='62'>
+<s id='en62'>After October 1 , bullion quality gold and silver will be freely exchanged without taxation on Singapore 's exchanges which will only further increase the demand for them .</s>
+<s id='vn62'>Sau ngày 1 tháng 10 , vàng và bạc thỏi sẽ được mua bán tự do , không bị đánh thuế trên các sàn giao dịch Singapore , điều này sẽ chỉ làm tăng thêm nhu cầu về chúng .</s>
+<a id='ev62'>1-1;2-4,5;3-3;5-10;7-7;8-8;9-9;10-11;12-15,16;13-12,13,14;14-18;15-20,21;17-27;19-23,24,25,26;20-29,30;21-31;22-32;23-35;24-33,34;26-36,37;27-38;28-39;</a>
+</spair>
+<spair id='63'>
+<s id='en63'>Volumes on the COMEX have fallen dramatically since gold peaked in September at $ 1,926 per ounce .</s>
+<s id='vn63'>Khối lượng giao dịch trên COMEX đã đột ngột giảm kể từ khi vàng đạt tới đỉnh 1,926 đô la một ao-xơ hồi tháng 9 .</s>
+<a id='ev63'>1-1,2;2-5;4-6;6-10;7-7,8,9;8-11,12,13;9-14;10-15,16,17;11-23;12-24,25;14-19,20;15-18;16-21;17-22;</a>
+</spair>
+<spair id='64'>
+<s id='en64'>Discontent among traders is palpable as a growing number of them feel the market is not trading openly .</s>
+<s id='vn64'>Có thể dễ dàng nhận thấy các nhà giao dịch tỏ ra bất mãn khi ngày càng nhiều người trong số họ cho rằng thị trường không giao dịch công khai .</s>
+<a id='ev64'>1-11,12,13,14;3-7,8,9,10;5-1,2,3,4,5,6;6-15;8-16,17,18;10-20,21;11-22;12-23,24;14-25,26;16-27;17-28,29;18-30,31;</a>
+</spair>
+<spair id='65'>
+<s id='en65'>The increased transparency and volume of bullion trading along an open exchange is just one example of treating investors like royalty .</s>
+<s id='vn65'>Minh bạch hơn nữa và khối lượng vàng bạc thỏi gia tăng giao dịch cùng một thị trường tự do chỉ là một ví dụ về việc đối xử với các nhà đầu tư giống như hoàng gia vậy .</s>
+<a id='ev65'>2-11,12;3-1,2,3,4;4-5;5-6,7;7-8,9,10;8-13,14;9-15;10-16;11-19,20;12-17,18;13-22;14-21;15-23;16-24,25;17-26;18-27,28,29;19-31,32,33,34;20-35,36;21-37,38;</a>
+</spair>
+<spair id='66'>
+<s id='en66'>Another is the MAS ' plan to create a clearing house system for over-the-counter derivatives , like credit default swaps .</s>
+<s id='vn66'>Một ví dụ khác là MAS có kế hoạch xây dựng một hệ thống thanh toán bù trừ đối với các công cụ phái sinh giao dịch phi tập trung , chẳng hạn những hợp đồng bảo hiểm nợ xấu .</s>
+<a id='ev66'>1-1,2,3,4;2-5;4-6;6-7,8,9;8-10,11;9-12;10-15,16;11-17,18;12-13,14;13-19,20;14-26,27,28,29,30;15-21,22,23,24,25;17-32,33;18,19,20-34,35,36,37,38,39,40;</a>
+</spair>
+<spair id='67'>
+<s id='en67'>The trend of investors leaving the dysfunctional New York and London markets to ones where they are treated fairly will accelerate once this change goes into effect .</s>
+<s id='vn67'>Xu hướng các nhà đầu tư rời bỏ những thị trường bất thường ở New York và Luân Đôn đến những nơi họ được đối xử công bằng sẽ diễn ra nhanh hơn khi chính sách này có hiệu lực .</s>
+<a id='ev67'>2-1,2;4-3,4,5,6;5-7,8;7-12,13;8-15;9-16;10-17;11-18,19;12-9,10,11;13-20;15-21,22;16-23;18-24,25,26;19-27,28;20-29;21-30,31,32,33;22-34;23-37;24-35,36;25,26,27-38,39,40;</a>
+</spair>
+<spair id='68'>
+<s id='en68'>On an open exchange , people legitimately interested in hedging their bond default risk will welcome this evolution like a man coming in from the desert .</s>
+<s id='vn68'>Trong một thị trường tự do , mọi người quan tâm một cách chính đáng đến hàng rào bảo vệ rủi ro vỡ nợ trái phiếu họ đang nắm giữ sẽ chào đón sự thay đổi này giống như một người đến từ sa mạc vậy .</s>
+<a id='ev68'>1-1;2-2;3-5,6;4-3,4;6-8,9;7-12,13,14,15;8-10,11;9-16;10-17,18;12-25,26;13-23,24;14-21,22;15-31;16-32,33;17-37;18-34,35,36;19-38,39;20-40;21-41;22-42;24-43;26-44,45;</a>
+</spair>
+<spair id='69'>
+<s id='en69'>Credit default swaps used in this manner are a legitimate market function , especially if they are tied to an underlying asset , i.e . the bond it is insuring .</s>
+<s id='vn69'>Các hợp đồng bảo hiểm nợ xấu được sử dụng theo cách này là chức năng của thị trường chính thống , đặc biệt nếu chúng gắn với một tài sản cơ sở , tức trái phiếu nó đang bảo hiểm .</s>
+<a id='ev69'>1,2,3-1,2,3,4,5,6,7;4-9,10;5-11;6-13;7-12;10-20,21;11-18,19;12-15,16;14-23,24;15-25;16-26;18-27;19-28;20-29;21-32,33;22-30,31;24-35;27-36,37;28-38;29-39;30-40,41;</a>
+</spair>
+<spair id='70'>
+<s id='en70'>But , naked contracts , trading privately and valued arbitrarily , are a cancer eating away at the heart of Wall Street .</s>
+<s id='vn70'>Nhưng , những hợp đồng không đền bù , giao dịch khép kín và được định giá tuỳ tiện , là khối ung thư ăn dần ăn mòn trái tim của Phố Wall .</s>
+<a id='ev70'>1-1;3-6,7,8;4-3,4,5;6-10,11;7-12,13;8-14;9-15,16,17;10-18,19;12-21;14-22,23,24;15,16-25,26,27,28;19-29,30;20-31;21,22-32,33;</a>
+</spair>
+<spair id='71'>
+<s id='en71'>Understanding the evolution of the Southeast Asian markets like Singapore , Hong Kong and Shanghai is an important edge investors need to be aware of .</s>
+<s id='vn71'>Các nhà đầu tư cần nhận ra một lợi thế quan trọng là hiểu rõ sự phát triển của các thị trường Đông Nam Á như Singapore , Hồng Kông và Thượng Hải .</s>
+<a id='ev71'>1-14,15;3-16,17,18;4-19;6-23,24;7-25;8-20,21,22;9-26;10-27;12-29;13-30;14-31;15-32,33;18-11,12;19-9,10;20-1,2,3,4;21-5;24,25-6,7;</a>
+</spair>
+<spair id='72'>
+<s id='en72'>Capital gains can only come from places where capital is being deployed , and not destroyed .</s>
+<s id='vn72'>Lợi nhuận vốn chỉ có thể đến từ những nơi vốn đang được triển khai , chứ không phải bị tiêu huỷ .</s>
+<a id='ev72'>1-3;2-1,2;3-5,6;4-4;5-7;6-8;7-9,10;9-11;10-12;12-13,14,15;15-18,19;16-20,21,22;</a>
+</spair>
+<spair id='73'>
+<s id='en73'>AlphaVN.com is an investing blog focusing on Vietnam and other markets in Southeast Asia .</s>
+<s id='vn73'>AlphaVN.com là một blog đầu tư tập trung vào Việt Nam và các thị trường khác ở Đông Nam Á .</s>
+<a id='ev73'>1-1;2-2;3-3;4-5,6;5-4;6-7,8,9;8-10,11;9-12;10-16;11-13,14,15;12-17;13-18,19;14-20;</a>
+</spair>
+<spair id='74'>
+<s id='en74'>It is written by Peter Pham , a capital market specialist and entrepreneur with expertise in institutional sales and trading .</s>
+<s id='vn74'>Nó được viết bởi Peter Pham , một chuyên gia về thị trường vốn và là một chủ doanh nghiệp am hiểu lĩnh vực giao dịch và bán hàng thuộc tổ chức .</s>
+<a id='ev74'>1-1;3-2,3;4-4;5-5;6-6;9-14;10-12,13;11-9,10;12-15;13-18,19,20;15-21,22;17-31,32;18-25,26;19-27;20-28,29;</a>
+</spair>
+</text>
+</doc>

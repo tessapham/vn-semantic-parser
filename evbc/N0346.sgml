@@ -1,0 +1,402 @@
+﻿<doc id='N0346'>
+<head>
+<title>After 5 years , Firefox faces new challenges</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>22/10/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>After 5 years , Firefox faces new challenges</s>
+<s id='vn1'>Sau 5 năm , Firefox sẽ đối mặt với những thách thức mới</s>
+<a id='ev1'>1-1;2-2;3-3;5-5;6-6,7,8,9;7-13;8-10,11,12;</a>
+</spair>
+<spair id='2'>
+<s id='en2'>Five years ago , Mozilla made it clear that the browser wars weren't over after all .</s>
+<s id='vn2'>Cách đây năm năm , Mozilla đã tuyên bố rõ ràng rằng các cuộc chiến trình duyệt chưa đến hồi kết thúc .</s>
+<a id='ev2'>1-3;2-4;3-1,2;5-6;6-7,8,9;8-10,11;9-12;11-13,14,15,16,17;13-18;14-19;15-20;16-21,22;</a>
+</spair>
+<spair id='3'>
+<s id='en3'>In the 1990s , Netscape had lost its dominance in the browser market to Microsoft 's Internet Explorer , and the Netscape-spawned open-source project called Mozilla had sunk into obscurity .</s>
+<s id='vn3'>Vào những năm 1990 , Netscape đã để mất vị thế bá chủ của mình trên thị trường trình duyệt vào tay Microsoft Internet Explorer và dự án mã nguồn mở của Netscape với tên gọi là Mozilla cũng đã chìm vào quên lãng .</s>
+<a id='ev3'>1-1;3-2,3,4;5-6;7-7,8,9;8-14,15;9-10,11,12,13;10-16;12-19,20;13-17,18;14-21,22;15-23;17-24;18-25;20-26;22-33;23-29,30,31;24-27,28;25-34,35,36;26-38;28-39,40,41;29-42;30-43,44;</a>
+</spair>
+<spair id='4'>
+<s id='en4'>Even a federal antitrust suit accusing Microsoft of anticompetitive practices with its browser and Windows was not enough to turn the tide .</s>
+<s id='vn4'>Thậm chí cơ quan chống độc quyền của liên bang buộc tội hành động chống cạnh tranh của Microsoft với trình duyệt của Netscape và Windows đã không đủ sức để làm thay đổi tình thế .</s>
+<a id='ev4'>1-1,2;3-9,10;4-5,6,7;5-3,4;6-11,12;7-19;8-18;9-15,16,17;10-13,14;11-20;12-23,24;13-21,22;14-25;15-26;17-27,28;18-29,30;19-31;20-32,33,34;22-35,36;</a>
+</spair>
+<spair id='5'>
+<s id='en5'>But on November 9 , 2004 , Firefox 1.0 emerged to fight back again .</s>
+<s id='vn5'>Nhưng vào ngày 09 tháng 11 năm 2004 , Firefox 1.0 đã xuất hiện để phản công lại .</s>
+<a id='ev5'>1-1;2-2;3-5,6;4-3,4;6-7,8;8-10;9-11;10-12,13,14;11-15;12,13-16,17;14-18;</a>
+</spair>
+<spair id='6'>
+<s id='en6'>The project , originally named Phoenix to symbolize rebirth from Netscape 's ashes , has now clawed its way back to account for nearly a quarter of the browser usage today .</s>
+<s id='vn6'>Dự án ban đầu có tên là Phoenix để tượng trưng cho sự hồi sinh từ trong đống tro tàn của Netscape , giờ đây đã được đề cao cách mà công ty quay trở lại chiếm gần một phần tư thị phần trình duyệt ngày nay .</s>
+<a id='ev6'>2-1,2;4-3,4;5-5,6,7;6-8;7-9;8-10,11,12;9-13,14,15,16;10-17,18;11-22;12-21;13-19,20;16-24,25;17-26,27,28,29;18-31,32,33;19-30;20-34,35,36;22-37;24-38;25-39;26-40,41;29-44,45;30-42,43;31-46,47;</a>
+</spair>
+<spair id='7'>
+<s id='en7'>Microsoft may not be on this run , but it 's on the defensive , gradually building its browser development effort backup into fighting form .</s>
+<s id='vn7'>Microsoft có thể không tham gia vào cuộc chạy đua này mà họ sẽ giữ thế phòng thủ , từng bước nỗ lực xây dựng phát triển trình duyệt của hãng để dự phòng cho cuộc chiến này .</s>
+<a id='ev7'>1-1;2-2,3;3-4;4-5,6;5-7;6-11;7-8,9,10;9-12;10-13;12-14,15;14-16,17,18;16-20,21;17-24,25;18-30,31;19-28,29;20-26,27;21-22,23;22-33,34;23-35;24-36,37;25-38;</a>
+</spair>
+<spair id='8'>
+<s id='en8'>Firefox eyewitness :</s>
+<s id='vn8'>Nhân chứng Firefox</s>
+<a id='ev8'>1-3;2-1,2;</a>
+</spair>
+<spair id='9'>
+<s id='en9'>It 's a history that Mike Shaver , currently Mozilla 's vice president of engineering , saw firsthand since joining Netscape in 1997 .</s>
+<s id='vn9'>Nó là một mốc son lịch sử mà Mike Shaver hiện là phó chủ tịch phụ trách kỹ thuật của Mozilla đã trực tiếp quan sát từ khi tham gia Netscape vào năm 1997 .</s>
+<a id='ev9'>1-1;2-2;3-3;4-4,5,6,7;5-8;6-9;7-10;9-11,12;10-21;11-20;12-13;13-14,15;15-16,17,18,19;17-25,26;18-22,23,24;19-27,28;20-29,30;21-31;22-32;23-33,34;</a>
+</spair>
+<spair id='10'>
+<s id='en10'>Then , he was a young programmer whose work with Linux gave him open-source inclinations .</s>
+<s id='vn10'>Khi ấy , ông là một lập trình viên trẻ tuổi mà làm việc với Linux đã cho ông các sở thích về mã nguồn mở .</s>
+<a id='ev10'>1-1,2;3-4;4-5;5-6;6-10,11;7-7,8,9;8-12;9-13,14;10-15;11-16;12-17,18;13-19;14-24,25,26;15-20,21,22;</a>
+</spair>
+<spair id='11'>
+<s id='en11'>He 'd been advocating an open-source release of the engine within Netscape Communicator that ran Web-based JavaScript programs , but was surprised in 1998 when Netscape announced the entire software package would become open-source software .</s>
+<s id='vn11'>Ông đã tán thành một sự phát hành mã nguồn mở của cỗ máy bên trong Netscape Communicator mà chạy các chương trình JavaScript dựa trên Web , nhưng rất ngạc nhiên vào năm 1998 khi Nestcape công bố toàn bộ gói phần mềm sẽ trở thành phần mềm mã nguồn mở .</s>
+<a id='ev11'>1-1;4-2,3,4;5-5;6-9,10,11;7-6,7,8;8-12;10-13,14;11-15,16;12-17;13-18;14-19;15-20;16-25,26,27;17-24;18-21,22,23;20-29;22-30,31,32;23-33;24-34,35;25-36;26-37;27-38,39;29-40,41;30-43,44;31-42;32-45;33-46,47;34-50,51,52;35-48,49;</a>
+</spair>
+<spair id='12'>
+<s id='en12'>" For me it was confluence of being at the right place at the right time and having a lot of contacts , " Shaver recounted .</s>
+<s id='vn12'>Shaver kể lại " Đối với tôi , nó là nơi qui tụ đúng nơi đúng lúc và có nhiều sự gặp gỡ , " .</s>
+<a id='ev12'>2-5,6;3-7;4-9;5-10;6-11,12,13;11-14;12-15;15-16;16-17;17-18;18-19;20-20;22-21,22,23;25-1;26-2,3;</a>
+</spair>
+<spair id='13'>
+<s id='en13'>He jumped into thorny issues of making a large commercial project into an open , cooperatively developed project : licensing , trademarks , patch reviews , schedules , governance .</s>
+<s id='vn13'>Ông đã nhảy vào những vấn đề hóc búa của việc tạo ra một dự án thương mại lớn trở thành một dự án mã nguồn mở , dự án phát triển cộng tác : cấp giấy phép , thương hiệu , đánh giá miếng vá lỗi , lịch trình , quản trị .</s>
+<a id='ev13'>1-1;2-2,3;3-4;4-8,9;5-5,6,7;6-10;7-11,12,13;8-14;9-19;10-17,18;11-15,16;12-20,21;13-22;14-25,26,27;16-33,34;17-29,30,31,32;18-23,24;20-36,37,38;22-40,41;24-45,46,47;25-43,44;27-49,50;29-52,53;</a>
+</spair>
+<spair id='14'>
+<s id='en14'>The open-source move was intended to counter Microsoft 's growing browser clout .</s>
+<s id='vn14'>Bước đi của mã nguồn mở được dự định để chống lại gã trình duyệt to đầu đang ngày càng phát triển của Microsoft .</s>
+<a id='ev14'>2-3,4,5,6;3-1,2;5-7,8,9;6-10;7-11,12;8-24;10-18,19,20,21,22;11-13,14,15;12-16,17;</a>
+</spair>
+<spair id='15'>
+<s id='en15'>Initially , it failed , but the open-source move ultimately planted the seeds for Firefox 's success .</s>
+<s id='vn15'>Ban đầu , nó thất bại nhưng bước tiến của mã nguồn mở cuối cùng đã gieo mầm cho sự thành công của Firfox .</s>
+<a id='ev15'>1-1,2;3-4;4-5,6;6-7;8-10,11,12,13;9-8,9;10-14,15;11-16,17;13-18;15-24;16-23;17-20,21,22;</a>
+</spair>
+<spair id='16'>
+<s id='en16'>That 's because the open-source ethos--which lets anyone see , modify , and distribute a program 's underlying source code is what enabled programmers to build something lean and mean out of what some saw as the bloated and uncompetitive Mozilla product .</s>
+<s id='vn16'>Đó là do nét đặc biệt của mã nguồn mở - mà để cho bất cứ ai cũng có thể xem , chỉnh sửa , và phân phối một mã nguồn cơ bản của chương trình - là những gì mà có thể giúp các lập trình viên xây dựng công trình nghiên cứu nào đó và có nghĩa là ngoài những gì thấy được như là sản phẩm của Mozilla không mang tính cạnh tranh và hấp dẫn .</s>
+<a id='ev16'>1-1;2-2;3-4,5,6;5-7,8,9,10;6-12;7-13,14;8-15,16,17;9-18,19,20,21;11-23,24;13-26;14-27,28;16-35,36;18-32,33;20-30,31;23-42,43,44;24-45,46,47,48;26-49,50;27-55,56;28-51,52,53,54;29-57;30-58,59,60;31,32-61;34-62,63;35-64,65;38-78,79;40-72,73,74,75,76;41-71;42-68,69;</a>
+</spair>
+<spair id='17'>
+<s id='en17'>Microsoft helped out in its own way by letting Internet Explorer languish and become a preferred channel for computer attacks , but Firefox features such as speed , a tabbed interface , the ability to accept add-on customizations , and pop-up ad blocking helped .</s>
+<s id='vn17'>Microsoft theo cách riêng của họ bằng cách để Internet Explorer suy yếu và trở thành một chiều hướng ưa thích cho các cuộc tấn công máy tinh , nhưng các tính năng của Firefox như tốc độ , giao diện thẻ tab , khả năng chấp nhận tùy biến các add-on và giúp chặn các pop-up quảng cáo .</s>
+<a id='ev17'>1-1;5-5,6;6-2,3,4;7-7,8;9-9;10-10;11-11;12-12,13;13-14;14-15,16;15-17;16-20,21;17-18,19;18-22;19-27,28;20-23,24,25,26;22-30;23-35;24-31,32,33;25,26-36;27-37,38;30-42,43;31-40,41;34-45,46;36-47,48;37-51,52;38-49,50;40-53;41-56,57;42-58,59;43-55;44-54;</a>
+</spair>
+<spair id='18'>
+<s id='en18'>Firefox 1.0 arrived was downloaded 10 million times in the first month .</s>
+<s id='vn18'>Firefox 1.0 đạt 10.000.000 lượt tải về trong tháng đầu tiên .</s>
+<a id='ev18'>1-1;2-2;3-3;5-6,7;6,7-4;8-5;9-8;11-10,11;12-9;</a>
+</spair>
+<spair id='19'>
+<s id='en19'>" When we got to Firefox , in some ways it was overnight success .</s>
+<s id='vn19'>" Khi chúng tôi có được Firefox , theo cách nào đó nó là sự thành công bất ngờ .</s>
+<a id='ev19'>2-2;3-3,4;4-5,6;6-7;8-9;9-11,12;10-10;11-13;12-14;13-18,19;14-15,16,17;</a>
+</spair>
+<spair id='20'>
+<s id='en20'>Our initial growth was more than we 'd ever hoped for , " Shaver said .</s>
+<s id='vn20'>Sự tăng trưởng ban đầu lớn hơn so với những gì chúng tôi đã mong đợi , " Shaver cho biết .</s>
+<a id='ev20'>2-4,5;3-1,2,3;5-6,7;6-8,9;9-10,11,12,13;10-14,15,16;14-19;15-20,21;</a>
+</spair>
+<spair id='21'>
+<s id='en21'>" From where we started this undertaking the strategic context within Netscape being the single biggest force behind the rebirth of this browser as an interesting software category .</s>
+<s id='vn21'>Từ khi chúng tôi bắt đầu thực hiện điều này - tình huống chiến lược bên trong Netscape - là một lực lượng lớn nhất phía sau sự hồi sinh của trình duyệt này như một loại phần mềm thú vị .</s>
+<a id='ev21'>2-1,2;4-3,4;5-5,6;6-9,10;7-7,8;9-14,15;10-12,13;11-16,17;12-18;13-20;15-21;16-24,25;17-22,23;18-26,27;20-28,29,30;21-31;22-34;23-32,33;24-35;25-36;26-40,41;27-38,39;28-37;</a>
+</spair>
+<spair id='22'>
+<s id='en22'>It 's a pretty amazing end point .</s>
+<s id='vn22'>Nó là một kết cục khá tuyệt vời .</s>
+<a id='ev22'>1-1;2-2;3-3;4-6;5-7,8;6,7-4,5;</a>
+</spair>
+<spair id='23'>
+<s id='en23'>Overall , the browser market has become more vigorous than ever .</s>
+<s id='vn23'>Nhìn chung , thị trường trình duyệt đã trở nên sôi nổi hơn bao giờ hết .</s>
+<a id='ev23'>1-1,2;4-6,7;5-4,5;7-8,9,10;8-13;9-11,12;10-16;11-14,15;</a>
+</spair>
+<spair id='24'>
+<s id='en24'>Even Microsoft is getting involved in Web standards and is building a Web-based version of Microsoft Office .</s>
+<s id='vn24'>Thậm chí Microsoft đang chuẩn bị tham gia vào các tiêu chuẩn Web và đang xây dựng một phiên bản Microsoft Office dựa trên nền Web .</s>
+<a id='ev24'>1-1,2;2-3;4-4,5,6;5-7,8;6-9;7-13;8-10,11,12;9-14;11-15,16,17;12-18;13-23,24,25,26;14-19,20;16-21;17-22;</a>
+</spair>
+<spair id='25'>
+<s id='en25'>And even as Firefox 's leaders must grapple with the old rival , there 's a new Firefox challenger in the form of Google Chrome .</s>
+<s id='vn25'>Cùng thời điểm đó thì các nhà lãnh đạo của Firefox phải vật lộn với các đối thủ cũ , ngoài ra Firefox cũng có kẻ thách thức mới mang tên Google Chrome .</s>
+<a id='ev25'>4-11;5-10;6-6,7,8,9;7-12;8-13,14;9-15;11-19;12-16,17,18;14-25;17-29;18-23;19-26,27,28;22-30,31;24-32;25-33;</a>
+</spair>
+<spair id='26'>
+<s id='en26'>Phoenix from the ashes :</s>
+<s id='vn26'>Phượng Hoàng từ đống tro tàn</s>
+<a id='ev26'>1-1,2;2-3;4-4,5,6;</a>
+</spair>
+<spair id='27'>
+<s id='en27'>In Shaver 's view , Mozilla has gone through two trials by fire .</s>
+<s id='vn27'>Theo quan điểm của Shaver , Mozilla đã trãi qua hai thử thách nóng bỏng .</s>
+<a id='ev27'>1-1;2-5;3-4;4-2,3;6-7;8-8,9;9-10;10-11;11-12,13;13-14,15;</a>
+</spair>
+<spair id='28'>
+<s id='en28'>First was the transformation of the Netscape effort and the initial release of the Mozilla software as an open-source project .</s>
+<s id='vn28'>Đầu tiên là sự chuyển đổi nỗ lực của Netscape và bản phát hành đầu tiên của phần mềm Mozilla như là một dự án mã nguồn mở .</s>
+<a id='ev28'>1-1,2;2-3;4-4,5,6;5-9;7-10;8-7,8;9-11;11-15,16;12-12,13,14;13-17;15-20;16-18,19;17-21,22;18-23;19-26,27,28;20-24,25;</a>
+</spair>
+<spair id='29'>
+<s id='en29'>The first big test for us was around release of Netscape 6 .</s>
+<s id='vn29'>Một thử nghiệm lớn đầu tiên dành cho chúng tôi là phát hành bản Netscape 6 .</s>
+<a id='ev29'>2-5,6;3-4;4-1,2,3;5-7,8;6-9,10;7-11;9-12,13;11-14,15;12-16;</a>
+</spair>
+<spair id='30'>
+<s id='en30'>Between that and Mozilla 1.0 , we were opens-source 's greatest failure .</s>
+<s id='vn30'>Giữa các bản đó và Mozilla 1.0 , chúng tôi đã gặp phải sự cố lớn nhất về mã nguồn mở .</s>
+<a id='ev30'>1-1;2-2,3,4;3-5;4-6;5-7;7-9,10;8-11,12,13;9-19,20,21;11-16,17;12-14,15;</a>
+</spair>
+<spair id='31'>
+<s id='en31'>Second was the decision in 2003 to abandon that effort and throw the Mozilla weight behind what became Firefox .</s>
+<s id='vn31'>Thứ hai là quyết định trong năm 2003 từ bỏ nỗ lực đó và ném gánh nặng của Mozilla lại điều mà đã trở thành Firefox .</s>
+<a id='ev31'>1-1,2;2-3;4-4,5;5-6;6-7,8;8-9,10;9-13;10-11,12;11-14;12-15;14-19;15-16,17;16-20;17-21,22;18-23,24,25;19-26;</a>
+</spair>
+<spair id='32'>
+<s id='en32'>" Getting the community aligned around that product change was our second big test around this project , " he said .</s>
+<s id='vn32'>" Mời gọi cộng đồng điều chỉnh quanh sự thay đổi sản phẩm là cuộc thử nghiệm lớn thứ hai của chúng tôi trên khắp dự án này " anh ta cho biết .</s>
+<a id='ev32'>2-2,3;4-4,5;5-6,7;6-8;8-12,13;9-9,10,11;10-14;11-21,22,23;12-19,20;13-18;14-15,16,17;15-24,25;16-28;17-26,27;20-30,31;21-32,33;</a>
+</spair>
+<spair id='33'>
+<s id='en33'>" It was a touch-and-go period . "</s>
+<s id='vn33'>" Đó là một giai đoạn mạo hiểm "</s>
+<a id='ev33'>2-2,3;4-4;5-7,8;6-5,6;</a>
+</spair>
+<spair id='34'>
+<s id='en34'>And though there was plenty of positive feedback from the outside world about Firefox , it took a long time before everybody was on board .</s>
+<s id='vn34'>Và mặc dù có rất nhiều phản hồi tích cực từ thế giới bên ngoài về Firefox , mất một thời gian dài trước khi tất cả mọi người ngồi lại cùng với nhau .</s>
+<a id='ev34'>1-1;2-2,3;3-4;5-5,6;7-9,10;8-7,8;9-11;11-14,15;12-12,13;13-16;14-17;17-19;18-20;19-23;20-21,22;21-24,25;22-26,27,28,29;24-30,31;25-32,33,34;</a>
+</spair>
+<spair id='35'>
+<s id='en35'>" It was not until Firefox 2 , " which arrived in October 2006 .</s>
+<s id='vn35'>" Mãi cho đến Firefox 2 " được ra mắt vào tháng 10 năm 2006 .</s>
+<a id='ev35'>4-2;5-3,4;6-5;7-6;11-8,9,10;12-11;13-12,13;14-14,15;</a>
+</spair>
+<spair id='36'>
+<s id='en36'>" It took quite awhile for the core developers to prefer to work on Firefox than the suite . "</s>
+<s id='vn36'>Phải mất một thời gian cho các nhà phát triển cốt lõi thích làm việc trên Firefox hơn .</s>
+<a id='ev36'>3-1,2;4-4,5;5-3;6-6;8-11,12;9-7,8,9,10;11-13;13-14,15;14-16;15-17;16,17,18-18;</a>
+</spair>
+<spair id='37'>
+<s id='en37'>But there were meanly challenges for programmers , and Microsoft 's complacency left opportunities .</s>
+<s id='vn37'>Nhưng đã có những thách thức có ý nghĩa đối với các lập trình viên , và sự tự mãn của Microsoft đã bỏ lỡ nhiều cơ hội .</s>
+<a id='ev37'>1-1;2-2,3;4-7,8,9;5-4,5,6;6-10,11;7-12,13,14,15;9-17;10-22;11-21;12-18,19,20;13-23,24,25;14-26,27,28;</a>
+</spair>
+<spair id='38'>
+<s id='en38'>" You could look at the dominant browser at the time , pick any dimension and exceed them " .</s>
+<s id='vn38'>" Bạn có thể nhìn thấy một trình duyệt thống trị vào lúc đó , lựa chọn bất kỳ nhân tố nào và vượt qua họ . " .</s>
+<a id='ev38'>2-2;3-3,4;4-5;5-6;7-10,11;8-7,8,9;9-12;11-13,14;13-16,17;14-18,19;15-20,21,22;16-23;17-24,25;18-26;</a>
+</spair>
+<spair id='39'>
+<s id='en39'>Firefox also gradually won the support of Web developers .</s>
+<s id='vn39'>Firefox cũng từng bước dành được sự ủng hộ của các nhà phát triển Web .</s>
+<a id='ev39'>1-1;2-2;3-3,4;4-5,6;6-7,8,9;7-10;8-15;9-11,12,13,14;</a>
+</spair>
+<spair id='40'>
+<s id='en40'>Supporting another browser besides IE , but Firefox 's eventual widespread use made it worth the trouble .</s>
+<s id='vn40'>Hỗ trợ trình duyệt khác ngoài IE , nhưng cuối cùng việc sử dụng rộng rãi Firefox làm nó có những thứ rắc rối .</s>
+<a id='ev40'>1-1,2;2-5;3-3,4;4-6;5-7;7-9;8-17;10-10,11;11-15,16;12-12,13,14;13-18;14-19;15-21,22;17-23,24;</a>
+</spair>
+<spair id='41'>
+<s id='en41'>And Mozilla 's effort to support Web standards lowered the difficulties for others to introduce browsers .</s>
+<s id='vn41'>Và nỗ lực của Mozilla hỗ trợ các tiêu chuẩn Web đã giảm bớt các khó khăn cho những thứ khác để giới thiệu các trình duyệt .</s>
+<a id='ev41'>1-1;2-5;3-4;4-2,3;6-6,7;7-11;8-8,9,10;9-12,13,14;11-15,16,17;12-18;13-19,20,21;14-22;15-23,24;16-25,26,27;</a>
+</spair>
+<spair id='42'>
+<s id='en42'>Google 's helping hand</s>
+<s id='vn42'>Bàn tay giúp đỡ của Google</s>
+<a id='ev42'>1-6;2-5;3-3,4;4-1,2;</a>
+</spair>
+<spair id='43'>
+<s id='en43'>The seeds for Mozilla 's financial success measured on the basis of an open-source project if not , say , Microsoft were sown in Firefox .</s>
+<s id='vn43'>Các mầm móng cho sự thành công về tài chính của Mozilla - được đo lường dựa theo dự án mã nguồn mở , nếu không nói đến Microsoft đã gieo mầm vào Firefox .</s>
+<a id='ev43'>2-1,2,3;3-4;4-12;5-11;6-8,9,10;7-5,6,7;8-14,15,16;9-17,18;14-21,22,23;15-19,20;16-25;17-26;19-27,28;21-29;23-30,31,32;24-33;25-34;</a>
+</spair>
+<spair id='44'>
+<s id='en44'>This software 's start page was a rebranded window to Google 's search engine , and a separate search box in the upper right .</s>
+<s id='vn44'>Trang bắt đầu của phần mềm này là một cửa sổ đặt thương hiệu cho công cụ tìm kiếm của Google , và một hộp tìm kiếm riêng biệt ở phía trên bên phải .</s>
+<a id='ev44'>1-7;2-5,6;3-4;4-2,3;5-1;6-8;7-9;8-12,13,14;9-10,11;10-15;11-21;12-20;13-18,19;14-16,17;18-28,29;19-26,27;20-25;23-31,32;24-33,34;</a>
+</spair>
+<spair id='45'>
+<s id='en45'>Mozilla gets a cut of the resulting search-advertising revenue ; in 2007 , the last year for which Mozilla has released figures , Google supplied 89 percent of Mozilla 's $ 75 million in revenue .</s>
+<s id='vn45'>Mozilla được một phần thu nhập từ kết quả tìm kiếm quảng cáo , trong năm 2007 , năm ngoái Mozilla đã công bố những con số , Google đem lại 89 phần trăm trong doanh thu 75 triệu USD của Mozilla .</s>
+<a id='ev45'>1-1;2-2;4-3,4;5-7;7-8,9;8-10,11,12,13;9-5,6;11-15;12-16,17;15-20;16-19;19-21;21-22,23,24;22-25,26,27;24-29;25-30,31;26-32;27-33,34;29-42;30-41;31-40;32-38;33-39;34-35;35-36,37;</a>
+</spair>
+<spair id='46'>
+<s id='en46'>Google co-founders Larry Page and Sergey Brin took a personal hand in boosting Mozilla , Shaver said .</s>
+<s id='vn46'>Shaver cho biết hai người đồng sáng lập Google là Larry Page và Sergey Brin giúp một tay trong việc đẩy mạnh Mozilla .</s>
+<a id='ev46'>1-9;2-4,5,6,7,8;3-11;4-12;5-13;6-14;7-15;8-16;9-17;11-18;12-19;13-20,21,22;14-23;16-1;17-2,3;</a>
+</spair>
+<spair id='47'>
+<s id='en47'>" Google 's founders Sergey and Larry were very supportive .</s>
+<s id='vn47'>" Sergey và Larry người đồng sáng lập Google đã rất ủng hộ .</s>
+<a id='ev47'>2-9;4-5,6,7,8;5-2;6-3;7-4;10-12,13;</a>
+</spair>
+<spair id='48'>
+<s id='en48'>They wanted to find a way to help , " Shaver said .</s>
+<s id='vn48'>Họ muốn tìm cách giúp đỡ " Ông Shaver cho biết " .</s>
+<a id='ev48'>1-1;2-2;4-3;6-4;8-5,6;11-9;12-10,11;</a>
+</spair>
+<spair id='49'>
+<s id='en49'>" They wanted to see what we could do about the traffic we were sending there .</s>
+<s id='vn49'>Họ muốn nhìn thấy những gì mà chúng tôi có thể làm về khối lượng công việc mà chúng tôi đã gửi ở đó .</s>
+<a id='ev49'>2-1;3-2;5-3,4;6-5,6,7;7-8,9;8-10,11;9-12;10-13;12-14,15,16,17;13-18,19,20;15-21,22;16-23,24;</a>
+</spair>
+<spair id='50'>
+<s id='en50'>They had a lot of stuff to take care of , but for a long time they were Google 's reps to us . "</s>
+<s id='vn50'>Họ đã có nhiều thứ để chăm lo , nhưng trong một thời gian dài họ là đại diện của Google đối với chúng tôi . "</s>
+<a id='ev50'>1-1;2-2,3;4-4;6-5;7-6;8-7;9,10-8;12-10;13-11;14-12;15-15;16-13,14;17-16;18-17;19-21;20-20;21-18,19;22-22,23;23-24,25;</a>
+</spair>
+<spair id='51'>
+<s id='en51'>And Google contributed code , spell-checking , network stack software .</s>
+<s id='vn51'>Và Google cũng đã đóng góp mã nguồn , kiểm tra lỗi chính tả , phần mềm ngăn xếp mạng .</s>
+<a id='ev51'>1-1;2-2;3-3,4,5,6;4-7,8;6-10,11,12,13,14;8-20;9-18,19;10-16,17;</a>
+</spair>
+<spair id='52'>
+<s id='en52'>Among Google programmers who helped were Ben Goodger , a Firefox programmer , and Aaron Boodman , who came up with the Greasemonkey software for customizing Firefox 's interface .</s>
+<s id='vn52'>Trong số các lập trình viên của Google người đã giúp Ben Goodger , một lập trình viên của Firefox , và Aaron Boodman người đưa phần mềm Greasemonkey để tùy biến giao diện của Firefox .</s>
+<a id='ev52'>1-1,2;2-8;3-3,4,5,6;4-9;5-10,11;7-12;8-13;10-15;11-20;12-16,17,18;14-22;15-23;16-24;18-25;19-26;23-29;24-27,28;25-30;26-31,32;27-36;28-35;29-33,34;</a>
+</spair>
+<spair id='53'>
+<s id='en53'>" It was certainly helpful , " Shaver said .</s>
+<s id='vn53'>" Nó thật sự rất hữu ích , " Shaver cho biết " .</s>
+<a id='ev53'>2-2;4-3,4;5-5,6,7;8-10;9-11,12;</a>
+</spair>
+<spair id='54'>
+<s id='en54'>" It was always very independent from the revenue relationship , " and Google to its credit didn't use its search-engine to exert pressure on this browser 's development direction .</s>
+<s id='vn54'>Họ luôn độc lập từ các mối quan hệ doanh thu " và Google được họ tín nhiệm đã không sử dụng công cụ tìm kiếm của họ để gây sức ép đối với hướng phát triển của trình duyệt này .</s>
+<a id='ev54'>2-1;4-2;6-3,4;7-5;9-10,11;10-6,7,8,9;13-13;14-14;16-15,16;17-17,18;18-19,20;19-21,22;20-27,28;21-23,24,25,26;23-29;24-30,31,32;25-33,34;26-41;27-39,40;28-38;29-36,37;30-35;</a>
+</spair>
+<spair id='55'>
+<s id='en55'>Hello , Chrome</s>
+<s id='vn55'>Xin chào , Chrome</s>
+<a id='ev55'>1-1,2;3-4;</a>
+</spair>
+<spair id='56'>
+<s id='en56'>For all Google 's enthusiasm for Firefox , it evidently wanted more .</s>
+<s id='vn56'>Với tất cả sự nhiệt tình của Google đối với Firefox , rõ ràng nó muốn nhiều hơn nữa .</s>
+<a id='ev56'>3-8;4-7;5-4,5,6;6-9,10;7-11;9-15;10-13,14;11-16;12-17,18,19;</a>
+</spair>
+<spair id='57'>
+<s id='en57'>In September 2008 , it released its first beta of the Chrome Web browser .</s>
+<s id='vn57'>Vào tháng Chín năm 2008 , Google phát hành phiên bản beta đầu tiên của trình duyệt Web Chrome .</s>
+<a id='ev57'>1-1;2-2,3;3-4,5;5-7;6-8,9;7-10,11;8-13,14;9-12;10-15;12-19;13-18;14-16,17;</a>
+</spair>
+<spair id='58'>
+<s id='en58'>It employed some of Firefox 's values--performance , security , open source .</s>
+<s id='vn58'>Nó tận dụng một số giá trị của Firefox hiệu suất , bảo mật , mã nguồn mở .</s>
+<a id='ev58'>1-1;2-2,3;3-4,5;5-9;6-8;7-6,7,10,11;9-13,14;11-18;12-16,17;</a>
+</spair>
+<spair id='59'>
+<s id='en59'>But it also brought some Google values : a fast foundation for Web applications and a rapid release cycle .</s>
+<s id='vn59'>Nhưng nó cũng mang lại một số giá trị Google : một nền tảng nhanh nhạy cho các ứng dụng Web và chu kỳ phát hành nhanh chóng .</s>
+<a id='ev59'>1-1;2-2;3-3;4-4,5;5-6,7;6-10;7-8,9;9-12;10-15,16;11-13,14;12-17;13-21;14-18,19,20;15-22;17-27,28;18-25,26;19-23,24;</a>
+</spair>
+<spair id='60'>
+<s id='en60'>Suddenly , a major Web-focused company with a lot of spare money was also trying to free the world from the 2001-era Internet Explorer 6 .</s>
+<s id='vn60'>Đột nhiên , một công ty chuyên tập trung vào Web có nhiều tiền dự trữ cũng đã cố gắng miễn phí cho thế giới từ Internet Explorer 6 ở năm 2001 .</s>
+<a id='ev60'>1-1,2;3-4;5-7,8,9,10,11;6-5,6;7-12;9-13;11-15,16;12-14;14-17;15-18,19,20;17-21,22;19-24,25;20-26;22-31,32;23-27;24-28;25-29;</a>
+</spair>
+<spair id='61'>
+<s id='en61'>" It was a little disruptive , " Shaver said , mostly in that Mozilla had to answer numerous questions about how Chrome would affect its future .</s>
+<s id='vn61'>" Đó là một sự phá vỡ nhỏ , " Shaver cho biết , phần lớn Mozilla đã phải trả lời nhiều câu hỏi về Chrome sẽ gây ảnh hưởng như thế nào trong tương lai .</s>
+<a id='ev61'>2-2;3-3;4-4;5-8;6-5,6,7;9-11;10-12,13;12-15,16;15-17;16-18,19;18-20,21;19-22;20-23,24;21-25;22-31,32,33;23-26;24-27;25-28,29,30;27-35,36;</a>
+</spair>
+<spair id='62'>
+<s id='en62'>But engineering has been affected , too .</s>
+<s id='vn62'>Nhưng kỹ thuật cũng bị ảnh hưởng .</s>
+<a id='ev62'>1-1;2-2,3;5-5,6,7;7-4;</a>
+</spair>
+<spair id='63'>
+<s id='en63'>Since the arrival of Chrome , Mozilla has put a new focus on Firefox performance , has moved to a faster release cycle , and is working to minimize the area of browser to make more room for Web content .</s>
+<s id='vn63'>Từ khi Chrome xuất hiện , Mozilla đã đặt một mục tiêu mới vào hiệu suất của Firefox , đã chuyển sang chu kỳ phát hành nhanh hơn , và đang tìm cách giảm thiểu khu vực của trình duyệt để nhường chỗ nhiều hơn cho nội dung trang Web .</s>
+<a id='ev63'>1-1,2;3-4,5;5-3;7-7;9-8,9;10-10;11-13;12-11,12;13-14;14-18;15-15,16;18-20,21;19-22;21-27,28;22-25,26;23-23,24;27-31,32,33;29-34,35;31-36,37;32-38;33-39,40;34-41;35-42;36-44,45;37-43;38-46;39-49,50;40-47,48;</a>
+</spair>
+<spair id='64'>
+<s id='en64'>Ahead is an aggressive roadmap for Firefox 3.6 , 3.7 , and 4.0.</s>
+<s id='vn64'>Tiến xa hơn là một lộ trình linh hoạt dành cho Firefox 3.6 , 3.7 , và 4.0 .</s>
+<a id='ev64'>1-1,2,3;2-4;3-5;4-8,9;5-6,7;6-10,11;7-12;8-13;10-15;12-17;13-18;</a>
+</spair>
+<spair id='65'>
+<s id='en65'>And it 's trying to shake off the " bloatware " label some attach to Firefox .</s>
+<s id='vn65'>Và nó đang cố gắng rũ bỏ mác " phần mếm lớn " gắn cho Firefox .</s>
+<a id='ev65'>1-1;2-2;4-3,4,5;6-6;7-7;10-10,11,12;12-8;14-14;15-15;16-16;</a>
+</spair>
+<spair id='66'>
+<s id='en66'>Mostly the relationship appears genial , and indeed Chrome and Firefox developers are allied in the effort to improve the HTML underpinnings of the Web .</s>
+<s id='vn66'>Hầu hết mối quan hệ tỏ ra ôn hoà , và quả thực các nhà phát triển Chrome và Firefox là liên minh trong nỗ lực cải thiện nền tảng HTML của trang Web .</s>
+<a id='ev66'>1-1,2;3-3,4,5;4-6,7;5-8,9;7-11;8-12,13;9-18;10-19;11-20;12-14,15,16,17;13-21;14-22,23;15-24;17-25,26;19-27,28;21-31;22-29,30;23-32;25-33,34;</a>
+</spair>
+<spair id='67'>
+<s id='en67'>" Google gets the Web on another level than Microsoft does .</s>
+<s id='vn67'>" Google có một cấp độ nào đó hơn Microsoft .</s>
+<a id='ev67'>2-2;3-3,4;7-7,8;8-5,6;9-9;10-10;</a>
+</spair>
+<spair id='68'>
+<s id='en68'>It 's another level of competition , " Shaver said .</s>
+<s id='vn68'>Nó là mức độ khác nhau của sự cạnh tranh " Shavet cho biết .</s>
+<a id='ev68'>1-1;2-2;3-5,6;4-3,4;5-7;6-8,9,10;9-12;10-13,14;</a>
+</spair>
+<spair id='69'>
+<s id='en69'>" But I don't think it 's a Chrome goal to be harming Firefox .</s>
+<s id='vn69'>" Nhưng tôi không nghĩ rằng nó là một mục tiêu của Chrome để làm hại Firefox .</s>
+<a id='ev69'>2-2;3-3;4-4;5-5,6;6-7;7-8;8-9;9-12,13;10-10,11;11-14;13-15,16;14-17;</a>
+</spair>
+<spair id='70'>
+<s id='en70'>They wanted their own channel to control . "</s>
+<s id='vn70'>Họ muốn có tư tưởng riêng của mình để kiểm soát " .</s>
+<a id='ev70'>1-1;2-2,3;3-7,8;4-6;5-4,5;6-9;7-10,11;</a>
+</spair>
+<spair id='71'>
+<s id='en71'>Overall , though , Shaver believes Firefox 's position is strong .</s>
+<s id='vn71'>Tuy nhiên , nhìn chung , Shaver tin rằng vị trí của Firefox là vững chắc .</s>
+<a id='ev71'>1-4,5;3-1,2;5-7;6-8,9;7-13;8-12;9-10,11;10-14;11-15,16;</a>
+</spair>
+<spair id='72'>
+<s id='en72'>He cites as evidence the continuing growth rate estimated 160 million users of Firefox 3.0 exploding to about twice that now with the current Firefox 3.5 .</s>
+<s id='vn72'>Ông đã trích dẫn bằng chứng về tốc độ tăng trưởng liên tục - ước tính 160 triệu người dùng Firefox 3.0 có thể bùng nổ khoảng hai lần con số hiện nay Firefox 3.5 .</s>
+<a id='ev72'>1-1;2-2,3,4;4-5,6;6-12,13;7-10,11;8-8,9;9-15,16;10-17;11-18;12-19,20;14-21;15-22;16-23,24,25,26;18-27;19-28,29;21-32,33;24-30,31;25-34;26-35;</a>
+</spair>
+<spair id='73'>
+<s id='en73'>" distribution comes from people going to our Website and downloading it .</s>
+<s id='vn73'>" Số liệu này có được từ số lượng người dùng vào trang web của chúng tôi và tải Firefox .</s>
+<a id='ev73'>2-2,3,4;3-5,6;4-7;5-8,9,10,11;6-12;8-15,16,17;9-13,14;10-18;11-19;12-20;</a>
+</spair>
+<spair id='74'>
+<s id='en74'>There 's an act of volition there we really cherish , " Shaver said .</s>
+<s id='vn74'>Có một hành động tự nguyện chúng tôi vô cùng trân trọng " Shaver cho biết .</s>
+<a id='ev74'>1-1;3-2;4-3,4;6-5,6;8-7,8;9-9,10;10-11,12;13-14;14-15,16;</a>
+</spair>
+<spair id='75'>
+<s id='en75'>" There might be 350 million users .</s>
+<s id='vn75'>" Có thể có 350 triệu người dùng .</s>
+<a id='ev75'>2-4;3-2,3;5-5;6-6;7-7,8;</a>
+</spair>
+<spair id='76'>
+<s id='en76'>At that scale , there 's a real mainstream reach .</s>
+<s id='vn76'>Với mức độ này , có một xu hướng chính mà chúng tôi đạt được .</s>
+<a id='ev76'>1-1;2-4;3-2,3;5-6;7-7;8-10;9-8,9;10-11,12,13,14,15;</a>
+</spair>
+<spair id='77'>
+<s id='en77'>We 're affecting the lives of people who don't think about their software .</s>
+<s id='vn77'>Chúng tôi đang gây ảnh hưởng đến cuộc sống của mọi người , những người mà không nghĩ về phần mềm của chúng tôi .</s>
+<a id='ev77'>1-1,2;3-3,4,5,6;5-8,9;6-10;7-11,12;8-14,15,16;9-17;10-18;11-19;12-22,23,24;13-20,21;</a>
+</spair>
+<spair id='78'>
+<s id='en78'>And this growth doesn't show any signs of growth of slowing down . "</s>
+<s id='vn78'>Và sự tăng trưởng này không cho thấy bất kỳ dấu hiệu nào của sự tăng trưởng chậm lại . "</s>
+<a id='ev78'>1-1;2-5;3-2,3,4;4-6;5-7,8;6-9,10;7-11,12,13;8-14;9-15,16,17;11-18;12-19;</a>
+</spair>
+</text>
+</doc>

@@ -1,0 +1,252 @@
+﻿<doc id='N0452'>
+<head>
+<title>Declaration of Independence</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>22/10/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Declaration of Independence</s>
+<s id='vn1'>Tuyên ngôn Độc lập</s>
+<a id='ev1'>1-1,2;3-3,4;</a>
+</spair>
+<spair id='2'>
+<s id='en2'>Audio mp3 Reading by John F. Kennedy</s>
+<s id='vn2'>Audio mp3 Reading by John F. Kennedy</s>
+<a id='ev2'>1-1;2-2;3-3;5-5;6-6;7-7;</a>
+</spair>
+<spair id='3'>
+<s id='en3'>When , in the course of human events , it becomes necessary for one people to dissolve the political bands which have connected them with another , and to assume among the powers of the earth , the separate and equal station to which the laws of nature and of nature 's God entitle them , a decent respect to the opinions of mankind requires that they should declare the causes which impel them to the separation .</s>
+<s id='vn3'>Trong tiến trình lịch sử nhân loại , khi một dân tộc thấy cần rũ bỏ những mối liên hệ chính trị ràng buộc họ với một dân tộc khác và cần giành lấy một địa vị riêng biệt , bình đẳng trong hàng cường quốc trên trái đất này - địa vị mà các quy luật của thiên nhiên và của đấng cai quản muôn loài cho phép họ được hưởng thì vì nghiêm túc tôn trọng phán xét của nhân loại , họ nên tuyên bố những căn nguyên khiến họ phải ly khai .</s>
+<a id='ev3'>3-1;5-2,3;7-6,7;8-4,5;11-9;12-14;14-10;15-11,12;17-15,16;19-21,22;23-19,20;24-25;25-26;26-27,28,29,30;30-32,33,34;31-43,44;33-45,46;35-50;36-48,49;39-38,39;41-41,42;42-36,37;46-55,56,57;47-58;48-59,60;49-61;50-62;53-63,64,65;54-68,69;55-70;58-75,76;59-77,78;62-79,80;64-82,83;67-85;68-86;69-87,88;71-89,90,91;73-92;74-93;77-95,96;</a>
+</spair>
+<spair id='4'>
+<s id='en4'>We hold these truths to be self-evident , that all men are created equal , that they are endowed by their Creator with certain unalienable rights , that among these are life , liberty and the pursuit of happiness .</s>
+<s id='vn4'>Chúng tôi khẳng định những chân lý này là hiển nhiên , mọi người sinh ra đều bình đẳng , họ được Tạo hoá ban cho một số quyền bất khả nhượng , trong đó có quyền sống , quyền tự do và quyền mưu cầu hạnh phúc .</s>
+<a id='ev4'>1-1,2;2-3,4;3-8;4-5,6,7;6-9;7-10,11;10-13;11-14,15,16;13-23,24;14-18,19;17-21;19-25,26;25-30,31,32;26-29;29-34,35;30-36;32-37,38;34-40,41,42;35-43;37-44,45,46;39-47,48;</a>
+</spair>
+<spair id='5'>
+<s id='en5'>That to secure these rights , governments are instituted among men , deriving their just powers from the consent of the governed .</s>
+<s id='vn5'>Để đảm bảo cho những quyền này , chính phủ đã được lập ra từ trong nhân dân và có được quyền lực chính đáng là do có sự ưng thuận của nhân dân .</s>
+<a id='ev5'>2-1;3-2,3;4-7;5-5,6;7-9,10;9-11,12,13,14;10-16;11-17,18;13-20,21;15-24,25;16-22,23;17-27;19-29,30,31;20-32;22-33,34;</a>
+</spair>
+<spair id='6'>
+<s id='en6'>That whenever any form of government becomes destructive to these ends , it is the right of the people to alter or to abolish it , and to institute new government , laying its foundation on such principles and organizing its powers in such form , as to them shall seem most likely to effect their safety and happiness .</s>
+<s id='vn6'>Bất cứ khi nào một hình thức chính quyền nào đó trở nên có hại cho việc thực hiện những mục tiêu này thì đương nhiên nhân dân có quyền thay đổi hoặc loại bỏ nó , và lập chính quyền mới , đặt nền tảng trên những nguyên tắc đó và sắp xếp quyền lực cho nó dưới một hình thức nào đó , sao cho có thật nhiều khả năng làm cho nhân dân được an toàn và hạnh phúc .</s>
+<a id='ev6'>2-1,2,3,4;3-5,10,11;4-6,7;6-8,9;7-12,13;8-14,15;9-16;10-23;11-20,21,22;16-30;19-27,28;21-31,32;22-33;24-34,35;25-36;27-38;29-39;30-42;31-40,41;33-44;35-45,46;36-47;37-51;38-48,49,50;39-52;40-53,54;41-58;42-55,56;43-59;44-63,64;45-61,62;48-66,67;51-68,69;52-70,71,72;55-73,74;57-78,79;58-80;59-81,82;</a>
+</spair>
+<spair id='7'>
+<s id='en7'>Prudence , indeed , will dictate that governments long established should not be changed for light and transient causes ; and accordingly all experience hath shown that mankind are more disposed to suffer , while evils are sufferable , than to right themselves by abolishing the forms to which they are accustomed .</s>
+<s id='vn7'>Thật ra , nếu đúng là thận trọng thì đừng vì những lý do đơn giản và nhất thời mà thay đổi những chính phủ đã hình thành từ lâu ; và do vậy , kinh nghiệm từ bao đời nay đều cho thấy rằng con người thà chịu đựng khi cái xấu còn ở mức chịu đựng được , còn hơn là tự hoàn thiện bằng cách loại bỏ những hình thức mà mình đã quen thuộc .</s>
+<a id='ev7'>1-7,8;3-1,2;8-23,24,25;9-29,30;10-26,27,28;11,12-10;14-21,22;16-15,16;17-17;18-18,19;19-13,14;21-32;22-33,34;24-36,37;26-43,44;28-46,47;31-48;33-49,50;35-51;36-52,53;38-57,58,59;40-61,62;42-65,66;43-64;44-67,68;45-69,70;47-71,72,73;49-74;50-75;52-76,77,78;</a>
+</spair>
+<spair id='8'>
+<s id='en8'>But when a long train of abuses and usurpations , pursuing invariably the same object evinces a design to reduce them under absolute despotism , it is their right , it is their duty , to throw off such government , and to provide new guards for their future security .</s>
+<s id='vn8'>Nhưng khi hàng loạt hành vi lạm dụng và tước đoạt , khăng khăng đeo đuổi một mục tiêu , đã làm lộ rõ ý đồ khuất phục họ dưới ách chuyên chế tuyệt đối thì họ có quyền , có bổn phận lật đổ một chính quyền như thế và cử những người khác ra giữ yên ổn cho họ trong tương lai .</s>
+<a id='ev8'>1-1;2-2;5-3,4;7-7,8;8-9;9-10,11;11-15,16;15-18,19;16-21,22,23,24;18-25,26;20-27,28;21-29;22-30;23-34,35;24-32,33;27-38;28-37;29-39;34-41,42,43;37,38-44,45;39-49,50;40-47,48;42-51;44-52;45-53,54,55;46-57;47-60;48-61;49-62,63,64;50-58,59;</a>
+</spair>
+<spair id='9'>
+<s id='en9'>Such has been the patient sufferance of these colonies ; and such is now the necessity which constrains them to alter their former systems of government .</s>
+<s id='vn9'>Các thuộc địa này từng phải cắn răng chịu đựng như thế ; cho nên bây giờ hoàn cảnh buộc họ cũng phải thay đổi những hệ thống chính quyền cũ như thế .</s>
+<a id='ev9'>1-11,12;3-5;5-7,8;6-9,10;8-4;9-1,2,3;12-14,15;14-16,17;16-18,19;18-20;19-21;21-24,25;23-31;24-26,27,28;26-29,30;</a>
+</spair>
+<spair id='10'>
+<s id='en10'>The history of the present King of Great Britain is a history of repeated injuries and usurpations , all having in direct object the establishment of an absolute tyranny over these states .</s>
+<s id='vn10'>Thành tích của vua nước Anh hiện nay toàn là những chuyện xâm phạm và tước đoạt triền miên , tất cả đều nhằm mục đích trực tiếp là thiết lập ách chuyên chế bạo ngược ở những bang này .</s>
+<a id='ev10'>2-1,2;3-3;5-7,8;6-4;8,9-5,6;10-9,10;14-18,19;15-11,12,13,14;16-15;17-16,17;19-21,22;22-27,28;23-24,25,26;25-30,31;28-33,34;29-35,36;31-40;32-38,39;</a>
+</spair>
+<spair id='11'>
+<s id='en11'>To prove this , let facts be submitted to a candid world .</s>
+<s id='vn11'>Ðể chứng minh điều này , ta hãy để sự thật cho một thế giới trung thực tự phán xét lấy .</s>
+<a id='ev11'>1-1;2-2,3;3-4,5;5-8,9;6-10,11;8-19,20;9-12;10-13;11-16,17;12-14,15;</a>
+</spair>
+<spair id='12'>
+<s id='en12'>He has refused his assent to laws , the most wholesome and necessary for the public good .</s>
+<s id='vn12'>Ông ta từ chối phê chuẩn một số đạo luật , dù đó là những đạo luật tốt đẹp nhất và cần thiết nhất đối với lợi ích của quần chúng .</s>
+<a id='ev12'>1-1,2;3-3,4;5-5,6;7-7,8,9,10;10-20;11-15,16,17;12-21;13-22,23;14-25,26;16-30,31;17-18,19;</a>
+</spair>
+<spair id='13'>
+<s id='en13'>He has forbidden his governors to pass laws of immediate and pressing importance , unless suspended in their operation till his assent should be obtained ; and when so suspended , he has utterly neglected to attend to them .</s>
+<s id='vn13'>Ông ta cấm giới thống đốc thông qua những đạo luật mang tính cấp bách và bức xúc , trừ phi ngưng thực thi chúng để chờ ông ta phê chuẩn và trong khi đình chỉ như vậy , ông ta lại bỏ mặc luôn , chẳng bận tâm gì về chúng nữa .</s>
+<a id='ev13'>1-1,2;3-3;5-5,6;7-7,8;8-9,10,11;10-13,14,15;11-16;12-17,18;15-20,21;16-22;18-25;19-23,24;22-30,31;27-32;28-33,34;29-37,38;30-35,36;32-40,41;34-45;35-43,44;37-48,49;39-52;</a>
+</spair>
+<spair id='14'>
+<s id='en14'>He has refused to pass other laws for the accommodation of large districts of people , unless those people would relinquish the right of representation in the legislature , a right inestimable to them and formidable to tyrants only .</s>
+<s id='vn14'>Ông ta không chịu thông qua các đạo luật về cư trú ở những vùng đông dân cư , trừ phi đám dân này từ bỏ quyền có người đại diện cho họ trong cơ quan lập pháp , một loại quyền vô giá đối với họ nhưng lại rất đáng sợ đối với bọn bạo chúa .</s>
+<a id='ev14'>1-1,2;3-3,4;5-5,6;7-7,8,9;8-10;10-11,12;11-13;12-16;13-14,15;15-17,18;17-20,21;18-24;19-22,23;21-25,26;23-27;25-29,30,31;26-34;28-35,36,37,38;30-40;31-41,42;32-43,44;33-45,46;34-47;35-48;36-49,50,51,52;37-53,54;38-55,56,57;</a>
+</spair>
+<spair id='15'>
+<s id='en15'>He has called together legislative bodies at places unusual , uncomfortable , and distant from the depository of their public records , for the sole purpose of fatiguing them into compliance with his measures .</s>
+<s id='vn15'>Ông ta đã triệu tập các cơ quan lập pháp ở những địa điểm bất thường , bất tiện , cách xa kho lưu trữ hồ sơ công vụ , cốt là làm cho họ vì mệt mỏi mà đành tuân theo các chủ trương của ông ta .</s>
+<a id='ev15'>1-1,2;3-3,4,5;5-9,10;6-6,7,8;7-11;8-12,13,14;9-15,16;11-18,19;14-21,22;17-23,24,25;20-28,29;21-26,27;23-32;25-33,34;28-37,38;29-35;31-40,41,42;33-46,47,48;34-43,44,45;</a>
+</spair>
+<spair id='16'>
+<s id='en16'>He has dissolved representative houses repeatedly , for opposing with manly firmness his invasions on the rights of the people .</s>
+<s id='vn16'>Ông ta đã nhiều lần giải tán các hạ nghị viện , vì họ kịch liệt chống đối việc ông ta xâm phạm các quyền của nhân dân .</s>
+<a id='ev16'>1-1,2;3-6,7;5-8,9,10,11;6-3,4,5;8-13;9-17,18;11-19,20,21;12-15,16;14-22,23;17-24,25;20-26,27,28;</a>
+</spair>
+<spair id='17'>
+<s id='en17'>He has refused for a long time , after such dissolutions , to cause others to be elected ; whereby the legislative powers , incapable of annihilation , have returned to the people at large for their exercise ;</s>
+<s id='vn17'>Rồi sau những lần giải tán như thế , phải lâu lắm ông ta mới chịu cho bầu lại những cơ quan này , vậy là quyền lập pháp , một loại quyền không gì xóa bỏ được , lại về tay dân chúng để họ tự hành sử .</s>
+<a id='ev17'>1-13,14;6-11,12;9-2;10-7,8;11-3,4,5,6;14-20,21,22;16-17;18-18,19;20-25,26;22-28,29;23-27;25-34,35,36,37;27-31,32,33;29-38;30-40;31-41,42;33-43,44;36-45;37-46;38-48,49;</a>
+</spair>
+<spair id='18'>
+<s id='en18'>The state remaining in the meantime exposed to all the dangers of invasion from without , and convulsions within .</s>
+<s id='vn18'>Cùng lúc đó , nhà nước vẫn phải đối mặt với đủ thứ nguy cơ về ngoại xâm và nội loạn .</s>
+<a id='ev18'>2-5,6;3-7;6-1,2,3;7-9,10;8-11;9-12,13;11-14,15;12-16;13-17,18;17-19;18-20,21;</a>
+</spair>
+<spair id='19'>
+<s id='en19'>He has endeavored to prevent the population of these states ;</s>
+<s id='vn19'>Ông ta ra sức ngăn cản việc tăng dân số ở các bang này .</s>
+<a id='ev19'>1-1,2;3-3,4;5-5,6;7-9,10;8-11;9-14;10-12,13;</a>
+</spair>
+<spair id='20'>
+<s id='en20'>For that purpose obstructing the laws for naturalization of foreigners ; refusing to pass others to encourage their migration hither , and raising the conditions of new appropriations of lands .</s>
+<s id='vn20'>Vì mục đích đó , ông ta cản trở việc thực hiện luật nhập quốc tịch cho người nước ngoài , từ chối thông qua các đạo luật khuyến khích nhập cư và khắt khe hơn nữa đối với các trường hợp tậu thêm đất .</s>
+<a id='ev20'>1-1;2-4;3-2,3;4-8,9;6-13;8-14,15,16;9-17;10-18,19,20;12-22,23;14-24,25;17-29,30;19-31,32;22-33;23-34,35,36,37;25-40,41,42;28-43,44;30-45;</a>
+</spair>
+<spair id='21'>
+<s id='en21'>He has made judges dependent on his will alone , for the tenure of their offices , and the amount and payment of their salaries .</s>
+<s id='vn21'>Ông ta đã buộc các quan tòa phải lệ thuộc vào ý muốn của ông ta , thông qua những qui định về nhiệm kỳ cũng như lương bổng trả cho họ .</s>
+<a id='ev21'>1-1,2;3-3,4;4-5,6,7;5-8,9,10;6-11;7-14,15,16;8-12,13;11-18,19;13-24,25;15-23;18-26,27;24-32;25-28,29;</a>
+</spair>
+<spair id='22'>
+<s id='en22'>He has erected a multitude of new offices , and sent hither swarms of officers to harass our people , and eat out their substance .</s>
+<s id='vn22'>Ông ta lập ra rất nhiều cơ quan mới và bổ nhiệm vào đó vô số quan lại sách nhiễu dân chúng và vơ vét tài sản của họ .</s>
+<a id='ev22'>1-1,2;3-3,4;5-5,6;7-9;8-7,8;10-10;11-11,12;13-15,16;15-17,18;17-19,20;19-21,22;22-24,25;24-28,29;25-26,27;</a>
+</spair>
+<spair id='23'>
+<s id='en23'>He has kept among us , in times of peace , standing armies without the consent of our legislature .</s>
+<s id='vn23'>Trong thời bình , ông ta vẫn duy trì những đạo quân thường trực trên đất nước chúng ta dù cơ quan lập pháp của chúng ta không hề đồng ý .</s>
+<a id='ev23'>1-5,6;3-7,8,9;5-18,19;7-1;8-2;10-3;12-13,14;13-10,11,12;14-28,29;16-30,31;18-25,26,27;19-21,22,23,24;</a>
+</spair>
+<spair id='24'>
+<s id='en24'>He has affected to render the military independent of and superior to civil power .</s>
+<s id='vn24'>Ông ta đã tác động sao cho quân đội độc lập và vượt lên trên chính quyền dân sự .</s>
+<a id='ev24'>1-1,2;3-3,4,5;7-8,9;8-10,11;10-12;11-13,14;13-18,19;14-16,17;</a>
+</spair>
+<spair id='25'>
+<s id='en25'>He has combined with others to subject us to a jurisdiction foreign to our constitution , and unacknowledged by our laws ; giving his assent to their acts of pretended legislation :</s>
+<s id='vn25'>Ông ta đã cùng với nhiều kẻ khác ép chúng ta phải cam chịu một nền tư pháp không liên quan gì với hiến pháp của chúng ta mà cũng chẳng được luật pháp của chúng ta công nhận , rồi ông ta phê chuẩn những đạo luật giả dối sau đây :</s>
+<a id='ev25'>1-1,2;3-3,4,5;5-6,7,8;7-9;8-10,11;10-15;11-16,17,18;12-19,20,21;13-23;14-26,27,28;15-24,25;17-29;18-30,31,32,38,39;20-35,36,37;21-33,34;24-42,43;25-44,45;30-49,50;31-46,47,48;</a>
+</spair>
+<spair id='26'>
+<s id='en26'>For quartering large bodies of armed troops among us :</s>
+<s id='vn26'>Cho phép những đạo quân hùng hậu trú đóng trên đất nước chúng ta .</s>
+<a id='ev26'>1-1,2;2-8,9;3-6,7;7-3,4,5;9-13,14;</a>
+</spair>
+<spair id='27'>
+<s id='en27'>For protecting them , by mock trial , from punishment for any murders which they should commit on the inhabitants of these states :</s>
+<s id='vn27'>Qua những phiên tòa giả hiệu , che chở cho chúng khỏi bị trừng phạt về tội sát hại dân cư ở các bang này .</s>
+<a id='ev27'>1-10;2-8,9;3-11;5-1;6-5,6;7-2,3,4;9-12;10-13,14,15;11-16;13-17;17-18,19;20-20,21;21-22;23-23,24;</a>
+</spair>
+<spair id='28'>
+<s id='en28'>For cutting off our trade with all parts of the world :</s>
+<s id='vn28'>Cắt đứt quan hệ thương mại giữa chúng ta với cả thế giới .</s>
+<a id='ev28'>2-1,2,3,4;4-8,9;5-5,6;6-10;11-11,12,13;</a>
+</spair>
+<spair id='29'>
+<s id='en29'>For imposing taxes on us without our consent :</s>
+<s id='vn29'>Bắt chúng ta nộp những khoản thuế mà chúng ta không đồng ý .</s>
+<a id='ev29'>2-1;3-5,6,7;5-2,3;6-8,11;7-9,10;8-12,13;</a>
+</spair>
+<spair id='30'>
+<s id='en30'>For depriving us in many cases , of the benefits of trial by jury :</s>
+<s id='vn30'>Nhiều lần không cho chúng ta hưởng quyền được đưa ra toà xét xử .</s>
+<a id='ev30'>1-3,4;3-5,6;5-1;6-2;10-7,8;12-13,14;14-12;</a>
+</spair>
+<spair id='31'>
+<s id='en31'>For transporting us beyond seas to be tried for pretended offenses :</s>
+<s id='vn31'>Ðưa chúng ta ra hải ngoại để xét xử về những tội trạng không có thật .</s>
+<a id='ev31'>2-1;3-2,3;4,5-5,6;6-7;8-8,9;9-10;10-14,15,16;11-11,12,13;</a>
+</spair>
+<spair id='32'>
+<s id='en32'>For abolishing the free system of English laws in a neighboring province , establishing therein an arbitrary government , and enlarging its boundaries so as to render it at once an example and fit instrument for introducing the same absolute rule in these colonies :</s>
+<s id='vn32'>Xóa bỏ thể chế tự do của luật pháp nước Anh ở một vùng lân cận và dựng một chính quyền độc đoán ngay tại đó ; rồi mở rộng ranh giới vùng đó để lập tức biến nó thành kiểu mẫu và công cụ thích hợp nhằm đặt đúng cái ách chuyên chế ấy vào các thuộc địa này .</s>
+<a id='ev32'>2-1,2;4-5,6;5-3,4;6-7;7-10,11;8-8,9;9-12;10-13;11-15,16;12-14;14-18;15-25,26;16-19;17-22,23;18-20,21;20-28;21-29,30;22-34;23-31,32,33;26-35;27-38;28-39;32-41,42;33-43;34-46,47;35-44,45;36-48;37-49;38-55;39-51;40-52,53,54;42-56;43-60;44-57,58,59;</a>
+</spair>
+<spair id='33'>
+<s id='en33'>For taking away our charters , abolishing our most valuable laws , and altering fundamentally the forms of our governments :</s>
+<s id='vn33'>Tước đoạt hiến chương của chúng ta , huỷ bỏ những đạo luật quý giá nhất của chúng ta và thay đổi thể chế chính quyền của chúng ta đến tận gốc rễ .</s>
+<a id='ev33'>2-1,2;4-5,6,7;5-3,4;7-9,10;8-17,18,19;9-16;10-14,15;11-11,12,13;13-20;14-21,22;15-31,32,33;17-23,24;19-27,28,29;20-25,26;</a>
+</spair>
+<spair id='34'>
+<s id='en34'>For suspending our own legislatures , and declaring themselves invested with power to legislate for us in all cases whatsoever .</s>
+<s id='vn34'>Không cho các cơ quan lập pháp của chúng ta hoạt động nữa , rồi tự tuyên bố là họ có quyền làm luật cho chúng ta trong mọi trường hợp .</s>
+<a id='ev34'>2-1,2,11,12,13;3-8,9,10;5-3,4,5,6,7;8-17,18;9-16;11-19;14-23,24;16-26,27;17-28;19-29,30,31;</a>
+</spair>
+<spair id='35'>
+<s id='en35'>He has abdicated government here , by declaring us out of his protection and waging war against us .</s>
+<s id='vn35'>Ông ta chối bỏ chính quyền ở đây và tuyên bố rằng chúng ta không còn được ông ta che chở nữa , rồi gây chiến với chúng ta .</s>
+<a id='ev35'>1-1,2;3-3,4;4-5,6;5-7,8;8-10,11;9-13,14;10,11-15,16;12-18,19;13-20,21;14-24;16-25,26;17-27;18-28,29;</a>
+</spair>
+<spair id='36'>
+<s id='en36'>He has plundered our seas , ravaged our coasts , burned our towns , and destroyed the lives of our people .</s>
+<s id='vn36'>Ông ta đã vơ vét biển cả , tàn phá miền duyên hải , thiêu huỷ vùng đô thị , huỷ hoại sinh mạng của nhân dân chúng ta .</s>
+<a id='ev36'>1-1,2;3-3,4,5;5-6,7;7-9,10;9-11,12,13;11-15,16;13-18,19;16-21,22;18-23,24;19-25;20-28,29;21-26,27;</a>
+</spair>
+<spair id='37'>
+<s id='en37'>He is at this time transporting large armies of foreign mercenaries to complete the works of death , desolation and tyranny , already begun with circumstances of cruelty and perfidy scarcely paralleled in the most barbarous ages , and totally unworthy the head of a civilized nation .</s>
+<s id='vn37'>Bây giờ ông ta còn đưa những đạo quân hùng hậu toàn là lính đánh thuê nước ngoài sang làm nốt cái công việc giết tróc , tàn phá và bạo ngược , vốn đã được khai mào bằng những cảnh tàn ác và xảo trá mà ngay cả trong thời đại dã man nhất cũng khó mà sánh được , đúng là không hề xứng đáng với cương vị người đứng đầu một quốc gia văn minh .</s>
+<a id='ev37'>1-3,4;4,5-1,2;6-6;7-10,11;8-7,8,9;10-17,18;11-14,15,16;12-19;13-20,21;15-22,23,24;17-25,26;19-28,29;20-30;21-31,32;24-37,38;25-39;26-40,41;28-42,43;29-44;30-45,46;35-55;36-53,54;37-51,52;41-64,65,66,67;43-71,72,73;45-74;46-77,78;47-75,76;</a>
+</spair>
+<spair id='38'>
+<s id='en38'>He has constrained our fellow citizens taken captive on the high seas to bear arms against their country , to become the executioners of their friends and brethren , or to fall themselves by their hands .</s>
+<s id='vn38'>Ông ta đã ép những đồng bào của chúng ta bị bắt ngoài biển khơi phải cầm súng chống lại đất nước mình , trở thành những tên đao phủ chuyên hành hình bạn bè và anh em của chính mình , hoặc phải chết dưới tay bạn bè và anh em của chính mình .</s>
+<a id='ev38'>1-1,2;3-3,4;4-8,9,10;6-5,6,7;8-11,12;9-13;11,12-14,15;14-17;16-19,20;18-21,22;21-25,26;23-27,28,29,30;25-39,40,41;26-34,35;27-36;28-37,38;30-43;32-45;33-53,54,55;34-46;36-47;</a>
+</spair>
+<spair id='39'>
+<s id='en39'>He has excited domestic insurrections amongst us , and has endeavored to bring on the inhabitants of our frontiers , the merciless Indian savages , whose known rule of warfare , is undistinguished destruction of all ages , sexes and conditions .</s>
+<s id='vn39'>Ông ta đã kích động bạo loạn ngay trong nội bộ chúng ta và cố đưa vào vùng dân cư ở miền biên cương nước ta những kẻ man rợ tàn bạo theo kiểu thổ dân Indian , những kẻ mà quy tắc chiến tranh khét tiếng của chúng là giết sạch , không phân biệt già hay trẻ , nam hay nữ , sang hay hèn .</s>
+<a id='ev39'>1-1,2;3-3,4,5;4-9,10,11;5-6,7;7-12,13;9-14;11-15;13-16,17;16-19,20;17-21;19-22,23,24;22-31,32;23-37;24-27,28,29,30;26-39,40;28-42,43;30-44,45;33-54,55,56;34-51;36,37-57,58,59;39-61,62,63;41-65,66,67;</a>
+</spair>
+<spair id='40'>
+<s id='en40'>In every stage of these oppressions we have petitioned for redress in the most humble terms : our repeated petitions have been answered only by repeated injury .</s>
+<s id='vn40'>Trong các giai đoạn bị áp bức như vậy , chúng ta đều có yêu cầu bồi thường với lời lẽ hết sức khiêm nhường , nhưng đáp lại những kiến nghị dồn dập này luôn là những hành vi xâm phạm triền miên .</s>
+<a id='ev40'>1-1;3-2,3,4;5-8,9;6-6,7;7-11,12;8-13,14;9-15,16;11-17,18;12-19;14-22,23;15-24,25;16-20,21;19-33,34;20-30,31,32;22-37;23-28;26-43,44;27-38,39,40,41,42;</a>
+</spair>
+<spair id='41'>
+<s id='en41'>A prince , whose character is thus marked by every act which may define a tyrant , is unfit to be the ruler of a free people .</s>
+<s id='vn41'>Một ông hoàng mà nhất cứ nhất động đều có thể gọi là tính cách của một tên bạo chúa thì làm sao xứng đáng thống lĩnh một dân tộc tự do .</s>
+<a id='ev41'>1-1;2-2,3;5-14,15;10,11-5,6,7,8;12-4;13-10,11;14-12,13;15-17;16-18,19,20;19-22,23,24,25;23-26,27;25-28;26-31,32;27-29,30;</a>
+</spair>
+<spair id='42'>
+<s id='en42'>Nor have we been wanting in attention to our British brethren .</s>
+<s id='vn42'>Không phải chúng ta không lưu ý đến các bạn Anh .</s>
+<a id='ev42'>1-1,2;3-3,4;5-5;7-6,7;8-8;10-11;11-9,10;</a>
+</spair>
+<spair id='43'>
+<s id='en43'>We have warned them from time to time of attempts by their legislature to extend an unwarrantable jurisdiction over us .</s>
+<s id='vn43'>Ð ã nhiều lần chúng ta cảnh báo họ về mưu toan của cơ quan lập pháp của họ trong việc bành trướng quyền tài phán quá đáng sang đất nước chúng ta .</s>
+<a id='ev43'>1-5,6;3-7,8;4-9;5-13;7-20;9-10;10-12;12-18,19;13-14,15,16,17;15-21;18-24,25,26;19-4;20-32,33;</a>
+</spair>
+<spair id='44'>
+<s id='en44'>We have reminded them of the circumstances of our emigration and settlement here .</s>
+<s id='vn44'>Chúng ta đã nhắc nhở họ về hoàn cảnh nhập cư và cư trú của chúng ta tại nơi này .</s>
+<a id='ev44'>1-1,2;3-3,4,5;4-6;5-7;7-8,9;9-15,16,17;10-11;11-12;12-13,14;13-20;</a>
+</spair>
+<spair id='45'>
+<s id='en45'>We have appealed to their native justice and magnanimity , and we have conjured them by the ties of our common kindred to disavow these usurpations , which , would inevitably interrupt our connections and correspondence .</s>
+<s id='vn45'>Chúng ta đã kêu gọi ý thức công bằng và lòng hào hiệp ở họ , chúng ta đã yêu cầu họ vì mối liên hệ ruột thịt giữa đôi bên mà từ bỏ những hành vi chiếm đoạt , vì chắc chắn những hành vi này sẽ gây trở ngại cho sự giao thiệp và trao đổi thư từ giữa hai phía với nhau .</s>
+<a id='ev45'>1-1,2;3-3,4,5;4-52;7-8,9;8-10;9-12,13;11-56;12-17,18;15-15;16-14;18-25,26;23-11;24-33,34;26-38,39;28-32;31-42,43;34-53,54,55;35-64,65;36-59,60;</a>
+</spair>
+<spair id='46'>
+<s id='en46'>They too have been deaf to the voice of justice and of consanguinity .</s>
+<s id='vn46'>Họ cũng không thèm lắng nghe tiếng nói của công lý , tiếng nói của tình máu mủ .</s>
+<a id='ev46'>1-1;2-2,3;8-7,8;9-9;10-10,11;12-15;13-16,17,18;</a>
+</spair>
+<spair id='47'>
+<s id='en47'>We must , therefore , acquiesce in the necessity , which denounces our separation , and hold them , as we hold the rest of mankind , enemies in war , in peace friends .</s>
+<s id='vn47'>Vì vậy , chúng ta đành chấp nhận tuyên bố cắt đứt quan hệ với họ và đối xử với họ giống như với tất cả những người khác : Thời bình là bạn , thời chiến là thù .</s>
+<a id='ev47'>1-4,5;6-8;12-10;16-15;18-16;20-23;24-27,28,29;29-33;30-36,37;32-38;</a>
+</spair>
+<spair id='48'>
+<s id='en48'>We , therefore , the representatives of the United States of America , in General Congress , assembled , appealing to the Supreme Judge of the world for the rectitude of our intentions , do , in the name , and by the authority of the good people of these colonies , solemnly publish and declare , that these united colonies are , and of right ought to be free and independent states ; that they are absolved from all allegiance to the British Crown , and that all political connection between them and the state of Great Britain , is and ought to be totally dissolved ; and that as free and independent states , they have full power to levy war , conclude peace , contract alliances , establish commerce , and to do all other acts and things which independent states may of right do .</s>
+<s id='vn48'>Vì vậy , thông qua Quốc hội này , chúng tôi , những người đại diện cho Hợp Chúng Quốc Hoa Kỳ , đang tề tựu nơi đây để thỉnh nguyện Đấng phán xét tối cao chứng giám cho ý định đúng đắn của chúng tôi , đồng thời nhân danh những người lương thiện ở các thuộc địa này và do sự uỷ quyền của họ , chúng tôi long trọng công khai tuyên bố rằng các thuộc địa liên minh với nhau này là những quốc gia độc lập tự do và họ có quyền được như vậy , rằng họ hoàn toàn không còn phải trung thành với vua Anh nữa , rằng những liên hệ chính trị giữa họ với nước Anh cần phải bị xóa hẳn , rằng với tư cách là quốc gia độc lập tự do , họ hoàn toàn có quyền khai chiến , ký hoà ước , lập liên minh , lập quan hệ thương mại , làm tất cả những gì và những việc gì mà các quốc gia độc lập có quyền làm .</s>
+<a id='ev48'>1-10,11;3-1,2;6-13,14,15,16;9,10,11,12-18,19,20,21,22;15,16-6,7;18-24,25,26;20-30,31;23-35,36;24-32,33,34;30-42,43;32-44,45,46;33-40,41;41-48,49;44-50,51;47-54,55;48-52,53;49-56;50-60;51-57,58,59;53-71,72;54-73,74;56-75,76;58-77;59-85;60-81,82;61-78,79,80;62-86;70-92,93;72-90,91;73-87,88,89;76-95;78-96,97;80-104,105;81-109,110;82-111;84-113;85-112;88-116;90-120,121;91-117,118,119;92-122;93-123;94-124;96-125;98,99-126;106-131;107-129,130;110-133;111-134,135,136,137;112-142,143;114-140,141;115-138,139;117-145;119-146,147;120-149;122,123-150,151;125-153;126-154,155;128-157;129-158,159;131-161;132-162,163,164,165;136-167;137-168,169;138-170,171;140-172;141-173,174,175;142-176;143-180,181;144-177,178,179;145-182;147-183;148-184;</a>
+</spair>
+</text>
+</doc>

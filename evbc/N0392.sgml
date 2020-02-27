@@ -1,0 +1,172 @@
+﻿<doc id='N0392'>
+<head>
+<title>Making the World Wide Web More Usable to a Wider World</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>22/10/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Making the World Wide Web More Usable to a Wider World</s>
+<s id='vn1'>Để mạng toàn cầu trở nên phổ dụng với nhiều người hơn</s>
+<a id='ev1'>1-1;3-4;4-3;5-2;6-5,6;7-7,8;8-9;10-10,11,12;</a>
+</spair>
+<spair id='2'>
+<s id='en2'>The world has almost seven billion people .</s>
+<s id='vn2'>Dân số thế giới có gần 7 tỉ người .</s>
+<a id='ev2'>2-1,2,3,4;3-5;4-6;5-7;6-8;7-9;</a>
+</spair>
+<spair id='3'>
+<s id='en3'>At least two billion are expected to be on the Internet by January .</s>
+<s id='vn3'>Có ít nhất hai tỉ người sẽ được sử dụng Internet vào tháng giêng .</s>
+<a id='ev3'>2-1,2,3;3-4;4-5,6;6-7,8,9,10;11-11;12-12;13-13,14;</a>
+</spair>
+<spair id='4'>
+<s id='en4'>New growth is mostly from developing countries .</s>
+<s id='vn4'>Con số tăng trưởng mới hầu hết là từ các quốc gia đang phát triển .</s>
+<a id='ev4'>1-5;2-1,2,3,4;3-8;4-6,7;5-9;6-13,14,15;7-10,11,12;</a>
+</spair>
+<spair id='5'>
+<s id='en5'>Yet only twenty-one percent of their population is online .</s>
+<s id='vn5'>Tuy nhiên chỉ 21 phần trăm dân số ở các nước này sử dụng được Internet .</s>
+<a id='ev5'>1-1,2;2-3;3-4;4-5,6;6-10,11,12;7-7,8;8-15;9-16;</a>
+</spair>
+<spair id='6'>
+<s id='en6'>A group called the World Wide Web Foundation is working to make the Web more usable to more of the world .</s>
+<s id='vn6'>Một tổ chức có tên gọi là World Wide Web Foundation đang nỗ lực giúp nhiều người hơn trên thế giới có thể tiếp xúc được mạng Internet .</s>
+<a id='ev6'>1-1;2-2,3;3-4,5,6;5-8;6-9;7-10;8-11;9-12;10-13,14;12-15;14-27,28;15-16,17,18;16-22,23,24,25,26;21-19,20,21;</a>
+</spair>
+<spair id='7'>
+<s id='en7'>Tim Berners-Lee is the British computer scientist who invented the World Wide Web .</s>
+<s id='vn7'>Tim Berners-Lee , một nhà khoa học máy tính người Anh , đã phát minh ra mạng toàn cầu .</s>
+<a id='ev7'>1-1;2-2;5-10,11;6-8,9;7-5,6,7;9-13,14,15,16;11-18,19;13-17;</a>
+</spair>
+<spair id='8'>
+<s id='en8'>He announced the launch of the Web Foundation last November .</s>
+<s id='vn8'>Ông đã tuyên bố thành lập tổ chức này hồi tháng 11 năm ngoái .</s>
+<a id='ev8'>1-1;2-2,3,4;4-5,6;6-9;8-7,8;9-13,14;10-10,11,12;</a>
+</spair>
+<spair id='9'>
+<s id='en9'>The group says many people can access the Web but are unable to use it .</s>
+<s id='vn9'>Theo tổ chức này cho biết có nhiều người có thể truy cập mạng nhưng không thể sử dụng nó .</s>
+<a id='ev9'>1-4;2-2,3;3-5,6;4-8;5-9;6-10,11;7-12,13;9-14;10-15;12-16,17;14-18,19;15-20;</a>
+</spair>
+<spair id='10'>
+<s id='en10'>The biggest reason is illiteracy .</s>
+<s id='vn10'>Lý do lớn nhất là nạn mù chữ .</s>
+<a id='ev10'>2-3,4;3-1,2;4-5;5-6,7,8;</a>
+</spair>
+<spair id='11'>
+<s id='en11'>The latest United Nations report says almost eight hundred million adults are unable to read or write .</s>
+<s id='vn11'>Bản báo cáo mới nhất của Liên hiệp quốc cho biết có gần 800 người trưởng thành không biết đọc hoặc biết viết .</s>
+<a id='ev11'>2-4,5;3-7,8,9;5-1,2,3;6-10,11;7-12,13;8-14,15;11-16,17;13-18,19;15-20;16-21;17-22,23;</a>
+</spair>
+<spair id='12'>
+<s id='en12'>Even for those who can read , much of the information that is available on the Web is not in a language they can understand .</s>
+<s id='vn12'>Thậm chí với những người biết đọc , đa phần thông tin tại trên mạng lại không được viết bằng ngôn ngữ mà họ có thể hiểu được .</s>
+<a id='ev12'>1-1,2;2-3;3-4,5;5-6;6-7;8-9,10;11-11,12;14-13;15-14;17-15;19-16,17,18;20-20;22-21,22;23-24;24-25,26;25-27,28;</a>
+</spair>
+<spair id='13'>
+<s id='en13'>Steve Bratt is chief executive of the Web Foundation .</s>
+<s id='vn13'>Steve Bratt là giám đốc điều hành của Web Foundation .</s>
+<a id='ev13'>1-1;2-2;3-3;4-4,5;5-6,7;6-8;8-9;9-10;</a>
+</spair>
+<spair id='14'>
+<s id='en14'>STEVE BRATT : " If you 're a poor shopkeeper living in a very impoverished part of Botswana and you 're trying to feed your family , trying to buy and sell goods , trying to get medical services for your kids or your employees , and you speak a local language , there 's nothing on today 's Web that 's going to help you , right ?</s>
+<s id='vn14'>STEVE BRATT : " Nếu bạn làm chủ một cửa tiệm nghèo nàn sống ở một khu vực nghèo khổ của Bốt-xoa-na và bạn đang nuôi cả gia đình bạn , cố mua và bán hàng , cố tìm kiếm dịch vụ chăm sóc sức khoẻ cho con cái hoặc người làm của bạn , và bạn chỉ biết nói tiếng địa phương , thì không có cách nào mà Internet ngày nay có thể giúp đỡ gì cho bạn , phải không nào ?</s>
+<a id='ev14'>1-1;2-2;5-5;6-6;7-7,8;8-9;9-12,13;10-10,11;11-14;12-15;13-16;15-19,20;16-17,18;17-21;18-22;19-23;20-24;22-25;24-26,27;25-30;26-28,29;28-32;30-33;31-34;32-35,36;35-38;37-39,40;38-43,45,46;39-41,42;40-47;42-48,49;43-50;44-53,54;45-51,52;47-56;48-57;49-58,59,60;51-62,63;52-61;56-66,67,68,69;58-72,73;60-71;63-74,75;65-76,77;66-79,80;68-82,83,84;</a>
+</spair>
+<spair id='15'>
+<s id='en15'>" So even if they had connectivity and they had a mobile phone , or something they could get to the Web , what would they look for ?</s>
+<s id='vn15'>" Nhưng nếu họ có nối mạng và họ có điện thoại di động , hoặc cái gì đó mà họ có thể vào mạng được , thì họ sẽ tìm cái gì ?</s>
+<a id='ev15'>2-2;4-3;5-4;6-5;7-6,7;8-8;9-9;10-10;12-13,14;13-11,12;15-16;16-17,18,19;17-20,21;18-22,23;19-24;22-25,26;24-32,33;25-30;26-28,29;27-31;</a>
+</spair>
+<spair id='16'>
+<s id='en16'>What would they be able to understand ?"</s>
+<s id='vn16'>Họ sẽ có thể hiểu được những gì ? "</s>
+<a id='ev16'>1-7,8;2-2;3-1;5-3,4;7-5,6;</a>
+</spair>
+<spair id='17'>
+<s id='en17'>Tim Berners-Lee first proposed the idea for the World Wide Web in 1989 .</s>
+<s id='vn17'>Tim Berners-Lee lần đầu tiên đề xuất ý tưởng về mạng toàn cầu vào năm 1989 .</s>
+<a id='ev17'>1-1;2-2;3-3,4,5;4-6,7;6-8,9;7-10;9-13;10-12;11-11;12-14;13-15,16;</a>
+</spair>
+<spair id='18'>
+<s id='en18'>This was twenty years after Americans developed the first version of what we know as the Internet .</s>
+<s id='vn18'>Hai mươi năm sau , người Mỹ đã phát triển phiên bản đầu tiên thành cái mà chúng ta biết đến với tên gọi là mạng Internet .</s>
+<a id='ev18'>3-1,2;4-3;5-4;6-6,7;7-8,9,10;9-13,14;10-11,12;12-16,17;13-18,19;14-20,21;15-22,23,24,25;17-26,27;</a>
+</spair>
+<spair id='19'>
+<s id='en19'>The Internet is a network of networks .</s>
+<s id='vn19'>Internet là mạng lưới của những mạng lưới .</s>
+<a id='ev19'>2-1;3-2;5-3,4;6-5;7-6,7,8;</a>
+</spair>
+<spair id='20'>
+<s id='en20'>It lets millions of computers communicate with each other .</s>
+<s id='vn20'>Nó cho phép hàng triệu máy tính giao tiếp với nhau .</s>
+<a id='ev20'>1-1;2-2,3;3-4,5;5-6,7;6-8,9;7-10;8,9-11;</a>
+</spair>
+<spair id='21'>
+<s id='en21'>The Web is a major part .</s>
+<s id='vn21'>Mạng lưới là phần quan trọng .</s>
+<a id='ev21'>2-1,2;3-3;5-5,6;6-4;</a>
+</spair>
+<spair id='22'>
+<s id='en22'>However , people now often use applications that are not Web-based , like on social networks and mobile devices like the iPhone .</s>
+<s id='vn22'>Tuy nhiên , ngày nay mọi người thường sử dụng các ứng dụng không dựa trên nền tảng web , như trên các mạng xã hội và thiết bị di động như iPhone .</s>
+<a id='ev22'>1-1,2;3-6,7;4-4,5;5-8;6-9,10;7-11,12,13;10-14;11-15,16,17,18,19;13-21,22;15-25,26;16-23,24;17-27;18-30,31;19-28,29;20-32;22-33;</a>
+</spair>
+<spair id='23'>
+<s id='en23'>Tim Berners-Lee created the World Wide Web as a way to help people share information .</s>
+<s id='vn23'>Tim Berners-Lee tạo ra mạng toàn cầu như là một cách để giúp mọi người chia sẻ thông tin .</s>
+<a id='ev23'>1-1;2-2;3-3,4;5-5,6,7;8-8,9;9-10;10-11;11-12;12-13;13-14,15;14-16,17;15-18,19;</a>
+</spair>
+<spair id='24'>
+<s id='en24'>His early work brought the Hypertext Markup Language , or HTML , used to create Web pages .</s>
+<s id='vn24'>Sản phẩm đầu tay của ông mang ngôn ngữ đánh dấu siêu văn bản , hay là HTML , thường được dùng để tạo ra trang web .</s>
+<a id='ev24'>1-5,6;2-3,4;3-1,2;4-7;6-12,13,14;7-10,11;8-8,9;11-18;13-20,21,22;14-23;15-24,25;16-27;17-26;</a>
+</spair>
+<spair id='25'>
+<s id='en25'>It also gave us the Hypertext Transfer Protocol - the HTTP before Web addresses .</s>
+<s id='vn25'>Nó cũng được trình bày qua giao thức truyền tải siêu văn bản - HTTP trước địa chỉ trang web .</s>
+<a id='ev25'>1-1;2-2,3;3-4,5,6;6-11,12,13;7-9,10;8-7,8;11-15;12-16;13-19,20;14-17,18;</a>
+</spair>
+<spair id='26'>
+<s id='en26'>By two thousand eight , Google reported that the number of Web pages had passed one trillion .</s>
+<s id='vn26'>Vào năm 2008 , Google báo cáo số trang web đã vượt quá con số 1 nghìn tỷ .</s>
+<a id='ev26'>1-1;3-2,3;6-5;7-6,7;10-8;12-10;13-9;15-11,12,13;16-14,15,16;17-17,18;</a>
+</spair>
+<spair id='27'>
+<s id='en27'>Steve Bratt says the World Wide Web Foundation wants everyone to be able to use this information .</s>
+<s id='vn27'>Steve Bratt cho biết World Wide Web Foundation muốn tất cả mọi người đều có thể sử dụng thông tin này .</s>
+<a id='ev27'>1-1;2-2;3-3,4;5-5;6-6;7-7;8-8;9-9;10-10,11,12,13;13-14,15,16;15-17,18;16-21;17-19,20;</a>
+</spair>
+<spair id='28'>
+<s id='en28'>STEVE BRATT : " Our main purpose is to advance the Web to empower people .</s>
+<s id='vn28'>STEVE BRATT : " Mục đích chính của chúng tôi là cải thiện mạng Internet để giúp con người trở nên mạnh mẽ thêm .</s>
+<a id='ev28'>1-1;2-2;5-8,9,10;6-7;7-5,6;10-12,13;12-14,15;13-16;14-20,21,22,23,24;15-17,18,19;</a>
+</spair>
+<spair id='29'>
+<s id='en29'>We isn't focusing on the Web just as a technology , but as one of the most powerful means for connecting people to knowledge and people to each other . "</s>
+<s id='vn29'>Chúng tôi không chú trọng xem mạng Internet là một công nghệ , mà là một trong những phương tiện hữu hiệu nhất để kết nối con người với tri thức cũng như giữa con người với nhau . "</s>
+<a id='ev29'>1-1,2;2-3;3-4,5;4-6;6-7,8;9-9,10;10-11,12;12-14;13-15;14-16;15-17;17-23;18-21,22;19-18,19,20;20-24;21-25,26;22-27,28;23-29;24-30,31;25-32,33;26-35,36;28-37,38;</a>
+</spair>
+<spair id='30'>
+<s id='en30'>Partnerships with the Web Science Trust and the World Wide Web Consortium aim to create applications that make the Web more user-friendly .</s>
+<s id='vn30'>Với sự cộng tác của Web Science Trust và World Wide Web Consortium cùng hướng đến mục tiêu tạo nên các ứng dụng khiến mạng Internet trở nên dễ sử dụng hơn .</s>
+<a id='ev30'>1-2,3,4;2-1;4-6;5-7;6-8;7-9;9-10;10-11;11-12;12-13;13-15,16,17,18;15-19,20;16-21,22,23;17-24;18-27,28;20-25,26;21-32;22-29,30,31;</a>
+</spair>
+<spair id='31'>
+<s id='en31'>Steve Bratt says mobile technology is an important part of that work , as more and more people use their phones to go online .</s>
+<s id='vn31'>Steve Bratt cho biết công nghệ di động là một phần quan trọng của dự án này , khi ngày càng có nhiều người sử dụng điện thoại của họ để lên mạng .</s>
+<a id='ev31'>1-1;2-2;3-3,4;4-7,8;5-5,6;6-9;7-10;8-12,13;9-11;10-14;12-15,16,17;14-19;15-20,21,22;17-23;18-24,25,26;20-29,30;21-27,28;22-31;24-32,33;</a>
+</spair>
+<spair id='32'>
+<s id='en32'>STEVE BRATT : " One of the challenges we have is to make the Web a lot easier to use even on the simplest and least expensive mobile phones . "</s>
+<s id='vn32'>STEVE BRATT : " Một trong những thách thức của chúng tôi là làm sao để mạng Internet trở nên dễ sử dụng hơn nhiều thậm chí trên những điện thoại di động đơn giản nhất và rẻ tiền nhất . "</s>
+<a id='ev32'>1-1;2-2;5-5;6-6;8-7,8,9;9-11,12;11-13;13-14,15;15-16,17,18;17-25;18-19,20,21,24;20-22,23;21-26,27;22-28;24-34,35,36;25-37;27-38,39,40;28-32,33;29-29,30,31;</a>
+</spair>
+</text>
+</doc>

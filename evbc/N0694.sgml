@@ -1,0 +1,157 @@
+﻿<doc id='N0694'>
+<head>
+<title>Would a Bigger iPhone Cause Developers Headaches ?</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>22/10/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Would a Bigger iPhone Cause Developers Headaches ?</s>
+<s id='vn1'>Liệu iPhone màn hình lớn hơn có làm đau đầu lập trình viên ứng dụng ?</s>
+<a id='ev1'>1-7,8;3-5,6;4-2;5-1;6-11,12,13,14,15;7-9,10;</a>
+</spair>
+<spair id='2'>
+<s id='en2'>The Wall Street Journal and Bloomberg News reported separately last week that Apple will introduce a screen of " at least 4 inches diagonal " or " bigger than 3.5 inches, " the current screen size .</s>
+<s id='vn2'>Nhật báo phố Wall và hãng tin Bloomberg đưa tin hồi tuần trước rằng Apple sẽ giới thiệu màn hình " có đường chéo ít nhất 4 inch " hoặc " lớn hơn 3,5 inch " , kích thước màn hình hiện tại .</s>
+<a id='ev2'>2-4;3-3;4-1,2;5-5;6-8;7-6,7;8-9,10;10-13;11-12;12-14;13-15;14-16;15-17,18;17-19,20;18-22;20,21-25,26;22-27;23-28;24-23,24;28-32,33;31-35;34-42,43;35-40,41;36-38,39;</a>
+</spair>
+<spair id='3'>
+<s id='en3'>What 's not clear is how Apple would go about this and satisfy both users - who may enjoy a larger screen but also want to keep the Retina display quality - and its army of third-party developers - who do n't want to have to come up with a wide variety of different screen sizes .</s>
+<s id='vn3'>Không rõ là Apple sẽ làm thế nào để xử lý việc này và làm hài lòng cả người dùng - những người có thể sẽ thích màn hình lớn hơn nhưng cũng muốn giữ lại chất lượng của màn hình retina - lẫn đội ngũ phát triển ứng dụng bên thứ ba - nhũng người không muốn phải nghĩ ra nhiều kích thước màn hình khác nhau .</s>
+<a id='ev3'>1-6,7,8;4-2;7-4;8-9;9-10,11;11-12,13;12-14;13-15,16,17;14-18;15-19,20;17-22,23;18-24,25;19-27;21-30,31;22-28,29;23-32;24-33;25-34;27-35,36;29-42;31-37,38;33-44;37-51,52,53;38-45,46,47,48,49,50;42-57;43-58;44-60,61;45-59;52-62;54-67,68;55-65,66;56-63,64;</a>
+</spair>
+<spair id='4'>
+<s id='en4'>There are several theories as to how Apple could build a larger-screen iPhone , including scaling up the screen and dropping the pixel density a bit ; changing the aspect ratio , increasing the screen height and keeping the pixel density the same ; increasing the width and height ; or going bigger than 4 inches and using a standard 16:9 resolution .</s>
+<s id='vn4'>Có vài giả thuyết về phương pháp mà Apple có thể chế tạo iPhone có màn hình lớn hơn , như tăng kích thước màn hình và giảm mật độ điểm ảnh đi một chút ; thay đổi tỷ lệ hiển thị ; tăng chiều cao màn hình và giữ nguyên mật độ điểm ảnh ; tăng chiều rộng và chiều cao ; hoặc tăng kích thước lên trên 4 inch và sử dụng độ phân giải chuẩn 16:9 .</s>
+<a id='ev4'>1,2-1;3-2;4-3,4;5,6-5;7-6,7;8-9;9-10,11;10-12,13;12-16,17,18,19;13-14;15-21;16-23,24;17-22;19-25,26;20-27;21-28;23-31,32;24-29,30;26-34,35;28-37,38;30-41,42;31-39,40;33-44;35-47,48;36-45,46;37-49;38-50;40-54,55;41-52,53;43-51;45-57;47-58,59;48-60;49-61,62;51-64;53-65;54-68,69;55-70;56-71;57-72;58-73,74;60-78;61-79;62-75,76,77;</a>
+</spair>
+<spair id='5'>
+<s id='en5'>But what do the developers who will have to deal with the implications of a larger screen think ?</s>
+<s id='vn5'>Nhưng các nhà phát triển ứng dụng sẽ phải giải quyết vấn đề kéo giãn màn hình nghĩ gì ?</s>
+<a id='ev5'>1-1;2-19;5-2,3,4,5,6,7;7-8;8,9-9;10-10,11;13-14;16-15;17-16,17;18-18;</a>
+</spair>
+<spair id='6'>
+<s id='en6'>I talked to a few iOS app makers , and many of them interestingly are not convinced Apple actually " pull an Android , " and as one developer put it , it would be more complicated to design for a bunch of different screen sizes ( iPhone 3GS , iPhone 4/4S , and something new ) .</s>
+<s id='vn6'>Tôi trò chuyện với một vài người viết ứng dụng iOS , và điều thú vị là nhiều người trong số họ không tin là Apple sẽ thực sự " làm theo cách của Android Một lập trình viên cho biết mọi chuyện sẽ phức tạp hơn khi phải thiết kế cho nhiều kích thước màn hình khác nhau ( iPhone 3GS , iPhone 4/4S , và iPhone mới ) .</s>
+<a id='ev6'>1-1;2-2,3;3-4;4-5;5-6;6-11;7-9,10;8-7,8;10-13;11-18;13-22;14-15,16;16-23;17-24;18-26;19-28,29;21-31;23-35;28-36;29-37,38,39;34-44;36-47;37-45,46;39-50,51;43-52;44-58,59;45-56,57;46-53,54,55;48-61;49-62;51-64;52-65;54-67;56-69;</a>
+</spair>
+<spair id='7'>
+<s id='en7'>Sam Shank , the chief executive officer of Hotel Tonight , a hotel-finding app for both iOS and Android , said if Apple does change the screen size , he believes the phone itself would become slightly wider but not much taller .</s>
+<s id='vn7'>Sam Shank , Giám đốc điều hành của Tonight , hãng phát triển ứng dụng tìm kiếm khách sạn cho iOS và Android , cho rằng nếu Apple thật sự thay đổi kích thước màn hình , ông tin rằng bản thân chiếc điện thoại sẽ rộng hơn một chút nhưng chiều dài sẽ không tăng nhiều .</s>
+<a id='ev7'>1-1;2-2;5,6,7-4,5,6,7;8-8;10-9;13-16,17,18,19;14-14,15;15-20;17-21;18-22;19-23;21-25;22-26,27;23-28;25-31,32;27-35,36;28-33,34;30-38;31-39,40;33-44,45;34-41,42;35-46;37-49,50;38-47,48;39-51;40-55;41-57;42-52,53;</a>
+</spair>
+<spair id='8'>
+<s id='en8'>But he does n't believe Apple would mess with either the aspect ratio or the pixel density .</s>
+<s id='vn8'>Nhưng ông không nghĩ rằng Apple sẽ thay đổi tỷ lệ hiện thị hoặc mật độ điểm ảnh .</s>
+<a id='ev8'>1-1;2-2;4-3;5-4,5;6-6;7-7;12-12,13;13-10,11;14-14;16-17,18;17-15,16;</a>
+</spair>
+<spair id='9'>
+<s id='en9'>" Changing the aspect ratio would be a lot of work for development teams .</s>
+<s id='vn9'>" Thay đổi tỷ lệ hiện thị sẽ gây tốn nhiều công sức của đội ngũ phát triển .</s>
+<a id='ev9'>2-2,3;4-6,7;5-4,5;6-8;8,9,10-11;11-12,13;12-14;13-17,18;14-15,16;</a>
+</spair>
+<spair id='10'>
+<s id='en10'>We found that maybe 50 percent of iOS development is in layout , " he said in an interview on Friday .</s>
+<s id='vn10'>Chúng tôi nhận thấy có thể 50% quá trình phát triển iOS dành cho việc tạo bố cục " , ông cho biết trong một cuộc phỏng vấn vào thứ Sáu .</s>
+<a id='ev10'>1-1,2;2-3,4;4-5,6;5,6-7;8-12;9-10,11;12-17,18;15-21;16-22,23;17-24;18-25;19-26,27,28;20-29;21-30,31;</a>
+</spair>
+<spair id='11'>
+<s id='en11'>" If we had to do two versions of that - the current aspect ratio and a new aspect ratio - and had to lay it out again , that would add considerably to our development time . "</s>
+<s id='vn11'>" Nếu chúng tôi phải làm hai phiên bản – tỷ lệ hiển thị hiện có và tỷ lệ hiển thị mới - và phải tạo lại bố cục , điều này sẽ tăng thêm đáng kể thời gian phát triển ứng dụng của chúng tôi " .</s>
+<a id='ev11'>2-2;3-3,4;4-5;6-6;7-7;8-8,9;13-15,16;14-13,14;15-11,12;16-17;18-22;19-20,21;20-18,19;22-24;23,24-25;25-28,29;28-27;30-31,32;31-33;32-34,35;33-36,37;35-44,45,46;36-40,41;37-38,39;</a>
+</spair>
+<spair id='12'>
+<s id='en12'>Lenny Rachitsky , who heads Localmind , a social discovery app for iOS and Android , said he does n't see Apple creating fragmentation problems for its developers .</s>
+<s id='vn12'>Lenny Rachitsky , giám đốc Localmind , hãng phát triển ứng dụng khám phá mạng xã hội cho iOS và Android , cho biết ông không nhận thấy Apple đang tạo ra sự phân mảnh cho các nhà phát triển ứng dụng .</s>
+<a id='ev12'>1-1;2-2;6-6;9-16,17;10-13,14;11-11,12;12-18;13-19;14-20;15-21;17-23,24;18-25;20-26;21-27,28;22-29;23-30,31,32;24-33,34,35;26-36;28-37,38,39,40,41,42;</a>
+</spair>
+<spair id='13'>
+<s id='en13'>" We have n't put a lot of thought into it yet , partly because we assume Apple is n't going to pull an Android and fragment the device market unnecessarily .</s>
+<s id='vn13'>" Chúng tôi vẫn chưa nghĩ nhiều về chuyện này , một phần vì chúng tôi cho rằng Apple sẽ không làm giống như cách của Android và làm phân mảnh thị trường iPhone một cách không cần thiết .</s>
+<a id='ev13'>2-2,3;4-5;6,7,8-7;9-6;10-8;11-9,10;14-13;15-14;16-15,16;17-17,18;18-19;20-21;23-29;25-27;26-28;27-30,31;30-32,33;31-35,36,37,38,39;</a>
+</spair>
+<spair id='14'>
+<s id='en14'>If they do , they must have a really good reason to do it , and we 're confident they 'll provide tools to make it easy to mig rate .</s>
+<s id='vn14'>Nếu họ làm vậy , họ phải có lý do thực sự chính đáng , và chúng tôi tin chắc họ sẽ cung cấp công cụ để việc chuyển đổi trở nên dễ dàng .</s>
+<a id='ev14'>1-1;2-2;3-3;5-6;6-7;7-8;9-11,12;10-13,14;11-9,10;16-16;17-17,18;19-19,20;20-21;22-23,24;23-25,26;24-27;25-31,32;27-33,34;</a>
+</spair>
+<spair id='15'>
+<s id='en15'>The last thing they want to do is put more friction in front of developers . "</s>
+<s id='vn15'>Điều họ không muốn làm nhất là gây thêm căng thẳng cho lập trình viên " .</s>
+<a id='ev15'>2-3,4;3-1;4-2;7-5;9-7;10-8,9;11-10,11;15-13,14,15;</a>
+</spair>
+<spair id='16'>
+<s id='en16'>Localmind 's lead iOS developer , Nelson Gauthier said , " Apple often changes the requirements for iOS applications , but they usually give developers fair warning and decent tools to accommodate new devices .</s>
+<s id='vn16'>Lập trình viên iOS hàng đầu của Localmind , Nelson Gauthier , cho biết , " Apple thường thay đổi yêu cầu đối với các ứng dụng iOS , nhưng thông thường Apple sẽ ra thông báo và cung cấp công cụ cho các nhà phát triển để họ tích hợp thiết bị mới .</s>
+<a id='ev16'>1-8;2-7;3-5,6;4-4;5-1,2,3;7-10;8-11;9-13,14;12-17;13-18;14-19,20;16-21,22;17-23,24;18-28;19-25,26,27;21-30;23-31,32;25-44,45,46,47;27-36,37;28-38;30-41,42;31-48;32-50,51;33-54;34-52,53;</a>
+</spair>
+<spair id='17'>
+<s id='en17'>The transition to Retina display and iPad were both relatively straightforward . "</s>
+<s id='vn17'>Việc chuyển tiếp lên màn hình Retina và iPad đều tương đối đơn giản " .</s>
+<a id='ev17'>2-1,2,3;3-4;4-7;5-5,6;6-8;7-9;9-10;10-11,12;11-13,14;</a>
+</spair>
+<spair id='18'>
+<s id='en18'>Gauthier continued in an email :</s>
+<s id='vn18'>Gauthier cho biết thêm trong email :</s>
+<a id='ev18'>1-1;2-2,3;3-5;5-6;</a>
+</spair>
+<spair id='19'>
+<s id='en19'>A bigger display could mean a few things .</s>
+<s id='vn19'>Màn hình lớn hơn có thể hiểu theo vài cách .</s>
+<a id='ev19'>2-3,4;3-1,2;4-5,6;5-7;7-9;8-10;</a>
+</spair>
+<spair id='20'>
+<s id='en20'>It could mean the display has a higher resolution while retaining the same aspect ratio .</s>
+<s id='vn20'>Đó có thể là màn hình có độ phân giải cao hơn và tỷ lệ hiển thị không đổi .</s>
+<a id='ev20'>1-1;2-2,3;3-4;5-5,6;6-7;8-11,12;9-9,10;13-18,19;14-16,17;15-14,15;</a>
+</spair>
+<spair id='21'>
+<s id='en21'>The new display might be a different shape .</s>
+<s id='vn21'>Màn hình mới có thể có hình dạng khác .</s>
+<a id='ev21'>2-3;3-1,2;4-4,5;5-6;7-9;8-7,8;</a>
+</spair>
+<spair id='22'>
+<s id='en22'>Finally , the display might simply grow while retaining the old resolution .</s>
+<s id='vn22'>Cuối cùng , màn hình có thể lớn hơn và giữ lại độ phân giải cũ .</s>
+<a id='ev22'>1-1,2;4-4,5;5-6,7;7-8,9;9-11,12;11-16;12-14,15;</a>
+</spair>
+<spair id='23'>
+<s id='en23'>But changing the resolution or aspect of the display need not have an effect on user interface elements , just their layout .</s>
+<s id='vn23'>Nhưng việc thay đổi độ phân giải hoặc tỉ lệ hiển thị của màn hình không nhất thiết sẽ ảnh hưởng đến giao diện người dùng , mà chỉ ảnh hưởng đến bố cục mà thôi .</s>
+<a id='ev23'>1-1;2-2,3,4;4-5,6,7;5-8;6-11,12;7-13;9-14,15;10-17,18;11-16;14-20,21;15-22;16-25,26;17-23,24;20-29;22-33,34;</a>
+</spair>
+<spair id='24'>
+<s id='en24'>Bars and controls could stay the same size while content areas expand to fill the additional screen real estate .</s>
+<s id='vn24'>Các thanh thông báo và nút điều khiển có thể giữ nguyên kích thước trong khi phần nội dung sẽ mở rộng ra để lấp đầy diện tích màn hình .</s>
+<a id='ev24'>1-1,2;2-5;3-7,8;4-9,10;5-11;7-12;8-13,14;9-15,16;10-18,19;11-17;12-21,22,23;13-24;14-26;17-29,30;19-27,28;</a>
+</spair>
+<spair id='25'>
+<s id='en25'>Apple might help developers transition between form factors by providing a system that would automatically adjust layouts for new resolutions and display aspects .</s>
+<s id='vn25'>Có thể Apple sẽ giúp các nhà phát triển ứng dụng chuyển đổi giữa các kiểu dáng thiết bị bằng cách cung cấp hệ thống tự động điều chỉnh bố cục cho độ phân giải và tỉ lệ màn hình mới .</s>
+<a id='ev25'>1-3;2-1,2;3-5;4-6,7,8,9;5-12,13;6-14;7-16,17;9-20,21;10-22,23;12-24,25;15-26,27;16-28,29;17-30,31;18-32;19-41;20-33,34,35;21-36;22-39,40;23-37,38;</a>
+</spair>
+<spair id='26'>
+<s id='en26'>Last year at WWDC ( Worldwide Developers Conference ) , they revealed a component for Mac OS X called Cocoa Auto-Layout that allows developers to define layouts .</s>
+<s id='vn26'>Năm ngoái tại WWDC ( Hội thảo các nhà phát triển toàn cầu ) , họ công bố công cụ cho Mac OS X có tên là Cocoa Auto-Layout cho phép các nhà phát triển xác định bố cục .</s>
+<a id='ev26'>1,2-1,2;3-3;4-4;6-12,13;7-8,9,10,11;8-6,7;11-16;12-17,18;14-19,20;15-21;16-22;18-24;19-26,27;20-28;21-29;23-30,31;24-32,33,34,35;26-36,37;27-38,39;</a>
+</spair>
+<spair id='27'>
+<s id='en27'>A system like this could also work on iOS.</s>
+<s id='vn27'>Hệ thống như vậy cũng có thể họat động trên iOS .</s>
+<a id='ev27'>2-1,2;3-3,4;5-6,7;6-5;7-8,9;8-10;9-11;</a>
+</spair>
+<spair id='28'>
+<s id='en28'>Massive Damage , which makes location-based iOS games , is also betting against major changes for developers .</s>
+<s id='vn28'>Massive Damage , hãng phát triển game dựa trên vị trí cho iOS , cũng chắc rằng sẽ không có thay đổi lớn nào đối với các nhà phát triển ứng dụng .</s>
+<a id='ev28'>1-1;2-2;6-8,9,10,11;7-13;8-7;11-15;14-23;15-21,22;16-25,26;17-27,28,29,30,31,32;</a>
+</spair>
+<spair id='29'>
+<s id='en29'>As CEO Ken Soto points out , there are already two resolutions many developers have to worry about for iPhone games : standard resolution for older iPhones , and Retina for the iPhone 4 and iPhone 4S .</s>
+<s id='vn29'>Như Giám đốc Điều hành của công ty này , ông Ken Soto , chỉ ra , đã có hai độ phân giải làm nhiều phát triển phải lo ngại khi viết game cho iPhone : độ phân giải chuẩn cho iPhone thế hệ cũ , và Retina cho iPhone 4 và iPhone 4S .</s>
+<a id='ev29'>1-1;2-2,3,4,5;3-12;4-13;6-6,7;8-9;10-18;11-20;12-21,22,23;13-25;14-26,27;15,16-28;17-29,30;18-31;19-34;20-35;21-33;23-40;24-37,38,39;25-41;26-45;27-42;29-47;30-48;31-49;33-50;34-51;35-52;36-53;37-54;</a>
+</spair>
+</text>
+</doc>

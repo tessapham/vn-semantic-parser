@@ -1,0 +1,177 @@
+﻿<doc id='N0957'>
+<head>
+<title>Enterprises Need Encryption to Secure Private Data</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>22/10/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Enterprises Need Encryption to Secure Private Data</s>
+<s id='vn1'>Doanh nghiệp Cần Mã hoá Để Bảo mật Dữ liệu Riêng tư</s>
+<a id='ev1'>1-1,2;2-3;3-4,5;4-6;5-7,8;6-11,12;7-9,10;</a>
+</spair>
+<spair id='2'>
+<s id='en2'>Concerns about data breaches and privacy violations would spur enterprises to adopt encryption and use it effectively , according to security experts.</s>
+<s id='vn2'>Những mối lo ngại về xâm phạm dữ liệu và các hành vi phạm quyền riêng tư sẽ thúc đẩy các doanh nghiệp áp dụng mã hóa và sử dụng nó có hiệu quả , theo các chuyên gia an ninh .</s>
+<a id='ev2'>1-1,2,3,4;2-5;3-8,9;4-6,7;5-10;6-15,16,17;7-11,12,13,14;8-18;9-19,20;10-21,22,23;12-24,25;13-26,27;15-29,30;16-31;17-32,33,34;19-36;21-40,41;22-37,38,39;</a>
+</spair>
+<spair id='3'>
+<s id='en3'>Organizations are beginning to assume that the firewall has already been compromised and are relying on ubiquitous encryption to protect data across the enterprise , according to Jeff Hudson , CEO of Venafi .</s>
+<s id='vn3'>Các tổ chức đang bắt đầu đưa ra giả định rằng bức tường lửa của họ đã bị xâm nhập và dựa vào mã hóa toàn diện để bảo vệ toàn bộ dữ liệu doanh nghiệp , theo Jeff Hudson , giám đốc điều hành của Venafi .</s>
+<a id='ev3'>1-1,2,3;3-4,5,6;5-7,8,9,10;6-11;8-12,13,14;10-17;12-18,19,20;13-21;15-22,23;17-26,27;18-24,25;19-28;20-29,30;21-33,34;22-31,32;24-35,36;26-38;28-39;29-40;31-42,43,44,45;32-46;33-47;</a>
+</spair>
+<spair id='4'>
+<s id='en4'>In the past , security measures assumed that firewalls and other perimeter defenses were enough to keep the bad guys out .</s>
+<s id='vn4'>Trong quá khứ , các biện pháp bảo mật giả định rằng bức tường lửa và những biện pháp bảo vệ vòng ngoài khác đủ để ngăn chặn những kẻ xấu .</s>
+<a id='ev4'>1-1;3-2,3;5-8,9;6-5,6,7;7-10,11;8-12;9-13,14,15;11-24;12-22,23;13-17,18,19,20,21;15-25,26;17-27,28;19-31;20-29,30;</a>
+</spair>
+<spair id='5'>
+<s id='en5'>Recent high-profile data breaches proved that attackers were able to still get into the network , and had free rein because the data was not protected at all , according to Hudson .</s>
+<s id='vn5'>Theo Hudson , gần đây các vụ xâm phạm dữ liệu nổi tiếng đã chứng minh rằng những kẻ tấn công vẫn có thể xâm nhập vào mạng và thoải mái kiểm soát bởi vì dữ liệu chưa bao giờ được bảo vệ .</s>
+<a id='ev5'>1-4,5;2-12,13;3-10,11;4-6,7,8,9;5-15,16;6-17;7-18,19,20,21;9-23,24;11-22;12-25,26;13-27;15-28;17-29;19-30,31;20-32,33;21-34,35;23-36,37;25,27,28-38,39,40;26-41,42,43;30,31-1;32-2;</a>
+</spair>
+<spair id='6'>
+<s id='en6'>Venafi predicted that 2012 would be the " year of ubiquitous encryption . "</s>
+<s id='vn6'>Venafi dự đoán rằng năm 2012 sẽ là " năm của mã hóa toàn diện " .</s>
+<a id='ev6'>1-1;2-2,3;3-4;4-5,6;5-7;6-8;9-10;10-11;11-14,15;12-12,13;</a>
+</spair>
+<spair id='7'>
+<s id='en7'>Along those lines , privacy rights organization Electronic Frontier Foundation recommended that users " commit " to full disk encryption on all their computers .</s>
+<s id='vn7'>Cùng những sự kiện , tổ chức quyền riêng tư Electronic Frontier Foundation – EFF khuyến cáo rằng người sử dụng " cam kết " để mã hóa toàn bộ đĩa cứng trên tất cả các máy tính của họ .</s>
+<a id='ev7'>1-1;3-2,3,4;5-9,10;6-8;7-6,7;8-11;9-12;10-13;11-16,17;12-18;13-19,20,21;15-23,24;17-26;18-29,30;19-31,32;20-27,28;21-33;22-34,35;23-39,40;24-36,37,38;</a>
+</spair>
+<spair id='8'>
+<s id='en8'>Encrypting the entire drive would help secure private data , including business documents , Web-surfing history , information about other people and email communications , even if the computer is lost or stolen .</s>
+<s id='vn8'>Mã hóa toàn bộ ổ đĩa sẽ giúp bảo mật dữ liệu riêng tư bao gồm các tài liệu kinh doanh , lịch sử lướt web , thông tin về người khác , thông tin liên lạc email và thậm chí ngay cả khi máy tính bị mất hoặc bị đánh cắp .</s>
+<a id='ev8'>1-1,2;3-3,4;4-5,6;5-7;6-8;7-9,10;8-13,14;9-11,12;11-15,16;12-20,21;13-17,18,19;15-25,26;16-23,24;18-28,29;19-30;20-31,32;23-38;24-34,35,36,37;26-40,41;27-42,43,44;29-45,46;31-47,48;33-50,51,52;</a>
+</spair>
+<spair id='9'>
+<s id='en9'>Seth Schoen , EFF 's staff technologist , wrote on the EFF blog Jan. 3 .</s>
+<s id='vn9'>Seth Schoen , chuyên gia công nghệ của EFF đã viết trên blog của EFF vào ngày 3/1 .</s>
+<a id='ev9'>1-1;2-2;4-9;5-8;7-4,5,6,7;9-10,11;10-12;12-15;13-13;14,15-17,18;</a>
+</spair>
+<spair id='10'>
+<s id='en10'>" Don't put off taking security steps that can help protect your private data .</s>
+<s id='vn10'>" Đừng trì hoãn thực hiện các biện pháp bảo mật mà có thể giúp bảo vệ dữ liệu cá nhân của bạn .</s>
+<a id='ev10'>2-2;3,4-3,4;5-5,6;6-10,11;7-7,8,9;8-12;9-13,14;10-15;11-16,17;12-22,23;13-20,21;14-18,19;</a>
+</spair>
+<spair id='11'>
+<s id='en11'>Join EFF in resolving to encrypt your disks 2012 , " Schoen wrote , noting that there are several easy-to-use tools available , including Microsoft 's BitLocker or TrueCrypt .</s>
+<s id='vn11'>EFF tham gia vào việc giải quyết để mã hóa ổ đĩa của bạn trong năm 2012 " , Schoen đã viết và lưu ý rằng có một số công cụ có sẵn rất dễ sử dụng dữ bao gồm phần mềm BitLocker của Microsoft hoặc TrueCrypt .</s>
+<a id='ev11'>1-2;2-1;3-4;4-5,6,7;6-9,10;7-13,14;8-11,12;9-16,17;12-20;13-21,22;15-24,25;16-26;17-27;19-28,29;20-35,36,37;21-30,31;22-32,33;24-39,40;25-45;26-44;27-43;28-46;29-47;</a>
+</spair>
+<spair id='12'>
+<s id='en12'>Full disk encryption uses mathematical techniques to scramble data so it is unintelligible without the right key , according to Schoen .</s>
+<s id='vn12'>Mã hóa toàn bộ đĩa cứng sử dụng các kỹ thuật toán học để trộn dữ liệu , do đó nó không thể sử dụng được nếu không có khoá đúng , theo Schoen .</s>
+<a id='ev12'>1-3,4;2-5,6;3-1,2;4-7,8;5-12,13;6-9,10,11;7-14;8-15;9-16,17;10-19,20;11-21;13-22,23,24,25,26;14-27,28;16-31;17-30;19-33;21-34;</a>
+</spair>
+<spair id='13'>
+<s id='en13'>" Without encryption , forensic software can easily be used to bypass an account password and read all the files on your computer , " he wrote .</s>
+<s id='vn13'>" Nếu không mã hóa , phần mềm tra dữ liệu có thể dễ dàng được sử dụng để vượt qua mật khẩu tài khoản và đọc tất cả các tập tin trên máy tính của bạn , " ông viết .</s>
+<a id='ev13'>2-2,3;3-4,5;5-9,10,11;6-7,8;7-12,13;8-14,15;10-16,17,18;11-19;12-20,21;14-24,25;15-22,23;16-26;17-27;18-28,29;20-30,31,32;21-33;22-36,37;23-34,35;26-40;27-41;</a>
+</spair>
+<spair id='14'>
+<s id='en14'>Organizations need to make sure that all data , regardless of whether it is stored in-house or managed by a third-party provider , is protected by either encryption or tokenization , Ulf Mattsson , CTO of Protegrity , told eWEEK.</s>
+<s id='vn14'>Các tổ chức cần phải đảm bảo rằng tất cả mọi dữ liệu bất kể dù nó được lưu trữ nội bộ hoặc được quản lý bởi một nhà cung cấp bên thứ ba sẽ được bảo vệ bằng cách mã hóa hoặc mã nhận dạng , Ulf Mattsson Giám đốc Kỹ thuật của công ty Protegrity nói với eWeek .</s>
+<a id='ev14'>1-1,2,3;2-4,5;5-6,7;6-8;7-9,10;8-12,13;10-14,15;12-16;13-17;15-19,20;16-21,22;17-23;18-24,25,26;19-27;20-28;21-32,33,34;22-29,30,31;25-36,37,38;26-39,40;28-41,42;29-43;30-44,45,46;32-48;33-49;35-50,51,52,53;36-54,55;37-57;39-58;40-60;</a>
+</spair>
+<spair id='15'>
+<s id='en15'>Incorporating these data-security measures may add some complexity , but the protections would wind up saving the organization money in the event of a data breach , Mattsson said .</s>
+<s id='vn15'>Kết hợp các biện pháp bảo mật dữ liệu này có thể tạo ra nhiều phức tạp , tuy nhiên sự bảo vệ này sẽ tiết kiệm tiền bạc cho tổ chức trong trường hợp xâm phạm dữ liệu , Mattsson đã cho biết .</s>
+<a id='ev15'>1-1,2;2-10;3-6,7,8,9;4-3,4,5;5-11,12;6-13,14;7-15;8-16,17;10-19,20;11-24;12-21,22,23;13-25;16-26,27;18-31,32;19-28,29;20-33;22-34,35;25-38,39;26-36,37;28-41;29-42,43,44;</a>
+</spair>
+<spair id='16'>
+<s id='en16'>Taking the time to protect the data would expose the organization to less damage post-breach , he said .</s>
+<s id='vn16'>Việc dành thời gian để bảo vệ dữ liệu sẽ giảm đi thiệt hại cho các tổ chức trước các hình vi xâm phạm , ông nói .</s>
+<a id='ev16'>1-1,2;3-3,4;4-5;5-6,7;7-8,9;8-10;11-16,17,18;13-11,12;14-13,14,15;15-20,21,22,23,24;17-26;18-27;</a>
+</spair>
+<spair id='17'>
+<s id='en17'>In a recent survey of 500 IT professionals , more than a third admitted to losing USB drives and portable devices containing unencrypted personal and company data , iStorage found .</s>
+<s id='vn17'>Trong một cuộc khảo sát 500 chuyên gia CNTT gần đây của hãng iStorage cho thấy hơn 1/3 thừa nhận việc làm mất ổ đĩa USB và các thiết bị di động có chứa dữ liệu công ty và của cá nhân mà không được mã hóa .</s>
+<a id='ev17'>3-10,11;4-3,4,5;6-6;7-9;8-7,8;10-17;12,13-18;14-19,20;16-21,22,23;17-26;18-24,25;19-27;20-31,32;21-28,29,30;22-33,34;23-43,44,45,46,47;24-41,42;25-39;26-37,38;27-35,36;29-13,14;30-15,16;</a>
+</spair>
+<spair id='18'>
+<s id='en18'>Over half said they transported data without encrypting it first , according to iStorage .</s>
+<s id='vn18'>Hơn một nửa nói rằng họ chuyển dữ liệu mà không cần mã hóa trước , theo iStorage .</s>
+<a id='ev18'>1-1;2-2,3;3-4,5;4-6;5-7;6-8,9;7-10,11;8-13,14;10-15;12-17;14-18;</a>
+</spair>
+<spair id='19'>
+<s id='en19'>Organizations that have adopted encryption still encounter problems because they are not following best practices for encryption key management , according to Hudson .</s>
+<s id='vn19'>Các tổ chức đã áp dụng mã hóa vẫn còn gặp nhiều vấn đề bởi vì họ không tuân thủ các biện pháp tối ưu cho việc quản lý khóa mã hóa , theo Hudson .</s>
+<a id='ev19'>1-1,2,3;4-4,5,6;5-7,8;6-9,10;7-11;8-12,13,14;9-15,16;10-17;12-18;13-19,20;14-24,25;15-21,22,23;17-31,32;18-30;19-27,28,29;21-34;23-35;</a>
+</spair>
+<spair id='20'>
+<s id='en20'>Organizations struggle to keep track of what keys are being used and who has access to them .</s>
+<s id='vn20'>Các tổ chức cố gắng theo dõi những khóa mà đang được sử dụng và ai truy cập chúng .</s>
+<a id='ev20'>1-1,2,3;2-4,5;4,5-6,7;7-10;8-8,9;10-11;11-12,13,14;12-15;13-16;15-17,18;17-19;</a>
+</spair>
+<spair id='21'>
+<s id='en21'>Encryption would be a " defining issue " in the year ahead , he said .</s>
+<s id='vn21'>Mã hóa sẽ là một " vấn đề cần xác định " trong năm tới , ông nói .</s>
+<a id='ev21'>1-1,2;2-3;3-4;4-5;6-10,11;7-7,8;9-13;11-14;12-15;14-17;15-18;</a>
+</spair>
+<spair id='22'>
+<s id='en22'>When employees leave , they may take the keys with them , leaving the organization unable to access the data .</s>
+<s id='vn22'>Có thể người nào nghỉ việc thì cũng mang khoá theo luôn , cho nên tổ chức không tài nào truy cập dữ liệu được .</s>
+<a id='ev22'>2-3,4;3-5,6;6-8;7-9;9-10;10,11-11,12;15-16,17;16-18,19,20;18-21,22;20-23,24;</a>
+</spair>
+<spair id='23'>
+<s id='en23'>Tim Matthews , senior director of product marketing at Symantec , told eWEEK.</s>
+<s id='vn23'>Tim Matthews , giám đốc tiếp thị sản phẩm cao cấp tại Symantec nói với eWeek .</s>
+<a id='ev23'>1-1;2-2;4-10,11;5-4,5;7-8,9;8-6,7;10-13;12-14,15;13-16;</a>
+</spair>
+<spair id='24'>
+<s id='en24'>A recent Symantec study found that poor key management and lack of control over the technologies being used could cost the organization an average of $ 124,965 a year .</s>
+<s id='vn24'>Một nghiên cứu mới đây của hãng Symantec cho thấy rằng quản lý khóa lỏng lẻo và thiếu kiểm soát đối với các công nghệ đang được sử dụng có thể làm cho tổ chức mất đi một khoảng chi phí là 124.965 USD trung bình một năm .</s>
+<a id='ev24'>1-1;2-4,5;3-7,8;4-2,3;5-9,10;6-11;7-15,16;8-14;9-12,13;10-17;11-18;13-19,20;14-21,22;16-23,24,25;17-26;18-27,28,29;19-30,31;20-40,41;22-34,35;24-45,46;26-44;27-43;28-47;29-48;</a>
+</spair>
+<spair id='25'>
+<s id='en25'>Cloud services will also need to start thinking about encryption as users start worrying about their personal data and enterprises try to protect the corporate data leaving their networks , according to Geoff Webb , director of product marketing at Credant Technologies .</s>
+<s id='vn25'>Dịch vụ điện toán đám mây cũng cần phải nghĩ tới việc mã hóa khi người sử dụng bắt đầu lo lắng về dữ liệu cá nhân của họ và doanh nghiệp cố gắng bảo vệ dữ liệu chung trên mạng của họ , theo Geoff Webb , Giám đốc tiếp thị sản phẩm tại công ty Credant Technologies .</s>
+<a id='ev25'>1-3,4,5,6;2-1,2;3-9;4-7;5-8;8-10;9-11;10-12,13,14;11-15;12-16,17,18;13-19,20;14-21,22;16-28,29;17-26,27;18-24,25;20-31,32;21-33,34;23-35,36;25-39;26-37,38;28-42,43;29-41;31,32-45;33-46;34-47;36-49,50;38-53,54;39-51,52;40-55;41-58;42-59;</a>
+</spair>
+<spair id='26'>
+<s id='en26'>Users have a " real desire " to take back control over the files they put in the cloud , Webb said .</s>
+<s id='vn26'>Người dùng có một " mong muốn thực sự " để lấy lại quyền kiểm soát trên các tập tin mà họ đặt trong các đám mây , Webb nói .</s>
+<a id='ev26'>1-1,2;2-3;3-4;5-8,9;6-6,7;8-11;9-12;10-13;11-14,15,16;12-17;14-18,19,20;15-22;16-23;17-24;19-25,26,27;21-29;22-30;</a>
+</spair>
+<spair id='27'>
+<s id='en27'>Storage and collaboration services will begin offering user-owned data-security and encryption options , according to Webb .</s>
+<s id='vn27'>Dịch vụ lưu trữ và cộng tác sẽ bắt đầu cung cấp các tùy chọn mã hóa và người dùng tự bảo mật dữ liệu của mình , theo Webb .</s>
+<a id='ev27'>1-3,4;2-5;3-6,7;4-1,2;5-8;6-9,10;7-11,12;8-19,20,21;9-22,23,24,25;11-16,17;12-13,14,15;14-29;16-30;</a>
+</spair>
+<spair id='28'>
+<s id='en28'>Salesforce.com acquired Navajo Systems in August to provide customers with data-encryption capabilities .</s>
+<s id='vn28'>Salesforce.com mua lại công ty Navajo Systems vào tháng 8 để đem lại cho khách hàng khả năng mã hóa dữ liệu .</s>
+<a id='ev28'>1-1;2-2,3;3-6;4-7;5-8;6-9,10;7-11;8-12,13,14;9-15,16;11-19,20,21,22;12-17,18;</a>
+</spair>
+<spair id='29'>
+<s id='en29'>After the European Union issued a mandate that security breaches involving unencrypted data need to be disclosed to local regulators , several large telecommunications companies started offering encryption services to minimize the risk of data exposure .</s>
+<s id='vn29'>Sau khi Liên Minh Châu Âu đã ban hành một sắc lệnh mà vi phạm an ninh liên quan đến dữ liệu không được mã hóa cần phải được trình bày cho các nhà quản lý địa phương , một số công ty viễn thông lớn bắt đầu cung cấp các dịch vụ mã hóa để giảm thiểu nguy cơ lộ dữ liệu .</s>
+<a id='ev29'>1-1,2;3-5,6;4-3,4;5-7,8,9;6-10;7-11,12;8-13;9-16,17;10-14,15;11-18,19;12-23,24,25,26;13-21,22;14-27,28;17-29,30,31;19-37,38;20-33,34,35,36;22-40,41;23-46;24-44,45;25-42,43;26-47,48;27-49,50;28-54,55;29-51,52,53;30-56;31-57,58;33-59,60;35-62,63;36-61;</a>
+</spair>
+<spair id='30'>
+<s id='en30'>As industry regulations and laws evolve to address unencrypted data , organizations will find it necessary to encrypt the data from the get-go .</s>
+<s id='vn30'>Theo luật pháp và quy định của ngành công nghiệp để tiến hành giải quyết các dữ liệu không được mã hóa , các tổ chức sẽ thấy được những việc cần thiết để mã hóa dữ liệu từ ban đầu .</s>
+<a id='ev30'>2-8,9,10;3-5,6;4-4;5-2,3;6-12,13;8-14,15;9-19,20,21,22;10-16,17,18;12-24,25,26;13-27;14-28,29;16-30,31,32,33;17-34;18-35,36;20-37,38;21-39;23-40,41;</a>
+</spair>
+<spair id='31'>
+<s id='en31'>Jon Heimerl , director of strategic security for Solutionary , told eWEEK.</s>
+<s id='vn31'>Jon Heimerl , giám đốc an ninh chiến lược của Solutionary nói với eWeek .</s>
+<a id='ev31'>1-1;2-2;4-4,5;6-8,9;7-6,7;8-10;9-11;11-12,13;12-14;</a>
+</spair>
+<spair id='32'>
+<s id='en32'>The Health Information Technology for Economic and Clinical Health ( HITECH ) Act is a good example , as it states that if an organization loses health care data , as long as it can show that it protected the encryption key and took proper data security measures , it does not need to disclose the incident .</s>
+<s id='vn32'>Đạo luật HITECH là một ví dụ tốt nhất vì nó tuyên bố rằng nếu một tổ chức mất dữ liệu chăm sóc sức khỏe , miễn là họ có thể cho thấy rằng đã bảo vệ các khóa mã hóa và có các biện pháp bảo mật dữ liệu thích hợp thì không cần phải tiết lộ sự việc .</s>
+<a id='ev32'>11-3;13-1,2;16-8,9;17-6,7;19-10;20-11;21-12,13;23-15;24-16;25-17,18;26-19;28-22,23;29-20,21;32,33-27,28;34-29;35-30,31;36-32,33;37-34;39-35,36,37;41-40,41;42-38,39;45-51,52;46-49,50;47-47,48;48-44,45,46;51,52-54;53-55,56;55-57,58;57-59,60;</a>
+</spair>
+<spair id='33'>
+<s id='en33'>" You don't have to make this overcomplicated ; even hard drive encryption and database encryption can go a long way to protect your cool data , " Heimerl said .</s>
+<s id='vn33'>" Bạn chẳng cần phải làm điều này quá phức tạp lên , thậm chí mã hóa ổ cứng và mã hóa cơ sở dữ liệu có thể đi một chặng đường dài để bảo vệ dữ liệu quan trọng của bạn " , Heimerl nói .</s>
+<a id='ev33'>2-2;3-3,4;4,5-5;6-6;7-7,8;8-9,10,11,12;10-14,15;11-19;12-18;13-16,17;14-20;15-23,24,25,26;16-21,22;17-27,28;18-29;19-30;20-33;21-31,32;22-34;23-35,36;24-41,42;25-39,40;26-37,38;29-45;30-46;</a>
+</spair>
+</text>
+</doc>

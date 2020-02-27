@@ -1,0 +1,82 @@
+﻿<doc id='N0387'>
+<head>
+<title>Microsoft Releases Server SQL 2008 SP2 with Enhancements</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>22/10/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Microsoft Releases Server SQL 2008 SP2 with Enhancements</s>
+<s id='vn1'>Microsoft Phát Hành SQL Server 2008 SP2 Với Những Cải Tiến Mới</s>
+<a id='ev1'>1-1;2-2,3;3-5;4-4;5-6;6-7;7-8;8-9,10,11,12;</a>
+</spair>
+<spair id='2'>
+<s id='en2'>Microsoft announced the availability of SQL Server 2008 SP2 .</s>
+<s id='vn2'>Microsoft công bố SQL Server 2008 SP2 đã sẵn sàng .</s>
+<a id='ev2'>1-1;2-2,3;4-9,10;6-4;7-5;8-6;9-7;</a>
+</spair>
+<spair id='3'>
+<s id='en3'>Microsoft released an update to SQL Server 2008 with new improvements around reporting and management .</s>
+<s id='vn3'>Microsoft vừa phát hành bản cập nhật cho SQL Server 2008 với những cải tiến mới cho công cụ báo cáo và quản lý .</s>
+<a id='ev3'>1-1;2-2,3,4;4-5,6,7;5-8;6-9;7-10;8-11;9-12;10-16;11-13,14,15;12-17;13-20,21;14-22;15-23,24;</a>
+</spair>
+<spair id='4'>
+<s id='en4'>SQL Server 2008 Service Pack 2 ( SP2 ) includes updates for Reporting Services integration with SharePoint products .</s>
+<s id='vn4'>SQL Server 2008 Service Pack 2 ( SP2 ) bao gồm các bản cập nhật để tích hợp Dịch vụ Báo cáo với các sản phẩm SharePoint .</s>
+<a id='ev4'>1-1;2-2;3-3;4-4;5-5;6-6;8-8;10-10,11;11-12,13,14,15;12-16;13-21,22;14-19,20;15-17,18;16-23;17-27;18-24,25,26;</a>
+</spair>
+<spair id='5'>
+<s id='en5'>SQL Server 2008 SP2 report servers can integrate with SharePoint 2010 products , and SP2 also now provides a new add-in to support the integration of SQL Server 2008 R2 report servers with SharePoint 2007 products .</s>
+<s id='vn5'>Các máy chủ báo cáo SQL Server 2008 SP2 có thể tích hợp với các sản phẩm SharePoint 2010 , và bản cập nhật SP2 giờ đây cũng cung cấp thêm một tiện ích mới để hỗ trợ cho việc tích hợp các máy chủ báo cáo SQL Server 2008 R2 với các sản phẩm SharePoint 2007 .</s>
+<a id='ev5'>1-6;2-7;3-8;4-9;5-4,5;6-1,2,3;7-10,11;8-12,13;9-14;10-18;11-19;12-15,16,17;14-21;15-22,23,24,25;16-28;17-26,27;18-29,30;19-32;20-35;21-33,34;22-36;23-37,38;25-40,41,42;27-48;28-49;29-50;30-51;31-46,47;32-43,44,45;33-52;34-56;35-57;36-53,54,55;</a>
+</spair>
+<spair id='6'>
+<s id='en6'>" This now enables SharePoint Server 2007 to be used with SQL Server 2008 R2 Report Server , " according to the Microsoft SQL Server Team blog .</s>
+<s id='vn6'>Theo blog của Microsoft SQL Server Team " Điều này giờ đây có thể cho phép SharePoint Server 2007 sử dụng cùng với SQL Server 2008 R2 Report Server " .</s>
+<a id='ev6'>2-9,10;3-11,12;4-13,14,15,16;5-17;6-18;7-19;10-20,21;11-22,23;12-24;13-25;14-26;15-27;16-28;17-29;20,21-1;23-4;24-5;25-6;26-7;27-2;</a>
+</spair>
+<spair id='7'>
+<s id='en7'>In addition , in SP2 an instance of the SQL Server 2008 Database Engine can be enrolled with a SQL Server 2008 R2 Utility Control Point as a managed instance of SQL Server , Microsoft said .</s>
+<s id='vn7'>Ngoài ra , Microsoft cho biết trong SP2 một đối tượng của SQL Server 2008 Database Engine có thể đăng ký với SQL Server 2008 R2 Utility Control Point như một đối tượng quản lý của SQL Server .</s>
+<a id='ev7'>1,2-1,2;4-7;5-8;6-9;7-10,11;8-12;10-13;11-14;12-15;13-16;14-17;15-18,19;17-20,21;18-22;20-23;21-24;22-25;23-26;24-27;25-28;26-29;27-30;28-31;29-34,35;30-32,33;31-36;32-37;33-38;35-4;36-5,6;</a>
+</spair>
+<spair id='8'>
+<s id='en8'>Instances of SQL Server 2008 Database Engine in SP2 support all data-tier application ( DAC ) operations .</s>
+<s id='vn8'>Các đối tượng của SQL Server 2008 Database Engine trong SP2 hỗ trợ tất cả các tác vụ ứng dụng tầng dữ liệu ( DAC ) .</s>
+<a id='ev8'>1-1,2,3;2-4;3-5;4-6;5-7;6-8;7-9;8-10;9-11;10-12,13;11-14,15;12-21,22,23;13-19,20;15-25;17-16,17,18;</a>
+</spair>
+<spair id='9'>
+<s id='en9'>" You can deploy , upgrade , register , extract and delete DACs , " Microsoft said .</s>
+<s id='vn9'>Microsoft cho biết " Bạn có thể triển khai , nâng cấp , đăng ký , trích xuất và xoá các DAC .</s>
+<a id='ev9'>2-5;3-6,7;4-8,9;6-11,12;8-14,15;10-17,18;11-19;12-20;13-21,22;16-1;17-2,3;</a>
+</spair>
+<spair id='10'>
+<s id='en10'>SP2 does not upgrade the SQL Server 2008 client tools to support DACs .</s>
+<s id='vn10'>Bản cập nhật SP2 không nâng cấp các công cụ SQL Server 2008 client để hỗ trợ DAC .</s>
+<a id='ev10'>1-1,2,3,4;2,3-5;4-6,7;6-11;7-12;8-13;9-14;10-8,9,10;12-16,17;13-18;</a>
+</spair>
+<spair id='11'>
+<s id='en11'>You must use the SQL Server 2008 R2 client tools , such as SQL Server Management Studio , to perform DAC operations .</s>
+<s id='vn11'>Bạn phải sử dụng các công cụ SQL Server 2008 R2 client , chẳng hạn như SQL Server Management Studio để thực hiện các tác vụ DAC .</s>
+<a id='ev11'>1-1;2-2;3-3,4;5-8;6-9;7-10;8-11;9-12;10-5,6,7;12,13-14,15,16;14-17;15-18;16-19;17-20;19-21;20-22,23;21-27;22-24,25,26;</a>
+</spair>
+<spair id='12'>
+<s id='en12'>A data-tier application is an entity that contains all of the database objects and instance objects used by an application .</s>
+<s id='vn12'>Một ứng dụng lớp dữ liệu là một thực thể chứa tất cả các đối tượng cơ sở dữ liệu và các đối tượng thực thể được dùng bởi một ứng dụng .</s>
+<a id='ev12'>1-1;2-4,5,6;3-2,3;4-7;5-8;6-9,10;8-11;9-12,13;12-17,18,19,20;13-14,15,16;14-21;15-25,26;16-22,23,24;17-27,28;18-29;19-30;20-31,32;</a>
+</spair>
+<spair id='13'>
+<s id='en13'>A DAC provides a single unit for authoring , deploying and managing the data-tier objects . "</s>
+<s id='vn13'>DAC cung cấp một đơn vị riêng lẻ để tạo , triển khai và quản lý các đối tượng lớp dữ liệu " .</s>
+<a id='ev13'>2-1;3-2,3;4-4;5-7,8;6-5,6;7-9;8-10;10-12,13;11-14;12-15,16;14-20,21,22;15-17,18,19;</a>
+</spair>
+<spair id='14'>
+<s id='en14'>The new release can be downloaded here .</s>
+<s id='vn14'>Phiên bản mới có thể tải về tại đây</s>
+<a id='ev14'>2-3;3-1,2;4-4,5;6-6,7;7-8,9;</a>
+</spair>
+</text>
+</doc>

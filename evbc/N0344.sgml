@@ -1,0 +1,72 @@
+﻿<doc id='N0344'>
+<head>
+<title>Mozilla : Firefox 3.6 won't be late</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>22/10/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Mozilla : Firefox 3.6 won't be late</s>
+<s id='vn1'>Mozilla : Firefox 3.6 sẽ ra mắt đúng hẹn</s>
+<a id='ev1'>1-1;3-3;4-4;5-5;6-6,7;7-8,9;</a>
+</spair>
+<spair id='2'>
+<s id='en2'>Mozilla may have released the first beta of Firefox 3.6 nearly two months late , but this organization believes the final version still will arrive on schedule before the end of the year .</s>
+<s id='vn2'>Mozilla có thể phát hành phiên bản beta đầu tiên của Firefox 3.6 vào khoảng gần hai tháng cuối năm nay , nhưng tổ chức này tin rằng phiên bản Firefox 3.6 cuối cùng vẫn sẽ cho ra mắt đúng như lịch trình trước khi kết thúc năm .</s>
+<a id='ev2'>1-1;2-2,3;4-4,5;6-9,10;7-6,7,8;8-11;9-12;10-13;11-16;12-17;13-18;14-19,20,21;16-23;17-26;18-24,25;19-27,28;21-33,34;22-29,30,31,32;23-35;24-36;25-37,38,39;26-40,41;27-42,43;28-44,45;30-46,47;33-48;</a>
+</spair>
+<spair id='3'>
+<s id='en3'>The Mozilla wiki page on version 3.6 , code-named Namoroka , listed early September for the scheduled release of the first beta , but it actually arrived October 30 .</s>
+<s id='vn3'>Trên trang Mozilla Wiki , phiên bản 3.6 với tên mã Namoroka , theo lịch trình thì phiên bản beta đầu tiên sẽ được phát hành vào đầu tháng 9 , nhưng thực chất ngày 30 tháng 10 mới cho ra mắt .</s>
+<a id='ev3'>2-3;3-4;4-1,2;6-6,7;7-8;9-9,10,11;10-12;12-27;13-28;14-29,30;17-14,15,16;18-23,24,25,26;21-21,22;22-18,19,20;24-32;26-33,34;27-39,40,41,42;28-37,38;29-35,36;</a>
+</spair>
+<spair id='4'>
+<s id='en4'>Despite that , Mike Shaver , vice president of engineering , said Mozilla wants to release this browser before the holidays and is sticking by the overall schedule for this open-source Web browser .</s>
+<s id='vn4'>Dù vậy , phó chủ tịch bộ phận kỹ thuật Mike Shaver cho biết Mozilla muốn phát hành trình duyệt này trước những ngày nghỉ lễ và đang bám sát theo lịch trình tổng thể cho trình duyệt web mã nguồn mở này .</s>
+<a id='ev4'>1-1,2;4-11;5-12;7-4;8-5,6;10-7,8,9,10;12-13,14;13-15;14-16;16-17,18;17-21;18-19,20;19-22;21-23,24,25;22-27;24-28,29,30;25-31;27-34,35;28-32,33;29-36;30-43;31-40,41,42;32-39;33-37,38;</a>
+</spair>
+<spair id='5'>
+<s id='en5'>" We 're still looking at a release candidate in November and ( final ) release in December at this point , " Shaver said in a Tuesday interview .</s>
+<s id='vn5'>Ông Shaver phát biểu trong một cuộc phỏng vấn vào hôm thứ ba : " Chúng tôi vẫn đang xem xét một Release Candidate trong tháng 11 và ( Phiên bản cuối cùng ) phát hành chính thức trong tháng mười hai cũng tại thời điểm này , " .</s>
+<a id='ev5'>2-16,17;4-18;5-19,20,21;7-22;8-23;9-24;10-25;11-26,27;12-28;14-30,31,32,33;16-35,36,37,38;17-39;18-40,41,42;19-43,44;20-47;21-45,46;24-1,2;25-3,4;26-5;27-6;28-10,11,12,13;29-7,8,9;</a>
+</spair>
+<spair id='6'>
+<s id='en6'>That means Mozilla has a compressed schedule for producing the final version , but Shaver said coders are working hard .</s>
+<s id='vn6'>Điều đó có nghĩa là Mozilla có một lịch trình được nén lại để tạo ra phiên bản cuối cùng , nhưng ông Shaver cho biết các lập trình viên đang làm việc cật lực .</s>
+<a id='ev6'>1-1,2;2-3,4,5;3-6;4-7;5-8;6-11,12,13;7-9,10;8-14;9-15,16;11-19,20;12-17,18;14-22;15-23,24;16-25,26;17-27,28,29,30;19-31,32,33;20-34,35;</a>
+</spair>
+<spair id='7'>
+<s id='en7'>" We 're not going to coast into it , " he said .</s>
+<s id='vn7'>Ông ấy nói " Chúng tôi sẽ không buông xuôi " .</s>
+<a id='ev7'>2-5,6;4-8;5-7;7-9,10;12-1,2;13-3;</a>
+</spair>
+<spair id='8'>
+<s id='en8'>" We 're going to continue shipping beta updates aggressively . "</s>
+<s id='vn8'>" Chúng tôi sẽ tiếp tục cho ra mắt các bản cập nhật beta một cách linh hoạt . "</s>
+<a id='ev8'>2-2,3;4-4;6-5,6;7-7,8,9;8-14;9-10,11,12,13;10-15,16,17,18;</a>
+</spair>
+<spair id='9'>
+<s id='en9'>Those involved in open-source projects , with different motivations and pressures than those in the traditional proprietary software industry , sometimes have an attitude of " we 'll ship it when it 's done . "</s>
+<s id='vn9'>Những người tham gia vào trong các dự án mã nguồn mở , với các động lực khác nhau và áp lực hơn so với những người làm trong ngành công nghiệp phần mềm mang tính truyền thống , đôi khi họ có quan điểm " chúng tôi sẽ bán nó khi nó được hoàn tất . "</s>
+<a id='ev9'>1-1,2;2-3,4;3-5,6;4-10,11,12;5-7,8,9;7-14;8-18,19;9-15,16,17;10-20;11-21,22;16-37,38;17-35,36;18-33,34;19-30,31,32;21-40,41;22-42,43;24-44,45;27-47,48;28-49;29-50;30-51;31-52;32-53;34-54,55,56;</a>
+</spair>
+<spair id='10'>
+<s id='en10'>Mozilla , though , recognizes that time matters even for an open-source project .</s>
+<s id='vn10'>Tuy nhiên Mozilla nhận ra rằng vấn đề thời gian cũng rất quan trọng cho một dự án mã nguồn mở .</s>
+<a id='ev10'>1-3;3-1,2;5-4,5;6-6;7-9,10;8-7,8;9-11,12,13,14;10-15;11-16;12-19,20,21;13-17,18;</a>
+</spair>
+<spair id='11'>
+<s id='en11'>" We 've always been more quality-driven than time-driven , " .</s>
+<s id='vn11'>" Chúng tôi luôn luôn tập trung vào chất lượng nhiều hơn là thời gian " .</s>
+<a id='ev11'>2-2,3;4-4,5;7-6,7,8,9,10;8-11,12;9-13,14,15;</a>
+</spair>
+<spair id='12'>
+<s id='en12'>" But we understand timing in the market matters to our users and our competitiveness . "</s>
+<s id='vn12'>" Nhưng chúng tôi hiểu việc tính toán thời gian chính xác cho một sản phẩm là điều quan trọng cho cả người dùng và khả năng cạnh tranh của chúng tôi . "</s>
+<a id='ev12'>2-2;3-3,4;4-5;5-6,7,8,9,10,11,12;6-13;8-14,15,16;9-17,18,19,20;10-21;12-22,23,24;13-25;14-30,31,32;15-26,27,28,29;</a>
+</spair>
+</text>
+</doc>
