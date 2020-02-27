@@ -1,0 +1,10 @@
+# OS-generated files
+.DS_Store
+.DS_Store?
+app/.DS_Store
+
+# Environments
+.env
+.venv
+env/
+venv/
