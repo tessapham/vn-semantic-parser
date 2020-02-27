@@ -8,3 +8,7 @@ app/.DS_Store
 .venv
 env/
 venv/
+bin/
+lib/
+pip-selfcheck.json
+pyvenv.cfg
