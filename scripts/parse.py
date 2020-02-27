@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup, Tag
 def parse(markup):
     """
     Parses an SGML file into English text, Vietnamese text, and word alignments,
-    stored in dictionaries keyed by sentence IDs
+    stored in dictionaries keyed by sentence IDs.
     """
     en = defaultdict(str)
     vn = defaultdict(str)
@@ -29,19 +29,23 @@ def write_tsv(sent_dict, path):
         for i in range(1, len(sent_dict) + 1):
             file.write(f'{i}\t{sent_dict[str(i)]}\n')
 
-def write_txt(sent_dict, path):
-    """Writes a dictionary of sentences to a TXT file without sentence IDs."""
-    with open(path, 'w') as file:
-        for i in range(1, len(sent_dict) + 1):
-            file.write(f'{sent_dict[str(i)]} ')
+def write_txt(sent_dict, prefix):
+    """Writes each sentence in a dictionary to a TXT file without an ID."""
+    for i in range(1, len(sent_dict) + 1):
+        with open(f'{prefix}_{i}.txt', 'w') as file:
+            file.write(f'{sent_dict[str(i)]}\n')
 
 def main():
     work_dir = input('Enter relative path to work directory: ')
-    filenames = [f'N{str(file_num).zfill(4)}' for file_num in range(1, 1001)] # N0001 to N1000
+    # filenames = [f'N{str(file_num).zfill(4)}' for file_num in range(1, 1001)] # N0001 to N1000
+    filenames = [f'N{str(file_num).zfill(4)}' for file_num in range(1, 11)] # test first 10 docs
+    sent_count = 0
     for filename in filenames:
         with open(f'{work_dir}/{filename}.sgml', 'r') as file:
             en, vn, ev = parse(file.read())
-            write_txt(vn, f'{work_dir}/{filename}_vn.txt')
-            write_txt(en, f'{work_dir}/{filename}_en.txt')
+            # write_txt(vn, f'{work_dir}/{filename}_vn')
+            write_txt(en, f'{work_dir}/{filename}_en')
+            sent_count += len(en)
+    print(f'# sentences: {sent_count}')
 
 main()
