@@ -3,7 +3,7 @@
 .DS_Store?
 app/.DS_Store
 
-# Environments
+# environments
 .env
 .venv
 env/
@@ -12,3 +12,10 @@ bin/
 lib/
 pip-selfcheck.json
 pyvenv.cfg
+
+# pictures
+*.png
+
+# test TXT files
+*.txt
+evbc/*.txt
