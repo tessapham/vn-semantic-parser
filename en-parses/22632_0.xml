@@ -1,0 +1,49 @@
+<root annotationID="0" passageID="22632_0">
+  <attributes />
+  <extra format="ucca" />
+  <layer layerID="0">
+    <attributes />
+    <extra doc="[[[6861061476610685378, 6861061476610685378, 15794550382381185553, 96, 391, 3, 8206900633647566924, 0, 13862804199789047564, 18003918085672799305, 2460646235899272892], [15180167692696242062, 15180167692696242062, 8427216679587749980, 93, 391, 1, 12837356684637874264, -1, 8148669997605808657, 15180167692696242062, 15180167692696242062], [10232638930417780466, 10232638930417780466, 8427216679587749980, 93, 391, 1, 12837356684637874264, -2, 16540303583526207617, 15180167692696242062, 5956700860521842196]]]" />
+    <node ID="0.1" type="Word">
+      <attributes paragraph="1" paragraph_position="1" text="JULY" />
+    </node>
+    <node ID="0.2" type="Word">
+      <attributes paragraph="1" paragraph_position="2" text="2" />
+    </node>
+    <node ID="0.3" type="Word">
+      <attributes paragraph="1" paragraph_position="3" text="2009" />
+    </node>
+  </layer>
+  <layer layerID="1">
+    <attributes />
+    <node ID="1.1" type="FN">
+      <attributes />
+      <edge toID="1.2" type="C">
+        <attributes />
+        <category tag="C" />
+      </edge>
+    </node>
+    <node ID="1.2" type="FN">
+      <attributes />
+      <edge toID="1.3" type="C">
+        <attributes />
+        <category tag="C" />
+      </edge>
+    </node>
+    <node ID="1.3" type="FN">
+      <attributes />
+      <edge toID="0.1" type="Terminal">
+        <attributes />
+        <category tag="Terminal" />
+      </edge>
+      <edge toID="0.2" type="Terminal">
+        <attributes />
+        <category tag="Terminal" />
+      </edge>
+      <edge toID="0.3" type="Terminal">
+        <attributes />
+        <category tag="Terminal" />
+      </edge>
+    </node>
+  </layer>
+</root>

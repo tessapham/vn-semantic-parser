@@ -1,0 +1,126 @@
+<root annotationID="0" passageID="44929_0">
+  <attributes />
+  <extra format="ucca" />
+  <layer layerID="0">
+    <attributes />
+    <extra doc="[[[2005922715127769938, 2005922715127769938, 14872845191859177490, 97, 0, 2, 445, 1, 2005922715127769938, 2005922715127769938, 2005922715127769938], [14832259926261516629, 14832259926261516629, 9188597074677201817, 100, 0, 2, 8206900633647566924, 0, 10887629174180191697, 9350754067018752509, 13891979019686982531], [5309359244254710007, 15920153168140029497, 783433942507015291, 92, 0, 2, 416, -1, 13110060611322374290, 16900879642891266615, 5902437463952755554], [6767504835961078174, 3563698965725164461, 272890857012483650, 84, 391, 3, 402, -1, 13110060611322374290, 16978132545290669629, 16111258787187009011], [10794458019344880855, 10794458019344880855, 1292078113972184607, 85, 391, 1, 443, -1, 13110060611322374290, 15369245168918225700, 6645331381689172409], [5782640844011333142, 5782640844011333142, 8427216679587749980, 93, 391, 1, 12837356684637874264, 1, 4620368362210911820, 15180167692696242062, 5782640844011333142], [18443948407981750281, 1608482186128794349, 783433942507015291, 92, 391, 1, 439, -2, 13110060611322374290, 8148669997605808657, 4490524343094149777]]]" />
+    <node ID="0.1" type="Punctuation">
+      <attributes paragraph="1" paragraph_position="1" text="*" />
+    </node>
+    <node ID="0.2" type="Word">
+      <attributes paragraph="1" paragraph_position="2" text="Have" />
+    </node>
+    <node ID="0.3" type="Word">
+      <attributes paragraph="1" paragraph_position="3" text="cycles" />
+    </node>
+    <node ID="0.4" type="Word">
+      <attributes paragraph="1" paragraph_position="4" text="shorter" />
+    </node>
+    <node ID="0.5" type="Word">
+      <attributes paragraph="1" paragraph_position="5" text="than" />
+    </node>
+    <node ID="0.6" type="Word">
+      <attributes paragraph="1" paragraph_position="6" text="28" />
+    </node>
+    <node ID="0.7" type="Word">
+      <attributes paragraph="1" paragraph_position="7" text="days" />
+    </node>
+  </layer>
+  <layer layerID="1">
+    <attributes />
+    <node ID="1.1" type="FN">
+      <attributes />
+      <edge toID="1.2" type="H">
+        <attributes />
+        <category tag="H" />
+      </edge>
+    </node>
+    <node ID="1.2" type="FN">
+      <attributes />
+      <edge toID="1.3" type="U">
+        <attributes />
+        <category tag="U" />
+      </edge>
+      <edge toID="1.4" type="P">
+        <attributes />
+        <category tag="P" />
+      </edge>
+      <edge toID="1.5" type="A">
+        <attributes />
+        <category tag="A" />
+      </edge>
+      <edge toID="1.6" type="D">
+        <attributes />
+        <category tag="D" />
+      </edge>
+      <edge toID="1.7" type="D">
+        <attributes />
+        <category tag="D" />
+      </edge>
+    </node>
+    <node ID="1.3" type="PNCT">
+      <attributes />
+      <edge toID="0.1" type="Terminal">
+        <attributes />
+        <category tag="Terminal" />
+      </edge>
+    </node>
+    <node ID="1.4" type="FN">
+      <attributes />
+      <edge toID="0.2" type="Terminal">
+        <attributes />
+        <category tag="Terminal" />
+      </edge>
+    </node>
+    <node ID="1.5" type="FN">
+      <attributes />
+      <edge toID="0.3" type="Terminal">
+        <attributes />
+        <category tag="Terminal" />
+      </edge>
+    </node>
+    <node ID="1.6" type="FN">
+      <attributes />
+      <edge toID="0.4" type="Terminal">
+        <attributes />
+        <category tag="Terminal" />
+      </edge>
+    </node>
+    <node ID="1.7" type="FN">
+      <attributes />
+      <edge toID="1.8" type="R">
+        <attributes />
+        <category tag="R" />
+      </edge>
+      <edge toID="1.9" type="E">
+        <attributes />
+        <category tag="E" />
+      </edge>
+      <edge toID="1.10" type="C">
+        <attributes />
+        <category tag="C" />
+      </edge>
+    </node>
+    <node ID="1.8" type="FN">
+      <attributes />
+      <edge toID="0.5" type="Terminal">
+        <attributes />
+        <category tag="Terminal" />
+      </edge>
+    </node>
+    <node ID="1.9" type="FN">
+      <attributes />
+      <edge toID="0.6" type="Terminal">
+        <attributes />
+        <category tag="Terminal" />
+      </edge>
+    </node>
+    <node ID="1.10" type="FN">
+      <attributes />
+      <edge toID="0.7" type="Terminal">
+        <attributes />
+        <category tag="Terminal" />
+      </edge>
+    </node>
+  </layer>
+</root>

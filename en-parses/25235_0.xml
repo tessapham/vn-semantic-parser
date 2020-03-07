@@ -1,0 +1,63 @@
+<root annotationID="0" passageID="25235_0">
+  <attributes />
+  <extra format="ucca" />
+  <layer layerID="0">
+    <attributes />
+    <extra doc="[[[17984133356009216616, 16473443321107972938, 1534113631682161808, 100, 0, 2, 412, 3, 16072095006890171862, 3929483993944067416, 7679303661980345986], [1900673716595431757, 3460738943070548167, 10554686591937588953, 84, 381, 3, 402, 1, 16072095006890171862, 14862748245026736845, 3477492905443839178], [9868015987321969593, 14859921881898300688, 783433942507015291, 92, 0, 2, 416, -2, 16072095006890171862, 9391737413944127320, 16799973512044659907], [14154262004285902084, 8058829260683445515, 9188597074677201817, 100, 0, 2, 8206900633647566924, 0, 16072095006890171862, 16337536289976144572, 8265820206415514174], [399716410249552186, 12618292361406372890, 10554686591937588953, 84, 0, 2, 398, -1, 16072095006890171862, 12290980237632234855, 7274326117416781431]]]" />
+    <node ID="0.1" type="Word">
+      <attributes paragraph="1" paragraph_position="1" text="Developing" />
+    </node>
+    <node ID="0.2" type="Word">
+      <attributes paragraph="1" paragraph_position="2" text="Asian" />
+    </node>
+    <node ID="0.3" type="Word">
+      <attributes paragraph="1" paragraph_position="3" text="Economies" />
+    </node>
+    <node ID="0.4" type="Word">
+      <attributes paragraph="1" paragraph_position="4" text="Remain" />
+    </node>
+    <node ID="0.5" type="Word">
+      <attributes paragraph="1" paragraph_position="5" text="Strong" />
+    </node>
+  </layer>
+  <layer layerID="1">
+    <attributes />
+    <node ID="1.1" type="FN">
+      <attributes />
+      <edge toID="1.2" type="H">
+        <attributes />
+        <category tag="H" />
+      </edge>
+    </node>
+    <node ID="1.2" type="FN">
+      <attributes />
+      <edge toID="1.3" type="A">
+        <attributes />
+        <category tag="A" />
+      </edge>
+    </node>
+    <node ID="1.3" type="FN">
+      <attributes />
+      <edge toID="0.1" type="Terminal">
+        <attributes />
+        <category tag="Terminal" />
+      </edge>
+      <edge toID="0.2" type="Terminal">
+        <attributes />
+        <category tag="Terminal" />
+      </edge>
+      <edge toID="0.3" type="Terminal">
+        <attributes />
+        <category tag="Terminal" />
+      </edge>
+      <edge toID="0.4" type="Terminal">
+        <attributes />
+        <category tag="Terminal" />
+      </edge>
+      <edge toID="0.5" type="Terminal">
+        <attributes />
+        <category tag="Terminal" />
+      </edge>
+    </node>
+  </layer>
+</root>

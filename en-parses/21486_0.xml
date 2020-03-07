@@ -1,0 +1,49 @@
+<root annotationID="0" passageID="21486_0">
+  <attributes />
+  <extra format="ucca" />
+  <layer layerID="0">
+    <attributes />
+    <extra doc="[[[14852564058682521353, 14852564058682521353, 15794550382381185553, 96, 0, 2, 7037928807040764755, 2, 16072095006890171862, 17714545831559622561, 12182527387764416033], [18317626651637262114, 18317626651637262114, 15794550382381185553, 96, 380, 3, 7037928807040764755, 1, 16072095006890171862, 14862748245026736845, 3207500645644117482], [15678605953424252149, 15678605953424252149, 15794550382381185553, 96, 380, 1, 8206900633647566924, 0, 16072095006890171862, 10603054956214495369, 13881993904361343619]]]" />
+    <node ID="0.1" type="Word">
+      <attributes paragraph="1" paragraph_position="1" text="President" />
+    </node>
+    <node ID="0.2" type="Word">
+      <attributes paragraph="1" paragraph_position="2" text="Abraham" />
+    </node>
+    <node ID="0.3" type="Word">
+      <attributes paragraph="1" paragraph_position="3" text="Lincoln" />
+    </node>
+  </layer>
+  <layer layerID="1">
+    <attributes />
+    <node ID="1.1" type="FN">
+      <attributes />
+      <edge toID="1.2" type="C">
+        <attributes />
+        <category tag="C" />
+      </edge>
+      <edge toID="1.3" type="E">
+        <attributes />
+        <category tag="E" />
+      </edge>
+    </node>
+    <node ID="1.2" type="FN">
+      <attributes />
+      <edge toID="0.1" type="Terminal">
+        <attributes />
+        <category tag="Terminal" />
+      </edge>
+    </node>
+    <node ID="1.3" type="FN">
+      <attributes />
+      <edge toID="0.2" type="Terminal">
+        <attributes />
+        <category tag="Terminal" />
+      </edge>
+      <edge toID="0.3" type="Terminal">
+        <attributes />
+        <category tag="Terminal" />
+      </edge>
+    </node>
+  </layer>
+</root>

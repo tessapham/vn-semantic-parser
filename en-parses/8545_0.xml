@@ -1,0 +1,95 @@
+<root annotationID="0" passageID="8545_0">
+  <attributes />
+  <extra format="ucca" />
+  <layer layerID="0">
+    <attributes />
+    <extra doc="[[[1109189866009297983, 1109189866009297983, 15794550382381185553, 96, 0, 2, 8206900633647566924, 0, 10887629174180191697, 9350754067018752509, 18020990058753680179], [423185678490233567, 16037325823156266367, 1292078113972184607, 85, 0, 2, 443, -1, 18200729499220207786, 9148987913859918431, 423185678490233567], [7681350019822675194, 7681350019822675194, 15794550382381185553, 96, 0, 2, 402, 2, 16072095006890171862, 12290980237632234855, 16838316573854262908], [1214169155818269596, 1214169155818269596, 15794550382381185553, 96, 0, 2, 7037928807040764755, 1, 16072095006890171862, 8804677687338025421, 11197236520932772837], [16822678293456486020, 16822678293456486020, 15794550382381185553, 96, 0, 2, 439, -3, 10887629174180191697, 5582244037879929967, 14619786160612475726], [423185678490233567, 16037325823156266367, 1292078113972184607, 85, 0, 2, 8206900633647566924, 0, 18200729499220207786, 9148987913859918431, 423185678490233567], [12817331830270327042, 12817331830270327042, 15794550382381185553, 96, 0, 2, 439, -1, 16072095006890171862, 14862748245026736845, 12809364936633561180]]]" />
+    <node ID="0.1" type="Word">
+      <attributes paragraph="1" paragraph_position="1" text="Hope" />
+    </node>
+    <node ID="0.2" type="Word">
+      <attributes paragraph="1" paragraph_position="2" text="For" />
+    </node>
+    <node ID="0.3" type="Word">
+      <attributes paragraph="1" paragraph_position="3" text="Simple" />
+    </node>
+    <node ID="0.4" type="Word">
+      <attributes paragraph="1" paragraph_position="4" text="Urine" />
+    </node>
+    <node ID="0.5" type="Word">
+      <attributes paragraph="1" paragraph_position="5" text="Test" />
+    </node>
+    <node ID="0.6" type="Word">
+      <attributes paragraph="1" paragraph_position="6" text="For" />
+    </node>
+    <node ID="0.7" type="Word">
+      <attributes paragraph="1" paragraph_position="7" text="Autism" />
+    </node>
+  </layer>
+  <layer layerID="1">
+    <attributes />
+    <node ID="1.1" type="FN">
+      <attributes />
+      <edge toID="1.2" type="H">
+        <attributes />
+        <category tag="H" />
+      </edge>
+    </node>
+    <node ID="1.2" type="FN">
+      <attributes />
+      <edge toID="1.3" type="A">
+        <attributes />
+        <category tag="A" />
+      </edge>
+      <edge toID="1.4" type="A">
+        <attributes remote="True" />
+        <category tag="A" />
+      </edge>
+    </node>
+    <node ID="1.3" type="FN">
+      <attributes />
+      <edge toID="1.4" type="C">
+        <attributes />
+        <category tag="C" />
+      </edge>
+      <edge toID="1.5" type="E">
+        <attributes />
+        <category tag="E" />
+      </edge>
+    </node>
+    <node ID="1.4" type="FN">
+      <attributes />
+      <edge toID="0.1" type="Terminal">
+        <attributes />
+        <category tag="Terminal" />
+      </edge>
+      <edge toID="0.2" type="Terminal">
+        <attributes />
+        <category tag="Terminal" />
+      </edge>
+      <edge toID="0.3" type="Terminal">
+        <attributes />
+        <category tag="Terminal" />
+      </edge>
+      <edge toID="0.4" type="Terminal">
+        <attributes />
+        <category tag="Terminal" />
+      </edge>
+    </node>
+    <node ID="1.5" type="FN">
+      <attributes />
+      <edge toID="0.5" type="Terminal">
+        <attributes />
+        <category tag="Terminal" />
+      </edge>
+      <edge toID="0.6" type="Terminal">
+        <attributes />
+        <category tag="Terminal" />
+      </edge>
+      <edge toID="0.7" type="Terminal">
+        <attributes />
+        <category tag="Terminal" />
+      </edge>
+    </node>
+  </layer>
+</root>

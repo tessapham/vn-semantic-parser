@@ -1,0 +1,77 @@
+<root annotationID="0" passageID="32052_0">
+  <attributes />
+  <extra format="ucca" />
+  <layer layerID="0">
+    <attributes />
+    <extra doc="[[[2090661578966068036, 2090661578966068036, 16530679158541427010, 97, 397, 3, 12837356684637874264, 1, 8148669997605808657, 2090661578966068036, 2090661578966068036], [6502854988900663706, 8276932932706964455, 783433942507015291, 92, 0, 2, 8206900633647566924, 0, 16072095006890171862, 16337536289976144572, 8906198441074590503], [7831192797367251337, 3791531372978436496, 5595707737748328492, 94, 0, 2, 405, 1, 12204527652707022206, 5582244037879929967, 7831192797367251337], [15116821140346166238, 10212186641365780138, 14200088355797579614, 100, 0, 2, 8206900633647566924, 0, 10887629174180191697, 9148987913859918431, 14872279755251211665], [5059648917813135842, 7425985699627899538, 15267657372422890137, 90, 0, 2, 415, 2, 18200729499220207786, 5582244037879929967, 5059648917813135842], [16030653495173074816, 16030653495173074816, 15794550382381185553, 96, 0, 2, 7037928807040764755, 1, 16072095006890171862, 12290980237632234855, 7491562129346639733], [12200839382758013798, 12200839382758013798, 15794550382381185553, 96, 0, 2, 416, -3, 16072095006890171862, 3209455878668673793, 4033239478746493526]]]" />
+    <node ID="0.1" type="Word">
+      <attributes paragraph="1" paragraph_position="1" text="5" />
+    </node>
+    <node ID="0.2" type="Word">
+      <attributes paragraph="1" paragraph_position="2" text="Reasons" />
+    </node>
+    <node ID="0.3" type="Word">
+      <attributes paragraph="1" paragraph_position="3" text="To" />
+    </node>
+    <node ID="0.4" type="Word">
+      <attributes paragraph="1" paragraph_position="4" text="Fear" />
+    </node>
+    <node ID="0.5" type="Word">
+      <attributes paragraph="1" paragraph_position="5" text="The" />
+    </node>
+    <node ID="0.6" type="Word">
+      <attributes paragraph="1" paragraph_position="6" text="Stock" />
+    </node>
+    <node ID="0.7" type="Word">
+      <attributes paragraph="1" paragraph_position="7" text="Market" />
+    </node>
+  </layer>
+  <layer layerID="1">
+    <attributes />
+    <node ID="1.1" type="FN">
+      <attributes />
+      <edge toID="1.2" type="H">
+        <attributes />
+        <category tag="H" />
+      </edge>
+    </node>
+    <node ID="1.2" type="FN">
+      <attributes />
+      <edge toID="1.3" type="A">
+        <attributes />
+        <category tag="A" />
+      </edge>
+    </node>
+    <node ID="1.3" type="FN">
+      <attributes />
+      <edge toID="0.1" type="Terminal">
+        <attributes />
+        <category tag="Terminal" />
+      </edge>
+      <edge toID="0.2" type="Terminal">
+        <attributes />
+        <category tag="Terminal" />
+      </edge>
+      <edge toID="0.3" type="Terminal">
+        <attributes />
+        <category tag="Terminal" />
+      </edge>
+      <edge toID="0.4" type="Terminal">
+        <attributes />
+        <category tag="Terminal" />
+      </edge>
+      <edge toID="0.5" type="Terminal">
+        <attributes />
+        <category tag="Terminal" />
+      </edge>
+      <edge toID="0.6" type="Terminal">
+        <attributes />
+        <category tag="Terminal" />
+      </edge>
+      <edge toID="0.7" type="Terminal">
+        <attributes />
+        <category tag="Terminal" />
+      </edge>
+    </node>
+  </layer>
+</root>

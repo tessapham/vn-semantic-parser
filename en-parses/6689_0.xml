@@ -1,0 +1,77 @@
+<root annotationID="0" passageID="6689_0">
+  <attributes />
+  <extra format="ucca" />
+  <layer layerID="0">
+    <attributes />
+    <extra doc="[[[16799767236440142622, 16799767236440142622, 272890857012483650, 84, 0, 2, 402, 3, 10887629174180191697, 3209455878668673793, 16639369580702547507], [13772875632812819956, 10794458019344880855, 1292078113972184607, 85, 0, 2, 446, 2, 10887629174180191697, 5582244037879929967, 6645331381689172409], [12491099834491675542, 17454115351911680600, 8427216679587749980, 93, 0, 2, 7037928807040764755, 1, 18200729499220207786, 17427324969254097257, 12491099834491675542], [17178178870736364748, 1231493654637052630, 8427216679587749980, 93, 0, 2, 12837356684637874264, 1, 16072095006890171862, 14230521632333904559, 10748144119362648261], [4113075906227326583, 4113075906227326583, 783433942507015291, 92, 0, 2, 8206900633647566924, 0, 16072095006890171862, 17714545831559622561, 16838316573854262908], [3218197810753392677, 8004577259940138793, 1534113631682161808, 100, 0, 2, 451, -1, 16072095006890171862, 16829822105563051112, 7679303661980345986], [6874645128320850665, 923751114207483939, 10554686591937588953, 84, 0, 2, 416, -1, 16072095006890171862, 9350754067018752509, 17088811074804737260]]]" />
+    <node ID="0.1" type="Word">
+      <attributes paragraph="1" paragraph_position="1" text="More" />
+    </node>
+    <node ID="0.2" type="Word">
+      <attributes paragraph="1" paragraph_position="2" text="Than" />
+    </node>
+    <node ID="0.3" type="Word">
+      <attributes paragraph="1" paragraph_position="3" text="One" />
+    </node>
+    <node ID="0.4" type="Word">
+      <attributes paragraph="1" paragraph_position="4" text="Billion" />
+    </node>
+    <node ID="0.5" type="Word">
+      <attributes paragraph="1" paragraph_position="5" text="People" />
+    </node>
+    <node ID="0.6" type="Word">
+      <attributes paragraph="1" paragraph_position="6" text="Going" />
+    </node>
+    <node ID="0.7" type="Word">
+      <attributes paragraph="1" paragraph_position="7" text="Hungry" />
+    </node>
+  </layer>
+  <layer layerID="1">
+    <attributes />
+    <node ID="1.1" type="FN">
+      <attributes />
+      <edge toID="1.2" type="H">
+        <attributes />
+        <category tag="H" />
+      </edge>
+    </node>
+    <node ID="1.2" type="FN">
+      <attributes />
+      <edge toID="1.3" type="A">
+        <attributes />
+        <category tag="A" />
+      </edge>
+    </node>
+    <node ID="1.3" type="FN">
+      <attributes />
+      <edge toID="0.1" type="Terminal">
+        <attributes />
+        <category tag="Terminal" />
+      </edge>
+      <edge toID="0.2" type="Terminal">
+        <attributes />
+        <category tag="Terminal" />
+      </edge>
+      <edge toID="0.3" type="Terminal">
+        <attributes />
+        <category tag="Terminal" />
+      </edge>
+      <edge toID="0.4" type="Terminal">
+        <attributes />
+        <category tag="Terminal" />
+      </edge>
+      <edge toID="0.5" type="Terminal">
+        <attributes />
+        <category tag="Terminal" />
+      </edge>
+      <edge toID="0.6" type="Terminal">
+        <attributes />
+        <category tag="Terminal" />
+      </edge>
+      <edge toID="0.7" type="Terminal">
+        <attributes />
+        <category tag="Terminal" />
+      </edge>
+    </node>
+  </layer>
+</root>

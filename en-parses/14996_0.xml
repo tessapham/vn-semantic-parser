@@ -1,0 +1,98 @@
+<root annotationID="0" passageID="14996_0">
+  <attributes />
+  <extra format="ucca" />
+  <layer layerID="0">
+    <attributes />
+    <extra doc="[[[26773473592133993, 26773473592133993, 15794550382381185553, 96, 383, 3, 7037928807040764755, 2, 10887629174180191697, 3929483993944067416, 8117903961816325909], [16271719928879294026, 16271719928879294026, 11233576250605462493, 96, 383, 1, 7037928807040764755, 1, 16072095006890171862, 12290980237632234855, 10477575395255680452], [10008558763317649479, 10008558763317649479, 15794550382381185553, 96, 383, 1, 7037928807040764755, 4, 10887629174180191697, 149303876845869574, 5012629990875267006], [90397047997298990, 90397047997298990, 15794550382381185553, 96, 383, 1, 7037928807040764755, 1, 16072095006890171862, 9350754067018752509, 4690275102427294748], [3433145965147376797, 3433145965147376797, 15794550382381185553, 96, 383, 1, 7037928807040764755, 2, 16072095006890171862, 5582244037879929967, 2013399242189103424], [3438489356621435858, 3438489356621435858, 15794550382381185553, 96, 0, 2, 7037928807040764755, 1, 16072095006890171862, 12290980237632234855, 10806788082624814911], [7681990683105467526, 3625794390087546215, 783433942507015291, 92, 0, 2, 8206900633647566924, 0, 16072095006890171862, 16829822105563051112, 12849174896969601389]]]" />
+    <node ID="0.1" type="Word">
+      <attributes paragraph="1" paragraph_position="1" text="Dell" />
+    </node>
+    <node ID="0.2" type="Word">
+      <attributes paragraph="1" paragraph_position="2" text="Services" />
+    </node>
+    <node ID="0.3" type="Word">
+      <attributes paragraph="1" paragraph_position="3" text="Care" />
+    </node>
+    <node ID="0.4" type="Word">
+      <attributes paragraph="1" paragraph_position="4" text="Health" />
+    </node>
+    <node ID="0.5" type="Word">
+      <attributes paragraph="1" paragraph_position="5" text="Target" />
+    </node>
+    <node ID="0.6" type="Word">
+      <attributes paragraph="1" paragraph_position="6" text="State" />
+    </node>
+    <node ID="0.7" type="Word">
+      <attributes paragraph="1" paragraph_position="7" text="Governments" />
+    </node>
+  </layer>
+  <layer layerID="1">
+    <attributes />
+    <node ID="1.1" type="FN">
+      <attributes />
+      <edge toID="1.2" type="H">
+        <attributes />
+        <category tag="H" />
+      </edge>
+      <edge toID="1.3" type="A">
+        <attributes />
+        <category tag="A" />
+      </edge>
+    </node>
+    <node ID="1.2" type="FN">
+      <attributes />
+      <edge toID="1.4" type="A">
+        <attributes />
+        <category tag="A" />
+      </edge>
+    </node>
+    <node ID="1.3" type="FN">
+      <attributes />
+      <edge toID="0.5" type="Terminal">
+        <attributes />
+        <category tag="Terminal" />
+      </edge>
+      <edge toID="0.6" type="Terminal">
+        <attributes />
+        <category tag="Terminal" />
+      </edge>
+      <edge toID="0.7" type="Terminal">
+        <attributes />
+        <category tag="Terminal" />
+      </edge>
+    </node>
+    <node ID="1.4" type="FN">
+      <attributes />
+      <edge toID="1.5" type="E">
+        <attributes />
+        <category tag="E" />
+      </edge>
+      <edge toID="1.6" type="C">
+        <attributes />
+        <category tag="C" />
+      </edge>
+    </node>
+    <node ID="1.5" type="FN">
+      <attributes />
+      <edge toID="0.1" type="Terminal">
+        <attributes />
+        <category tag="Terminal" />
+      </edge>
+    </node>
+    <node ID="1.6" type="FN">
+      <attributes />
+      <edge toID="0.2" type="Terminal">
+        <attributes />
+        <category tag="Terminal" />
+      </edge>
+      <edge toID="0.3" type="Terminal">
+        <attributes />
+        <category tag="Terminal" />
+      </edge>
+      <edge toID="0.4" type="Terminal">
+        <attributes />
+        <category tag="Terminal" />
+      </edge>
+    </node>
+  </layer>
+</root>
