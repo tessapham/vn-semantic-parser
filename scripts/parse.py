@@ -19,7 +19,7 @@ def parse(markup):
     ev = defaultdict(str)
     soup = BeautifulSoup(markup, 'html.parser')
     for spair in soup.find_all('spair'):
-        sent_id = spair.get('id')
+        sent_id = int(spair.get('id')) # convert ID from string to int
         for child in spair.children:
             if isinstance(child, Tag):
                 tag = child.get('id')[:2]
@@ -35,18 +35,22 @@ def write_tsv(sent_dict, filename):
     """Writes a dictionary of sentences to a TSV file including sentence IDs."""
     with open(f'{filename}.tsv', 'w') as file:
         for i in range(1, len(sent_dict) + 1):
-            file.write(f'{i}\t{sent_dict[str(i)]}\n')
+            file.write(f'{i}\t{sent_dict[i]}\n')
 
-def write_txt(sent_dict, doc_id):
+def write_doc_txt(sent_dict, filename):
     """
-    Writes each sentence in a dictionary to a TXT file without an ID,
-    using document ID as prefix to filename.
+    Writes single-language text in a document to a TXT file, one sentence per line
+    without ID, using document ID as filename.
     """
-    for i in range(1, len(sent_dict) + 1):
-        write_sent_txt(sent_dict[str(i)], f'{doc_id}_{i}')
+    with open(f'{filename}.txt', 'w') as file:
+        for i in range(1, len(sent_dict) + 1):
+            file.write(f'{sent_dict[i]}\n')
 
 def write_sent_txt(sent, filename):
-    """Writes a sentence to a TXT file."""
+    """
+    Writes a sentence to a TXT file, using sentence index out of all same-language
+    sentences (in all documents) as filename.
+    """
     with open(f'{filename}.txt', 'w') as file:
             file.write(sent)
 
@@ -56,27 +60,42 @@ def main():
     # filenames = [f'N{str(file_num).zfill(4)}' for file_num in range(1, 11)] # test first 10 docs
     en_sent_count = 0
     vn_sent_count = 0
+    ev_sent_count = 0
     en_token_count = 0
     vn_token_count = 0
 
-    for filename in filenames:
-        with open(f'{work_dir}/{filename}.sgml', 'r') as file:
-            en, vn, ev = parse(file.read())
-            # write_txt(vn, f'{work_dir}/{filename}_vn')
-            # write_txt(en, f'{work_dir}/{filename}_en')
-            for i in range(1, len(en) + 1):
-                sent = en[str(i)]
-                tokens = list(filter(lambda i: i not in punctuation, sent.split())) # filter out punctuation
-                en_token_count += len(tokens)
-                write_sent_txt(sent, f'{work_dir}/parse-en/{en_sent_count + i}')
-            en_sent_count += len(en)
-            for i in range(1, len(vn) + 1):
-                sent = vn[str(i)]
-                tokens = list(filter(lambda i: i not in punctuation, sent.split()))
-                vn_token_count += len(tokens)
-                write_sent_txt(sent, f'{work_dir}/parse-vn/{vn_sent_count + i}')
-            vn_sent_count += len(vn)
-    
+    with open(f'{work_dir}/links.tsv', 'w') as links_file:
+        for filename in filenames:
+            with open(f'{work_dir}/{filename}.sgml', 'r') as sgml_file:
+                en, vn, ev = parse(sgml_file.read())
+                """
+                # parse text per document
+                write_doc_txt(vn, f'{work_dir}/parse-vn/{filename}')
+                write_doc_txt(en, f'{work_dir}/parse-en/{filename}')
+                write_doc_txt(ev, f'{work_dir}/parse-ev/{filename}')
+                """
+                """
+                # parse text per sentence
+                for i in range(1, len(en) + 1):
+                    sent = en[i]
+                    tokens = list(filter(lambda i: i not in punctuation, sent.split())) # filter out punctuation
+                    en_token_count += len(tokens)
+                    write_sent_txt(sent, f'{work_dir}/parse-en/{en_sent_count + i}')
+                en_sent_count += len(en)
+                for i in range(1, len(vn) + 1):
+                    sent = vn[i]
+                    tokens = list(filter(lambda i: i not in punctuation, sent.split()))
+                    vn_token_count += len(tokens)
+                    write_sent_txt(sent, f'{work_dir}/parse-vn/{vn_sent_count + i}')
+                vn_sent_count += len(vn)
+                """
+                # save word alignments of all bitexts links.tsv, one bitext per line, with bitext index as ID
+                for i in range(1, len(ev) + 1):
+                    links = ev[i]
+                    links_file.write(f'{ev_sent_count + i}\t{links}\n')
+                ev_sent_count += len(ev)
+
+    """
     with open(f'{work_dir}/info.en', 'w') as info_en, open(f'{work_dir}/info.vn', 'w') as info_vn:
         info_en.write(f'# English sentences: {en_sent_count}\n')
         info_en.write(f'# English tokens: {en_token_count}')
@@ -87,5 +106,7 @@ def main():
     print(f'# Vietnamese sentences: {vn_sent_count}')
     print(f'# English tokens: {en_token_count}')
     print(f'# Vietnamese tokens: {vn_token_count}')
+    """
+    print(f'# bitexts: {ev_sent_count}')
 
 main()
