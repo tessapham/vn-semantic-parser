@@ -3,6 +3,10 @@
 .DS_Store?
 app/.DS_Store
 
+# byte-compiled / optimized / DLL files
+__pycache__/
+ *.pyc
+
 # environments
 .env
 .venv
