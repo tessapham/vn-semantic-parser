@@ -1,0 +1,56 @@
+<root annotationID="0" passageID="4217_0">
+  <attributes />
+  <extra format="ucca" />
+  <layer layerID="0">
+    <attributes />
+    <extra doc="[[[15389013775748810664, 15389013775748810664, 16530679158541427010, 97, 0, 2, 8206900633647566924, 0, 16540303583526207617, 15180167692696242062, 340883122670591473], [11532473245541075862, 11532473245541075862, 11532473245541075862, 97, 0, 2, 445, -1, 11532473245541075862, 11532473245541075862, 11532473245541075862], [10361732798760778976, 10361732798760778976, 15794550382381185553, 96, 380, 3, 7037928807040764755, 1, 16072095006890171862, 3209455878668673793, 2717227695253913402], [7718040536861784656, 7718040536861784656, 15794550382381185553, 96, 380, 1, 8206900633647566924, 0, 16072095006890171862, 14862748245026736845, 16316159292238421828]]]" />
+    <node ID="0.1" type="Word">
+      <attributes paragraph="1" paragraph_position="1" text="2008" />
+    </node>
+    <node ID="0.3" type="Word">
+      <attributes paragraph="1" paragraph_position="3" text="Martti" />
+    </node>
+    <node ID="0.4" type="Word">
+      <attributes paragraph="1" paragraph_position="4" text="Ahtisaari" />
+    </node>
+  </layer>
+  <layer layerID="1">
+    <attributes />
+    <node ID="1.1" type="FN">
+      <attributes />
+      <edge toID="1.2" type="H">
+        <attributes />
+        <category tag="H" />
+      </edge>
+    </node>
+    <node ID="1.2" type="FN">
+      <attributes />
+      <edge toID="1.4" type="P">
+        <attributes />
+        <category tag="P" />
+      </edge>
+      <edge toID="1.5" type="A">
+        <attributes />
+        <category tag="A" />
+      </edge>
+    </node>
+    <node ID="1.4" type="FN">
+      <attributes />
+      <edge toID="0.1" type="Terminal">
+        <attributes />
+        <category tag="Terminal" />
+      </edge>
+    </node>
+    <node ID="1.5" type="FN">
+      <attributes />
+      <edge toID="0.3" type="Terminal">
+        <attributes />
+        <category tag="Terminal" />
+      </edge>
+      <edge toID="0.4" type="Terminal">
+        <attributes />
+        <category tag="Terminal" />
+      </edge>
+    </node>
+  </layer>
+</root>

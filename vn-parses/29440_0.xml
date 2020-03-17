@@ -1,0 +1,49 @@
+<root annotationID="0" passageID="29440_0">
+  <attributes />
+  <extra format="ucca" />
+  <layer layerID="0">
+    <attributes />
+    <extra doc="[[[15884554869126768810, 15884554869126768810, 4969857429396651903, 97, 0, 2, 445, 1, 15884554869126768810, 15884554869126768810, 15884554869126768810], [16307152510429038432, 8975372594552797288, 10554686591937588953, 84, 388, 3, 8206900633647566924, 0, 16072095006890171862, 3209455878668673793, 2045898031935137119], [15884554869126768810, 15884554869126768810, 14143520107006108953, 97, 0, 2, 445, -1, 15884554869126768810, 15884554869126768810, 15884554869126768810]]]" />
+    <node ID="0.2" type="Word">
+      <attributes paragraph="1" paragraph_position="2" text="B&#237; &#7849;n" />
+    </node>
+    <node ID="0.3" type="Punctuation">
+      <attributes paragraph="1" paragraph_position="3" text="&quot;" />
+    </node>
+  </layer>
+  <layer layerID="1">
+    <attributes />
+    <node ID="1.1" type="FN">
+      <attributes />
+      <edge toID="1.2" type="H">
+        <attributes />
+        <category tag="H" />
+      </edge>
+    </node>
+    <node ID="1.2" type="FN">
+      <attributes />
+      <edge toID="1.4" type="A">
+        <attributes />
+        <category tag="A" />
+      </edge>
+      <edge toID="1.5" type="U">
+        <attributes />
+        <category tag="U" />
+      </edge>
+    </node>
+    <node ID="1.4" type="FN">
+      <attributes />
+      <edge toID="0.2" type="Terminal">
+        <attributes />
+        <category tag="Terminal" />
+      </edge>
+    </node>
+    <node ID="1.5" type="PNCT">
+      <attributes />
+      <edge toID="0.3" type="Terminal">
+        <attributes />
+        <category tag="Terminal" />
+      </edge>
+    </node>
+  </layer>
+</root>

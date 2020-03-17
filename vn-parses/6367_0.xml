@@ -1,0 +1,56 @@
+<root annotationID="0" passageID="6367_0">
+  <attributes />
+  <extra format="ucca" />
+  <layer layerID="0">
+    <attributes />
+    <extra doc="[[[1752248092450452033, 15513107261501652654, 1534113631682161808, 100, 0, 2, 8206900633647566924, 0, 16072095006890171862, 12290980237632234855, 7679303661980345986], [7425985699627899538, 7425985699627899538, 15267657372422890137, 90, 383, 3, 415, 2, 4088098365541558500, 15369245168918225700, 7425985699627899538], [14383781027514041543, 14383781027514041543, 15794550382381185553, 96, 383, 1, 7037928807040764755, 1, 16072095006890171862, 3209455878668673793, 11197236520932772837], [12741873554335942383, 12741873554335942383, 15794550382381185553, 96, 383, 1, 416, -3, 16072095006890171862, 149303876845869574, 2297266526497069708]]]" />
+    <node ID="0.1" type="Word">
+      <attributes paragraph="1" paragraph_position="1" text="D&#7921; tr&#7919;" />
+    </node>
+    <node ID="0.3" type="Word">
+      <attributes paragraph="1" paragraph_position="3" text="thu&#7889;c" />
+    </node>
+  </layer>
+  <layer layerID="1">
+    <attributes />
+    <node ID="1.1" type="FN">
+      <attributes />
+      <edge toID="1.2" type="H">
+        <attributes />
+        <category tag="H" />
+      </edge>
+    </node>
+    <node ID="1.2" type="FN">
+      <attributes />
+      <edge toID="1.3" type="P">
+        <attributes />
+        <category tag="P" />
+      </edge>
+      <edge toID="1.4" type="A">
+        <attributes />
+        <category tag="A" />
+      </edge>
+    </node>
+    <node ID="1.3" type="FN">
+      <attributes />
+      <edge toID="0.1" type="Terminal">
+        <attributes />
+        <category tag="Terminal" />
+      </edge>
+    </node>
+    <node ID="1.4" type="FN">
+      <attributes />
+      <edge toID="1.6" type="E">
+        <attributes />
+        <category tag="E" />
+      </edge>
+    </node>
+    <node ID="1.6" type="FN">
+      <attributes />
+      <edge toID="0.3" type="Terminal">
+        <attributes />
+        <category tag="Terminal" />
+      </edge>
+    </node>
+  </layer>
+</root>

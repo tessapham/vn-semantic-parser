@@ -1,0 +1,35 @@
+<root annotationID="0" passageID="20581_0">
+  <attributes />
+  <extra format="ucca" />
+  <layer layerID="0">
+    <attributes />
+    <extra doc="[[[1489474827855109852, 1489474827855109852, 16530679158541427010, 97, 0, 2, 8206900633647566924, 0, 11123243248953317070, 1489474827855109852, 1489474827855109852], [8656061371573802069, 8656061371573802069, 15308085513773655218, 92, 0, 2, 439, -1, 13110060611322374290, 15369245168918225700, 17501965350585169104]]]" />
+    <node ID="0.2" type="Word">
+      <attributes paragraph="1" paragraph_position="2" text="thu&#7889;c l&#225;" />
+    </node>
+  </layer>
+  <layer layerID="1">
+    <attributes />
+    <node ID="1.1" type="FN">
+      <attributes />
+      <edge toID="1.2" type="H">
+        <attributes />
+        <category tag="H" />
+      </edge>
+    </node>
+    <node ID="1.2" type="FN">
+      <attributes />
+      <edge toID="1.4" type="A">
+        <attributes />
+        <category tag="A" />
+      </edge>
+    </node>
+    <node ID="1.4" type="FN">
+      <attributes />
+      <edge toID="0.2" type="Terminal">
+        <attributes />
+        <category tag="Terminal" />
+      </edge>
+    </node>
+  </layer>
+</root>

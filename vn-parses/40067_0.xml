@@ -1,0 +1,49 @@
+<root annotationID="0" passageID="40067_0">
+  <attributes />
+  <extra format="ucca" />
+  <layer layerID="0">
+    <attributes />
+    <extra doc="[[[11332016963924304957, 11332016963924304957, 8427216679587749980, 93, 397, 3, 8206900633647566924, 0, 4620368362210911820, 5533571732986600803, 11332016963924304957], [12646065887601541794, 12646065887601541794, 12646065887601541794, 97, 0, 2, 445, -1, 12646065887601541794, 12646065887601541794, 12646065887601541794], [10368517442247296069, 10368517442247296069, 15794550382381185553, 96, 383, 3, 7037928807040764755, 2, 16072095006890171862, 4690420944186131903, 14814004474743358178], [5081278329404970534, 5081278329404970534, 15794550382381185553, 96, 383, 1, 7037928807040764755, 1, 16072095006890171862, 12290980237632234855, 8723741297177204404], [9671659187648148688, 9671659187648148688, 15794550382381185553, 96, 383, 1, 8206900633647566924, 0, 16072095006890171862, 10850957288794122991, 7679303661980345986]]]" />
+    <node ID="0.3" type="Word">
+      <attributes paragraph="1" paragraph_position="3" text="h&#7897;i t&#237;ch" />
+    </node>
+    <node ID="0.4" type="Word">
+      <attributes paragraph="1" paragraph_position="4" text="M&#7841;ng x&#227;" />
+    </node>
+  </layer>
+  <layer layerID="1">
+    <attributes />
+    <node ID="1.1" type="FN">
+      <attributes />
+      <edge toID="1.2" type="E">
+        <attributes />
+        <category tag="E" />
+      </edge>
+      <edge toID="1.3" type="E">
+        <attributes />
+        <category tag="E" />
+      </edge>
+    </node>
+    <node ID="1.2" type="FN">
+      <attributes />
+      <edge toID="1.7" type="C">
+        <attributes />
+        <category tag="C" />
+      </edge>
+    </node>
+    <node ID="1.3" type="FN">
+      <attributes />
+      <edge toID="0.4" type="Terminal">
+        <attributes />
+        <category tag="Terminal" />
+      </edge>
+    </node>
+    <node ID="1.7" type="FN">
+      <attributes />
+      <edge toID="0.3" type="Terminal">
+        <attributes />
+        <category tag="Terminal" />
+      </edge>
+    </node>
+  </layer>
+</root>

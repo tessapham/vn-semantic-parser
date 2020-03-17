@@ -1,0 +1,84 @@
+<root annotationID="0" passageID="28074_0">
+  <attributes />
+  <extra format="ucca" />
+  <layer layerID="0">
+    <attributes />
+    <extra doc="[[[14862748245026736845, 11901859001352538922, 15267657372422890137, 90, 0, 2, 415, 5, 101, 14862748245026736845, 14862748245026736845], [14187672823834451420, 14187672823834451420, 15794550382381185553, 96, 391, 3, 7037928807040764755, 3, 16072095006890171862, 149303876845869574, 16473155134315006466], [8201483450797614757, 8201483450797614757, 15794550382381185553, 96, 380, 3, 7037928807040764755, 2, 16072095006890171862, 149303876845869574, 739257594701741756], [9153284864653046197, 9153284864653046197, 8214596291009089021, 97, 380, 1, 445, 1, 9153284864653046197, 9153284864653046197, 9153284864653046197], [17293619851593594641, 17293619851593594641, 15794550382381185553, 96, 380, 1, 7037928807040764755, 1, 16072095006890171862, 149303876845869574, 5902437463952755554], [15916073905049099714, 15916073905049099714, 15794550382381185553, 96, 380, 1, 8206900633647566924, 0, 16072095006890171862, 3929483993944067416, 4166543130894587915]]]" />
+    <node ID="0.2" type="Word">
+      <attributes paragraph="1" paragraph_position="2" text="Gi&#225;ng Sinh" />
+    </node>
+    <node ID="0.3" type="Word">
+      <attributes paragraph="1" paragraph_position="3" text="Kh&#250;c H&#225;t" />
+    </node>
+    <node ID="0.5" type="Word">
+      <attributes paragraph="1" paragraph_position="5" text="Charles" />
+    </node>
+    <node ID="0.6" type="Word">
+      <attributes paragraph="1" paragraph_position="6" text="Dickens" />
+    </node>
+  </layer>
+  <layer layerID="1">
+    <attributes />
+    <node ID="1.1" type="FN">
+      <attributes />
+      <edge toID="1.2" type="H">
+        <attributes />
+        <category tag="H" />
+      </edge>
+      <edge toID="1.3" type="P">
+        <attributes />
+        <category tag="P" />
+      </edge>
+    </node>
+    <node ID="1.2" type="FN">
+      <attributes />
+      <edge toID="1.4" type="A">
+        <attributes />
+        <category tag="A" />
+      </edge>
+    </node>
+    <node ID="1.3" type="FN">
+      <attributes />
+      <edge toID="1.5" type="C">
+        <attributes />
+        <category tag="C" />
+      </edge>
+    </node>
+    <node ID="1.4" type="FN">
+      <attributes />
+      <edge toID="1.7" type="E">
+        <attributes />
+        <category tag="E" />
+      </edge>
+      <edge toID="1.8" type="C">
+        <attributes />
+        <category tag="C" />
+      </edge>
+    </node>
+    <node ID="1.5" type="FN">
+      <attributes />
+      <edge toID="0.6" type="Terminal">
+        <attributes />
+        <category tag="Terminal" />
+      </edge>
+    </node>
+    <node ID="1.7" type="FN">
+      <attributes />
+      <edge toID="0.2" type="Terminal">
+        <attributes />
+        <category tag="Terminal" />
+      </edge>
+    </node>
+    <node ID="1.8" type="FN">
+      <attributes />
+      <edge toID="0.3" type="Terminal">
+        <attributes />
+        <category tag="Terminal" />
+      </edge>
+      <edge toID="0.5" type="Terminal">
+        <attributes />
+        <category tag="Terminal" />
+      </edge>
+    </node>
+  </layer>
+</root>

@@ -1,0 +1,35 @@
+<root annotationID="0" passageID="2700_0">
+  <attributes />
+  <extra format="ucca" />
+  <layer layerID="0">
+    <attributes />
+    <extra doc="[[[401376022193076967, 15684468530116715331, 1534113631682161808, 100, 0, 2, 8206900633647566924, 0, 16072095006890171862, 12290980237632234855, 7679303661980345986], [4184034130282193152, 4184034130282193152, 10554686591937588953, 84, 0, 2, 398, -1, 13110060611322374290, 5097672513440128799, 12182527387764416033]]]" />
+    <node ID="0.2" type="Word">
+      <attributes paragraph="1" paragraph_position="2" text="t&#7921; do tho&#7843;i m&#225;i" />
+    </node>
+  </layer>
+  <layer layerID="1">
+    <attributes />
+    <node ID="1.1" type="FN">
+      <attributes />
+      <edge toID="1.2" type="H">
+        <attributes />
+        <category tag="H" />
+      </edge>
+    </node>
+    <node ID="1.2" type="FN">
+      <attributes />
+      <edge toID="1.4" type="P">
+        <attributes />
+        <category tag="P" />
+      </edge>
+    </node>
+    <node ID="1.4" type="FN">
+      <attributes />
+      <edge toID="0.2" type="Terminal">
+        <attributes />
+        <category tag="Terminal" />
+      </edge>
+    </node>
+  </layer>
+</root>

@@ -1,0 +1,77 @@
+<root annotationID="0" passageID="19074_0">
+  <attributes />
+  <extra format="ucca" />
+  <layer layerID="0">
+    <attributes />
+    <extra doc="[[[9736523430706283161, 10442734846429121577, 10554686591937588953, 84, 0, 2, 8206900633647566924, 0, 16072095006890171862, 149303876845869574, 11208870015262361521], [8205403955989537350, 8205403955989537350, 12646065887601541794, 97, 0, 2, 445, -1, 8205403955989537350, 8205403955989537350, 8205403955989537350], [4678963469726251353, null, 13656873538139661788, 95, 0, 2, 429, 1, 18200729499220207786, 16961793518281001049, 4678963469726251353], [523464648099722843, 10382539506755952630, 9188597074677201817, 100, 0, 2, 8206900633647566924, 0, 4848600484254711268, 11221368173670222813, 523464648099722843], [447765159362469301, 447765159362469301, 164681854541413346, 86, 0, 2, 425, -1, 4088098365541558500, 13210364986222294696, 447765159362469301], [49985297707304326, 49985297707304326, 10554686591937588953, 84, 0, 2, 398, -2, 13110060611322374290, 11901859001352538922, 17454115351911680600]]]" />
+    <node ID="0.1" type="Word">
+      <attributes paragraph="1" paragraph_position="1" text="Hoang mang" />
+    </node>
+    <node ID="0.3" type="Word">
+      <attributes paragraph="1" paragraph_position="3" text="m&#7897;t m&#236;nh b&#7841;n" />
+    </node>
+    <node ID="0.5" type="Word">
+      <attributes paragraph="1" paragraph_position="5" text="Kh&#244;ng ph&#7843;i" />
+    </node>
+    <node ID="0.6" type="Word">
+      <attributes paragraph="1" paragraph_position="6" text="ri&#234;ng" />
+    </node>
+  </layer>
+  <layer layerID="1">
+    <attributes />
+    <node ID="1.1" type="FN">
+      <attributes />
+      <edge toID="1.2" type="H">
+        <attributes />
+        <category tag="H" />
+      </edge>
+    </node>
+    <node ID="1.2" type="FN">
+      <attributes />
+      <edge toID="1.3" type="A">
+        <attributes />
+        <category tag="A" />
+      </edge>
+      <edge toID="1.5" type="A">
+        <attributes />
+        <category tag="A" />
+      </edge>
+      <edge toID="1.7" type="D">
+        <attributes />
+        <category tag="D" />
+      </edge>
+      <edge toID="1.8" type="S">
+        <attributes />
+        <category tag="S" />
+      </edge>
+    </node>
+    <node ID="1.3" type="FN">
+      <attributes />
+      <edge toID="0.1" type="Terminal">
+        <attributes />
+        <category tag="Terminal" />
+      </edge>
+    </node>
+    <node ID="1.5" type="FN">
+      <attributes />
+      <edge toID="0.3" type="Terminal">
+        <attributes />
+        <category tag="Terminal" />
+      </edge>
+    </node>
+    <node ID="1.7" type="FN">
+      <attributes />
+      <edge toID="0.5" type="Terminal">
+        <attributes />
+        <category tag="Terminal" />
+      </edge>
+    </node>
+    <node ID="1.8" type="FN">
+      <attributes />
+      <edge toID="0.6" type="Terminal">
+        <attributes />
+        <category tag="Terminal" />
+      </edge>
+    </node>
+  </layer>
+</root>
