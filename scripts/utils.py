@@ -80,6 +80,7 @@ def parse_doc_texts():
     filenames = [f'N{str(file_num).zfill(4)}' for file_num in range(1, 1001)] # N0001 to N1000
     for filename in filenames:
         with open(f'evbc/{filename}.sgml', 'r') as sgml_file:
+            en, vn, _ = parse_sgml(sgml_file.read())
             write_doc_txt(vn, f'evbc/parse-vn/{filename}')
             write_doc_txt(en, f'evbc/parse-en/{filename}')
 
