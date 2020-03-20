@@ -4,7 +4,7 @@ Description: Util functions.
 Created: 02/26/2020
 Modified:
 """
-from collections import defaultdict
+from collections import defaultdict, Counter
 from string import punctuation
 from bs4 import BeautifulSoup, Tag
 from ucca import convert, visualization
@@ -138,6 +138,7 @@ def convert_parses():
 
     ids = get_parsed_sents()
     rm_nodes_dict = {}
+    dpl_nodes_dict = defaultdict(lambda: defaultdict(list))
     for n in ids:
         with open(f'en-parses/{n}_0.xml', 'r') as en_file, open(f'evbc/parse-en/{n}.txt', 'r') as txt_file:
             # skip if # terminals doesn't match # tokens
@@ -150,13 +151,9 @@ def convert_parses():
             
             # skip if any EN or VN token ID in links isn't present in en_token_dict or vn_token_dict
             en_diff = set(ev_token_dict.keys()) - set(en_token_dict.keys())
-            if en_diff:
-                print(f'sentence ID: {n}, different EN token IDs: {en_diff}')
-                continue
+            if en_diff: continue
             vn_diff = set(sum(ev_token_dict.values(), [])) - set(vn_token_dict.keys())
-            if vn_diff:
-                print(f'sentence ID: {n}, different VN token IDs: {vn_diff}')
-                continue
+            if vn_diff: continue
             
             # use token dictionaries for this sentence to swap EN-VN tokens
             for en_id, vn_ids in ev_token_dict.items():
@@ -166,16 +163,21 @@ def convert_parses():
             # record node IDs of unmatched EN tokens to be removed
             unmatched = set(en_token_dict.keys()) - set(ev_token_dict.keys())
             rm_nodes_dict[n] = [f'0.{token_id}' for token_id in unmatched]
-            # temporarily replace unmatched tokens with empty string
-            for token_id in unmatched:
-                soup.find('attributes', paragraph='1', paragraph_position=token_id)['text'] = ''
-
+            
+            # record EN node IDs with duplicate corresponding VN token(s)
+            dpl_vn_tokens = [tokens for tokens, count in Counter(list(map(tuple, ev_token_dict.values()))).items() if count > 1]
+            for token_tuple in dpl_vn_tokens:
+                duplicates = [int(en_id) for en_id, v in ev_token_dict.items() if tuple(v) == token_tuple]
+                duplicates.sort() # sort token IDs for correct word order
+                dpl_nodes_dict[n][token_tuple] = [f'0.{token_id}' for token_id in duplicates]
+            
             # write BeatifulSoup object to vn_file
             converted = '\n'.join(soup.prettify().split('\n')[1:]) # remove encoding line
             with open(f'vn-parses/{n}_0.xml', 'w') as vn_file:
+            # with open(f'test/{n}_0.xml', 'w') as vn_file:
                 vn_file.write(converted)
     
-    return rm_nodes_dict
+    return rm_nodes_dict, dpl_nodes_dict
 
 def trim_parse(sent_id, rm_nodes):
     """
@@ -184,6 +186,7 @@ def trim_parse(sent_id, rm_nodes):
     Returns IDs of removed nodes.
     """
     passage = convert.file2passage(f'vn-parses/{sent_id}_0.xml')
+    # passage = convert.file2passage(f'test/{sent_id}_0.xml')
     removed = set()
     while rm_nodes:
         node_id = rm_nodes.pop(0)
@@ -193,14 +196,101 @@ def trim_parse(sent_id, rm_nodes):
             node.destroy()
             removed.add(node_id)
     convert.passage2file(passage, f'vn-parses/{sent_id}_0.xml')
+    # convert.passage2file(passage, f'test/{sent_id}_0.xml')
     return removed
-            
-def trim_parses():
-    rm_nodes_dict = convert_parses()
+
+def remove_dpl_parse(sent_id, dpl_nodes_dict):
+    """
+    Priorities:
+        - if share parent node and no siblings: keep 1 node, change incoming edge => incoming edge of parent
+        - if all share parent node but have siblings, then just keep one of them? => keep one that has higher precedence (e.g. C > E)
+        - nodes that have most parents
+        - nodes whose parents have smaller IDs => higher
+    """
+    edge_ranks = {
+        'P': 45,
+        'S': 44,
+        'A': 43,
+        'D': 42,
+        'T': 41,
+        'C': 35,
+        'E': 34,
+        'Q': 33,
+        'N': 32,
+        'R': 31,
+        'H': 23,
+        'L': 22,
+        'G': 21,
+        'F': 11,
+        'U': 0
+    }
+
+    passage = convert.file2passage(f'vn-parses/{sent_id}_0.xml')
+    # passage = convert.file2passage(f'test/{sent_id}_0.xml')
+    to_remove = []
+
+    for token_tuple, dpl_nodes in dpl_nodes_dict.items(): # dpl_nodes is a list of EN nodes with same VN token tuples
+        print(dpl_nodes)
+        nodes = [passage.by_id(node_id) for node_id in dpl_nodes] # get Node objects
+        to_remove.extend([n.ID for n in nodes if not n.parents])
+        nodes = [n for n in nodes if n.parents]
+        if not nodes: continue
+        # if same rep node
+        if len(set([tuple(n.parents) for n in nodes])) == 1:
+            print('case 0: same rep node')
+            to_remove.extend([n.ID for n in nodes[1:]])
+            continue
+        parents = list(set([tuple(n.parents[0].parents) for n in nodes]))
+        # if all share parent node
+        if len(parents) == 1:
+            parent = parents[0][0] # assume a single shared parent
+            if len(parent.children) == len(nodes):
+                print('case 1: all share parent node and no other siblings')
+                # change type of incoming edge
+                rep_node = nodes[0].parents[0]
+                grandparents = parent.parents
+                for gp in grandparents:
+                    edge = next(e for e in gp.outgoing if e.child.equals(parent))
+                    gp.add(edge.tag, rep_node, edge_attrib=edge.attrib)
+                parent.destroy()
+                # remove rest of edges
+                to_remove.extend([n.ID for n in nodes[1:]])
+            else:
+                print('case 2: all share parent with other non-dup siblings')
+                # find most important edge tag
+                edges = {n.parents[0].incoming[0].tag: edge_ranks[n.parents[0].incoming[0].tag] for n in nodes}
+                print(f'edges: {edges.keys()}')
+                nodes[0].parents[0].incoming[0].tag = max(edges, key=edges.get)
+                # remove rest of edges
+                to_remove.extend([n.ID for n in nodes[1:]])
+        else:
+            num_parents = {n.ID: len(n.parents[0].parents) for n in nodes}
+            # if there are different # parents
+            if len(set(num_parents.values())) > 1:
+                print('case 3: different number of parents')
+                node_id = max(num_parents, key=num_parents.get)
+                to_remove.extend([n.ID for n in nodes if n.ID != node_id])
+            # else all have 1 parent
+            else:
+                print('case 4: different parents but all single parents')
+                parent_ids = {n.ID: int(n.parents[0].parents[0].ID.split('.')[1]) for n in nodes}
+                node_id = min(parent_ids, key=parent_ids.get)
+                to_remove.extend([n.ID for n in nodes if n.ID != node_id])
+    
+    convert.passage2file(passage, f'vn-parses/{sent_id}_0.xml')
+    # convert.passage2file(passage, f'test/{sent_id}_0.xml')
+    return to_remove
+
+def process_parses():
+    rm_nodes_dict, dpl_nodes_dict = convert_parses()
     ids = get_parsed_sents()
     for n in ids:
         if n not in rm_nodes_dict: continue
-        trim_parse(n, rm_nodes_dict[n])
+        print(n)
+        to_remove = remove_dpl_parse(n, dpl_nodes_dict[n])
+        to_remove.extend(rm_nodes_dict[n])
+        removed = trim_parse(n, to_remove)
+        print(f'removed: {removed}')
 
 def word_reorder_parses():
     pass
@@ -235,6 +325,6 @@ def get_token_dicts(sent_id, links):
     return en_token_dict, ev_token_dict, vn_token_dict
 
 def main():
-    trim_parses()
+    process_parses()
 
 main()
