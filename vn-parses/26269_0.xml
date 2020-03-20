@@ -73,9 +73,6 @@
     <node ID="0.31" type="Word">
       <attributes paragraph="1" paragraph_position="31" text="n&#243;i cho" />
     </node>
-    <node ID="0.32" type="Word">
-      <attributes paragraph="1" paragraph_position="32" text="n&#243;i cho" />
-    </node>
     <node ID="0.33" type="Word">
       <attributes paragraph="1" paragraph_position="33" text="b&#7841;n" />
     </node>
@@ -272,10 +269,6 @@
         <attributes />
         <category tag="E" />
       </edge>
-      <edge toID="1.37" type="E">
-        <attributes />
-        <category tag="E" />
-      </edge>
       <edge toID="1.38" type="E">
         <attributes />
         <category tag="E" />
@@ -400,13 +393,6 @@
       <edge toID="1.47" type="C">
         <attributes />
         <category tag="C" />
-      </edge>
-    </node>
-    <node ID="1.37" type="FN">
-      <attributes />
-      <edge toID="0.32" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
       </edge>
     </node>
     <node ID="1.38" type="FN">

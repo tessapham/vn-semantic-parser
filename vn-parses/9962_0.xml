@@ -52,9 +52,6 @@
     <node ID="0.21" type="Word">
       <attributes paragraph="1" paragraph_position="21" text="B&#7897; tr&#432;&#7903;ng Ngo&#7841;i giao" />
     </node>
-    <node ID="0.23" type="Word">
-      <attributes paragraph="1" paragraph_position="23" text="B&#7897; tr&#432;&#7903;ng Ngo&#7841;i giao" />
-    </node>
     <node ID="0.24" type="Word">
       <attributes paragraph="1" paragraph_position="24" text="d&#432;&#7899;i" />
     </node>
@@ -456,10 +453,6 @@
     </node>
     <node ID="1.41" type="FN">
       <attributes />
-      <edge toID="1.54" type="C">
-        <attributes />
-        <category tag="C" />
-      </edge>
       <edge toID="1.55" type="E">
         <attributes />
         <category tag="E" />
@@ -530,13 +523,6 @@
     <node ID="1.52" type="PNCT">
       <attributes />
       <edge toID="0.50" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
-    </node>
-    <node ID="1.54" type="FN">
-      <attributes />
-      <edge toID="0.23" type="Terminal">
         <attributes />
         <category tag="Terminal" />
       </edge>

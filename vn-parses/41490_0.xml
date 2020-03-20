@@ -64,9 +64,6 @@
     <node ID="0.20" type="Word">
       <attributes paragraph="1" paragraph_position="20" text="Philippines" />
     </node>
-    <node ID="0.21" type="Word">
-      <attributes paragraph="1" paragraph_position="21" text="Philippines" />
-    </node>
   </layer>
   <layer layerID="1">
     <attributes />
@@ -302,11 +299,7 @@
         <attributes />
         <category tag="R" />
       </edge>
-      <edge toID="1.25" type="E">
-        <attributes />
-        <category tag="E" />
-      </edge>
-      <edge toID="1.26" type="C">
+      <edge toID="1.25" type="C">
         <attributes />
         <category tag="C" />
       </edge>
@@ -321,13 +314,6 @@
     <node ID="1.25" type="FN">
       <attributes />
       <edge toID="0.20" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
-    </node>
-    <node ID="1.26" type="FN">
-      <attributes />
-      <edge toID="0.21" type="Terminal">
         <attributes />
         <category tag="Terminal" />
       </edge>

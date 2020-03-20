@@ -40,9 +40,6 @@
     <node ID="0.22" type="Word">
       <attributes paragraph="1" paragraph_position="22" text="nhi&#7873;u" />
     </node>
-    <node ID="0.23" type="Word">
-      <attributes paragraph="1" paragraph_position="23" text="nhi&#7873;u" />
-    </node>
     <node ID="0.25" type="Word">
       <attributes paragraph="1" paragraph_position="25" text="d&#242;ng &#273;i&#7879;n" />
     </node>
@@ -193,11 +190,7 @@
     </node>
     <node ID="1.18" type="FN">
       <attributes />
-      <edge toID="1.23" type="E">
-        <attributes />
-        <category tag="E" />
-      </edge>
-      <edge toID="1.24" type="C">
+      <edge toID="1.23" type="C">
         <attributes />
         <category tag="C" />
       </edge>
@@ -245,13 +238,6 @@
     <node ID="1.23" type="FN">
       <attributes />
       <edge toID="0.22" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
-    </node>
-    <node ID="1.24" type="FN">
-      <attributes />
-      <edge toID="0.23" type="Terminal">
         <attributes />
         <category tag="Terminal" />
       </edge>

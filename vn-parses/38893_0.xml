@@ -19,9 +19,6 @@
     <node ID="0.6" type="Word">
       <attributes paragraph="1" paragraph_position="6" text="Matthew Price" />
     </node>
-    <node ID="0.7" type="Word">
-      <attributes paragraph="1" paragraph_position="7" text="Matthew Price" />
-    </node>
     <node ID="0.10" type="Word">
       <attributes paragraph="1" paragraph_position="10" text="Chu&#769;ng t&#244;i" />
     </node>
@@ -110,10 +107,6 @@
         <category tag="Terminal" />
       </edge>
       <edge toID="0.6" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
-      <edge toID="0.7" type="Terminal">
         <attributes />
         <category tag="Terminal" />
       </edge>

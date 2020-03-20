@@ -10,9 +10,6 @@
     <node ID="0.4" type="Word">
       <attributes paragraph="1" paragraph_position="4" text="b&#7855;t &#273;&#7847;u" />
     </node>
-    <node ID="0.5" type="Word">
-      <attributes paragraph="1" paragraph_position="5" text="b&#7855;t &#273;&#7847;u" />
-    </node>
     <node ID="0.9" type="Word">
       <attributes paragraph="1" paragraph_position="9" text="Tumblr" />
     </node>
@@ -48,10 +45,6 @@
         <attributes />
         <category tag="D" />
       </edge>
-      <edge toID="1.6" type="P">
-        <attributes />
-        <category tag="P" />
-      </edge>
       <edge toID="1.8" type="A">
         <attributes />
         <category tag="A" />
@@ -69,13 +62,6 @@
       <edge toID="0.4" type="Terminal">
         <attributes />
         <category tag="Terminal" />
-      </edge>
-    </node>
-    <node ID="1.6" type="FN">
-      <attributes />
-      <edge toID="1.11" type="C">
-        <attributes />
-        <category tag="C" />
       </edge>
     </node>
     <node ID="1.8" type="FN">
@@ -96,13 +82,6 @@
     <node ID="1.10" type="FN">
       <attributes />
       <edge toID="0.2" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
-    </node>
-    <node ID="1.11" type="FN">
-      <attributes />
-      <edge toID="0.5" type="Terminal">
         <attributes />
         <category tag="Terminal" />
       </edge>

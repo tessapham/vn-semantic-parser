@@ -109,9 +109,6 @@
     <node ID="0.41" type="Word">
       <attributes paragraph="1" paragraph_position="41" text="ti&#234;u di&#7879;t" />
     </node>
-    <node ID="0.42" type="Word">
-      <attributes paragraph="1" paragraph_position="42" text="ti&#234;u di&#7879;t" />
-    </node>
     <node ID="0.43" type="Word">
       <attributes paragraph="1" paragraph_position="43" text="Osama" />
     </node>
@@ -612,10 +609,6 @@
     <node ID="1.48" type="FN">
       <attributes />
       <edge toID="0.41" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
-      <edge toID="0.42" type="Terminal">
         <attributes />
         <category tag="Terminal" />
       </edge>

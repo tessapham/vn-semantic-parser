@@ -31,14 +31,8 @@
     <node ID="0.11" type="Word">
       <attributes paragraph="1" paragraph_position="11" text="c&#7847;n" />
     </node>
-    <node ID="0.12" type="Word">
-      <attributes paragraph="1" paragraph_position="12" text="c&#7847;n" />
-    </node>
     <node ID="0.13" type="Word">
       <attributes paragraph="1" paragraph_position="13" text="lo l&#7855;ng" />
-    </node>
-    <node ID="0.14" type="Word">
-      <attributes paragraph="1" paragraph_position="14" text="th&#7913;" />
     </node>
   </layer>
   <layer layerID="1">
@@ -106,15 +100,7 @@
         <attributes />
         <category tag="Terminal" />
       </edge>
-      <edge toID="0.12" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
       <edge toID="0.13" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
-      <edge toID="0.14" type="Terminal">
         <attributes />
         <category tag="Terminal" />
       </edge>

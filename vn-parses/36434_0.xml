@@ -58,9 +58,6 @@
     <node ID="0.23" type="Word">
       <attributes paragraph="1" paragraph_position="23" text="b&#225;nh m&#7923; h&#259;m-b&#417;-g&#417;" />
     </node>
-    <node ID="0.24" type="Word">
-      <attributes paragraph="1" paragraph_position="24" text="b&#225;nh m&#7923; h&#259;m-b&#417;-g&#417;" />
-    </node>
     <node ID="0.25" type="Punctuation">
       <attributes paragraph="1" paragraph_position="25" text="." />
     </node>
@@ -191,11 +188,7 @@
         <attributes />
         <category tag="E" />
       </edge>
-      <edge toID="1.24" type="E">
-        <attributes />
-        <category tag="E" />
-      </edge>
-      <edge toID="1.25" type="C">
+      <edge toID="1.24" type="C">
         <attributes />
         <category tag="C" />
       </edge>
@@ -293,13 +286,6 @@
     <node ID="1.24" type="FN">
       <attributes />
       <edge toID="0.23" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
-    </node>
-    <node ID="1.25" type="FN">
-      <attributes />
-      <edge toID="0.24" type="Terminal">
         <attributes />
         <category tag="Terminal" />
       </edge>

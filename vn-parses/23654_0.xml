@@ -10,9 +10,6 @@
     <node ID="0.3" type="Word">
       <attributes paragraph="1" paragraph_position="3" text="&#273;&#432;a ra" />
     </node>
-    <node ID="0.4" type="Word">
-      <attributes paragraph="1" paragraph_position="4" text="&#273;&#432;a ra" />
-    </node>
     <node ID="0.7" type="Word">
       <attributes paragraph="1" paragraph_position="7" text="con s&#7889;" />
     </node>
@@ -148,10 +145,6 @@
     <node ID="1.6" type="FN">
       <attributes />
       <edge toID="0.3" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
-      <edge toID="0.4" type="Terminal">
         <attributes />
         <category tag="Terminal" />
       </edge>

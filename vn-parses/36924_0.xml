@@ -28,9 +28,6 @@
     <node ID="0.13" type="Word">
       <attributes paragraph="1" paragraph_position="13" text="V&#7841;n L&#253; Tr&#432;&#7901;ng Th&#224;nh" />
     </node>
-    <node ID="0.14" type="Word">
-      <attributes paragraph="1" paragraph_position="14" text="V&#7841;n L&#253; Tr&#432;&#7901;ng Th&#224;nh" />
-    </node>
     <node ID="0.15" type="Word">
       <attributes paragraph="1" paragraph_position="15" text="c&#7911;a" />
     </node>
@@ -179,10 +176,6 @@
     <node ID="1.18" type="FN">
       <attributes />
       <edge toID="0.13" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
-      <edge toID="0.14" type="Terminal">
         <attributes />
         <category tag="Terminal" />
       </edge>

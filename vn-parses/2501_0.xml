@@ -58,9 +58,6 @@
     <node ID="0.26" type="Word">
       <attributes paragraph="1" paragraph_position="26" text="Nam Phi" />
     </node>
-    <node ID="0.27" type="Word">
-      <attributes paragraph="1" paragraph_position="27" text="Nam Phi" />
-    </node>
     <node ID="0.28" type="Punctuation">
       <attributes paragraph="1" paragraph_position="28" text="." />
     </node>
@@ -324,10 +321,6 @@
     <node ID="1.34" type="FN">
       <attributes />
       <edge toID="0.26" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
-      <edge toID="0.27" type="Terminal">
         <attributes />
         <category tag="Terminal" />
       </edge>

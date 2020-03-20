@@ -67,9 +67,6 @@
     <node ID="0.27" type="Word">
       <attributes paragraph="1" paragraph_position="27" text="&#272;&#7841;t lai L&#7841;t ma" />
     </node>
-    <node ID="0.28" type="Word">
-      <attributes paragraph="1" paragraph_position="28" text="&#272;&#7841;t lai L&#7841;t ma" />
-    </node>
     <node ID="0.31" type="Word">
       <attributes paragraph="1" paragraph_position="31" text="b&#7883; tr&#7909;c xu&#7845;t" />
     </node>
@@ -414,10 +411,6 @@
     <node ID="1.41" type="FN">
       <attributes />
       <edge toID="0.27" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
-      <edge toID="0.28" type="Terminal">
         <attributes />
         <category tag="Terminal" />
       </edge>

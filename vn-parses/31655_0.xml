@@ -52,9 +52,6 @@
     <node ID="0.19" type="Word">
       <attributes paragraph="1" paragraph_position="19" text="c&#242;n" />
     </node>
-    <node ID="0.20" type="Word">
-      <attributes paragraph="1" paragraph_position="20" text="7,5%" />
-    </node>
     <node ID="0.21" type="Punctuation">
       <attributes paragraph="1" paragraph_position="21" text="7,5%" />
     </node>
@@ -63,9 +60,6 @@
     </node>
     <node ID="0.23" type="Word">
       <attributes paragraph="1" paragraph_position="23" text="7,7%" />
-    </node>
-    <node ID="0.24" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="24" text="7,7%" />
     </node>
     <node ID="0.25" type="Punctuation">
       <attributes paragraph="1" paragraph_position="25" text="." />
@@ -242,10 +236,6 @@
         <attributes />
         <category tag="C" />
       </edge>
-      <edge toID="1.31" type="U">
-        <attributes />
-        <category tag="U" />
-      </edge>
       <edge toID="1.32" type="U">
         <attributes />
         <category tag="U" />
@@ -331,10 +321,6 @@
         <attributes />
         <category tag="R" />
       </edge>
-      <edge toID="1.36" type="C">
-        <attributes />
-        <category tag="C" />
-      </edge>
     </node>
     <node ID="1.29" type="FN">
       <attributes />
@@ -346,13 +332,6 @@
     <node ID="1.30" type="FN">
       <attributes />
       <edge toID="0.23" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
-    </node>
-    <node ID="1.31" type="PNCT">
-      <attributes />
-      <edge toID="0.24" type="Terminal">
         <attributes />
         <category tag="Terminal" />
       </edge>
@@ -381,13 +360,6 @@
     <node ID="1.35" type="FN">
       <attributes />
       <edge toID="0.19" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
-    </node>
-    <node ID="1.36" type="FN">
-      <attributes />
-      <edge toID="0.20" type="Terminal">
         <attributes />
         <category tag="Terminal" />
       </edge>

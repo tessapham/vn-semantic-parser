@@ -52,9 +52,6 @@
     <node ID="0.24" type="Word">
       <attributes paragraph="1" paragraph_position="24" text="6%" />
     </node>
-    <node ID="0.25" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="25" text="6%" />
-    </node>
     <node ID="0.26" type="Word">
       <attributes paragraph="1" paragraph_position="26" text="GDP" />
     </node>
@@ -72,9 +69,6 @@
     </node>
     <node ID="0.31" type="Word">
       <attributes paragraph="1" paragraph_position="31" text="&#273;&#7871;n" />
-    </node>
-    <node ID="0.32" type="Word">
-      <attributes paragraph="1" paragraph_position="32" text="7,2%" />
     </node>
     <node ID="0.33" type="Punctuation">
       <attributes paragraph="1" paragraph_position="33" text="7,2%" />
@@ -234,10 +228,6 @@
         <attributes />
         <category tag="R" />
       </edge>
-      <edge toID="1.29" type="C">
-        <attributes />
-        <category tag="C" />
-      </edge>
     </node>
     <node ID="1.17" type="PNCT">
       <attributes />
@@ -311,10 +301,6 @@
         <attributes />
         <category tag="E" />
       </edge>
-      <edge toID="1.41" type="U">
-        <attributes />
-        <category tag="U" />
-      </edge>
       <edge toID="1.42" type="C">
         <attributes />
         <category tag="C" />
@@ -344,13 +330,6 @@
     <node ID="1.28" type="FN">
       <attributes />
       <edge toID="0.31" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
-    </node>
-    <node ID="1.29" type="FN">
-      <attributes />
-      <edge toID="0.32" type="Terminal">
         <attributes />
         <category tag="Terminal" />
       </edge>
@@ -433,13 +412,6 @@
     <node ID="1.40" type="FN">
       <attributes />
       <edge toID="0.24" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
-    </node>
-    <node ID="1.41" type="PNCT">
-      <attributes />
-      <edge toID="0.25" type="Terminal">
         <attributes />
         <category tag="Terminal" />
       </edge>

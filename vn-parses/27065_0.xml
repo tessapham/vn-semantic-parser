@@ -10,9 +10,6 @@
     <node ID="0.3" type="Word">
       <attributes paragraph="1" paragraph_position="3" text="&#273;&#7915;ng" />
     </node>
-    <node ID="0.4" type="Word">
-      <attributes paragraph="1" paragraph_position="4" text="&#273;&#7915;ng" />
-    </node>
     <node ID="0.5" type="Word">
       <attributes paragraph="1" paragraph_position="5" text="bao gi&#7901;" />
     </node>
@@ -66,11 +63,7 @@
     </node>
     <node ID="1.4" type="FN">
       <attributes />
-      <edge toID="1.5" type="F">
-        <attributes />
-        <category tag="F" />
-      </edge>
-      <edge toID="1.6" type="D">
+      <edge toID="1.5" type="D">
         <attributes />
         <category tag="D" />
       </edge>
@@ -102,13 +95,6 @@
     <node ID="1.5" type="FN">
       <attributes />
       <edge toID="0.3" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
-    </node>
-    <node ID="1.6" type="FN">
-      <attributes />
-      <edge toID="0.4" type="Terminal">
         <attributes />
         <category tag="Terminal" />
       </edge>

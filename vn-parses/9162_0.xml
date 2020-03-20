@@ -37,9 +37,6 @@
     <node ID="0.14" type="Word">
       <attributes paragraph="1" paragraph_position="14" text="nh&#432;" />
     </node>
-    <node ID="0.15" type="Word">
-      <attributes paragraph="1" paragraph_position="15" text="nh&#432;" />
-    </node>
     <node ID="0.16" type="Word">
       <attributes paragraph="1" paragraph_position="16" text="m&#7897;t v&#224;i" />
     </node>
@@ -110,10 +107,6 @@
         <category tag="Terminal" />
       </edge>
       <edge toID="0.14" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
-      <edge toID="0.15" type="Terminal">
         <attributes />
         <category tag="Terminal" />
       </edge>

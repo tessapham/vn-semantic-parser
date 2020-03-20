@@ -43,9 +43,6 @@
     <node ID="0.20" type="Word">
       <attributes paragraph="1" paragraph_position="20" text="&#272;&#244;ng &#193;" />
     </node>
-    <node ID="0.21" type="Word">
-      <attributes paragraph="1" paragraph_position="21" text="&#272;&#244;ng &#193;" />
-    </node>
     <node ID="0.22" type="Word">
       <attributes paragraph="1" paragraph_position="22" text="h&#7897;i ngh&#7883; th&#432;&#7907;ng &#273;&#7881;nh" />
     </node>
@@ -63,12 +60,6 @@
     </node>
     <node ID="0.29" type="Word">
       <attributes paragraph="1" paragraph_position="29" text="&#273;&#7875;" />
-    </node>
-    <node ID="0.30" type="Word">
-      <attributes paragraph="1" paragraph_position="30" text="&#273;&#7875;" />
-    </node>
-    <node ID="0.31" type="Word">
-      <attributes paragraph="1" paragraph_position="31" text="&#273;&#7875;" />
     </node>
     <node ID="0.33" type="Word">
       <attributes paragraph="1" paragraph_position="33" text="c&#226;n b&#7857;ng" />
@@ -145,14 +136,6 @@
     <node ID="1.6" type="FN">
       <attributes />
       <edge toID="0.29" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
-      <edge toID="0.30" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
-      <edge toID="0.31" type="Terminal">
         <attributes />
         <category tag="Terminal" />
       </edge>
@@ -369,10 +352,6 @@
         <attributes />
         <category tag="E" />
       </edge>
-      <edge toID="1.43" type="E">
-        <attributes />
-        <category tag="E" />
-      </edge>
       <edge toID="1.44" type="C">
         <attributes />
         <category tag="C" />
@@ -413,13 +392,6 @@
     <node ID="1.42" type="FN">
       <attributes />
       <edge toID="0.20" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
-    </node>
-    <node ID="1.43" type="FN">
-      <attributes />
-      <edge toID="0.21" type="Terminal">
         <attributes />
         <category tag="Terminal" />
       </edge>

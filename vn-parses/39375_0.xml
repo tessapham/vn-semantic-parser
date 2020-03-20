@@ -46,9 +46,6 @@
     <node ID="0.24" type="Word">
       <attributes paragraph="1" paragraph_position="24" text="Jennifer Walker" />
     </node>
-    <node ID="0.25" type="Word">
-      <attributes paragraph="1" paragraph_position="25" text="Jennifer Walker" />
-    </node>
     <node ID="0.28" type="Punctuation">
       <attributes paragraph="1" paragraph_position="28" text="." />
     </node>
@@ -226,10 +223,6 @@
         <category tag="Terminal" />
       </edge>
       <edge toID="0.24" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
-      <edge toID="0.25" type="Terminal">
         <attributes />
         <category tag="Terminal" />
       </edge>

@@ -16,12 +16,6 @@
     <node ID="0.9" type="Word">
       <attributes paragraph="1" paragraph_position="9" text="Gi&#7843;i Ngo&#7841;i H&#7841;ng Anh" />
     </node>
-    <node ID="0.10" type="Word">
-      <attributes paragraph="1" paragraph_position="10" text="Gi&#7843;i Ngo&#7841;i H&#7841;ng Anh" />
-    </node>
-    <node ID="0.11" type="Word">
-      <attributes paragraph="1" paragraph_position="11" text="Gi&#7843;i Ngo&#7841;i H&#7841;ng Anh" />
-    </node>
     <node ID="0.13" type="Word">
       <attributes paragraph="1" paragraph_position="13" text="ph&#225;t s&#243;ng" />
     </node>
@@ -145,14 +139,6 @@
     <node ID="1.18" type="FN">
       <attributes />
       <edge toID="0.9" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
-      <edge toID="0.10" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
-      <edge toID="0.11" type="Terminal">
         <attributes />
         <category tag="Terminal" />
       </edge>

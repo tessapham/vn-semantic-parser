@@ -49,9 +49,6 @@
     <node ID="0.25" type="Word">
       <attributes paragraph="1" paragraph_position="25" text="b&#7883; b&#7853;t l&#234;n" />
     </node>
-    <node ID="0.26" type="Word">
-      <attributes paragraph="1" paragraph_position="26" text="b&#7883; b&#7853;t l&#234;n" />
-    </node>
   </layer>
   <layer layerID="1">
     <attributes />
@@ -229,10 +226,6 @@
     <node ID="1.26" type="FN">
       <attributes />
       <edge toID="0.25" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
-      <edge toID="0.26" type="Terminal">
         <attributes />
         <category tag="Terminal" />
       </edge>

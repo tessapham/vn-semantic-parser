@@ -19,9 +19,6 @@
     <node ID="0.8" type="Word">
       <attributes paragraph="1" paragraph_position="8" text="t&#225;c d&#7909;ng" />
     </node>
-    <node ID="0.10" type="Word">
-      <attributes paragraph="1" paragraph_position="10" text="adenosine &#273;&#226;y" />
-    </node>
     <node ID="0.12" type="Word">
       <attributes paragraph="1" paragraph_position="12" text="adenosine &#273;&#226;y" />
     </node>
@@ -118,10 +115,6 @@
         <attributes />
         <category tag="P" />
       </edge>
-      <edge toID="1.23" type="A">
-        <attributes />
-        <category tag="A" />
-      </edge>
     </node>
     <node ID="1.12" type="FN">
       <attributes />
@@ -199,13 +192,6 @@
         <category tag="C" />
       </edge>
     </node>
-    <node ID="1.23" type="FN">
-      <attributes />
-      <edge toID="1.39" type="C">
-        <attributes />
-        <category tag="C" />
-      </edge>
-    </node>
     <node ID="1.24" type="FN">
       <attributes />
       <edge toID="0.12" type="Terminal">
@@ -265,13 +251,6 @@
     <node ID="1.37" type="FN">
       <attributes />
       <edge toID="0.8" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
-    </node>
-    <node ID="1.39" type="FN">
-      <attributes />
-      <edge toID="0.10" type="Terminal">
         <attributes />
         <category tag="Terminal" />
       </edge>

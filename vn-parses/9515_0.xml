@@ -49,12 +49,6 @@
     <node ID="0.19" type="Word">
       <attributes paragraph="1" paragraph_position="19" text="1990-2009" />
     </node>
-    <node ID="0.20" type="Word">
-      <attributes paragraph="1" paragraph_position="20" text="1990-2009" />
-    </node>
-    <node ID="0.21" type="Word">
-      <attributes paragraph="1" paragraph_position="21" text="1990-2009" />
-    </node>
     <node ID="0.22" type="Punctuation">
       <attributes paragraph="1" paragraph_position="22" text="." />
     </node>
@@ -105,14 +99,6 @@
     <node ID="1.4" type="FN">
       <attributes />
       <edge toID="1.10" type="C">
-        <attributes />
-        <category tag="C" />
-      </edge>
-      <edge toID="1.11" type="N">
-        <attributes />
-        <category tag="N" />
-      </edge>
-      <edge toID="1.12" type="C">
         <attributes />
         <category tag="C" />
       </edge>
@@ -172,20 +158,6 @@
     <node ID="1.10" type="FN">
       <attributes />
       <edge toID="0.19" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
-    </node>
-    <node ID="1.11" type="FN">
-      <attributes />
-      <edge toID="0.20" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
-    </node>
-    <node ID="1.12" type="FN">
-      <attributes />
-      <edge toID="0.21" type="Terminal">
         <attributes />
         <category tag="Terminal" />
       </edge>

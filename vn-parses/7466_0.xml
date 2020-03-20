@@ -25,9 +25,6 @@
     <node ID="0.8" type="Word">
       <attributes paragraph="1" paragraph_position="8" text="tr&#225;nh thai" />
     </node>
-    <node ID="0.9" type="Word">
-      <attributes paragraph="1" paragraph_position="9" text="tr&#225;nh thai" />
-    </node>
     <node ID="0.10" type="Word">
       <attributes paragraph="1" paragraph_position="10" text="tin &#273;&#7891;n" />
     </node>
@@ -116,10 +113,6 @@
         <attributes />
         <category tag="E" />
       </edge>
-      <edge toID="1.14" type="E">
-        <attributes />
-        <category tag="E" />
-      </edge>
       <edge toID="1.15" type="C">
         <attributes />
         <category tag="C" />
@@ -153,13 +146,6 @@
     <node ID="1.13" type="FN">
       <attributes />
       <edge toID="0.8" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
-    </node>
-    <node ID="1.14" type="FN">
-      <attributes />
-      <edge toID="0.9" type="Terminal">
         <attributes />
         <category tag="Terminal" />
       </edge>

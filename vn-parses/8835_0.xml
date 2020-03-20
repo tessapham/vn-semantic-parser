@@ -28,9 +28,6 @@
     <node ID="0.8" type="Word">
       <attributes paragraph="1" paragraph_position="8" text="v&#236;" />
     </node>
-    <node ID="0.9" type="Word">
-      <attributes paragraph="1" paragraph_position="9" text="v&#236;" />
-    </node>
     <node ID="0.11" type="Word">
       <attributes paragraph="1" paragraph_position="11" text="H1N1" />
     </node>
@@ -51,9 +48,6 @@
     </node>
     <node ID="0.20" type="Word">
       <attributes paragraph="1" paragraph_position="20" text="kh&#244;ng" />
-    </node>
-    <node ID="0.21" type="Word">
-      <attributes paragraph="1" paragraph_position="21" text="kh&#244;ng" />
     </node>
     <node ID="0.22" type="Word">
       <attributes paragraph="1" paragraph_position="22" text="bi&#7871;n &#273;&#7893;i" />
@@ -112,11 +106,7 @@
     </node>
     <node ID="1.4" type="FN">
       <attributes />
-      <edge toID="1.8" type="F">
-        <attributes />
-        <category tag="F" />
-      </edge>
-      <edge toID="1.9" type="D">
+      <edge toID="1.8" type="D">
         <attributes />
         <category tag="D" />
       </edge>
@@ -177,13 +167,6 @@
         <category tag="Terminal" />
       </edge>
     </node>
-    <node ID="1.9" type="FN">
-      <attributes />
-      <edge toID="0.21" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
-    </node>
     <node ID="1.10" type="FN">
       <attributes />
       <edge toID="0.22" type="Terminal">
@@ -237,10 +220,6 @@
         <attributes />
         <category tag="R" />
       </edge>
-      <edge toID="1.22" type="F">
-        <attributes />
-        <category tag="F" />
-      </edge>
       <edge toID="1.23" type="A">
         <attributes />
         <category tag="A" />
@@ -288,13 +267,6 @@
     <node ID="1.21" type="FN">
       <attributes />
       <edge toID="0.8" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
-    </node>
-    <node ID="1.22" type="FN">
-      <attributes />
-      <edge toID="0.9" type="Terminal">
         <attributes />
         <category tag="Terminal" />
       </edge>

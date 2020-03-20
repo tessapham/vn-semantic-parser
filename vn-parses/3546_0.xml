@@ -37,9 +37,6 @@
     <node ID="0.19" type="Word">
       <attributes paragraph="1" paragraph_position="19" text="sau &#273;&#243;" />
     </node>
-    <node ID="0.20" type="Word">
-      <attributes paragraph="1" paragraph_position="20" text="sau &#273;&#243;" />
-    </node>
     <node ID="0.22" type="Word">
       <attributes paragraph="1" paragraph_position="22" text="m&#225;y bay" />
     </node>
@@ -100,10 +97,6 @@
     </node>
     <node ID="1.4" type="FN">
       <attributes />
-      <edge toID="1.9" type="D">
-        <attributes />
-        <category tag="D" />
-      </edge>
       <edge toID="1.10" type="A">
         <attributes />
         <category tag="A" />
@@ -156,13 +149,6 @@
       <edge toID="1.23" type="A">
         <attributes />
         <category tag="A" />
-      </edge>
-    </node>
-    <node ID="1.9" type="FN">
-      <attributes />
-      <edge toID="0.20" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
       </edge>
     </node>
     <node ID="1.10" type="FN">

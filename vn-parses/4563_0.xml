@@ -13,9 +13,6 @@
     <node ID="0.4" type="Word">
       <attributes paragraph="1" paragraph_position="4" text="mong mu&#7889;n" />
     </node>
-    <node ID="0.5" type="Word">
-      <attributes paragraph="1" paragraph_position="5" text="mong mu&#7889;n" />
-    </node>
     <node ID="0.6" type="Word">
       <attributes paragraph="1" paragraph_position="6" text="x&#226;y d&#7921;ng" />
     </node>
@@ -213,10 +210,6 @@
     </node>
     <node ID="1.14" type="FN">
       <attributes />
-      <edge toID="1.22" type="F">
-        <attributes />
-        <category tag="F" />
-      </edge>
       <edge toID="1.23" type="P">
         <attributes />
         <category tag="P" />
@@ -299,13 +292,6 @@
     <node ID="1.21" type="FN">
       <attributes />
       <edge toID="0.2" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
-    </node>
-    <node ID="1.22" type="FN">
-      <attributes />
-      <edge toID="0.5" type="Terminal">
         <attributes />
         <category tag="Terminal" />
       </edge>

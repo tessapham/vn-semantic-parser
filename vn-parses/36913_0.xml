@@ -37,9 +37,6 @@
     <node ID="0.23" type="Word">
       <attributes paragraph="1" paragraph_position="23" text="H&#224;n Qu&#7889;c" />
     </node>
-    <node ID="0.24" type="Word">
-      <attributes paragraph="1" paragraph_position="24" text="H&#224;n Qu&#7889;c" />
-    </node>
     <node ID="0.26" type="Word">
       <attributes paragraph="1" paragraph_position="26" text="Sri" />
     </node>
@@ -60,9 +57,6 @@
     </node>
     <node ID="0.36" type="Word">
       <attributes paragraph="1" paragraph_position="36" text="C&#225;c Ti&#7875;u V&#432;&#417;ng qu&#7889;c &#7842; R&#7853;p Th&#7889;ng nh&#7845;t" />
-    </node>
-    <node ID="0.37" type="Word">
-      <attributes paragraph="1" paragraph_position="37" text="C&#225;c Ti&#7875;u V&#432;&#417;ng qu&#7889;c &#7842; R&#7853;p Th&#7889;ng nh&#7845;t" />
     </node>
   </layer>
   <layer layerID="1">
@@ -217,10 +211,6 @@
         <attributes />
         <category tag="Terminal" />
       </edge>
-      <edge toID="0.24" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
     </node>
     <node ID="1.26" type="FN">
       <attributes />
@@ -261,10 +251,6 @@
         <category tag="Terminal" />
       </edge>
       <edge toID="0.36" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
-      <edge toID="0.37" type="Terminal">
         <attributes />
         <category tag="Terminal" />
       </edge>

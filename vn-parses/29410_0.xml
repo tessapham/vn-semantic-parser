@@ -16,9 +16,6 @@
     <node ID="0.6" type="Word">
       <attributes paragraph="1" paragraph_position="6" text="800-ACS-2345" />
     </node>
-    <node ID="0.7" type="Word">
-      <attributes paragraph="1" paragraph_position="7" text="800-ACS-2345" />
-    </node>
   </layer>
   <layer layerID="1">
     <attributes />
@@ -51,10 +48,6 @@
         <category tag="Terminal" />
       </edge>
       <edge toID="0.6" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
-      <edge toID="0.7" type="Terminal">
         <attributes />
         <category tag="Terminal" />
       </edge>

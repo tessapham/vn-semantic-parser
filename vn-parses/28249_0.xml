@@ -22,12 +22,6 @@
     <node ID="0.7" type="Word">
       <attributes paragraph="1" paragraph_position="7" text="&#273;i du l&#7883;ch" />
     </node>
-    <node ID="0.8" type="Word">
-      <attributes paragraph="1" paragraph_position="8" text="&#273;i du l&#7883;ch" />
-    </node>
-    <node ID="0.9" type="Word">
-      <attributes paragraph="1" paragraph_position="9" text="&#273;i du l&#7883;ch" />
-    </node>
     <node ID="0.10" type="Word">
       <attributes paragraph="1" paragraph_position="10" text="n&#224;y" />
     </node>
@@ -192,10 +186,6 @@
         <attributes />
         <category tag="S" />
       </edge>
-      <edge toID="1.22" type="A">
-        <attributes />
-        <category tag="A" />
-      </edge>
       <edge toID="1.23" type="D">
         <attributes />
         <category tag="D" />
@@ -271,17 +261,6 @@
         <category tag="Terminal" />
       </edge>
     </node>
-    <node ID="1.22" type="FN">
-      <attributes />
-      <edge toID="1.24" type="E">
-        <attributes />
-        <category tag="E" />
-      </edge>
-      <edge toID="1.25" type="C">
-        <attributes />
-        <category tag="C" />
-      </edge>
-    </node>
     <node ID="1.23" type="FN">
       <attributes />
       <edge toID="1.26" type="E">
@@ -295,20 +274,6 @@
       <edge toID="1.28" type="E">
         <attributes />
         <category tag="E" />
-      </edge>
-    </node>
-    <node ID="1.24" type="FN">
-      <attributes />
-      <edge toID="0.8" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
-    </node>
-    <node ID="1.25" type="FN">
-      <attributes />
-      <edge toID="0.9" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
       </edge>
     </node>
     <node ID="1.26" type="FN">

@@ -34,9 +34,6 @@
     <node ID="0.14" type="Word">
       <attributes paragraph="1" paragraph_position="14" text="tr&#432;&#7899;c" />
     </node>
-    <node ID="0.16" type="Word">
-      <attributes paragraph="1" paragraph_position="16" text="ch&#7913; kh&#244;ng" />
-    </node>
     <node ID="0.17" type="Word">
       <attributes paragraph="1" paragraph_position="17" text="ch&#7913; kh&#244;ng" />
     </node>
@@ -137,10 +134,6 @@
     </node>
     <node ID="1.9" type="FN">
       <attributes />
-      <edge toID="1.18" type="C">
-        <attributes />
-        <category tag="C" />
-      </edge>
       <edge toID="1.19" type="E">
         <attributes />
         <category tag="E" />
@@ -219,13 +212,6 @@
     <node ID="1.17" type="FN">
       <attributes />
       <edge toID="0.14" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
-    </node>
-    <node ID="1.18" type="FN">
-      <attributes />
-      <edge toID="0.16" type="Terminal">
         <attributes />
         <category tag="Terminal" />
       </edge>

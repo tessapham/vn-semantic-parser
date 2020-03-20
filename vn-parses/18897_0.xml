@@ -28,9 +28,6 @@
     <node ID="0.9" type="Word">
       <attributes paragraph="1" paragraph_position="9" text="quy&#7873;n nu&#244;i con" />
     </node>
-    <node ID="0.10" type="Word">
-      <attributes paragraph="1" paragraph_position="10" text="quy&#7873;n nu&#244;i con" />
-    </node>
     <node ID="0.11" type="Punctuation">
       <attributes paragraph="1" paragraph_position="11" text="." />
     </node>
@@ -134,11 +131,7 @@
     </node>
     <node ID="1.10" type="FN">
       <attributes />
-      <edge toID="1.15" type="E">
-        <attributes />
-        <category tag="E" />
-      </edge>
-      <edge toID="1.16" type="C">
+      <edge toID="1.15" type="C">
         <attributes />
         <category tag="C" />
       </edge>
@@ -171,13 +164,6 @@
     <node ID="1.15" type="FN">
       <attributes />
       <edge toID="0.9" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
-    </node>
-    <node ID="1.16" type="FN">
-      <attributes />
-      <edge toID="0.10" type="Terminal">
         <attributes />
         <category tag="Terminal" />
       </edge>

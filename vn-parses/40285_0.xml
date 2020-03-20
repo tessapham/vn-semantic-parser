@@ -7,9 +7,6 @@
     <node ID="0.2" type="Word">
       <attributes paragraph="1" paragraph_position="2" text="3,1%" />
     </node>
-    <node ID="0.3" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="3" text="3,1%" />
-    </node>
     <node ID="0.5" type="Word">
       <attributes paragraph="1" paragraph_position="5" text="&#273;i&#7879;n tho&#7841;i" />
     </node>
@@ -39,20 +36,9 @@
     </node>
     <node ID="1.4" type="FN">
       <attributes />
-      <edge toID="1.5" type="U">
-        <attributes />
-        <category tag="U" />
-      </edge>
       <edge toID="1.7" type="C">
         <attributes />
         <category tag="C" />
-      </edge>
-    </node>
-    <node ID="1.5" type="PNCT">
-      <attributes />
-      <edge toID="0.3" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
       </edge>
     </node>
     <node ID="1.7" type="FN">

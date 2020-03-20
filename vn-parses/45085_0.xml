@@ -79,9 +79,6 @@
     <node ID="0.43" type="Word">
       <attributes paragraph="1" paragraph_position="43" text="Trung t&#226;m Y t&#7871;" />
     </node>
-    <node ID="0.44" type="Word">
-      <attributes paragraph="1" paragraph_position="44" text="Trung t&#226;m Y t&#7871;" />
-    </node>
     <node ID="0.45" type="Punctuation">
       <attributes paragraph="1" paragraph_position="45" text="." />
     </node>
@@ -401,10 +398,6 @@
         <category tag="Terminal" />
       </edge>
       <edge toID="0.43" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
-      <edge toID="0.44" type="Terminal">
         <attributes />
         <category tag="Terminal" />
       </edge>

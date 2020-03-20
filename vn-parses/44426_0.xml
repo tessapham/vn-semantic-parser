@@ -22,9 +22,6 @@
     <node ID="0.7" type="Word">
       <attributes paragraph="1" paragraph_position="7" text="ti&#7871;n" />
     </node>
-    <node ID="0.8" type="Word">
-      <attributes paragraph="1" paragraph_position="8" text="ti&#7871;n" />
-    </node>
     <node ID="0.9" type="Word">
       <attributes paragraph="1" paragraph_position="9" text="Tr&#225;i &#272;&#7845;t" />
     </node>
@@ -208,20 +205,9 @@
     </node>
     <node ID="1.21" type="FN">
       <attributes />
-      <edge toID="1.22" type="R">
-        <attributes />
-        <category tag="R" />
-      </edge>
       <edge toID="1.23" type="C">
         <attributes />
         <category tag="C" />
-      </edge>
-    </node>
-    <node ID="1.22" type="FN">
-      <attributes />
-      <edge toID="0.8" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
       </edge>
     </node>
     <node ID="1.23" type="FN">

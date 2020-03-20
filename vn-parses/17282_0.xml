@@ -13,9 +13,6 @@
     <node ID="0.3" type="Word">
       <attributes paragraph="1" paragraph_position="3" text="suy ngh&#297;" />
     </node>
-    <node ID="0.4" type="Word">
-      <attributes paragraph="1" paragraph_position="4" text="suy ngh&#297;" />
-    </node>
     <node ID="0.6" type="Word">
       <attributes paragraph="1" paragraph_position="6" text="h&#227;y" />
     </node>
@@ -54,12 +51,6 @@
     </node>
     <node ID="0.23" type="Word">
       <attributes paragraph="1" paragraph_position="23" text="c&#361;ng nh&#432;" />
-    </node>
-    <node ID="0.24" type="Word">
-      <attributes paragraph="1" paragraph_position="24" text="c&#361;ng nh&#432;" />
-    </node>
-    <node ID="0.25" type="Word">
-      <attributes paragraph="1" paragraph_position="25" text="c&#361;ng nh&#432;" />
     </node>
     <node ID="0.26" type="Word">
       <attributes paragraph="1" paragraph_position="26" text="m&#7897;t" />
@@ -123,11 +114,7 @@
         <attributes />
         <category tag="F" />
       </edge>
-      <edge toID="1.10" type="E">
-        <attributes />
-        <category tag="E" />
-      </edge>
-      <edge toID="1.11" type="C">
+      <edge toID="1.10" type="C">
         <attributes />
         <category tag="C" />
       </edge>
@@ -154,14 +141,6 @@
     <node ID="1.6" type="FN">
       <attributes />
       <edge toID="0.23" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
-      <edge toID="0.24" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
-      <edge toID="0.25" type="Terminal">
         <attributes />
         <category tag="Terminal" />
       </edge>
@@ -210,13 +189,6 @@
     <node ID="1.10" type="FN">
       <attributes />
       <edge toID="0.3" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
-    </node>
-    <node ID="1.11" type="FN">
-      <attributes />
-      <edge toID="0.4" type="Terminal">
         <attributes />
         <category tag="Terminal" />
       </edge>

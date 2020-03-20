@@ -7,9 +7,6 @@
     <node ID="0.2" type="Word">
       <attributes paragraph="1" paragraph_position="2" text="MMR :" />
     </node>
-    <node ID="0.3" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="3" text="MMR :" />
-    </node>
     <node ID="0.4" type="Word">
       <attributes paragraph="1" paragraph_position="4" text="s&#7903;i" />
     </node>
@@ -42,10 +39,6 @@
         <attributes />
         <category tag="C" />
       </edge>
-      <edge toID="1.6" type="U">
-        <attributes />
-        <category tag="U" />
-      </edge>
       <edge toID="1.7" type="E">
         <attributes />
         <category tag="E" />
@@ -62,13 +55,6 @@
     <node ID="1.5" type="FN">
       <attributes />
       <edge toID="0.2" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
-    </node>
-    <node ID="1.6" type="PNCT">
-      <attributes />
-      <edge toID="0.3" type="Terminal">
         <attributes />
         <category tag="Terminal" />
       </edge>

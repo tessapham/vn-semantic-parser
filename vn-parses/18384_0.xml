@@ -7,17 +7,11 @@
     <node ID="0.1" type="Word">
       <attributes paragraph="1" paragraph_position="1" text="C&#7855;t &#273;&#7913;t" />
     </node>
-    <node ID="0.2" type="Word">
-      <attributes paragraph="1" paragraph_position="2" text="C&#7855;t &#273;&#7913;t" />
-    </node>
     <node ID="0.3" type="Word">
       <attributes paragraph="1" paragraph_position="3" text="v&#224;" />
     </node>
     <node ID="0.4" type="Word">
       <attributes paragraph="1" paragraph_position="4" text="tho&#225;t kh&#7887;i" />
-    </node>
-    <node ID="0.5" type="Word">
-      <attributes paragraph="1" paragraph_position="5" text="tho&#225;t kh&#7887;i" />
     </node>
     <node ID="0.7" type="Word">
       <attributes paragraph="1" paragraph_position="7" text="kh&#244;ng &#273;&#226;u" />
@@ -109,20 +103,12 @@
         <attributes />
         <category tag="Terminal" />
       </edge>
-      <edge toID="0.2" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
     </node>
     <node ID="1.6" type="FN">
       <attributes />
       <edge toID="1.10" type="F">
         <attributes />
         <category tag="F" />
-      </edge>
-      <edge toID="1.11" type="D">
-        <attributes />
-        <category tag="D" />
       </edge>
       <edge toID="1.12" type="A">
         <attributes />
@@ -171,13 +157,6 @@
       <edge toID="0.4" type="Terminal">
         <attributes />
         <category tag="Terminal" />
-      </edge>
-    </node>
-    <node ID="1.11" type="FN">
-      <attributes />
-      <edge toID="1.19" type="C">
-        <attributes />
-        <category tag="C" />
       </edge>
     </node>
     <node ID="1.12" type="FN">
@@ -236,13 +215,6 @@
       <edge toID="1.26" type="U">
         <attributes />
         <category tag="U" />
-      </edge>
-    </node>
-    <node ID="1.19" type="FN">
-      <attributes />
-      <edge toID="0.5" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
       </edge>
     </node>
     <node ID="1.21" type="FN">

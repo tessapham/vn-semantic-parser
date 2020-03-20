@@ -25,9 +25,6 @@
     <node ID="0.9" type="Word">
       <attributes paragraph="1" paragraph_position="9" text="Fernando Patolsky" />
     </node>
-    <node ID="0.10" type="Word">
-      <attributes paragraph="1" paragraph_position="10" text="Fernando Patolsky" />
-    </node>
     <node ID="0.11" type="Word">
       <attributes paragraph="1" paragraph_position="11" text="v&#224;" />
     </node>
@@ -37,14 +34,8 @@
     <node ID="0.13" type="Word">
       <attributes paragraph="1" paragraph_position="13" text="Michael Ioffe" />
     </node>
-    <node ID="0.14" type="Word">
-      <attributes paragraph="1" paragraph_position="14" text="Michael Ioffe" />
-    </node>
     <node ID="0.16" type="Word">
       <attributes paragraph="1" paragraph_position="16" text="Tel Aviv" />
-    </node>
-    <node ID="0.17" type="Word">
-      <attributes paragraph="1" paragraph_position="17" text="Tel Aviv" />
     </node>
     <node ID="0.18" type="Word">
       <attributes paragraph="1" paragraph_position="18" text="&#272;&#7841;i h&#7885;c" />
@@ -309,10 +300,6 @@
         <attributes />
         <category tag="Terminal" />
       </edge>
-      <edge toID="0.10" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
     </node>
     <node ID="1.23" type="FN">
       <attributes />
@@ -328,10 +315,6 @@
         <category tag="Terminal" />
       </edge>
       <edge toID="0.13" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
-      <edge toID="0.14" type="Terminal">
         <attributes />
         <category tag="Terminal" />
       </edge>
@@ -429,10 +412,6 @@
     <node ID="1.38" type="FN">
       <attributes />
       <edge toID="0.16" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
-      <edge toID="0.17" type="Terminal">
         <attributes />
         <category tag="Terminal" />
       </edge>

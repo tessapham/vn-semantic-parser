@@ -37,9 +37,6 @@
     <node ID="0.16" type="Word">
       <attributes paragraph="1" paragraph_position="16" text="ngay t&#7915; &#273;&#7847;u" />
     </node>
-    <node ID="0.17" type="Word">
-      <attributes paragraph="1" paragraph_position="17" text="ngay t&#7915; &#273;&#7847;u" />
-    </node>
     <node ID="0.20" type="Word">
       <attributes paragraph="1" paragraph_position="20" text="Iran" />
     </node>
@@ -440,10 +437,6 @@
     <node ID="1.51" type="FN">
       <attributes />
       <edge toID="0.16" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
-      <edge toID="0.17" type="Terminal">
         <attributes />
         <category tag="Terminal" />
       </edge>

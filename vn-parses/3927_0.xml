@@ -82,9 +82,6 @@
     <node ID="0.40" type="Word">
       <attributes paragraph="1" paragraph_position="40" text="&#272;&#7841;i H&#7897;i &#272;&#7891;ng" />
     </node>
-    <node ID="0.41" type="Word">
-      <attributes paragraph="1" paragraph_position="41" text="&#272;&#7841;i H&#7897;i &#272;&#7891;ng" />
-    </node>
   </layer>
   <layer layerID="1">
     <attributes />
@@ -328,11 +325,7 @@
     </node>
     <node ID="1.30" type="FN">
       <attributes />
-      <edge toID="1.46" type="E">
-        <attributes />
-        <category tag="E" />
-      </edge>
-      <edge toID="1.47" type="C">
+      <edge toID="1.46" type="C">
         <attributes />
         <category tag="C" />
       </edge>
@@ -407,13 +400,6 @@
     <node ID="1.46" type="FN">
       <attributes />
       <edge toID="0.40" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
-    </node>
-    <node ID="1.47" type="FN">
-      <attributes />
-      <edge toID="0.41" type="Terminal">
         <attributes />
         <category tag="Terminal" />
       </edge>

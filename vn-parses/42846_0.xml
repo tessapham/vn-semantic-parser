@@ -10,9 +10,6 @@
     <node ID="0.4" type="Word">
       <attributes paragraph="1" paragraph_position="4" text="Aceh ." />
     </node>
-    <node ID="0.5" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="5" text="Aceh ." />
-    </node>
   </layer>
   <layer layerID="1">
     <attributes />
@@ -47,21 +44,10 @@
         <attributes />
         <category tag="C" />
       </edge>
-      <edge toID="1.8" type="U">
-        <attributes />
-        <category tag="U" />
-      </edge>
     </node>
     <node ID="1.7" type="FN">
       <attributes />
       <edge toID="0.4" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
-    </node>
-    <node ID="1.8" type="PNCT">
-      <attributes />
-      <edge toID="0.5" type="Terminal">
         <attributes />
         <category tag="Terminal" />
       </edge>

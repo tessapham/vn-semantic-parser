@@ -49,9 +49,6 @@
     <node ID="0.28" type="Word">
       <attributes paragraph="1" paragraph_position="28" text="Sanjoy Majumder" />
     </node>
-    <node ID="0.29" type="Word">
-      <attributes paragraph="1" paragraph_position="29" text="Sanjoy Majumder" />
-    </node>
     <node ID="0.31" type="Word">
       <attributes paragraph="1" paragraph_position="31" text="Delhi" />
     </node>
@@ -202,11 +199,7 @@
         <attributes />
         <category tag="E" />
       </edge>
-      <edge toID="1.32" type="E">
-        <attributes />
-        <category tag="E" />
-      </edge>
-      <edge toID="1.33" type="C">
+      <edge toID="1.32" type="C">
         <attributes />
         <category tag="C" />
       </edge>
@@ -282,13 +275,6 @@
     <node ID="1.32" type="FN">
       <attributes />
       <edge toID="0.28" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
-    </node>
-    <node ID="1.33" type="FN">
-      <attributes />
-      <edge toID="0.29" type="Terminal">
         <attributes />
         <category tag="Terminal" />
       </edge>

@@ -22,9 +22,6 @@
     <node ID="0.8" type="Word">
       <attributes paragraph="1" paragraph_position="8" text="l&#7855;m" />
     </node>
-    <node ID="0.9" type="Word">
-      <attributes paragraph="1" paragraph_position="9" text="l&#7855;m" />
-    </node>
   </layer>
   <layer layerID="1">
     <attributes />
@@ -106,11 +103,7 @@
     </node>
     <node ID="1.12" type="FN">
       <attributes />
-      <edge toID="1.13" type="R">
-        <attributes />
-        <category tag="R" />
-      </edge>
-      <edge toID="1.14" type="C">
+      <edge toID="1.13" type="C">
         <attributes />
         <category tag="C" />
       </edge>
@@ -118,13 +111,6 @@
     <node ID="1.13" type="FN">
       <attributes />
       <edge toID="0.8" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
-    </node>
-    <node ID="1.14" type="FN">
-      <attributes />
-      <edge toID="0.9" type="Terminal">
         <attributes />
         <category tag="Terminal" />
       </edge>

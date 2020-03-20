@@ -10,9 +10,6 @@
     <node ID="0.3" type="Word">
       <attributes paragraph="1" paragraph_position="3" text="kh&#244;ng th&#7875;" />
     </node>
-    <node ID="0.4" type="Word">
-      <attributes paragraph="1" paragraph_position="4" text="kh&#244;ng th&#7875;" />
-    </node>
     <node ID="0.5" type="Word">
       <attributes paragraph="1" paragraph_position="5" text="l&#224;m g&#236;" />
     </node>
@@ -64,10 +61,6 @@
         <attributes />
         <category tag="D" />
       </edge>
-      <edge toID="1.7" type="D">
-        <attributes />
-        <category tag="D" />
-      </edge>
       <edge toID="1.8" type="P">
         <attributes />
         <category tag="P" />
@@ -102,13 +95,6 @@
     <node ID="1.6" type="FN">
       <attributes />
       <edge toID="0.3" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
-    </node>
-    <node ID="1.7" type="FN">
-      <attributes />
-      <edge toID="0.4" type="Terminal">
         <attributes />
         <category tag="Terminal" />
       </edge>

@@ -28,9 +28,6 @@
     <node ID="0.13" type="Word">
       <attributes paragraph="1" paragraph_position="13" text="65%" />
     </node>
-    <node ID="0.14" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="14" text="65%" />
-    </node>
     <node ID="0.17" type="Word">
       <attributes paragraph="1" paragraph_position="17" text="ng&#432;&#7901;i tham gia" />
     </node>
@@ -206,10 +203,6 @@
         <attributes />
         <category tag="E" />
       </edge>
-      <edge toID="1.29" type="U">
-        <attributes />
-        <category tag="U" />
-      </edge>
       <edge toID="1.32" type="C">
         <attributes />
         <category tag="C" />
@@ -300,13 +293,6 @@
     <node ID="1.28" type="FN">
       <attributes />
       <edge toID="0.13" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
-    </node>
-    <node ID="1.29" type="PNCT">
-      <attributes />
-      <edge toID="0.14" type="Terminal">
         <attributes />
         <category tag="Terminal" />
       </edge>

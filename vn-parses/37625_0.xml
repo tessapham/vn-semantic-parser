@@ -55,9 +55,6 @@
     <node ID="0.24" type="Word">
       <attributes paragraph="1" paragraph_position="24" text="thanh ni&#234;n" />
     </node>
-    <node ID="0.25" type="Word">
-      <attributes paragraph="1" paragraph_position="25" text="thanh ni&#234;n" />
-    </node>
     <node ID="0.27" type="Word">
       <attributes paragraph="1" paragraph_position="27" text="c&#249;ng" />
     </node>
@@ -264,11 +261,7 @@
         <attributes />
         <category tag="R" />
       </edge>
-      <edge toID="1.32" type="E">
-        <attributes />
-        <category tag="E" />
-      </edge>
-      <edge toID="1.33" type="C">
+      <edge toID="1.32" type="C">
         <attributes />
         <category tag="C" />
       </edge>
@@ -319,13 +312,6 @@
     <node ID="1.32" type="FN">
       <attributes />
       <edge toID="0.24" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
-    </node>
-    <node ID="1.33" type="FN">
-      <attributes />
-      <edge toID="0.25" type="Terminal">
         <attributes />
         <category tag="Terminal" />
       </edge>

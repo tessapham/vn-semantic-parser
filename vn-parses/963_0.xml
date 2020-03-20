@@ -10,12 +10,6 @@
     <node ID="0.3" type="Word">
       <attributes paragraph="1" paragraph_position="3" text="Los Angeles" />
     </node>
-    <node ID="0.4" type="Word">
-      <attributes paragraph="1" paragraph_position="4" text="Los Angeles" />
-    </node>
-    <node ID="0.5" type="Word">
-      <attributes paragraph="1" paragraph_position="5" text="Los Angeles" />
-    </node>
     <node ID="0.6" type="Word">
       <attributes paragraph="1" paragraph_position="6" text="c&#244;ng t&#7889; vi&#234;n" />
     </node>
@@ -123,11 +117,7 @@
     </node>
     <node ID="1.8" type="FN">
       <attributes />
-      <edge toID="1.13" type="E">
-        <attributes />
-        <category tag="E" />
-      </edge>
-      <edge toID="1.14" type="C">
+      <edge toID="1.13" type="C">
         <attributes />
         <category tag="C" />
       </edge>
@@ -175,17 +165,6 @@
     <node ID="1.13" type="FN">
       <attributes />
       <edge toID="0.3" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
-      <edge toID="0.4" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
-    </node>
-    <node ID="1.14" type="FN">
-      <attributes />
-      <edge toID="0.5" type="Terminal">
         <attributes />
         <category tag="Terminal" />
       </edge>

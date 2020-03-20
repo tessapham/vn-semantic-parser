@@ -37,14 +37,8 @@
     <node ID="0.16" type="Word">
       <attributes paragraph="1" paragraph_position="16" text="thu" />
     </node>
-    <node ID="0.17" type="Word">
-      <attributes paragraph="1" paragraph_position="17" text="thu" />
-    </node>
     <node ID="0.19" type="Word">
       <attributes paragraph="1" paragraph_position="19" text="chi" />
-    </node>
-    <node ID="0.20" type="Word">
-      <attributes paragraph="1" paragraph_position="20" text="chi" />
     </node>
     <node ID="0.21" type="Punctuation">
       <attributes paragraph="1" paragraph_position="21" text="." />
@@ -232,18 +226,10 @@
         <attributes />
         <category tag="Terminal" />
       </edge>
-      <edge toID="0.17" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
     </node>
     <node ID="1.26" type="FN">
       <attributes />
       <edge toID="0.19" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
-      <edge toID="0.20" type="Terminal">
         <attributes />
         <category tag="Terminal" />
       </edge>

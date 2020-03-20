@@ -49,9 +49,6 @@
     <node ID="0.21" type="Word">
       <attributes paragraph="1" paragraph_position="21" text="&#273;i qua" />
     </node>
-    <node ID="0.22" type="Word">
-      <attributes paragraph="1" paragraph_position="22" text="&#273;i qua" />
-    </node>
     <node ID="0.24" type="Word">
       <attributes paragraph="1" paragraph_position="24" text="ti&#7871;t ni&#7879;u" />
     </node>
@@ -198,10 +195,6 @@
     </node>
     <node ID="1.17" type="FN">
       <attributes />
-      <edge toID="1.25" type="R">
-        <attributes />
-        <category tag="R" />
-      </edge>
       <edge toID="1.27" type="E">
         <attributes />
         <category tag="E" />
@@ -274,13 +267,6 @@
       <edge toID="1.35" type="C">
         <attributes />
         <category tag="C" />
-      </edge>
-    </node>
-    <node ID="1.25" type="FN">
-      <attributes />
-      <edge toID="0.22" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
       </edge>
     </node>
     <node ID="1.27" type="FN">

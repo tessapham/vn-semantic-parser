@@ -97,9 +97,6 @@
     <node ID="0.43" type="Word">
       <attributes paragraph="1" paragraph_position="43" text="Ng&#224;y 2/9" />
     </node>
-    <node ID="0.44" type="Word">
-      <attributes paragraph="1" paragraph_position="44" text="Ng&#224;y 2/9" />
-    </node>
     <node ID="0.45" type="Punctuation">
       <attributes paragraph="1" paragraph_position="45" text="." />
     </node>
@@ -368,10 +365,6 @@
     <node ID="1.29" type="FN">
       <attributes />
       <edge toID="0.43" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
-      <edge toID="0.44" type="Terminal">
         <attributes />
         <category tag="Terminal" />
       </edge>

@@ -40,17 +40,11 @@
     <node ID="0.19" type="Word">
       <attributes paragraph="1" paragraph_position="19" text="sao cho" />
     </node>
-    <node ID="0.20" type="Word">
-      <attributes paragraph="1" paragraph_position="20" text="sao cho" />
-    </node>
     <node ID="0.21" type="Word">
       <attributes paragraph="1" paragraph_position="21" text="ng&#432;&#7901;i d&#249;ng" />
     </node>
     <node ID="0.23" type="Word">
       <attributes paragraph="1" paragraph_position="23" text="kh&#244;ng" />
-    </node>
-    <node ID="0.24" type="Word">
-      <attributes paragraph="1" paragraph_position="24" text="ph&#7843;i" />
     </node>
     <node ID="0.25" type="Word">
       <attributes paragraph="1" paragraph_position="25" text="ph&#7843;i" />
@@ -156,10 +150,6 @@
     </node>
     <node ID="1.7" type="FN">
       <attributes />
-      <edge toID="1.16" type="F">
-        <attributes />
-        <category tag="F" />
-      </edge>
       <edge toID="1.17" type="A">
         <attributes />
         <category tag="A" />
@@ -238,13 +228,6 @@
         <category tag="E" />
       </edge>
     </node>
-    <node ID="1.16" type="FN">
-      <attributes />
-      <edge toID="0.20" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
-    </node>
     <node ID="1.17" type="FN">
       <attributes />
       <edge toID="0.21" type="Terminal">
@@ -261,10 +244,6 @@
     </node>
     <node ID="1.20" type="FN">
       <attributes />
-      <edge toID="1.29" type="F">
-        <attributes />
-        <category tag="F" />
-      </edge>
       <edge toID="1.30" type="C">
         <attributes />
         <category tag="C" />
@@ -318,13 +297,6 @@
       <edge toID="1.38" type="C">
         <attributes />
         <category tag="C" />
-      </edge>
-    </node>
-    <node ID="1.29" type="FN">
-      <attributes />
-      <edge toID="0.24" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
       </edge>
     </node>
     <node ID="1.30" type="FN">

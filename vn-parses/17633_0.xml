@@ -70,9 +70,6 @@
     <node ID="0.36" type="Word">
       <attributes paragraph="1" paragraph_position="36" text="tho&#225;t" />
     </node>
-    <node ID="0.37" type="Word">
-      <attributes paragraph="1" paragraph_position="37" text="tho&#225;t" />
-    </node>
     <node ID="0.39" type="Word">
       <attributes paragraph="1" paragraph_position="39" text="ngh&#232;o" />
     </node>
@@ -359,10 +356,6 @@
     <node ID="1.37" type="FN">
       <attributes />
       <edge toID="0.36" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
-      <edge toID="0.37" type="Terminal">
         <attributes />
         <category tag="Terminal" />
       </edge>

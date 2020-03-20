@@ -82,12 +82,6 @@
     <node ID="0.37" type="Word">
       <attributes paragraph="1" paragraph_position="37" text="Ngo&#7841;i tr&#432;&#7903;ng" />
     </node>
-    <node ID="0.38" type="Word">
-      <attributes paragraph="1" paragraph_position="38" text="Ngo&#7841;i tr&#432;&#7903;ng" />
-    </node>
-    <node ID="0.39" type="Word">
-      <attributes paragraph="1" paragraph_position="39" text="Ngo&#7841;i tr&#432;&#7903;ng" />
-    </node>
     <node ID="0.40" type="Word">
       <attributes paragraph="1" paragraph_position="40" text="Hillary" />
     </node>
@@ -102,9 +96,6 @@
     </node>
     <node ID="0.44" type="Word">
       <attributes paragraph="1" paragraph_position="44" text="B&#7897; tr&#432;&#7903;ng t&#224;i ch&#237;nh" />
-    </node>
-    <node ID="0.45" type="Word">
-      <attributes paragraph="1" paragraph_position="45" text="B&#7897; tr&#432;&#7903;ng t&#224;i ch&#237;nh" />
     </node>
     <node ID="0.46" type="Word">
       <attributes paragraph="1" paragraph_position="46" text="Timothy" />
@@ -552,10 +543,6 @@
         <attributes />
         <category tag="Terminal" />
       </edge>
-      <edge toID="0.45" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
       <edge toID="0.46" type="Terminal">
         <attributes />
         <category tag="Terminal" />
@@ -579,14 +566,6 @@
     <node ID="1.57" type="FN">
       <attributes />
       <edge toID="0.37" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
-      <edge toID="0.38" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
-      <edge toID="0.39" type="Terminal">
         <attributes />
         <category tag="Terminal" />
       </edge>

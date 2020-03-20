@@ -52,9 +52,6 @@
     <node ID="0.24" type="Word">
       <attributes paragraph="1" paragraph_position="24" text="&#273;i&#7879;n tho&#7841;i" />
     </node>
-    <node ID="0.25" type="Word">
-      <attributes paragraph="1" paragraph_position="25" text="&#273;i&#7879;n tho&#7841;i" />
-    </node>
     <node ID="0.26" type="Punctuation">
       <attributes paragraph="1" paragraph_position="26" text="." />
     </node>
@@ -213,11 +210,7 @@
         <attributes />
         <category tag="E" />
       </edge>
-      <edge toID="1.25" type="E">
-        <attributes />
-        <category tag="E" />
-      </edge>
-      <edge toID="1.26" type="C">
+      <edge toID="1.25" type="C">
         <attributes />
         <category tag="C" />
       </edge>
@@ -265,13 +258,6 @@
     <node ID="1.25" type="FN">
       <attributes />
       <edge toID="0.24" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
-    </node>
-    <node ID="1.26" type="FN">
-      <attributes />
-      <edge toID="0.25" type="Terminal">
         <attributes />
         <category tag="Terminal" />
       </edge>

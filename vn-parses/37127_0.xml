@@ -46,9 +46,6 @@
     <node ID="0.20" type="Word">
       <attributes paragraph="1" paragraph_position="20" text="ph&#7843;i" />
     </node>
-    <node ID="0.21" type="Word">
-      <attributes paragraph="1" paragraph_position="21" text="ph&#7843;i" />
-    </node>
     <node ID="0.22" type="Word">
       <attributes paragraph="1" paragraph_position="22" text="ph&#225;t tri&#7875;n" />
     </node>
@@ -66,9 +63,6 @@
     </node>
     <node ID="0.29" type="Word">
       <attributes paragraph="1" paragraph_position="29" text="n&#243;" />
-    </node>
-    <node ID="0.30" type="Word">
-      <attributes paragraph="1" paragraph_position="30" text="kh&#244;ng th&#7875;" />
     </node>
     <node ID="0.31" type="Word">
       <attributes paragraph="1" paragraph_position="31" text="kh&#244;ng th&#7875;" />
@@ -259,10 +253,6 @@
     </node>
     <node ID="1.19" type="FN">
       <attributes />
-      <edge toID="1.31" type="F">
-        <attributes />
-        <category tag="F" />
-      </edge>
       <edge toID="1.32" type="C">
         <attributes />
         <category tag="C" />
@@ -339,10 +329,6 @@
         <attributes />
         <category tag="F" />
       </edge>
-      <edge toID="1.42" type="F">
-        <attributes />
-        <category tag="F" />
-      </edge>
       <edge toID="1.43" type="P">
         <attributes />
         <category tag="P" />
@@ -350,13 +336,6 @@
       <edge toID="1.44" type="A">
         <attributes />
         <category tag="A" />
-      </edge>
-    </node>
-    <node ID="1.31" type="FN">
-      <attributes />
-      <edge toID="0.30" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
       </edge>
     </node>
     <node ID="1.32" type="FN">
@@ -411,13 +390,6 @@
     <node ID="1.41" type="FN">
       <attributes />
       <edge toID="0.20" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
-    </node>
-    <node ID="1.42" type="FN">
-      <attributes />
-      <edge toID="0.21" type="Terminal">
         <attributes />
         <category tag="Terminal" />
       </edge>

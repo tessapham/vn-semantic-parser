@@ -28,9 +28,6 @@
     <node ID="0.11" type="Word">
       <attributes paragraph="1" paragraph_position="11" text="ngo&#7841;i giao" />
     </node>
-    <node ID="0.12" type="Word">
-      <attributes paragraph="1" paragraph_position="12" text="th&#7913; tr&#432;&#7903;ng" />
-    </node>
     <node ID="0.14" type="Word">
       <attributes paragraph="1" paragraph_position="14" text="Wang" />
     </node>
@@ -238,17 +235,13 @@
         <attributes />
         <category tag="E" />
       </edge>
-      <edge toID="1.30" type="E">
+      <edge toID="1.30" type="C">
         <attributes />
-        <category tag="E" />
+        <category tag="C" />
       </edge>
       <edge toID="1.31" type="E">
         <attributes />
         <category tag="E" />
-      </edge>
-      <edge toID="1.32" type="C">
-        <attributes />
-        <category tag="C" />
       </edge>
     </node>
     <node ID="1.28" type="FN">
@@ -279,13 +272,6 @@
     <node ID="1.31" type="FN">
       <attributes />
       <edge toID="0.11" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
-    </node>
-    <node ID="1.32" type="FN">
-      <attributes />
-      <edge toID="0.12" type="Terminal">
         <attributes />
         <category tag="Terminal" />
       </edge>

@@ -61,9 +61,6 @@
     <node ID="0.22" type="Word">
       <attributes paragraph="1" paragraph_position="22" text="giai &#273;o&#7841;n" />
     </node>
-    <node ID="0.24" type="Word">
-      <attributes paragraph="1" paragraph_position="24" text="theo" />
-    </node>
     <node ID="0.25" type="Word">
       <attributes paragraph="1" paragraph_position="25" text="theo" />
     </node>
@@ -283,10 +280,6 @@
     </node>
     <node ID="1.20" type="FN">
       <attributes />
-      <edge toID="1.28" type="C">
-        <attributes />
-        <category tag="C" />
-      </edge>
       <edge toID="1.29" type="E">
         <attributes />
         <category tag="E" />
@@ -354,13 +347,6 @@
     <node ID="1.27" type="FN">
       <attributes />
       <edge toID="0.22" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
-    </node>
-    <node ID="1.28" type="FN">
-      <attributes />
-      <edge toID="0.24" type="Terminal">
         <attributes />
         <category tag="Terminal" />
       </edge>

@@ -31,9 +31,6 @@
     <node ID="0.12" type="Word">
       <attributes paragraph="1" paragraph_position="12" text="khi&#7871;u n&#7841;i n&#224;y" />
     </node>
-    <node ID="0.13" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="13" text="." />
-    </node>
   </layer>
   <layer layerID="1">
     <attributes />
@@ -98,10 +95,6 @@
         <attributes />
         <category tag="C" />
       </edge>
-      <edge toID="1.13" type="U">
-        <attributes />
-        <category tag="U" />
-      </edge>
     </node>
     <node ID="1.8" type="FN">
       <attributes />
@@ -139,13 +132,6 @@
     <node ID="1.12" type="FN">
       <attributes />
       <edge toID="0.12" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
-    </node>
-    <node ID="1.13" type="PNCT">
-      <attributes />
-      <edge toID="0.13" type="Terminal">
         <attributes />
         <category tag="Terminal" />
       </edge>

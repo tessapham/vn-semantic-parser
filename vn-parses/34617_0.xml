@@ -28,9 +28,6 @@
     <node ID="0.18" type="Word">
       <attributes paragraph="1" paragraph_position="18" text="ra ngo&#224;i" />
     </node>
-    <node ID="0.21" type="Word">
-      <attributes paragraph="1" paragraph_position="21" text="ra ngo&#224;i" />
-    </node>
     <node ID="0.22" type="Word">
       <attributes paragraph="1" paragraph_position="22" text="v&#224;" />
     </node>
@@ -275,10 +272,6 @@
         <attributes />
         <category tag="D" />
       </edge>
-      <edge toID="1.38" type="A">
-        <attributes />
-        <category tag="A" />
-      </edge>
     </node>
     <node ID="1.25" type="FN">
       <attributes />
@@ -357,13 +350,6 @@
       <edge toID="0.18" type="Terminal">
         <attributes />
         <category tag="Terminal" />
-      </edge>
-    </node>
-    <node ID="1.38" type="FN">
-      <attributes />
-      <edge toID="1.57" type="C">
-        <attributes />
-        <category tag="C" />
       </edge>
     </node>
     <node ID="1.39" type="FN">
@@ -452,13 +438,6 @@
     <node ID="1.54" type="FN">
       <attributes />
       <edge toID="0.17" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
-    </node>
-    <node ID="1.57" type="FN">
-      <attributes />
-      <edge toID="0.21" type="Terminal">
         <attributes />
         <category tag="Terminal" />
       </edge>

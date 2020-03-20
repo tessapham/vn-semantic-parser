@@ -7,9 +7,6 @@
     <node ID="0.4" type="Word">
       <attributes paragraph="1" paragraph_position="4" text="th&#7845;y" />
     </node>
-    <node ID="0.5" type="Word">
-      <attributes paragraph="1" paragraph_position="5" text="th&#7845;y" />
-    </node>
     <node ID="0.6" type="Word">
       <attributes paragraph="1" paragraph_position="6" text="T&#226;y Ban Nha" />
     </node>
@@ -203,10 +200,6 @@
     </node>
     <node ID="1.13" type="FN">
       <attributes />
-      <edge toID="1.29" type="R">
-        <attributes />
-        <category tag="R" />
-      </edge>
       <edge toID="1.30" type="C">
         <attributes />
         <category tag="C" />
@@ -303,13 +296,6 @@
     <node ID="1.28" type="FN">
       <attributes />
       <edge toID="0.26" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
-    </node>
-    <node ID="1.29" type="FN">
-      <attributes />
-      <edge toID="0.5" type="Terminal">
         <attributes />
         <category tag="Terminal" />
       </edge>

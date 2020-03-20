@@ -67,9 +67,6 @@
     <node ID="0.35" type="Word">
       <attributes paragraph="1" paragraph_position="35" text="H&#224;n Qu&#7889;c" />
     </node>
-    <node ID="0.36" type="Word">
-      <attributes paragraph="1" paragraph_position="36" text="H&#224;n Qu&#7889;c" />
-    </node>
     <node ID="0.37" type="Punctuation">
       <attributes paragraph="1" paragraph_position="37" text="." />
     </node>
@@ -398,10 +395,6 @@
     <node ID="1.46" type="FN">
       <attributes />
       <edge toID="0.35" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
-      <edge toID="0.36" type="Terminal">
         <attributes />
         <category tag="Terminal" />
       </edge>

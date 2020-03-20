@@ -10,9 +10,6 @@
     <node ID="0.3" type="Word">
       <attributes paragraph="1" paragraph_position="3" text="H&#227;y b&#7843;o v&#7879;" />
     </node>
-    <node ID="0.4" type="Word">
-      <attributes paragraph="1" paragraph_position="4" text="H&#227;y b&#7843;o v&#7879;" />
-    </node>
     <node ID="0.6" type="Word">
       <attributes paragraph="1" paragraph_position="6" text="tr&#237; tu&#7879;" />
     </node>
@@ -67,10 +64,6 @@
     </node>
     <node ID="1.6" type="FN">
       <attributes />
-      <edge toID="0.4" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
       <edge toID="0.6" type="Terminal">
         <attributes />
         <category tag="Terminal" />

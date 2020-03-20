@@ -49,9 +49,6 @@
     <node ID="0.22" type="Word">
       <attributes paragraph="1" paragraph_position="22" text="theo" />
     </node>
-    <node ID="0.23" type="Word">
-      <attributes paragraph="1" paragraph_position="23" text="theo" />
-    </node>
     <node ID="0.24" type="Word">
       <attributes paragraph="1" paragraph_position="24" text="AppBrain" />
     </node>
@@ -71,13 +68,13 @@
         <attributes />
         <category tag="H" />
       </edge>
-      <edge toID="1.7" type="L">
-        <attributes />
-        <category tag="L" />
-      </edge>
       <edge toID="1.8" type="H">
         <attributes />
         <category tag="H" />
+      </edge>
+      <edge toID="1.19" type="L">
+        <attributes />
+        <category tag="L" />
       </edge>
     </node>
     <node ID="1.2" type="FN">
@@ -112,17 +109,6 @@
       <edge toID="1.18" type="A">
         <attributes />
         <category tag="A" />
-      </edge>
-    </node>
-    <node ID="1.7" type="FN">
-      <attributes />
-      <edge toID="1.19" type="C">
-        <attributes />
-        <category tag="C" />
-      </edge>
-      <edge toID="1.20" type="R">
-        <attributes />
-        <category tag="R" />
       </edge>
     </node>
     <node ID="1.8" type="FN">
@@ -212,13 +198,6 @@
     <node ID="1.19" type="FN">
       <attributes />
       <edge toID="0.22" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
-    </node>
-    <node ID="1.20" type="FN">
-      <attributes />
-      <edge toID="0.23" type="Terminal">
         <attributes />
         <category tag="Terminal" />
       </edge>

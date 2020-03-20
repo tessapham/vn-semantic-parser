@@ -7,14 +7,8 @@
     <node ID="0.2" type="Word">
       <attributes paragraph="1" paragraph_position="2" text="c&#7911;a tr&#7867;" />
     </node>
-    <node ID="0.3" type="Word">
-      <attributes paragraph="1" paragraph_position="3" text="c&#7911;a tr&#7867;" />
-    </node>
     <node ID="0.5" type="Word">
       <attributes paragraph="1" paragraph_position="5" text="b&#7879;nh &#225;n" />
-    </node>
-    <node ID="0.6" type="Word">
-      <attributes paragraph="1" paragraph_position="6" text="b&#7879;nh &#225;n" />
     </node>
     <node ID="0.8" type="Word">
       <attributes paragraph="1" paragraph_position="8" text="li&#7879;t k&#234;" />
@@ -58,15 +52,7 @@
         <attributes />
         <category tag="E" />
       </edge>
-      <edge toID="1.4" type="E">
-        <attributes />
-        <category tag="E" />
-      </edge>
-      <edge toID="1.5" type="E">
-        <attributes />
-        <category tag="E" />
-      </edge>
-      <edge toID="1.6" type="C">
+      <edge toID="1.5" type="C">
         <attributes />
         <category tag="C" />
       </edge>
@@ -86,23 +72,9 @@
         <category tag="Terminal" />
       </edge>
     </node>
-    <node ID="1.4" type="FN">
-      <attributes />
-      <edge toID="1.11" type="C">
-        <attributes />
-        <category tag="C" />
-      </edge>
-    </node>
     <node ID="1.5" type="FN">
       <attributes />
       <edge toID="0.5" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
-    </node>
-    <node ID="1.6" type="FN">
-      <attributes />
-      <edge toID="0.6" type="Terminal">
         <attributes />
         <category tag="Terminal" />
       </edge>
@@ -121,13 +93,6 @@
     <node ID="1.9" type="PNCT">
       <attributes />
       <edge toID="0.23" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
-    </node>
-    <node ID="1.11" type="FN">
-      <attributes />
-      <edge toID="0.3" type="Terminal">
         <attributes />
         <category tag="Terminal" />
       </edge>

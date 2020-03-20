@@ -67,14 +67,8 @@
     <node ID="0.32" type="Word">
       <attributes paragraph="1" paragraph_position="32" text="m&#7897;t tuy&#234;n b&#7889; chung" />
     </node>
-    <node ID="0.34" type="Word">
-      <attributes paragraph="1" paragraph_position="34" text="m&#7897;t tuy&#234;n b&#7889; chung" />
-    </node>
     <node ID="0.36" type="Word">
       <attributes paragraph="1" paragraph_position="36" text="Oak Ridge" />
-    </node>
-    <node ID="0.37" type="Word">
-      <attributes paragraph="1" paragraph_position="37" text="Oak Ridge" />
     </node>
     <node ID="0.39" type="Word">
       <attributes paragraph="1" paragraph_position="39" text="Nvidia" />
@@ -223,11 +217,7 @@
     </node>
     <node ID="1.18" type="FN">
       <attributes />
-      <edge toID="1.28" type="E">
-        <attributes />
-        <category tag="E" />
-      </edge>
-      <edge toID="1.30" type="C">
+      <edge toID="1.28" type="C">
         <attributes />
         <category tag="C" />
       </edge>
@@ -304,13 +294,6 @@
     <node ID="1.28" type="FN">
       <attributes />
       <edge toID="0.32" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
-    </node>
-    <node ID="1.30" type="FN">
-      <attributes />
-      <edge toID="0.34" type="Terminal">
         <attributes />
         <category tag="Terminal" />
       </edge>
@@ -401,10 +384,6 @@
     <node ID="1.42" type="FN">
       <attributes />
       <edge toID="0.36" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
-      <edge toID="0.37" type="Terminal">
         <attributes />
         <category tag="Terminal" />
       </edge>

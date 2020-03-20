@@ -13,9 +13,6 @@
     <node ID="0.4" type="Word">
       <attributes paragraph="1" paragraph_position="4" text="N&#7913;t x&#432;&#417;ng" />
     </node>
-    <node ID="0.5" type="Word">
-      <attributes paragraph="1" paragraph_position="5" text="N&#7913;t x&#432;&#417;ng" />
-    </node>
   </layer>
   <layer layerID="1">
     <attributes />
@@ -39,7 +36,7 @@
     </node>
     <node ID="1.4" type="FN">
       <attributes />
-      <edge toID="1.6" type="A">
+      <edge toID="1.9" type="A">
         <attributes />
         <category tag="A" />
       </edge>
@@ -51,17 +48,6 @@
         <category tag="E" />
       </edge>
       <edge toID="1.8" type="C">
-        <attributes />
-        <category tag="C" />
-      </edge>
-    </node>
-    <node ID="1.6" type="FN">
-      <attributes />
-      <edge toID="1.9" type="E">
-        <attributes />
-        <category tag="E" />
-      </edge>
-      <edge toID="1.10" type="C">
         <attributes />
         <category tag="C" />
       </edge>
@@ -83,13 +69,6 @@
     <node ID="1.9" type="FN">
       <attributes />
       <edge toID="0.4" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
-    </node>
-    <node ID="1.10" type="FN">
-      <attributes />
-      <edge toID="0.5" type="Terminal">
         <attributes />
         <category tag="Terminal" />
       </edge>

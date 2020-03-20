@@ -31,9 +31,6 @@
     <node ID="0.17" type="Word">
       <attributes paragraph="1" paragraph_position="17" text="20%" />
     </node>
-    <node ID="0.18" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="18" text="20%" />
-    </node>
     <node ID="0.19" type="Word">
       <attributes paragraph="1" paragraph_position="19" text="trong" />
     </node>
@@ -51,9 +48,6 @@
     </node>
     <node ID="0.25" type="Word">
       <attributes paragraph="1" paragraph_position="25" text="12%" />
-    </node>
-    <node ID="0.26" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="26" text="12%" />
     </node>
     <node ID="0.27" type="Punctuation">
       <attributes paragraph="1" paragraph_position="27" text="." />
@@ -98,10 +92,6 @@
       <edge toID="1.14" type="S">
         <attributes />
         <category tag="S" />
-      </edge>
-      <edge toID="1.15" type="U">
-        <attributes />
-        <category tag="U" />
       </edge>
       <edge toID="1.16" type="U">
         <attributes />
@@ -150,10 +140,6 @@
         <attributes />
         <category tag="C" />
       </edge>
-      <edge toID="1.28" type="U">
-        <attributes />
-        <category tag="U" />
-      </edge>
       <edge toID="1.29" type="R">
         <attributes />
         <category tag="R" />
@@ -187,13 +173,6 @@
     <node ID="1.14" type="FN">
       <attributes />
       <edge toID="0.25" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
-    </node>
-    <node ID="1.15" type="PNCT">
-      <attributes />
-      <edge toID="0.26" type="Terminal">
         <attributes />
         <category tag="Terminal" />
       </edge>
@@ -251,13 +230,6 @@
     <node ID="1.27" type="FN">
       <attributes />
       <edge toID="0.17" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
-    </node>
-    <node ID="1.28" type="PNCT">
-      <attributes />
-      <edge toID="0.18" type="Terminal">
         <attributes />
         <category tag="Terminal" />
       </edge>

@@ -7,12 +7,6 @@
     <node ID="0.1" type="Word">
       <attributes paragraph="1" paragraph_position="1" text="C&#361;ng theo t&#7893; ch&#7913;c n&#224;y" />
     </node>
-    <node ID="0.2" type="Word">
-      <attributes paragraph="1" paragraph_position="2" text="C&#361;ng theo t&#7893; ch&#7913;c n&#224;y" />
-    </node>
-    <node ID="0.3" type="Word">
-      <attributes paragraph="1" paragraph_position="3" text="C&#361;ng theo t&#7893; ch&#7913;c n&#224;y" />
-    </node>
     <node ID="0.4" type="Word">
       <attributes paragraph="1" paragraph_position="4" text="Trung Qu&#7889;c" />
     </node>
@@ -82,10 +76,6 @@
         <attributes />
         <category tag="A" />
       </edge>
-      <edge toID="1.10" type="P">
-        <attributes />
-        <category tag="P" />
-      </edge>
       <edge toID="1.11" type="A">
         <attributes />
         <category tag="A" />
@@ -141,19 +131,8 @@
         <category tag="Terminal" />
       </edge>
     </node>
-    <node ID="1.10" type="FN">
-      <attributes />
-      <edge toID="0.2" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
-    </node>
     <node ID="1.11" type="FN">
       <attributes />
-      <edge toID="1.21" type="F">
-        <attributes />
-        <category tag="F" />
-      </edge>
       <edge toID="1.22" type="A">
         <attributes />
         <category tag="A" />
@@ -194,13 +173,6 @@
     <node ID="1.20" type="PNCT">
       <attributes />
       <edge toID="0.20" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
-    </node>
-    <node ID="1.21" type="FN">
-      <attributes />
-      <edge toID="0.3" type="Terminal">
         <attributes />
         <category tag="Terminal" />
       </edge>

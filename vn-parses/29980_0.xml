@@ -88,9 +88,6 @@
     <node ID="0.43" type="Word">
       <attributes paragraph="1" paragraph_position="43" text="kh&#244;ng trung" />
     </node>
-    <node ID="0.44" type="Word">
-      <attributes paragraph="1" paragraph_position="44" text="kh&#244;ng trung" />
-    </node>
     <node ID="0.47" type="Word">
       <attributes paragraph="1" paragraph_position="47" text="nh&#7919;ng ch&#250; ru&#7891;i" />
     </node>
@@ -625,11 +622,7 @@
         <attributes />
         <category tag="R" />
       </edge>
-      <edge toID="1.90" type="E">
-        <attributes />
-        <category tag="E" />
-      </edge>
-      <edge toID="1.91" type="C">
+      <edge toID="1.90" type="C">
         <attributes />
         <category tag="C" />
       </edge>
@@ -917,13 +910,6 @@
     <node ID="1.90" type="FN">
       <attributes />
       <edge toID="0.43" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
-    </node>
-    <node ID="1.91" type="FN">
-      <attributes />
-      <edge toID="0.44" type="Terminal">
         <attributes />
         <category tag="Terminal" />
       </edge>

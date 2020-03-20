@@ -64,12 +64,6 @@
     <node ID="0.25" type="Word">
       <attributes paragraph="1" paragraph_position="25" text="L&#432;&#7905;ng Vi&#7879;n Qu&#7889;c H&#7897;i" />
     </node>
-    <node ID="0.26" type="Word">
-      <attributes paragraph="1" paragraph_position="26" text="L&#432;&#7905;ng Vi&#7879;n Qu&#7889;c H&#7897;i" />
-    </node>
-    <node ID="0.27" type="Word">
-      <attributes paragraph="1" paragraph_position="27" text="L&#432;&#7905;ng Vi&#7879;n Qu&#7889;c H&#7897;i" />
-    </node>
     <node ID="0.28" type="Punctuation">
       <attributes paragraph="1" paragraph_position="28" text="." />
     </node>
@@ -355,14 +349,6 @@
     <node ID="1.32" type="FN">
       <attributes />
       <edge toID="0.25" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
-      <edge toID="0.26" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
-      <edge toID="0.27" type="Terminal">
         <attributes />
         <category tag="Terminal" />
       </edge>

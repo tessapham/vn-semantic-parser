@@ -10,9 +10,6 @@
     <node ID="0.3" type="Word">
       <attributes paragraph="1" paragraph_position="3" text="cho r&#7857;ng" />
     </node>
-    <node ID="0.4" type="Word">
-      <attributes paragraph="1" paragraph_position="4" text="cho r&#7857;ng" />
-    </node>
     <node ID="0.5" type="Word">
       <attributes paragraph="1" paragraph_position="5" text="t&#237;nh e th&#7865;n" />
     </node>
@@ -33,9 +30,6 @@
     </node>
     <node ID="0.13" type="Word">
       <attributes paragraph="1" paragraph_position="13" text="gi&#7843;i quy&#7871;t" />
-    </node>
-    <node ID="0.14" type="Word">
-      <attributes paragraph="1" paragraph_position="14" text="gi&#7843;i quy&#7871;t" />
     </node>
     <node ID="0.15" type="Word">
       <attributes paragraph="1" paragraph_position="15" text="x&#227; h&#7897;i" />
@@ -175,10 +169,6 @@
     </node>
     <node ID="1.8" type="FN">
       <attributes />
-      <edge toID="1.16" type="F">
-        <attributes />
-        <category tag="F" />
-      </edge>
       <edge toID="1.17" type="A">
         <attributes />
         <category tag="A" />
@@ -261,13 +251,6 @@
       <edge toID="1.32" type="U">
         <attributes />
         <category tag="U" />
-      </edge>
-    </node>
-    <node ID="1.16" type="FN">
-      <attributes />
-      <edge toID="0.4" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
       </edge>
     </node>
     <node ID="1.17" type="FN">
@@ -448,10 +431,6 @@
     </node>
     <node ID="1.41" type="FN">
       <attributes />
-      <edge toID="1.49" type="R">
-        <attributes />
-        <category tag="R" />
-      </edge>
       <edge toID="1.50" type="E">
         <attributes />
         <category tag="E" />
@@ -520,13 +499,6 @@
       <edge toID="1.57" type="C">
         <attributes />
         <category tag="C" />
-      </edge>
-    </node>
-    <node ID="1.49" type="FN">
-      <attributes />
-      <edge toID="0.14" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
       </edge>
     </node>
     <node ID="1.50" type="FN">

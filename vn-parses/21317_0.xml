@@ -37,9 +37,6 @@
     <node ID="0.27" type="Word">
       <attributes paragraph="1" paragraph_position="27" text="con c&#225; ng&#7899; ng&#7849;n" />
     </node>
-    <node ID="0.28" type="Word">
-      <attributes paragraph="1" paragraph_position="28" text="con c&#225; ng&#7899; ng&#7849;n" />
-    </node>
   </layer>
   <layer layerID="1">
     <attributes />
@@ -111,11 +108,7 @@
         <attributes />
         <category tag="E" />
       </edge>
-      <edge toID="1.21" type="E">
-        <attributes />
-        <category tag="E" />
-      </edge>
-      <edge toID="1.22" type="C">
+      <edge toID="1.21" type="C">
         <attributes />
         <category tag="C" />
       </edge>
@@ -163,13 +156,6 @@
     <node ID="1.21" type="FN">
       <attributes />
       <edge toID="0.27" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
-    </node>
-    <node ID="1.22" type="FN">
-      <attributes />
-      <edge toID="0.28" type="Terminal">
         <attributes />
         <category tag="Terminal" />
       </edge>

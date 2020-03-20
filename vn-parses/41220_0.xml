@@ -13,9 +13,6 @@
     <node ID="0.5" type="Word">
       <attributes paragraph="1" paragraph_position="5" text="th&#7853;t tuy&#7879;t" />
     </node>
-    <node ID="0.6" type="Word">
-      <attributes paragraph="1" paragraph_position="6" text="th&#7853;t tuy&#7879;t" />
-    </node>
   </layer>
   <layer layerID="1">
     <attributes />
@@ -50,11 +47,7 @@
         <attributes />
         <category tag="F" />
       </edge>
-      <edge toID="1.8" type="D">
-        <attributes />
-        <category tag="D" />
-      </edge>
-      <edge toID="1.9" type="S">
+      <edge toID="1.8" type="S">
         <attributes />
         <category tag="S" />
       </edge>
@@ -69,13 +62,6 @@
     <node ID="1.8" type="FN">
       <attributes />
       <edge toID="0.5" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
-    </node>
-    <node ID="1.9" type="FN">
-      <attributes />
-      <edge toID="0.6" type="Terminal">
         <attributes />
         <category tag="Terminal" />
       </edge>

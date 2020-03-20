@@ -61,9 +61,6 @@
     <node ID="0.31" type="Word">
       <attributes paragraph="1" paragraph_position="31" text="h&#237;t v&#224;o" />
     </node>
-    <node ID="0.32" type="Word">
-      <attributes paragraph="1" paragraph_position="32" text="h&#237;t v&#224;o" />
-    </node>
     <node ID="0.33" type="Punctuation">
       <attributes paragraph="1" paragraph_position="33" text="." />
     </node>
@@ -285,10 +282,6 @@
     <node ID="1.30" type="FN">
       <attributes />
       <edge toID="0.31" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
-      <edge toID="0.32" type="Terminal">
         <attributes />
         <category tag="Terminal" />
       </edge>

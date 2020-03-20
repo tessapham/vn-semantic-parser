@@ -7,9 +7,6 @@
     <node ID="0.3" type="Word">
       <attributes paragraph="1" paragraph_position="3" text="Ho&#225; ra" />
     </node>
-    <node ID="0.4" type="Word">
-      <attributes paragraph="1" paragraph_position="4" text="Ho&#225; ra" />
-    </node>
     <node ID="0.6" type="Word">
       <attributes paragraph="1" paragraph_position="6" text="Origami" />
     </node>
@@ -99,13 +96,13 @@
     </node>
     <node ID="1.9" type="FN">
       <attributes />
-      <edge toID="1.12" type="P">
-        <attributes />
-        <category tag="P" />
-      </edge>
       <edge toID="1.13" type="A">
         <attributes />
         <category tag="A" />
+      </edge>
+      <edge toID="1.17" type="P">
+        <attributes />
+        <category tag="P" />
       </edge>
     </node>
     <node ID="1.10" type="FN">
@@ -121,17 +118,6 @@
       <edge toID="1.16" type="A">
         <attributes />
         <category tag="A" />
-      </edge>
-    </node>
-    <node ID="1.12" type="FN">
-      <attributes />
-      <edge toID="1.17" type="C">
-        <attributes />
-        <category tag="C" />
-      </edge>
-      <edge toID="1.18" type="E">
-        <attributes />
-        <category tag="E" />
       </edge>
     </node>
     <node ID="1.13" type="FN">
@@ -173,13 +159,6 @@
     <node ID="1.17" type="FN">
       <attributes />
       <edge toID="0.3" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
-    </node>
-    <node ID="1.18" type="FN">
-      <attributes />
-      <edge toID="0.4" type="Terminal">
         <attributes />
         <category tag="Terminal" />
       </edge>

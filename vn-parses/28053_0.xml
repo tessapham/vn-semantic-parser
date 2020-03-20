@@ -79,9 +79,6 @@
     <node ID="0.27" type="Punctuation">
       <attributes paragraph="1" paragraph_position="27" text="&quot;" />
     </node>
-    <node ID="0.28" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="28" text="&quot;" />
-    </node>
   </layer>
   <layer layerID="1">
     <attributes />
@@ -285,10 +282,6 @@
         <attributes />
         <category tag="U" />
       </edge>
-      <edge toID="1.33" type="U">
-        <attributes />
-        <category tag="U" />
-      </edge>
     </node>
     <node ID="1.18" type="FN">
       <attributes />
@@ -391,13 +384,6 @@
     <node ID="1.32" type="PNCT">
       <attributes />
       <edge toID="0.27" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
-    </node>
-    <node ID="1.33" type="PNCT">
-      <attributes />
-      <edge toID="0.28" type="Terminal">
         <attributes />
         <category tag="Terminal" />
       </edge>

@@ -7,9 +7,6 @@
     <node ID="0.2" type="Word">
       <attributes paragraph="1" paragraph_position="2" text="th&#225;i c&#7921;c quy&#7873;n" />
     </node>
-    <node ID="0.3" type="Word">
-      <attributes paragraph="1" paragraph_position="3" text="th&#225;i c&#7921;c quy&#7873;n" />
-    </node>
   </layer>
   <layer layerID="1">
     <attributes />
@@ -22,32 +19,14 @@
     </node>
     <node ID="1.2" type="FN">
       <attributes />
-      <edge toID="1.4" type="P">
+      <edge toID="1.5" type="P">
         <attributes />
         <category tag="P" />
-      </edge>
-    </node>
-    <node ID="1.4" type="FN">
-      <attributes />
-      <edge toID="1.5" type="E">
-        <attributes />
-        <category tag="E" />
-      </edge>
-      <edge toID="1.6" type="C">
-        <attributes />
-        <category tag="C" />
       </edge>
     </node>
     <node ID="1.5" type="FN">
       <attributes />
       <edge toID="0.2" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
-    </node>
-    <node ID="1.6" type="FN">
-      <attributes />
-      <edge toID="0.3" type="Terminal">
         <attributes />
         <category tag="Terminal" />
       </edge>

@@ -28,9 +28,6 @@
     <node ID="0.14" type="Word">
       <attributes paragraph="1" paragraph_position="14" text="nh&#7853;n l&#7841;i" />
     </node>
-    <node ID="0.15" type="Word">
-      <attributes paragraph="1" paragraph_position="15" text="nh&#7853;n l&#7841;i" />
-    </node>
     <node ID="0.17" type="Word">
       <attributes paragraph="1" paragraph_position="17" text="Huydai" />
     </node>
@@ -165,10 +162,6 @@
         <attributes />
         <category tag="P" />
       </edge>
-      <edge toID="1.21" type="D">
-        <attributes />
-        <category tag="D" />
-      </edge>
       <edge toID="1.22" type="A">
         <attributes />
         <category tag="A" />
@@ -253,13 +246,6 @@
     <node ID="1.20" type="FN">
       <attributes />
       <edge toID="0.14" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
-    </node>
-    <node ID="1.21" type="FN">
-      <attributes />
-      <edge toID="0.15" type="Terminal">
         <attributes />
         <category tag="Terminal" />
       </edge>

@@ -76,9 +76,6 @@
     <node ID="0.46" type="Word">
       <attributes paragraph="1" paragraph_position="46" text="t&#7855;t ng&#250;m" />
     </node>
-    <node ID="0.47" type="Word">
-      <attributes paragraph="1" paragraph_position="47" text="t&#7855;t ng&#250;m" />
-    </node>
     <node ID="0.48" type="Word">
       <attributes paragraph="1" paragraph_position="48" text="v&#224;" />
     </node>
@@ -406,10 +403,6 @@
     <node ID="1.37" type="FN">
       <attributes />
       <edge toID="0.46" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
-      <edge toID="0.47" type="Terminal">
         <attributes />
         <category tag="Terminal" />
       </edge>

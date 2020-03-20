@@ -13,9 +13,6 @@
     <node ID="0.3" type="Word">
       <attributes paragraph="1" paragraph_position="3" text="c&#361;ng kh&#244;ng" />
     </node>
-    <node ID="0.4" type="Word">
-      <attributes paragraph="1" paragraph_position="4" text="c&#361;ng kh&#244;ng" />
-    </node>
     <node ID="0.5" type="Word">
       <attributes paragraph="1" paragraph_position="5" text="mu&#7889;n" />
     </node>
@@ -27,9 +24,6 @@
     </node>
     <node ID="0.9" type="Word">
       <attributes paragraph="1" paragraph_position="9" text="Malaysia" />
-    </node>
-    <node ID="0.10" type="Word">
-      <attributes paragraph="1" paragraph_position="10" text="c&#361;ng kh&#244;ng" />
     </node>
     <node ID="0.11" type="Punctuation">
       <attributes paragraph="1" paragraph_position="11" text="." />
@@ -53,10 +47,6 @@
       <edge toID="1.4" type="F">
         <attributes />
         <category tag="F" />
-      </edge>
-      <edge toID="1.5" type="D">
-        <attributes />
-        <category tag="D" />
       </edge>
       <edge toID="1.6" type="D">
         <attributes />
@@ -85,13 +75,6 @@
         <category tag="Terminal" />
       </edge>
     </node>
-    <node ID="1.5" type="FN">
-      <attributes />
-      <edge toID="0.4" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
-    </node>
     <node ID="1.6" type="FN">
       <attributes />
       <edge toID="0.5" type="Terminal">
@@ -108,10 +91,6 @@
       <edge toID="1.10" type="A">
         <attributes />
         <category tag="A" />
-      </edge>
-      <edge toID="1.11" type="D">
-        <attributes />
-        <category tag="D" />
       </edge>
       <edge toID="1.12" type="U">
         <attributes />
@@ -134,13 +113,6 @@
       <edge toID="1.14" type="C">
         <attributes />
         <category tag="C" />
-      </edge>
-    </node>
-    <node ID="1.11" type="FN">
-      <attributes />
-      <edge toID="0.10" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
       </edge>
     </node>
     <node ID="1.12" type="PNCT">

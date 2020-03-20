@@ -13,9 +13,6 @@
     <node ID="0.4" type="Word">
       <attributes paragraph="1" paragraph_position="4" text="chia tay" />
     </node>
-    <node ID="0.5" type="Word">
-      <attributes paragraph="1" paragraph_position="5" text="chia tay" />
-    </node>
     <node ID="0.6" type="Punctuation">
       <attributes paragraph="1" paragraph_position="6" text="." />
     </node>
@@ -54,10 +51,6 @@
     <node ID="1.4" type="FN">
       <attributes />
       <edge toID="0.4" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
-      <edge toID="0.5" type="Terminal">
         <attributes />
         <category tag="Terminal" />
       </edge>

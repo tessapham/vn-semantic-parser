@@ -52,9 +52,6 @@
     <node ID="0.26" type="Word">
       <attributes paragraph="1" paragraph_position="26" text="&#273;&#432;a qua" />
     </node>
-    <node ID="0.27" type="Word">
-      <attributes paragraph="1" paragraph_position="27" text="&#273;&#432;a qua" />
-    </node>
     <node ID="0.29" type="Word">
       <attributes paragraph="1" paragraph_position="29" text="ni&#7879;u &#273;&#7841;o" />
     </node>
@@ -286,10 +283,6 @@
     </node>
     <node ID="1.29" type="FN">
       <attributes />
-      <edge toID="1.38" type="R">
-        <attributes />
-        <category tag="R" />
-      </edge>
       <edge toID="1.39" type="C">
         <attributes />
         <category tag="C" />
@@ -343,13 +336,6 @@
       <edge toID="1.45" type="C">
         <attributes />
         <category tag="C" />
-      </edge>
-    </node>
-    <node ID="1.38" type="FN">
-      <attributes />
-      <edge toID="0.27" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
       </edge>
     </node>
     <node ID="1.39" type="FN">

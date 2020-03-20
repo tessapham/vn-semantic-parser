@@ -7,9 +7,6 @@
     <node ID="0.2" type="Word">
       <attributes paragraph="1" paragraph_position="2" text="Ch&#250;c vui" />
     </node>
-    <node ID="0.3" type="Word">
-      <attributes paragraph="1" paragraph_position="3" text="Ch&#250;c vui" />
-    </node>
     <node ID="0.4" type="Punctuation">
       <attributes paragraph="1" paragraph_position="4" text="!" />
     </node>
@@ -25,11 +22,7 @@
     </node>
     <node ID="1.2" type="FN">
       <attributes />
-      <edge toID="1.4" type="D">
-        <attributes />
-        <category tag="D" />
-      </edge>
-      <edge toID="1.5" type="P">
+      <edge toID="1.4" type="P">
         <attributes />
         <category tag="P" />
       </edge>
@@ -41,13 +34,6 @@
     <node ID="1.4" type="FN">
       <attributes />
       <edge toID="0.2" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
-    </node>
-    <node ID="1.5" type="FN">
-      <attributes />
-      <edge toID="0.3" type="Terminal">
         <attributes />
         <category tag="Terminal" />
       </edge>

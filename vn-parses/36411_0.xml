@@ -43,9 +43,6 @@
     <node ID="0.17" type="Word">
       <attributes paragraph="1" paragraph_position="17" text="kh&#244;ng h&#7873;" />
     </node>
-    <node ID="0.18" type="Word">
-      <attributes paragraph="1" paragraph_position="18" text="kh&#244;ng h&#7873;" />
-    </node>
     <node ID="0.20" type="Word">
       <attributes paragraph="1" paragraph_position="20" text="li&#234;n quan" />
     </node>
@@ -204,11 +201,7 @@
         <attributes />
         <category tag="A" />
       </edge>
-      <edge toID="1.23" type="F">
-        <attributes />
-        <category tag="F" />
-      </edge>
-      <edge toID="1.24" type="D">
+      <edge toID="1.23" type="D">
         <attributes />
         <category tag="D" />
       </edge>
@@ -256,13 +249,6 @@
     <node ID="1.23" type="FN">
       <attributes />
       <edge toID="0.17" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
-    </node>
-    <node ID="1.24" type="FN">
-      <attributes />
-      <edge toID="0.18" type="Terminal">
         <attributes />
         <category tag="Terminal" />
       </edge>

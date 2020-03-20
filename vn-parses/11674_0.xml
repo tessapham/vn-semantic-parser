@@ -31,9 +31,6 @@
     <node ID="0.10" type="Word">
       <attributes paragraph="1" paragraph_position="10" text="n&#234;n" />
     </node>
-    <node ID="0.11" type="Word">
-      <attributes paragraph="1" paragraph_position="11" text="xem x&#233;t" />
-    </node>
     <node ID="0.12" type="Word">
       <attributes paragraph="1" paragraph_position="12" text="xem x&#233;t" />
     </node>
@@ -210,10 +207,6 @@
         <attributes />
         <category tag="D" />
       </edge>
-      <edge toID="1.22" type="P">
-        <attributes />
-        <category tag="P" />
-      </edge>
     </node>
     <node ID="1.14" type="FN">
       <attributes />
@@ -287,13 +280,6 @@
     <node ID="1.21" type="FN">
       <attributes />
       <edge toID="0.10" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
-    </node>
-    <node ID="1.22" type="FN">
-      <attributes />
-      <edge toID="0.11" type="Terminal">
         <attributes />
         <category tag="Terminal" />
       </edge>

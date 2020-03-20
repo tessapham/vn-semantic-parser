@@ -7,9 +7,6 @@
     <node ID="0.1" type="Word">
       <attributes paragraph="1" paragraph_position="1" text="Sahar Gul" />
     </node>
-    <node ID="0.2" type="Word">
-      <attributes paragraph="1" paragraph_position="2" text="Sahar Gul" />
-    </node>
     <node ID="0.4" type="Word">
       <attributes paragraph="1" paragraph_position="4" text="15 tu&#7893;i" />
     </node>
@@ -30,9 +27,6 @@
     </node>
     <node ID="0.15" type="Word">
       <attributes paragraph="1" paragraph_position="15" text="r&#250;t" />
-    </node>
-    <node ID="0.16" type="Word">
-      <attributes paragraph="1" paragraph_position="16" text="r&#250;t" />
     </node>
     <node ID="0.17" type="Word">
       <attributes paragraph="1" paragraph_position="17" text="sau khi" />
@@ -146,7 +140,7 @@
         <attributes />
         <category tag="A" />
       </edge>
-      <edge toID="1.20" type="P">
+      <edge toID="1.31" type="P">
         <attributes />
         <category tag="P" />
       </edge>
@@ -208,27 +202,12 @@
         <attributes />
         <category tag="Terminal" />
       </edge>
-      <edge toID="0.2" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
     </node>
     <node ID="1.19" type="FN">
       <attributes />
       <edge toID="1.30" type="C">
         <attributes />
         <category tag="C" />
-      </edge>
-    </node>
-    <node ID="1.20" type="FN">
-      <attributes />
-      <edge toID="1.31" type="C">
-        <attributes />
-        <category tag="C" />
-      </edge>
-      <edge toID="1.32" type="E">
-        <attributes />
-        <category tag="E" />
       </edge>
     </node>
     <node ID="1.21" type="FN">
@@ -284,13 +263,6 @@
     <node ID="1.31" type="FN">
       <attributes />
       <edge toID="0.15" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
-    </node>
-    <node ID="1.32" type="FN">
-      <attributes />
-      <edge toID="0.16" type="Terminal">
         <attributes />
         <category tag="Terminal" />
       </edge>

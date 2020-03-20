@@ -79,9 +79,6 @@
     <node ID="0.38" type="Word">
       <attributes paragraph="1" paragraph_position="38" text="m&#7897;t th&#7901;i gian" />
     </node>
-    <node ID="0.39" type="Word">
-      <attributes paragraph="1" paragraph_position="39" text="m&#7897;t th&#7901;i gian" />
-    </node>
     <node ID="0.41" type="Punctuation">
       <attributes paragraph="1" paragraph_position="41" text="&quot;" />
     </node>
@@ -307,11 +304,7 @@
         <attributes />
         <category tag="R" />
       </edge>
-      <edge toID="1.41" type="E">
-        <attributes />
-        <category tag="E" />
-      </edge>
-      <edge toID="1.42" type="C">
+      <edge toID="1.41" type="C">
         <attributes />
         <category tag="C" />
       </edge>
@@ -405,13 +398,6 @@
     <node ID="1.41" type="FN">
       <attributes />
       <edge toID="0.38" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
-    </node>
-    <node ID="1.42" type="FN">
-      <attributes />
-      <edge toID="0.39" type="Terminal">
         <attributes />
         <category tag="Terminal" />
       </edge>

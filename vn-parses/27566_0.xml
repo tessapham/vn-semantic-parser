@@ -22,9 +22,6 @@
     <node ID="0.11" type="Word">
       <attributes paragraph="1" paragraph_position="11" text="ng&#432;&#7901;i" />
     </node>
-    <node ID="0.12" type="Word">
-      <attributes paragraph="1" paragraph_position="12" text="ng&#432;&#7901;i" />
-    </node>
     <node ID="0.13" type="Word">
       <attributes paragraph="1" paragraph_position="13" text="d&#224;nh cho" />
     </node>
@@ -190,10 +187,6 @@
         <attributes remote="True" />
         <category tag="A" />
       </edge>
-      <edge toID="1.22" type="F">
-        <attributes />
-        <category tag="F" />
-      </edge>
       <edge toID="1.23" type="P">
         <attributes />
         <category tag="P" />
@@ -231,13 +224,6 @@
       <edge toID="1.30" type="A">
         <attributes />
         <category tag="A" />
-      </edge>
-    </node>
-    <node ID="1.22" type="FN">
-      <attributes />
-      <edge toID="0.12" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
       </edge>
     </node>
     <node ID="1.23" type="FN">

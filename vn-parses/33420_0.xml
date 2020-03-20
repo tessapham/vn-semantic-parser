@@ -25,9 +25,6 @@
     <node ID="0.9" type="Word">
       <attributes paragraph="1" paragraph_position="9" text="ao &#432;&#7899;c" />
     </node>
-    <node ID="0.10" type="Word">
-      <attributes paragraph="1" paragraph_position="10" text="ao &#432;&#7899;c" />
-    </node>
     <node ID="0.11" type="Punctuation">
       <attributes paragraph="1" paragraph_position="11" text="." />
     </node>
@@ -127,20 +124,9 @@
     </node>
     <node ID="1.12" type="FN">
       <attributes />
-      <edge toID="1.13" type="R">
-        <attributes />
-        <category tag="R" />
-      </edge>
       <edge toID="1.14" type="U">
         <attributes />
         <category tag="U" />
-      </edge>
-    </node>
-    <node ID="1.13" type="FN">
-      <attributes />
-      <edge toID="0.10" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
       </edge>
     </node>
     <node ID="1.14" type="PNCT">

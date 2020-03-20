@@ -13,9 +13,6 @@
     <node ID="0.7" type="Word">
       <attributes paragraph="1" paragraph_position="7" text="trong n&#432;&#7899;c" />
     </node>
-    <node ID="0.8" type="Word">
-      <attributes paragraph="1" paragraph_position="8" text="trong n&#432;&#7899;c" />
-    </node>
     <node ID="0.9" type="Word">
       <attributes paragraph="1" paragraph_position="9" text="h&#224;ng th&#225;ng" />
     </node>
@@ -148,10 +145,6 @@
     </node>
     <node ID="1.18" type="FN">
       <attributes />
-      <edge toID="1.21" type="E">
-        <attributes />
-        <category tag="E" />
-      </edge>
       <edge toID="1.22" type="C">
         <attributes />
         <category tag="C" />
@@ -167,13 +160,6 @@
     <node ID="1.20" type="FN">
       <attributes />
       <edge toID="0.11" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
-    </node>
-    <node ID="1.21" type="FN">
-      <attributes />
-      <edge toID="0.8" type="Terminal">
         <attributes />
         <category tag="Terminal" />
       </edge>

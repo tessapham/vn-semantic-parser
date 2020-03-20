@@ -28,9 +28,6 @@
     <node ID="0.10" type="Word">
       <attributes paragraph="1" paragraph_position="10" text="di s&#7843;n v&#259;n h&#243;a" />
     </node>
-    <node ID="0.11" type="Word">
-      <attributes paragraph="1" paragraph_position="11" text="di s&#7843;n v&#259;n h&#243;a" />
-    </node>
   </layer>
   <layer layerID="1">
     <attributes />
@@ -100,10 +97,6 @@
         <category tag="Terminal" />
       </edge>
       <edge toID="0.10" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
-      <edge toID="0.11" type="Terminal">
         <attributes />
         <category tag="Terminal" />
       </edge>

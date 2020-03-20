@@ -7,9 +7,6 @@
     <node ID="0.2" type="Word">
       <attributes paragraph="1" paragraph_position="2" text="John McCain" />
     </node>
-    <node ID="0.3" type="Word">
-      <attributes paragraph="1" paragraph_position="3" text="John McCain" />
-    </node>
     <node ID="0.4" type="Word">
       <attributes paragraph="1" paragraph_position="4" text="&#7911;ng" />
     </node>
@@ -72,9 +69,6 @@
     </node>
     <node ID="0.30" type="Word">
       <attributes paragraph="1" paragraph_position="30" text="." />
-    </node>
-    <node ID="0.31" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="31" text="." />
     </node>
   </layer>
   <layer layerID="1">
@@ -161,10 +155,6 @@
     <node ID="1.9" type="FN">
       <attributes />
       <edge toID="0.2" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
-      <edge toID="0.3" type="Terminal">
         <attributes />
         <category tag="Terminal" />
       </edge>
@@ -316,10 +306,6 @@
         <attributes />
         <category tag="P" />
       </edge>
-      <edge toID="1.36" type="U">
-        <attributes />
-        <category tag="U" />
-      </edge>
     </node>
     <node ID="1.29" type="FN">
       <attributes />
@@ -367,13 +353,6 @@
     <node ID="1.35" type="FN">
       <attributes />
       <edge toID="0.30" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
-    </node>
-    <node ID="1.36" type="PNCT">
-      <attributes />
-      <edge toID="0.31" type="Terminal">
         <attributes />
         <category tag="Terminal" />
       </edge>

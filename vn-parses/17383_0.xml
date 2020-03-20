@@ -22,9 +22,6 @@
     <node ID="0.7" type="Word">
       <attributes paragraph="1" paragraph_position="7" text="c&#361;ng" />
     </node>
-    <node ID="0.8" type="Word">
-      <attributes paragraph="1" paragraph_position="8" text="c&#361;ng" />
-    </node>
     <node ID="0.9" type="Punctuation">
       <attributes paragraph="1" paragraph_position="9" text="." />
     </node>
@@ -81,11 +78,7 @@
     </node>
     <node ID="1.5" type="FN">
       <attributes />
-      <edge toID="1.6" type="R">
-        <attributes />
-        <category tag="R" />
-      </edge>
-      <edge toID="1.7" type="C">
+      <edge toID="1.6" type="C">
         <attributes />
         <category tag="C" />
       </edge>
@@ -97,13 +90,6 @@
     <node ID="1.6" type="FN">
       <attributes />
       <edge toID="0.7" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
-    </node>
-    <node ID="1.7" type="FN">
-      <attributes />
-      <edge toID="0.8" type="Terminal">
         <attributes />
         <category tag="Terminal" />
       </edge>

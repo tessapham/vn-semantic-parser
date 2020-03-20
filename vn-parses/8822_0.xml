@@ -43,9 +43,6 @@
     <node ID="0.13" type="Word">
       <attributes paragraph="1" paragraph_position="13" text="n&#243;i chung" />
     </node>
-    <node ID="0.14" type="Word">
-      <attributes paragraph="1" paragraph_position="14" text="c&#243; th&#7875;" />
-    </node>
     <node ID="0.15" type="Word">
       <attributes paragraph="1" paragraph_position="15" text="c&#243; th&#7875;" />
     </node>
@@ -228,10 +225,6 @@
     </node>
     <node ID="1.14" type="FN">
       <attributes />
-      <edge toID="1.24" type="F">
-        <attributes />
-        <category tag="F" />
-      </edge>
       <edge toID="1.25" type="C">
         <attributes />
         <category tag="C" />
@@ -304,13 +297,6 @@
     <node ID="1.23" type="FN">
       <attributes />
       <edge toID="0.12" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
-    </node>
-    <node ID="1.24" type="FN">
-      <attributes />
-      <edge toID="0.14" type="Terminal">
         <attributes />
         <category tag="Terminal" />
       </edge>

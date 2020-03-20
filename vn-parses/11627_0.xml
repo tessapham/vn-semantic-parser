@@ -7,9 +7,6 @@
     <node ID="0.1" type="Word">
       <attributes paragraph="1" paragraph_position="1" text="Xem x&#233;t" />
     </node>
-    <node ID="0.2" type="Word">
-      <attributes paragraph="1" paragraph_position="2" text="Xem x&#233;t" />
-    </node>
     <node ID="0.3" type="Word">
       <attributes paragraph="1" paragraph_position="3" text="nh&#7919;ng y&#7871;u t&#7889; c&#417; b&#7843;n" />
     </node>
@@ -218,10 +215,6 @@
     </node>
     <node ID="1.12" type="FN">
       <attributes />
-      <edge toID="1.25" type="R">
-        <attributes />
-        <category tag="R" />
-      </edge>
       <edge toID="1.26" type="C">
         <attributes />
         <category tag="C" />
@@ -345,13 +338,6 @@
       <edge toID="1.43" type="U">
         <attributes />
         <category tag="U" />
-      </edge>
-    </node>
-    <node ID="1.25" type="FN">
-      <attributes />
-      <edge toID="0.2" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
       </edge>
     </node>
     <node ID="1.26" type="FN">

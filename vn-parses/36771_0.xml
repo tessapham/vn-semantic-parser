@@ -82,9 +82,6 @@
     <node ID="0.33" type="Word">
       <attributes paragraph="1" paragraph_position="33" text="." />
     </node>
-    <node ID="0.34" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="34" text="." />
-    </node>
   </layer>
   <layer layerID="1">
     <attributes />
@@ -139,10 +136,6 @@
         <attributes />
         <category tag="C" />
       </edge>
-      <edge toID="1.12" type="U">
-        <attributes />
-        <category tag="U" />
-      </edge>
     </node>
     <node ID="1.6" type="FN">
       <attributes />
@@ -194,13 +187,6 @@
     <node ID="1.11" type="FN">
       <attributes />
       <edge toID="0.33" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
-    </node>
-    <node ID="1.12" type="PNCT">
-      <attributes />
-      <edge toID="0.34" type="Terminal">
         <attributes />
         <category tag="Terminal" />
       </edge>

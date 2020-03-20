@@ -13,9 +13,6 @@
     <node ID="0.4" type="Word">
       <attributes paragraph="1" paragraph_position="4" text="mu&#7889;n" />
     </node>
-    <node ID="0.5" type="Word">
-      <attributes paragraph="1" paragraph_position="5" text="mu&#7889;n" />
-    </node>
     <node ID="0.8" type="Word">
       <attributes paragraph="1" paragraph_position="8" text="&#259;n chay" />
     </node>
@@ -117,10 +114,6 @@
         <attributes remote="True" />
         <category tag="A" />
       </edge>
-      <edge toID="1.12" type="R">
-        <attributes />
-        <category tag="R" />
-      </edge>
       <edge toID="1.14" type="A">
         <attributes />
         <category tag="A" />
@@ -153,13 +146,6 @@
       <edge toID="1.17" type="C">
         <attributes />
         <category tag="C" />
-      </edge>
-    </node>
-    <node ID="1.12" type="FN">
-      <attributes />
-      <edge toID="0.5" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
       </edge>
     </node>
     <node ID="1.14" type="FN">

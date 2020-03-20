@@ -10,9 +10,6 @@
     <node ID="0.4" type="Word">
       <attributes paragraph="1" paragraph_position="4" text="369/500 &#273;i&#7875;m" />
     </node>
-    <node ID="0.5" type="Word">
-      <attributes paragraph="1" paragraph_position="5" text="369/500 &#273;i&#7875;m" />
-    </node>
   </layer>
   <layer layerID="1">
     <attributes />
@@ -30,10 +27,6 @@
         <category tag="Terminal" />
       </edge>
       <edge toID="0.4" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
-      <edge toID="0.5" type="Terminal">
         <attributes />
         <category tag="Terminal" />
       </edge>

@@ -28,9 +28,6 @@
     <node ID="0.14" type="Word">
       <attributes paragraph="1" paragraph_position="14" text="Ti&#7875;u V&#432;&#417;ng qu&#7889;c &#7842; r&#7853;p Th&#7889;ng nh&#7845;t" />
     </node>
-    <node ID="0.15" type="Word">
-      <attributes paragraph="1" paragraph_position="15" text="Ti&#7875;u V&#432;&#417;ng qu&#7889;c &#7842; r&#7853;p Th&#7889;ng nh&#7845;t" />
-    </node>
     <node ID="0.16" type="Word">
       <attributes paragraph="1" paragraph_position="16" text="c&#225;c Ti&#7875;u V&#432;&#417;ng qu&#7889;c &#7842; r&#7853;p Th&#7889;ng nh&#7845;t" />
     </node>
@@ -45,9 +42,6 @@
     </node>
     <node ID="0.24" type="Word">
       <attributes paragraph="1" paragraph_position="24" text="&#7842; r&#7853;p Saudi" />
-    </node>
-    <node ID="0.25" type="Word">
-      <attributes paragraph="1" paragraph_position="25" text="&#7842; r&#7853;p Saudi" />
     </node>
     <node ID="0.27" type="Word">
       <attributes paragraph="1" paragraph_position="27" text="Algeria" />
@@ -196,10 +190,6 @@
         <attributes />
         <category tag="Terminal" />
       </edge>
-      <edge toID="0.15" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
       <edge toID="0.16" type="Terminal">
         <attributes />
         <category tag="Terminal" />
@@ -229,10 +219,6 @@
     <node ID="1.22" type="FN">
       <attributes />
       <edge toID="0.24" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
-      <edge toID="0.25" type="Terminal">
         <attributes />
         <category tag="Terminal" />
       </edge>

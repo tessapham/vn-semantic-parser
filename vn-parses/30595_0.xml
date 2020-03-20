@@ -49,9 +49,6 @@
     <node ID="0.26" type="Word">
       <attributes paragraph="1" paragraph_position="26" text="t&#259;ng" />
     </node>
-    <node ID="0.27" type="Word">
-      <attributes paragraph="1" paragraph_position="27" text="t&#259;ng" />
-    </node>
     <node ID="0.28" type="Word">
       <attributes paragraph="1" paragraph_position="28" text="trong" />
     </node>
@@ -87,9 +84,6 @@
     </node>
     <node ID="0.48" type="Word">
       <attributes paragraph="1" paragraph_position="48" text="n&#7899;i r&#7897;ng" />
-    </node>
-    <node ID="0.49" type="Word">
-      <attributes paragraph="1" paragraph_position="49" text="n&#7899;i r&#7897;ng" />
     </node>
     <node ID="0.51" type="Punctuation">
       <attributes paragraph="1" paragraph_position="51" text="." />
@@ -456,10 +450,6 @@
         <attributes />
         <category tag="Terminal" />
       </edge>
-      <edge toID="0.27" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
     </node>
     <node ID="1.53" type="FN">
       <attributes />
@@ -557,10 +547,6 @@
     <node ID="1.69" type="FN">
       <attributes />
       <edge toID="0.48" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
-      <edge toID="0.49" type="Terminal">
         <attributes />
         <category tag="Terminal" />
       </edge>

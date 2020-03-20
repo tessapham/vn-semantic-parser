@@ -13,9 +13,6 @@
     <node ID="0.3" type="Word">
       <attributes paragraph="1" paragraph_position="3" text="gia &#273;&#236;nh" />
     </node>
-    <node ID="0.5" type="Word">
-      <attributes paragraph="1" paragraph_position="5" text="&#273;ang tr&#7843;i qua" />
-    </node>
     <node ID="0.6" type="Word">
       <attributes paragraph="1" paragraph_position="6" text="&#273;ang tr&#7843;i qua" />
     </node>
@@ -117,10 +114,6 @@
         <attributes />
         <category tag="A" />
       </edge>
-      <edge toID="1.12" type="P">
-        <attributes />
-        <category tag="P" />
-      </edge>
     </node>
     <node ID="1.4" type="FN">
       <attributes />
@@ -174,13 +167,6 @@
       <edge toID="1.23" type="C">
         <attributes />
         <category tag="C" />
-      </edge>
-    </node>
-    <node ID="1.12" type="FN">
-      <attributes />
-      <edge toID="0.5" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
       </edge>
     </node>
     <node ID="1.13" type="FN">

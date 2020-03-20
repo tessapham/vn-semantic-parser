@@ -28,12 +28,6 @@
     <node ID="0.9" type="Word">
       <attributes paragraph="1" paragraph_position="9" text="&#242;a kh&#243;c" />
     </node>
-    <node ID="0.10" type="Word">
-      <attributes paragraph="1" paragraph_position="10" text="&#242;a kh&#243;c" />
-    </node>
-    <node ID="0.11" type="Word">
-      <attributes paragraph="1" paragraph_position="11" text="&#242;a kh&#243;c" />
-    </node>
     <node ID="0.13" type="Word">
       <attributes paragraph="1" paragraph_position="13" text="cho bi&#7871;t" />
     </node>
@@ -69,12 +63,6 @@
     </node>
     <node ID="0.29" type="Word">
       <attributes paragraph="1" paragraph_position="29" text="cu&#7889;n s&#225;ch" />
-    </node>
-    <node ID="0.30" type="Word">
-      <attributes paragraph="1" paragraph_position="30" text="h&#7891;i sinh" />
-    </node>
-    <node ID="0.31" type="Word">
-      <attributes paragraph="1" paragraph_position="31" text="h&#7891;i sinh" />
     </node>
     <node ID="0.32" type="Word">
       <attributes paragraph="1" paragraph_position="32" text="h&#7891;i sinh" />
@@ -216,10 +204,6 @@
         <attributes />
         <category tag="P" />
       </edge>
-      <edge toID="1.22" type="A">
-        <attributes />
-        <category tag="A" />
-      </edge>
     </node>
     <node ID="1.15" type="FN">
       <attributes />
@@ -261,10 +245,6 @@
         <attributes />
         <category tag="A" />
       </edge>
-      <edge toID="1.32" type="D">
-        <attributes />
-        <category tag="D" />
-      </edge>
       <edge toID="1.33" type="P">
         <attributes />
         <category tag="P" />
@@ -293,17 +273,6 @@
       <edge toID="0.9" type="Terminal">
         <attributes />
         <category tag="Terminal" />
-      </edge>
-    </node>
-    <node ID="1.22" type="FN">
-      <attributes />
-      <edge toID="1.36" type="R">
-        <attributes />
-        <category tag="R" />
-      </edge>
-      <edge toID="1.37" type="C">
-        <attributes />
-        <category tag="C" />
       </edge>
     </node>
     <node ID="1.24" type="FN">
@@ -367,17 +336,6 @@
         <category tag="C" />
       </edge>
     </node>
-    <node ID="1.32" type="FN">
-      <attributes />
-      <edge toID="1.46" type="C">
-        <attributes />
-        <category tag="C" />
-      </edge>
-      <edge toID="1.47" type="R">
-        <attributes />
-        <category tag="R" />
-      </edge>
-    </node>
     <node ID="1.33" type="FN">
       <attributes />
       <edge toID="0.32" type="Terminal">
@@ -388,20 +346,6 @@
     <node ID="1.35" type="PNCT">
       <attributes />
       <edge toID="0.34" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
-    </node>
-    <node ID="1.36" type="FN">
-      <attributes />
-      <edge toID="0.10" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
-    </node>
-    <node ID="1.37" type="FN">
-      <attributes />
-      <edge toID="0.11" type="Terminal">
         <attributes />
         <category tag="Terminal" />
       </edge>
@@ -444,20 +388,6 @@
     <node ID="1.45" type="FN">
       <attributes />
       <edge toID="0.29" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
-    </node>
-    <node ID="1.46" type="FN">
-      <attributes />
-      <edge toID="0.30" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
-    </node>
-    <node ID="1.47" type="FN">
-      <attributes />
-      <edge toID="0.31" type="Terminal">
         <attributes />
         <category tag="Terminal" />
       </edge>

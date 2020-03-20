@@ -7,9 +7,6 @@
     <node ID="0.1" type="Word">
       <attributes paragraph="1" paragraph_position="1" text="Kho&#7843;ng" />
     </node>
-    <node ID="0.2" type="Word">
-      <attributes paragraph="1" paragraph_position="2" text="45%" />
-    </node>
     <node ID="0.3" type="Punctuation">
       <attributes paragraph="1" paragraph_position="3" text="45%" />
     </node>
@@ -51,9 +48,6 @@
     </node>
     <node ID="0.26" type="Word">
       <attributes paragraph="1" paragraph_position="26" text="45%" />
-    </node>
-    <node ID="0.27" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="27" text="45%" />
     </node>
     <node ID="0.28" type="Punctuation">
       <attributes paragraph="1" paragraph_position="28" text="." />
@@ -115,10 +109,6 @@
         <attributes />
         <category tag="E" />
       </edge>
-      <edge toID="1.14" type="C">
-        <attributes />
-        <category tag="C" />
-      </edge>
     </node>
     <node ID="1.8" type="PNCT">
       <attributes />
@@ -144,13 +134,6 @@
     <node ID="1.13" type="FN">
       <attributes />
       <edge toID="0.1" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
-    </node>
-    <node ID="1.14" type="FN">
-      <attributes />
-      <edge toID="0.2" type="Terminal">
         <attributes />
         <category tag="Terminal" />
       </edge>
@@ -281,10 +264,6 @@
         <attributes />
         <category tag="C" />
       </edge>
-      <edge toID="1.37" type="U">
-        <attributes />
-        <category tag="U" />
-      </edge>
       <edge toID="1.38" type="U">
         <attributes />
         <category tag="U" />
@@ -307,13 +286,6 @@
     <node ID="1.36" type="FN">
       <attributes />
       <edge toID="0.26" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
-    </node>
-    <node ID="1.37" type="PNCT">
-      <attributes />
-      <edge toID="0.27" type="Terminal">
         <attributes />
         <category tag="Terminal" />
       </edge>

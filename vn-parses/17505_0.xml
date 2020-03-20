@@ -13,17 +13,11 @@
     <node ID="0.4" type="Word">
       <attributes paragraph="1" paragraph_position="4" text="d&#249;" />
     </node>
-    <node ID="0.5" type="Word">
-      <attributes paragraph="1" paragraph_position="5" text="thi&#234;n tai" />
-    </node>
     <node ID="0.6" type="Word">
       <attributes paragraph="1" paragraph_position="6" text="thi&#234;n tai" />
     </node>
     <node ID="0.8" type="Word">
       <attributes paragraph="1" paragraph_position="8" text="x&#7843;y ra" />
-    </node>
-    <node ID="0.9" type="Word">
-      <attributes paragraph="1" paragraph_position="9" text="x&#7843;y ra" />
     </node>
     <node ID="0.10" type="Word">
       <attributes paragraph="1" paragraph_position="10" text="h&#224;ng ng&#224;n" />
@@ -93,10 +87,6 @@
         <attributes />
         <category tag="E" />
       </edge>
-      <edge toID="1.8" type="E">
-        <attributes />
-        <category tag="E" />
-      </edge>
       <edge toID="1.9" type="E">
         <attributes />
         <category tag="E" />
@@ -116,13 +106,6 @@
     <node ID="1.7" type="FN">
       <attributes />
       <edge toID="0.4" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
-    </node>
-    <node ID="1.8" type="FN">
-      <attributes />
-      <edge toID="0.5" type="Terminal">
         <attributes />
         <category tag="Terminal" />
       </edge>
@@ -180,10 +163,6 @@
     </node>
     <node ID="1.15" type="FN">
       <attributes />
-      <edge toID="1.18" type="C">
-        <attributes />
-        <category tag="C" />
-      </edge>
       <edge toID="1.19" type="C">
         <attributes />
         <category tag="C" />
@@ -217,13 +196,6 @@
       <edge toID="1.25" type="A">
         <attributes />
         <category tag="A" />
-      </edge>
-    </node>
-    <node ID="1.18" type="FN">
-      <attributes />
-      <edge toID="0.9" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
       </edge>
     </node>
     <node ID="1.19" type="FN">

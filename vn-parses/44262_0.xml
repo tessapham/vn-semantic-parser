@@ -46,9 +46,6 @@
     <node ID="0.22" type="Word">
       <attributes paragraph="1" paragraph_position="22" text="thu&#7927; th&#7911;" />
     </node>
-    <node ID="0.23" type="Word">
-      <attributes paragraph="1" paragraph_position="23" text="Trung Qu&#7889;c" />
-    </node>
     <node ID="0.24" type="Word">
       <attributes paragraph="1" paragraph_position="24" text="th&#7843; tr&#244;i" />
     </node>
@@ -290,17 +287,13 @@
     </node>
     <node ID="1.32" type="FN">
       <attributes />
-      <edge toID="1.36" type="E">
+      <edge toID="1.36" type="C">
         <attributes />
-        <category tag="E" />
+        <category tag="C" />
       </edge>
       <edge toID="1.37" type="E">
         <attributes />
         <category tag="E" />
-      </edge>
-      <edge toID="1.38" type="C">
-        <attributes />
-        <category tag="C" />
       </edge>
     </node>
     <node ID="1.33" type="FN">
@@ -335,13 +328,6 @@
     <node ID="1.37" type="FN">
       <attributes />
       <edge toID="0.22" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
-    </node>
-    <node ID="1.38" type="FN">
-      <attributes />
-      <edge toID="0.23" type="Terminal">
         <attributes />
         <category tag="Terminal" />
       </edge>

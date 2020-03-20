@@ -13,9 +13,6 @@
     <node ID="0.4" type="Word">
       <attributes paragraph="1" paragraph_position="4" text="nguy&#234;n v&#7853;t li&#7879;u n&#7845;u &#259;n" />
     </node>
-    <node ID="0.5" type="Word">
-      <attributes paragraph="1" paragraph_position="5" text="nguy&#234;n v&#7853;t li&#7879;u n&#7845;u &#259;n" />
-    </node>
   </layer>
   <layer layerID="1">
     <attributes />
@@ -43,10 +40,6 @@
         <attributes />
         <category tag="E" />
       </edge>
-      <edge toID="1.5" type="C">
-        <attributes />
-        <category tag="C" />
-      </edge>
     </node>
     <node ID="1.4" type="FN">
       <attributes />
@@ -59,13 +52,6 @@
         <category tag="Terminal" />
       </edge>
       <edge toID="0.4" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
-    </node>
-    <node ID="1.5" type="FN">
-      <attributes />
-      <edge toID="0.5" type="Terminal">
         <attributes />
         <category tag="Terminal" />
       </edge>

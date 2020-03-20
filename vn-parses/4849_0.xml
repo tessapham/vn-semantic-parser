@@ -49,9 +49,6 @@
     <node ID="0.21" type="Word">
       <attributes paragraph="1" paragraph_position="21" text="Ibrahim Abubakar" />
     </node>
-    <node ID="0.22" type="Word">
-      <attributes paragraph="1" paragraph_position="22" text="Ibrahim Abubakar" />
-    </node>
     <node ID="0.24" type="Word">
       <attributes paragraph="1" paragraph_position="24" text="ng&#432;&#7901;i &#273;&#7913;ng &#273;&#7847;u" />
     </node>
@@ -190,10 +187,6 @@
         <category tag="Terminal" />
       </edge>
       <edge toID="0.21" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
-      <edge toID="0.22" type="Terminal">
         <attributes />
         <category tag="Terminal" />
       </edge>

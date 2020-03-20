@@ -19,9 +19,6 @@
     <node ID="0.11" type="Word">
       <attributes paragraph="1" paragraph_position="11" text="kh&#225;c nhau" />
     </node>
-    <node ID="0.12" type="Word">
-      <attributes paragraph="1" paragraph_position="12" text="kh&#225;c nhau" />
-    </node>
     <node ID="0.14" type="Word">
       <attributes paragraph="1" paragraph_position="14" text="&#273;i&#7873;u &#273;&#243;" />
     </node>
@@ -79,11 +76,7 @@
         <attributes />
         <category tag="A" />
       </edge>
-      <edge toID="1.11" type="D">
-        <attributes />
-        <category tag="D" />
-      </edge>
-      <edge toID="1.12" type="S">
+      <edge toID="1.11" type="S">
         <attributes />
         <category tag="S" />
       </edge>
@@ -132,13 +125,6 @@
     <node ID="1.11" type="FN">
       <attributes />
       <edge toID="0.11" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
-    </node>
-    <node ID="1.12" type="FN">
-      <attributes />
-      <edge toID="0.12" type="Terminal">
         <attributes />
         <category tag="Terminal" />
       </edge>

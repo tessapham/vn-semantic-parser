@@ -46,9 +46,6 @@
     <node ID="0.20" type="Word">
       <attributes paragraph="1" paragraph_position="20" text="l&#7855;ng nghe" />
     </node>
-    <node ID="0.23" type="Word">
-      <attributes paragraph="1" paragraph_position="23" text="chuy&#234;n gia" />
-    </node>
     <node ID="0.24" type="Word">
       <attributes paragraph="1" paragraph_position="24" text="v&#224;" />
     </node>
@@ -273,10 +270,6 @@
     </node>
     <node ID="1.31" type="FN">
       <attributes />
-      <edge toID="1.32" type="C">
-        <attributes />
-        <category tag="C" />
-      </edge>
       <edge toID="1.33" type="N">
         <attributes />
         <category tag="N" />
@@ -288,13 +281,6 @@
       <edge toID="1.35" type="U">
         <attributes />
         <category tag="U" />
-      </edge>
-    </node>
-    <node ID="1.32" type="FN">
-      <attributes />
-      <edge toID="0.23" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
       </edge>
     </node>
     <node ID="1.33" type="FN">

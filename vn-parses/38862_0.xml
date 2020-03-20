@@ -28,17 +28,11 @@
     <node ID="0.25" type="Word">
       <attributes paragraph="1" paragraph_position="25" text="Colin Gillis" />
     </node>
-    <node ID="0.26" type="Word">
-      <attributes paragraph="1" paragraph_position="26" text="Colin Gillis" />
-    </node>
     <node ID="0.27" type="Word">
       <attributes paragraph="1" paragraph_position="27" text="&#7903;" />
     </node>
     <node ID="0.28" type="Word">
       <attributes paragraph="1" paragraph_position="28" text="BGC Financial" />
-    </node>
-    <node ID="0.29" type="Word">
-      <attributes paragraph="1" paragraph_position="29" text="BGC Financial" />
     </node>
     <node ID="0.30" type="Punctuation">
       <attributes paragraph="1" paragraph_position="30" text="." />
@@ -134,10 +128,6 @@
         <attributes />
         <category tag="Terminal" />
       </edge>
-      <edge toID="0.26" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
     </node>
     <node ID="1.12" type="FN">
       <attributes />
@@ -203,10 +193,6 @@
     <node ID="1.27" type="FN">
       <attributes />
       <edge toID="0.28" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
-      <edge toID="0.29" type="Terminal">
         <attributes />
         <category tag="Terminal" />
       </edge>

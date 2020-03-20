@@ -7,9 +7,6 @@
     <node ID="0.1" type="Word">
       <attributes paragraph="1" paragraph_position="1" text="Song song v&#7899;i" />
     </node>
-    <node ID="0.2" type="Word">
-      <attributes paragraph="1" paragraph_position="2" text="Song song v&#7899;i" />
-    </node>
     <node ID="0.6" type="Word">
       <attributes paragraph="1" paragraph_position="6" text="c&#225;c tr&#432;&#7901;ng &#273;&#7841;i h&#7885;c" />
     </node>
@@ -71,11 +68,7 @@
     </node>
     <node ID="1.2" type="FN">
       <attributes />
-      <edge toID="1.5" type="R">
-        <attributes />
-        <category tag="R" />
-      </edge>
-      <edge toID="1.6" type="C">
+      <edge toID="1.5" type="C">
         <attributes />
         <category tag="C" />
       </edge>
@@ -110,13 +103,6 @@
     <node ID="1.5" type="FN">
       <attributes />
       <edge toID="0.1" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
-    </node>
-    <node ID="1.6" type="FN">
-      <attributes />
-      <edge toID="0.2" type="Terminal">
         <attributes />
         <category tag="Terminal" />
       </edge>

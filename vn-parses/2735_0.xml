@@ -100,9 +100,6 @@
     <node ID="0.55" type="Word">
       <attributes paragraph="1" paragraph_position="55" text="Hoa K&#7923;" />
     </node>
-    <node ID="0.56" type="Word">
-      <attributes paragraph="1" paragraph_position="56" text="Hoa K&#7923;" />
-    </node>
     <node ID="0.57" type="Word">
       <attributes paragraph="1" paragraph_position="57" text="v&#224;" />
     </node>
@@ -651,10 +648,6 @@
     <node ID="1.80" type="FN">
       <attributes />
       <edge toID="0.55" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
-      <edge toID="0.56" type="Terminal">
         <attributes />
         <category tag="Terminal" />
       </edge>

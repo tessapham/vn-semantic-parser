@@ -67,9 +67,6 @@
     <node ID="0.32" type="Word">
       <attributes paragraph="1" paragraph_position="32" text="Th&#7871; Chi&#7871;n" />
     </node>
-    <node ID="0.33" type="Word">
-      <attributes paragraph="1" paragraph_position="33" text="Th&#7871; Chi&#7871;n" />
-    </node>
   </layer>
   <layer layerID="1">
     <attributes />
@@ -349,10 +346,6 @@
         <category tag="Terminal" />
       </edge>
       <edge toID="0.32" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
-      <edge toID="0.33" type="Terminal">
         <attributes />
         <category tag="Terminal" />
       </edge>

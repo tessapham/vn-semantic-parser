@@ -22,9 +22,6 @@
     <node ID="0.8" type="Word">
       <attributes paragraph="1" paragraph_position="8" text="xem x&#233;t" />
     </node>
-    <node ID="0.9" type="Word">
-      <attributes paragraph="1" paragraph_position="9" text="xem x&#233;t" />
-    </node>
   </layer>
   <layer layerID="1">
     <attributes />
@@ -92,17 +89,6 @@
       <edge toID="1.4" type="C">
         <attributes remote="True" />
         <category tag="C" />
-      </edge>
-      <edge toID="1.8" type="R">
-        <attributes />
-        <category tag="R" />
-      </edge>
-    </node>
-    <node ID="1.8" type="FN">
-      <attributes />
-      <edge toID="0.9" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
       </edge>
     </node>
   </layer>

@@ -37,9 +37,6 @@
     <node ID="0.13" type="Word">
       <attributes paragraph="1" paragraph_position="13" text="ng&#432;&#7901;i l&#7899;n" />
     </node>
-    <node ID="0.14" type="Word">
-      <attributes paragraph="1" paragraph_position="14" text="ng&#432;&#7901;i l&#7899;n" />
-    </node>
     <node ID="0.16" type="Word">
       <attributes paragraph="1" paragraph_position="16" text="c&#243; th&#7875;" />
     </node>
@@ -51,12 +48,6 @@
     </node>
     <node ID="0.20" type="Word">
       <attributes paragraph="1" paragraph_position="20" text="ch&#225;n &#259;n" />
-    </node>
-    <node ID="0.21" type="Word">
-      <attributes paragraph="1" paragraph_position="21" text="ch&#225;n &#259;n" />
-    </node>
-    <node ID="0.22" type="Word">
-      <attributes paragraph="1" paragraph_position="22" text="ch&#225;n &#259;n" />
     </node>
     <node ID="0.24" type="Word">
       <attributes paragraph="1" paragraph_position="24" text="nh&#7865;" />
@@ -120,9 +111,6 @@
     </node>
     <node ID="0.53" type="Word">
       <attributes paragraph="1" paragraph_position="53" text="tr&#7867;" />
-    </node>
-    <node ID="0.54" type="Word">
-      <attributes paragraph="1" paragraph_position="54" text="ph&#7909; n&#7919;" />
     </node>
     <node ID="0.55" type="Word">
       <attributes paragraph="1" paragraph_position="55" text="ph&#7909; n&#7919;" />
@@ -261,10 +249,6 @@
         <attributes />
         <category tag="E" />
       </edge>
-      <edge toID="1.35" type="C">
-        <attributes />
-        <category tag="C" />
-      </edge>
     </node>
     <node ID="1.13" type="FN">
       <attributes />
@@ -333,10 +317,6 @@
     </node>
     <node ID="1.23" type="FN">
       <attributes />
-      <edge toID="1.43" type="R">
-        <attributes />
-        <category tag="R" />
-      </edge>
       <edge toID="1.44" type="C">
         <attributes />
         <category tag="C" />
@@ -431,13 +411,6 @@
         <category tag="Terminal" />
       </edge>
     </node>
-    <node ID="1.35" type="FN">
-      <attributes />
-      <edge toID="0.54" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
-    </node>
     <node ID="1.36" type="FN">
       <attributes />
       <edge toID="0.1" type="Terminal">
@@ -503,19 +476,8 @@
         <category tag="Terminal" />
       </edge>
     </node>
-    <node ID="1.43" type="FN">
-      <attributes />
-      <edge toID="0.21" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
-    </node>
     <node ID="1.44" type="FN">
       <attributes />
-      <edge toID="1.59" type="C">
-        <attributes />
-        <category tag="C" />
-      </edge>
       <edge toID="1.61" type="C">
         <attributes />
         <category tag="C" />
@@ -616,16 +578,9 @@
         <attributes />
         <category tag="N" />
       </edge>
-      <edge toID="1.68" type="C">
+      <edge toID="1.75" type="C">
         <attributes />
         <category tag="C" />
-      </edge>
-    </node>
-    <node ID="1.59" type="FN">
-      <attributes />
-      <edge toID="0.22" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
       </edge>
     </node>
     <node ID="1.61" type="FN">
@@ -674,17 +629,6 @@
         <category tag="Terminal" />
       </edge>
     </node>
-    <node ID="1.68" type="FN">
-      <attributes />
-      <edge toID="1.75" type="E">
-        <attributes />
-        <category tag="E" />
-      </edge>
-      <edge toID="1.76" type="C">
-        <attributes />
-        <category tag="C" />
-      </edge>
-    </node>
     <node ID="1.69" type="FN">
       <attributes />
       <edge toID="0.24" type="Terminal">
@@ -720,13 +664,6 @@
     <node ID="1.75" type="FN">
       <attributes />
       <edge toID="0.13" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
-    </node>
-    <node ID="1.76" type="FN">
-      <attributes />
-      <edge toID="0.14" type="Terminal">
         <attributes />
         <category tag="Terminal" />
       </edge>

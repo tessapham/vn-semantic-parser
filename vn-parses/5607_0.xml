@@ -118,12 +118,6 @@
     <node ID="0.54" type="Word">
       <attributes paragraph="1" paragraph_position="54" text="Liliane Landor" />
     </node>
-    <node ID="0.55" type="Word">
-      <attributes paragraph="1" paragraph_position="55" text="Liliane Landor" />
-    </node>
-    <node ID="0.56" type="Word">
-      <attributes paragraph="1" paragraph_position="56" text="Liliane Landor" />
-    </node>
     <node ID="0.59" type="Word">
       <attributes paragraph="1" paragraph_position="59" text="Gi&#225;m &#273;&#7889;c" />
     </node>
@@ -415,11 +409,7 @@
     </node>
     <node ID="1.30" type="FN">
       <attributes />
-      <edge toID="1.58" type="R">
-        <attributes />
-        <category tag="R" />
-      </edge>
-      <edge toID="1.59" type="C">
+      <edge toID="1.58" type="C">
         <attributes />
         <category tag="C" />
       </edge>
@@ -613,17 +603,6 @@
     <node ID="1.58" type="FN">
       <attributes />
       <edge toID="0.54" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
-    </node>
-    <node ID="1.59" type="FN">
-      <attributes />
-      <edge toID="0.55" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
-      <edge toID="0.56" type="Terminal">
         <attributes />
         <category tag="Terminal" />
       </edge>

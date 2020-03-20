@@ -82,9 +82,6 @@
     <node ID="0.29" type="Word">
       <attributes paragraph="1" paragraph_position="29" text="&#273;i&#7879;n to&#225;n &#273;&#225;m m&#226;y" />
     </node>
-    <node ID="0.30" type="Word">
-      <attributes paragraph="1" paragraph_position="30" text="&#273;i&#7879;n to&#225;n &#273;&#225;m m&#226;y" />
-    </node>
     <node ID="0.33" type="Word">
       <attributes paragraph="1" paragraph_position="33" text="Schuckenbrock" />
     </node>
@@ -459,11 +456,7 @@
         <attributes />
         <category tag="E" />
       </edge>
-      <edge toID="1.45" type="E">
-        <attributes />
-        <category tag="E" />
-      </edge>
-      <edge toID="1.46" type="C">
+      <edge toID="1.45" type="C">
         <attributes />
         <category tag="C" />
       </edge>
@@ -493,13 +486,6 @@
     <node ID="1.45" type="FN">
       <attributes />
       <edge toID="0.29" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
-    </node>
-    <node ID="1.46" type="FN">
-      <attributes />
-      <edge toID="0.30" type="Terminal">
         <attributes />
         <category tag="Terminal" />
       </edge>

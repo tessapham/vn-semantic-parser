@@ -58,9 +58,6 @@
     <node ID="0.32" type="Word">
       <attributes paragraph="1" paragraph_position="32" text="Colin Ellis" />
     </node>
-    <node ID="0.33" type="Word">
-      <attributes paragraph="1" paragraph_position="33" text="Colin Ellis" />
-    </node>
     <node ID="0.35" type="Word">
       <attributes paragraph="1" paragraph_position="35" text="h&#224;ng &#273;&#7847;u" />
     </node>
@@ -87,12 +84,6 @@
     </node>
     <node ID="0.43" type="Word">
       <attributes paragraph="1" paragraph_position="43" text="Venture Capital Association" />
-    </node>
-    <node ID="0.44" type="Word">
-      <attributes paragraph="1" paragraph_position="44" text="Venture Capital Association" />
-    </node>
-    <node ID="0.45" type="Word">
-      <attributes paragraph="1" paragraph_position="45" text="Venture Capital Association" />
     </node>
     <node ID="0.46" type="Punctuation">
       <attributes paragraph="1" paragraph_position="46" text="." />
@@ -368,10 +359,6 @@
         <attributes />
         <category tag="Terminal" />
       </edge>
-      <edge toID="0.33" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
     </node>
     <node ID="1.40" type="FN">
       <attributes />
@@ -513,14 +500,6 @@
     <node ID="1.58" type="FN">
       <attributes />
       <edge toID="0.43" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
-      <edge toID="0.44" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
-      <edge toID="0.45" type="Terminal">
         <attributes />
         <category tag="Terminal" />
       </edge>

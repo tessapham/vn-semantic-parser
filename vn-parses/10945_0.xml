@@ -70,9 +70,6 @@
     <node ID="0.27" type="Word">
       <attributes paragraph="1" paragraph_position="27" text="ho&#7863;c" />
     </node>
-    <node ID="0.28" type="Word">
-      <attributes paragraph="1" paragraph_position="28" text="kh&#244;ng b&#7883; ch&#7881;nh s&#7917;a c&#224;i th&#234;m" />
-    </node>
     <node ID="0.30" type="Word">
       <attributes paragraph="1" paragraph_position="30" text="bloatware" />
     </node>
@@ -253,10 +250,6 @@
     </node>
     <node ID="1.20" type="FN">
       <attributes />
-      <edge toID="1.27" type="P">
-        <attributes />
-        <category tag="P" />
-      </edge>
       <edge toID="1.28" type="A">
         <attributes />
         <category tag="A" />
@@ -303,13 +296,6 @@
       <edge toID="1.31" type="C">
         <attributes />
         <category tag="C" />
-      </edge>
-    </node>
-    <node ID="1.27" type="FN">
-      <attributes />
-      <edge toID="0.28" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
       </edge>
     </node>
     <node ID="1.28" type="FN">

@@ -13,12 +13,6 @@
     <node ID="0.3" type="Word">
       <attributes paragraph="1" paragraph_position="3" text="B&#7897; tr&#432;&#7903;ng" />
     </node>
-    <node ID="0.4" type="Word">
-      <attributes paragraph="1" paragraph_position="4" text="Robert Gates" />
-    </node>
-    <node ID="0.5" type="Word">
-      <attributes paragraph="1" paragraph_position="5" text="Robert Gates" />
-    </node>
     <node ID="0.6" type="Word">
       <attributes paragraph="1" paragraph_position="6" text="g&#7847;n &#273;&#226;y" />
     </node>
@@ -61,14 +55,8 @@
     <node ID="0.26" type="Word">
       <attributes paragraph="1" paragraph_position="26" text="Hoa K&#7923;" />
     </node>
-    <node ID="0.27" type="Word">
-      <attributes paragraph="1" paragraph_position="27" text="Hoa K&#7923;" />
-    </node>
     <node ID="0.28" type="Word">
       <attributes paragraph="1" paragraph_position="28" text="kh&#244;ng" />
-    </node>
-    <node ID="0.29" type="Word">
-      <attributes paragraph="1" paragraph_position="29" text="kh&#244;ng" />
     </node>
     <node ID="0.30" type="Word">
       <attributes paragraph="1" paragraph_position="30" text="&#273;&#7913;ng v&#7873;" />
@@ -298,11 +286,7 @@
         <attributes />
         <category tag="A" />
       </edge>
-      <edge toID="1.31" type="F">
-        <attributes />
-        <category tag="F" />
-      </edge>
-      <edge toID="1.32" type="D">
+      <edge toID="1.31" type="D">
         <attributes />
         <category tag="D" />
       </edge>
@@ -343,21 +327,10 @@
         <attributes />
         <category tag="Terminal" />
       </edge>
-      <edge toID="0.27" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
     </node>
     <node ID="1.31" type="FN">
       <attributes />
       <edge toID="0.28" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
-    </node>
-    <node ID="1.32" type="FN">
-      <attributes />
-      <edge toID="0.29" type="Terminal">
         <attributes />
         <category tag="Terminal" />
       </edge>

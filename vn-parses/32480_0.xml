@@ -76,9 +76,6 @@
     <node ID="0.38" type="Word">
       <attributes paragraph="1" paragraph_position="38" text="mong mu&#7889;n" />
     </node>
-    <node ID="0.39" type="Word">
-      <attributes paragraph="1" paragraph_position="39" text="mong mu&#7889;n" />
-    </node>
     <node ID="0.40" type="Punctuation">
       <attributes paragraph="1" paragraph_position="40" text="." />
     </node>
@@ -407,10 +404,6 @@
     </node>
     <node ID="1.41" type="FN">
       <attributes />
-      <edge toID="1.52" type="R">
-        <attributes />
-        <category tag="R" />
-      </edge>
       <edge toID="1.53" type="U">
         <attributes />
         <category tag="U" />
@@ -454,13 +447,6 @@
     <node ID="1.49" type="FN">
       <attributes />
       <edge toID="0.28" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
-    </node>
-    <node ID="1.52" type="FN">
-      <attributes />
-      <edge toID="0.39" type="Terminal">
         <attributes />
         <category tag="Terminal" />
       </edge>

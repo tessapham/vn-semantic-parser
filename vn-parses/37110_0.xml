@@ -67,20 +67,8 @@
     <node ID="0.29" type="Word">
       <attributes paragraph="1" paragraph_position="29" text="Phil Poole" />
     </node>
-    <node ID="0.30" type="Word">
-      <attributes paragraph="1" paragraph_position="30" text="Phil Poole" />
-    </node>
     <node ID="0.32" type="Word">
       <attributes paragraph="1" paragraph_position="32" text="Qu&#7929; Qu&#7843;n l&#253; T&#224;i s&#7843;n To&#224;n c&#7847;u HSBC n&#243;i ." />
-    </node>
-    <node ID="0.33" type="Word">
-      <attributes paragraph="1" paragraph_position="33" text="Qu&#7929; Qu&#7843;n l&#253; T&#224;i s&#7843;n To&#224;n c&#7847;u HSBC n&#243;i ." />
-    </node>
-    <node ID="0.34" type="Word">
-      <attributes paragraph="1" paragraph_position="34" text="Qu&#7929; Qu&#7843;n l&#253; T&#224;i s&#7843;n To&#224;n c&#7847;u HSBC n&#243;i ." />
-    </node>
-    <node ID="0.35" type="Word">
-      <attributes paragraph="1" paragraph_position="35" text="Qu&#7929; Qu&#7843;n l&#253; T&#224;i s&#7843;n To&#224;n c&#7847;u HSBC n&#243;i ." />
     </node>
     <node ID="0.36" type="Punctuation">
       <attributes paragraph="1" paragraph_position="36" text="." />
@@ -164,22 +152,10 @@
         <attributes />
         <category tag="Terminal" />
       </edge>
-      <edge toID="0.30" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
     </node>
     <node ID="1.12" type="FN">
       <attributes />
-      <edge toID="1.18" type="E">
-        <attributes />
-        <category tag="E" />
-      </edge>
-      <edge toID="1.19" type="E">
-        <attributes />
-        <category tag="E" />
-      </edge>
-      <edge toID="1.20" type="C">
+      <edge toID="1.18" type="C">
         <attributes />
         <category tag="C" />
       </edge>
@@ -227,24 +203,6 @@
     <node ID="1.18" type="FN">
       <attributes />
       <edge toID="0.32" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
-      <edge toID="0.33" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
-    </node>
-    <node ID="1.19" type="FN">
-      <attributes />
-      <edge toID="0.34" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
-    </node>
-    <node ID="1.20" type="FN">
-      <attributes />
-      <edge toID="0.35" type="Terminal">
         <attributes />
         <category tag="Terminal" />
       </edge>

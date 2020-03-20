@@ -22,14 +22,8 @@
     <node ID="0.9" type="Word">
       <attributes paragraph="1" paragraph_position="9" text="bia" />
     </node>
-    <node ID="0.10" type="Word">
-      <attributes paragraph="1" paragraph_position="10" text="h&#7885;" />
-    </node>
     <node ID="0.11" type="Word">
       <attributes paragraph="1" paragraph_position="11" text="h&#7885;" />
-    </node>
-    <node ID="0.12" type="Word">
-      <attributes paragraph="1" paragraph_position="12" text="h&#7885;" />
     </node>
     <node ID="0.13" type="Word">
       <attributes paragraph="1" paragraph_position="13" text="c&#243; th&#7875;" />
@@ -74,10 +68,6 @@
         <attributes />
         <category tag="H" />
       </edge>
-      <edge toID="1.5" type="H">
-        <attributes />
-        <category tag="H" />
-      </edge>
       <edge toID="1.6" type="L">
         <attributes />
         <category tag="L" />
@@ -113,13 +103,6 @@
         <category tag="A" />
       </edge>
     </node>
-    <node ID="1.5" type="FN">
-      <attributes />
-      <edge toID="1.12" type="A">
-        <attributes />
-        <category tag="A" />
-      </edge>
-    </node>
     <node ID="1.6" type="FN">
       <attributes />
       <edge toID="0.11" type="Terminal">
@@ -129,10 +112,6 @@
     </node>
     <node ID="1.7" type="FN">
       <attributes />
-      <edge toID="1.13" type="A">
-        <attributes />
-        <category tag="A" />
-      </edge>
       <edge toID="1.14" type="P">
         <attributes />
         <category tag="P" />
@@ -180,20 +159,6 @@
       <edge toID="1.25" type="C">
         <attributes />
         <category tag="C" />
-      </edge>
-    </node>
-    <node ID="1.12" type="FN">
-      <attributes />
-      <edge toID="0.10" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
-    </node>
-    <node ID="1.13" type="FN">
-      <attributes />
-      <edge toID="0.12" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
       </edge>
     </node>
     <node ID="1.14" type="FN">

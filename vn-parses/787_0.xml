@@ -13,9 +13,6 @@
     <node ID="0.4" type="Word">
       <attributes paragraph="1" paragraph_position="4" text="Chi&#7871;n d&#7883;ch s&#243;i sa m&#7841;c" />
     </node>
-    <node ID="0.5" type="Word">
-      <attributes paragraph="1" paragraph_position="5" text="Chi&#7871;n d&#7883;ch s&#243;i sa m&#7841;c" />
-    </node>
   </layer>
   <layer layerID="1">
     <attributes />
@@ -58,10 +55,6 @@
     <node ID="1.6" type="FN">
       <attributes />
       <edge toID="0.4" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
-      <edge toID="0.5" type="Terminal">
         <attributes />
         <category tag="Terminal" />
       </edge>

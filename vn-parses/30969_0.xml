@@ -31,9 +31,6 @@
     <node ID="0.16" type="Word">
       <attributes paragraph="1" paragraph_position="16" text="o&#224; kh&#243;c" />
     </node>
-    <node ID="0.17" type="Word">
-      <attributes paragraph="1" paragraph_position="17" text="o&#224; kh&#243;c" />
-    </node>
     <node ID="0.19" type="Word">
       <attributes paragraph="1" paragraph_position="19" text="n&#7913;c n&#7903;" />
     </node>
@@ -63,12 +60,6 @@
     </node>
     <node ID="0.31" type="Word">
       <attributes paragraph="1" paragraph_position="31" text="ch&#7891;ng m&#236;nh" />
-    </node>
-    <node ID="0.32" type="Word">
-      <attributes paragraph="1" paragraph_position="32" text="ch&#7891;ng m&#236;nh" />
-    </node>
-    <node ID="0.33" type="Word">
-      <attributes paragraph="1" paragraph_position="33" text="ch&#7891;ng m&#236;nh" />
     </node>
     <node ID="0.34" type="Word">
       <attributes paragraph="1" paragraph_position="34" text="v&#7907; ch&#7891;ng m&#236;nh" />
@@ -355,10 +346,6 @@
     <node ID="1.24" type="FN">
       <attributes />
       <edge toID="0.16" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
-      <edge toID="0.17" type="Terminal">
         <attributes />
         <category tag="Terminal" />
       </edge>
@@ -706,10 +693,6 @@
         <attributes />
         <category tag="C" />
       </edge>
-      <edge toID="1.73" type="N">
-        <attributes />
-        <category tag="N" />
-      </edge>
       <edge toID="1.74" type="C">
         <attributes />
         <category tag="C" />
@@ -722,29 +705,11 @@
         <category tag="Terminal" />
       </edge>
     </node>
-    <node ID="1.73" type="FN">
-      <attributes />
-      <edge toID="0.32" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
-    </node>
     <node ID="1.74" type="FN">
       <attributes />
-      <edge toID="1.75" type="E">
-        <attributes />
-        <category tag="E" />
-      </edge>
       <edge toID="1.76" type="C">
         <attributes />
         <category tag="C" />
-      </edge>
-    </node>
-    <node ID="1.75" type="FN">
-      <attributes />
-      <edge toID="0.33" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
       </edge>
     </node>
     <node ID="1.76" type="FN">

@@ -97,12 +97,6 @@
     <node ID="0.53" type="Word">
       <attributes paragraph="1" paragraph_position="53" text="B&#7897; Ngo&#7841;i giao" />
     </node>
-    <node ID="0.54" type="Word">
-      <attributes paragraph="1" paragraph_position="54" text="B&#7897; Ngo&#7841;i giao" />
-    </node>
-    <node ID="0.55" type="Word">
-      <attributes paragraph="1" paragraph_position="55" text="B&#7897; Ngo&#7841;i giao" />
-    </node>
     <node ID="0.56" type="Punctuation">
       <attributes paragraph="1" paragraph_position="56" text="." />
     </node>
@@ -318,14 +312,6 @@
     </node>
     <node ID="1.31" type="FN">
       <attributes />
-      <edge toID="1.38" type="R">
-        <attributes />
-        <category tag="R" />
-      </edge>
-      <edge toID="1.39" type="C">
-        <attributes />
-        <category tag="C" />
-      </edge>
       <edge toID="1.40" type="U">
         <attributes />
         <category tag="U" />
@@ -388,20 +374,6 @@
       <edge toID="1.48" type="A">
         <attributes />
         <category tag="A" />
-      </edge>
-    </node>
-    <node ID="1.38" type="FN">
-      <attributes />
-      <edge toID="0.54" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
-    </node>
-    <node ID="1.39" type="FN">
-      <attributes />
-      <edge toID="0.55" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
       </edge>
     </node>
     <node ID="1.40" type="PNCT">

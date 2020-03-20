@@ -67,9 +67,6 @@
     <node ID="0.34" type="Word">
       <attributes paragraph="1" paragraph_position="34" text="bao quy &#273;&#7847;u" />
     </node>
-    <node ID="0.35" type="Word">
-      <attributes paragraph="1" paragraph_position="35" text="bao quy &#273;&#7847;u" />
-    </node>
     <node ID="0.37" type="Word">
       <attributes paragraph="1" paragraph_position="37" text="hay" />
     </node>
@@ -412,11 +409,7 @@
         <attributes />
         <category tag="R" />
       </edge>
-      <edge toID="1.55" type="E">
-        <attributes />
-        <category tag="E" />
-      </edge>
-      <edge toID="1.56" type="C">
+      <edge toID="1.55" type="C">
         <attributes />
         <category tag="C" />
       </edge>
@@ -473,13 +466,6 @@
     <node ID="1.55" type="FN">
       <attributes />
       <edge toID="0.34" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
-    </node>
-    <node ID="1.56" type="FN">
-      <attributes />
-      <edge toID="0.35" type="Terminal">
         <attributes />
         <category tag="Terminal" />
       </edge>

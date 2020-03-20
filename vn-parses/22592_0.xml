@@ -49,9 +49,6 @@
     <node ID="0.27" type="Word">
       <attributes paragraph="1" paragraph_position="27" text="&#272;&#7889;i ngo&#7841;i" />
     </node>
-    <node ID="0.28" type="Word">
-      <attributes paragraph="1" paragraph_position="28" text="&#272;&#7889;i ngo&#7841;i" />
-    </node>
     <node ID="0.29" type="Word">
       <attributes paragraph="1" paragraph_position="29" text="&#7910;y ban" />
     </node>
@@ -131,10 +128,6 @@
     <node ID="1.8" type="FN">
       <attributes />
       <edge toID="1.22" type="E">
-        <attributes />
-        <category tag="E" />
-      </edge>
-      <edge toID="1.23" type="E">
         <attributes />
         <category tag="E" />
       </edge>
@@ -222,13 +215,6 @@
         <category tag="Terminal" />
       </edge>
       <edge toID="0.27" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
-    </node>
-    <node ID="1.23" type="FN">
-      <attributes />
-      <edge toID="0.28" type="Terminal">
         <attributes />
         <category tag="Terminal" />
       </edge>

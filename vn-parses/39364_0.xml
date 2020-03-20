@@ -52,9 +52,6 @@
     <node ID="0.30" type="Word">
       <attributes paragraph="1" paragraph_position="30" text="Leon Hoffman &#7903;" />
     </node>
-    <node ID="0.31" type="Word">
-      <attributes paragraph="1" paragraph_position="31" text="Leon Hoffman &#7903;" />
-    </node>
   </layer>
   <layer layerID="1">
     <attributes />
@@ -303,10 +300,6 @@
     <node ID="1.40" type="FN">
       <attributes />
       <edge toID="0.30" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
-      <edge toID="0.31" type="Terminal">
         <attributes />
         <category tag="Terminal" />
       </edge>

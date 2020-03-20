@@ -55,9 +55,6 @@
     <node ID="0.23" type="Word">
       <attributes paragraph="1" paragraph_position="23" text="nhau" />
     </node>
-    <node ID="0.24" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="24" text="nhau" />
-    </node>
   </layer>
   <layer layerID="1">
     <attributes />
@@ -232,10 +229,6 @@
         <attributes />
         <category tag="C" />
       </edge>
-      <edge toID="1.30" type="U">
-        <attributes />
-        <category tag="U" />
-      </edge>
     </node>
     <node ID="1.23" type="FN">
       <attributes />
@@ -286,13 +279,6 @@
         <category tag="Terminal" />
       </edge>
       <edge toID="0.23" type="Terminal">
-        <attributes />
-        <category tag="Terminal" />
-      </edge>
-    </node>
-    <node ID="1.30" type="PNCT">
-      <attributes />
-      <edge toID="0.24" type="Terminal">
         <attributes />
         <category tag="Terminal" />
       </edge>
